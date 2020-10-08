@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'Fran SimÃ³'
-SITENAME = 'Fran SimÃ³ - new art and photography'
+AUTHOR = 'Fran Simó'
+SITENAME = 'Fran Simó - new art and photography'
 SITEURL = ''
 
 PATH = 'content'
