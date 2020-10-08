@@ -1,3 +1,9 @@
+Title: Statement
+Date: 2015-11-29 10:03
+Modified: 2019-05-21 08:17
+Slug: statement
+Lang: en
+
 As an artist in the [new media art](https://en.wikipedia.org/wiki/New_media_art) environment I explore the relationship between man and technology, paying special attention to the multidisciplinary area of artificial intelligence and its application (in that which has to do with our sense of consciousness and life), to the possibilities of open source/hardware, open data banks or the information that any user shares by mistake.
 
 In turn, I work with [intuitive photography](http://fransimo.info/en/blog/2009/01/01/fotografia-intuitiva/). This [drifting](http://fransimo.info/en/blog/2015/03/15/traces-personal-drifts/) helps me capture the essence of spaces, places or situations using the city as an enormous plateau. I photograph anonymous people, urban details or insignificant spaces in order to transport them into a different space/time with the intention to create new stories. This way, (frozen) time and (georeferenced) space turn into key aspects of my photographs that I continually save to create a time capsule. My images occupy ludic terrain, often captured in a meditative state that is articulated as a game of exploring the subconscious.
