@@ -1,3 +1,8 @@
+Title: S’Arenal Summertime 2016
+Date: 2017-04-02
+Slug: sarenal-summertime-2016
+Lang: en
+
 2016-2017  
 Magazine, 36 pages, 22×28 cm (Letter format)
 
