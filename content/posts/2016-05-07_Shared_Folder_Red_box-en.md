@@ -31,21 +31,11 @@ In 2015 I started to systemically search images in the ed2k network.
 
 _Shared folder_ shows what I’ve discovered.
 
-'''
-Testing
-https://github.com/leepenney/markdown-gallery
-'''
-
-<script src="https://raw.githubusercontent.com/leepenney/markdown-gallery/master/md-gallery.js">
-
-<script>
-    md_gallery();
-</script>
-
 - ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3150.jpg)
 - ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3144.jpg)
 - ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3145.jpg)
 - ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3147.jpg)
+
 
 
 # Technical data
@@ -99,3 +89,15 @@ Full content
 <iframe width="910" height="644" src="//e.issuu.com/embed.html#2922899/35322701" frameborder="0" allowfullscreen></iframe>
 
 [PDF Download](http://fransimo.info/wp-content/uploads/2016/05/Shared_folder_with_photos_and_scan.pdf)
+
+
+```
+Testing
+https://github.com/leepenney/markdown-gallery
+```
+
+<script src="https://raw.githubusercontent.com/leepenney/markdown-gallery/master/md-gallery.js">
+
+<script>
+    md_gallery();
+</script>
