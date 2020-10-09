@@ -31,10 +31,10 @@ In 2015 I started to systemically search images in the ed2k network.
 
 _Shared folder_ shows what I’ve discovered.
 
-´´´ 
+'''
 Testing
 https://github.com/leepenney/markdown-gallery
-´´´
+'''
 
 <script src="https://raw.githubusercontent.com/leepenney/markdown-gallery/master/md-gallery.js">
 
