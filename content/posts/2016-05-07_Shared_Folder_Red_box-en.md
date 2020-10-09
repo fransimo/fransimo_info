@@ -19,7 +19,7 @@ But the original found photography was about photos that were never intended to 
 
 I asked myself: Where can I find these images? Where are the digital images that were never intended to be shown? Should I buy obsolete hard drives at flea markets? Should I maliciously hack online computers?
 
-![DSCF3142](http://fransimo.info/wp-content/uploads/2016/05/DSCF3142.jpg)
+![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3142.jpg)
 
 Then I remembered the old-school sharing protocol: eDonkey with its primitive clients.
 
@@ -32,7 +32,13 @@ In 2015 I started to systemically search images in the ed2k network.
 _Shared folder_ shows what I’ve discovered.
 
  
-![DSCF3150](http://fransimo.info/wp-content/uploads/2016/05/DSCF3150.jpg "DSCF3150")
+![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3150.jpg)
+![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3144.jpg)
+![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3145.jpg)
+![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3147.jpg)
+
+
+# Technical data
 
 The book
 --------
@@ -75,7 +81,10 @@ The library contains 17934 images after having deleted pedophilic images, which 
 4469 images have camera serial number (3747 are JPG and 722 RAW)  
 2405 image have GPS data.
 
-![DSCF3152](http://fransimo.info/wp-content/uploads/2016/05/DSCF3152.jpg)
+![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3152.jpg)
+
+Full content
+------------
 
 <iframe width="910" height="644" src="//e.issuu.com/embed.html#2922899/35322701" frameborder="0" allowfullscreen></iframe>
 
