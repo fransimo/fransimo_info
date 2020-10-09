@@ -42,10 +42,10 @@ https://github.com/leepenney/markdown-gallery
     md_gallery();
 </script>
 
-* ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3150.jpg)
-* ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3144.jpg)
-* ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3145.jpg)
-* ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3147.jpg)
+- ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3150.jpg)
+- ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3144.jpg)
+- ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3145.jpg)
+- ![](http://fransimo.info/wp-content/uploads/2016/05/DSCF3147.jpg)
 
 
 # Technical data
