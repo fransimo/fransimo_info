@@ -96,7 +96,7 @@ Testing
 https://github.com/leepenney/markdown-gallery
 ```
 
-<script src="https://raw.githubusercontent.com/leepenney/markdown-gallery/master/md-gallery.js">
+<script src="{static}/images/md-gallery.js">
 
 <script>
     md_gallery();
