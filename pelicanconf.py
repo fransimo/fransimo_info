@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 
-AUTHOR = 'Fran SimÃ³'
-SITENAME = 'Fran SimÃ³ - new art and photography'
+AUTHOR = 'Fran Simó'
+SITENAME =  'New art and photography accidentally by Fran Simó'
 SITEURL = ''
 
 PATH = 'content'
@@ -25,10 +25,20 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+# Social widget
+SOCIAL = (
+  ('facebook','https://www.facebook.com/fransimoart/'),
+  ('instagram','http://instagram.com/fransimo'),
+  ('twitter','https://twitter.com/fransimo'),
+  ('linkedin','http://www.linkedin.com/in/fransimo'),
+  )
+
+TWITTER_USERNAME = 'fransimo'
+
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# THEME = "simple"
