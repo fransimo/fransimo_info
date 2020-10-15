@@ -1,0 +1,81 @@
+{
+  "main": {
+    "id": "12585270d4d77590",
+    "type": "split",
+    "children": [
+      {
+        "id": "cec2e4f03016f022",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "posts/2016-05-07_Shared_Folder_Red_box-en.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8facdb2456bd2191",
+    "type": "split",
+    "children": [
+      {
+        "id": "57ba05f44bfff6dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4937cd79733561a1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bd28663d39e2a892",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43fbd9af5ffd5e7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff5ed2e91a701e3b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "799c23380b4c2a51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/2016-05-07_Shared_Folder_Red_box-en.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "posts/2016-05-07_Shared_Folder_Red_box-en.md"
+  ]
+}
