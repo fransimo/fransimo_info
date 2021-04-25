@@ -42,3 +42,14 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # THEME = "simple"
+
+THEME = "/home/fs/pelican-themes/Flex"
+THEME = "/home/fs/pelican-themes/Peli-Kiera"
+
+# path-specific metadata
+#EXTRA_PATH_METADATA = {
+#        'extras/robots.txt': {'path': 'robots.txt'},
+#        'extras/htaccess.txt': {'path': '.htaccess'},
+#    }
+
+#STATIC_PATHS = ['images', 'extras']
