@@ -43,8 +43,8 @@ DEFAULT_PAGINATION = 10
 
 # THEME = "simple"
 
-THEME = "/home/fs/pelican-themes/Flex"
-THEME = "/home/fs/pelican-themes/Peli-Kiera"
+# THEME = "/home/fs/pelican-themes/Flex"
+THEME = "themes/Peli-Kiera"
 
 # path-specific metadata
 #EXTRA_PATH_METADATA = {
