@@ -1,6 +1,6 @@
 Title: S’Arenal Summertime 2016
 Date: 2017-04-02
-Slug: sarenal-summertime-2016
+Slug: sarenal-summertime-2016_manual
 Lang: es
 
 2016-2017  

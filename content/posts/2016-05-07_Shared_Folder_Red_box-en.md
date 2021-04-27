@@ -1,6 +1,6 @@
 Title: Shared Folder. “Red box”
 Date: 2016-05-07
-Slug: shared-folder-red-box
+Slug: shared-folder-red-box_manual
 Tags: arles, artbook, docfiled dummy, ed2k, edonkey, found photography, grey networks, intimacy, new media art, photobook, postfotografía, postphotography, privacy
 Lang: en
 
