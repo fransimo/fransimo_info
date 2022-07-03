@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = 'Fran Simó'
-SITENAME =  'New art and photography accidentally by Fran Simó'
+SITENAME = 'New art and photography accidentally by Fran Simó'
 SITEURL = ''
 
 PATH = 'content'
@@ -41,10 +41,10 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
 
-# THEME = "simple"
+THEME = "simple"
 
 # THEME = "/home/fs/pelican-themes/Flex"
-THEME = "themes/Peli-Kiera"
+# THEME = "themes/Peli-Kiera"
 
 # path-specific metadata
 #EXTRA_PATH_METADATA = {
