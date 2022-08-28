@@ -134,3 +134,6 @@ dmypy.json
 # Pelican
 output/*
 /output/
+
+# idea
+.idea/
