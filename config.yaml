@@ -3,6 +3,7 @@ languageCode: en-us
 
 paginate: 5
 title: Fran Simó
+relativeURLs: true
 
 module:
   # uncomment line below for temporary local development of module

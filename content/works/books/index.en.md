@@ -1,7 +1,12 @@
 ---
 author: fran
-date: "2022-09-01T22:03:36Z"
-title: 'Books'
+date: "2017-04-02T18:52:55Z"
+categories:
+- photography
+- street photography
+- books, zines and so
+title: Books
+url: /portfolio/books/
 ---
 
 ## CODE
