@@ -141,3 +141,4 @@ output/*
 # hugo
 /.hugo_build.lock
 /resources/_gen/
+/migration/
