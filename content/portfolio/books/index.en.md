@@ -6,7 +6,6 @@ categories:
 - street photography
 - books, zines and so
 title: Books
-url: /portfolio/books/
 ---
 
 ## CODE
