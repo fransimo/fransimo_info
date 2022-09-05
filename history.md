@@ -9,7 +9,7 @@ hugo import jekyll /Users/fran/Downloads/export fransimo_info_v3
 ```
 
 
-# redering with docker
+# rendering with docker
 
 https://hub.docker.com/r/klakegg/hugo/
 
