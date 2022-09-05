@@ -4,7 +4,7 @@ date: "2015-11-29T10:03:38+00:00"
 title: 'Statement'
 menu: 
     main:
-        name: "Statement"
+        name: "Artist's statement"
         weight: -100
 ---
 

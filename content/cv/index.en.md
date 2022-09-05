@@ -5,7 +5,7 @@ title: 'CV'
 menu: 
     main:
         name: "CV"
-        weight: 100
+        weight: -80
 ---
 
 

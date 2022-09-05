@@ -6,6 +6,7 @@ categories:
 - street photography
 - books, zines and so
 title: Books
+image: X1V16641.jpg
 ---
 
 ## CODE
