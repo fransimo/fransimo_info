@@ -134,3 +134,10 @@ dmypy.json
 # Pelican
 output/*
 /output/
+
+# idea
+.idea/
+
+# hugo
+/.hugo_build.lock
+/resources/_gen/
