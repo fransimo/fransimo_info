@@ -1,7 +1,7 @@
 ---
 author: fran
 date: "2022-09-01T22:03:36Z"
-title: 'New Art portfolio'
+title: 'New Art portfolio 2'
 ---
 
 [![#Selfie_v2](XT238744.jpg)](/en/blog/2021/10/26/selfie_v2/)  
