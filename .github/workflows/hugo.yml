@@ -1,6 +1,9 @@
 name: Hugo
 
-on: [push]
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
 
 jobs:
   build:
@@ -23,3 +26,17 @@ jobs:
         version: ${{ matrix.version }}
         image: ${{ matrix.image }}
         env: 'DEV'
+
+    - name: Sync
+      # https://stackoverflow.com/questions/54503807/how-to-access-the-value-of-secrets-in-github-actions
+      run: |
+        echo "${{secrets.DEPLOY_KEY}}" > deploy_key
+        ls -la deploy_key
+        chmod 600 ./deploy_key
+        rsync -chav --delete \
+          -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no' \
+          --exclude /deploy_key \
+          --exclude /.git/ \
+          --exclude /.github/ \
+          ./public/ "${{secrets.DEST}}"
+        rm deploy_key
