@@ -2,3 +2,5 @@ github.com/CaiJimmy/hugo-theme-stack/v3 v3.13.0 h1:59xw34lWmzKrBOxarNBCEN5nR2EA0
 github.com/CaiJimmy/hugo-theme-stack/v3 v3.13.0/go.mod h1:IPmCXiIxlFSLFYS0tOmYP6ySLviyeNVSabyvSuaxD+I=
 github.com/CaiJimmy/hugo-theme-stack/v3 v3.16.0 h1:ZWF66g7aXA840CzsT4lv65wHSojqwY0Yj7KdvOkn5NA=
 github.com/CaiJimmy/hugo-theme-stack/v3 v3.16.0/go.mod h1:IPmCXiIxlFSLFYS0tOmYP6ySLviyeNVSabyvSuaxD+I=
+github.com/alex-shpak/hugo-book v0.0.0-20231204233341-118997fa920e h1:vOzQO2BCcgZ+M5W5KkhRHWiryNX/4RuA0iJprMrMUH4=
+github.com/alex-shpak/hugo-book v0.0.0-20231204233341-118997fa920e/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=

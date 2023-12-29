@@ -22,4 +22,4 @@ Art is plastic thought. A swing between ideas and aesthetics. The beauty of a pi
 
 The signature and date are an accident that might only help us understand how that people were able to be in tune, vibrate and sing in their tongues, ages and places. If they did, their waves would not have date.
 
-Even thought the journey is not the destination, we know ‘at the end of the course there is always a mirror’. Once we start walking we need to keep on because in the end we will only find ourselves
+Even thought the journey is not the destination, we know ‘at the end of the course there is always a mirror’. Once we start walking we need to keep on because in the end we will only find ourselves.

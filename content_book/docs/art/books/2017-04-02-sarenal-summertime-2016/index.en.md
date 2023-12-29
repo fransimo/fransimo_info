@@ -12,7 +12,8 @@ tags:
 - tourism
 date: "2017-04-02T18:52:55Z"
 image: SArenal-Summertime-COVER.jpg
-title: S'Arenal Summertime 2016
+title: S'Arenal Summertime 2016 
+bookToc: false
 url: /blog/2017/04/02/sarenal-summertime-2016/
 ---
 
