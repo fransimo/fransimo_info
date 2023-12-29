@@ -38,4 +38,4 @@ Is this a joke? No. My intention is not to be disrespectful to collectors or the
 
 (\*) The voice was a male one.
 
-{{< video src="buy_me_a_life.mp4" autoplay="true" loop="true" >}}
+{{--- < video src="buy_me_a_life.mp4" autoplay="true" loop="true" >}}
