@@ -19,20 +19,12 @@ languages:
         languageName: English
         title: Fran Simó
         weight: 1
-        contentDir: content
-
+        contentDir: content_book
     es:
         languageName: Español
         title: Fran Simó
         weight: 2
-        sidebar:
-          # subtitle: El arte es pensamiento plástico. Un baiven entre las ideas y la estética.
-          subtitle: artista new media y fotógrafo
-          avatar:
-            enabled: true
-            local: false
-            src: /img/avatar.png
-
+        contentDir: content_book
 
 # Book configuration
 disablePathToLower: true
@@ -92,7 +84,7 @@ params:
   # (Optional, default docs) Specify root page to render child pages as menu.
   # Page is resoled by .GetPage function: https://gohugo.io/functions/getpage/
   # For backward compatibility you can set '*' to render all sections to menu. Acts same as '/'
-  BookSection: portfolio
+  BookSection: docs
 
   # Set source repository location.
   # Used for 'Last Modified' and 'Edit this page' links.

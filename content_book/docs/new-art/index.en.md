@@ -1,7 +1,7 @@
 ---
 author: fran
 date: "2022-04-02T18:52:55Z"
-title: New Art portfolio
+title: New Art
 image: IMG_5027-Editar-2.jpg
 ---
 
