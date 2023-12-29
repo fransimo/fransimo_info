@@ -7,6 +7,7 @@ categories:
 - books, zines and so
 title: Books
 image: X1V16641.jpg
+bookFlatSection: false
 ---
 
 ## CODE
