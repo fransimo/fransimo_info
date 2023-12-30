@@ -6,7 +6,7 @@ author: fran
 layout: post
 guid: 'https://fransimo.info/blog/2016/05/07/shared-folder-red-box/'
 url: /blog/2016/05/07/shared-folder-red-box/
-image: /wp-content/uploads/2016/05/DSCF3150.jpg
+image: DSCF3138.jpg
 ---
 ![Sahred folder box](DSCF3138.jpg)
  
@@ -41,7 +41,7 @@ _Shared folder_ shows what I’ve discovered.
 
 ![](DSCF3150.jpg)
 
-## Technical data
+# Technical data
 
 ## The book
 
@@ -81,7 +81,7 @@ The library contains 17934 images after having deleted pedophilic images, which 
 
 ![](DSCF3152.jpg)
 
-## Full content
+# Full content
 
 {{< embedpdf url="Shared_folder_with_photos_and_scan.pdf" >}}
 [PDF Download](Shared_folder_with_photos_and_scan.pdf)
