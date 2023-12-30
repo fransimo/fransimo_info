@@ -19,6 +19,9 @@ tags:
 title: Shared Folder (Red box) v'21
 url: /blog/2021/05/21/shared-folder-red-box-v21/
 ---
+![](IMG_4934-Editar-2.jpg) 
+# Shared Folder (Red box) v'21
+
 POI Finch: _“You are being watched. The government has a secret system: a machine that spies on you every hour of every day. I know, because I built it… “_ …maybe the government doesn’t need the machine… **you are sharing your intimacy without even knowing and anyone can access it with a 35$ machine**.
 
 Back in 2015 I asked myself: what could found photography be like in the digital age? I created [_Shared Folder (Red Box)_ in 2016](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/).
@@ -35,7 +38,7 @@ I grabbed the images from a peer to peer network commonly used to download movie
 
 My objective with _Shared Folder_ is to show you that once a file is created, it can be copied, and in our era of very-connected devices, you should know what you are sharing.The project is an intersection of found photography, cybersecurity, art and NFTs.
 
-## **_Shared Folder (Red box)_** **2021 edition**
+## Shared Folder (Red box) 2021 edition
 
 With the momentum of NFTs I hope this project may go viral and more and more people realize the importance of understanding technology. In that sense, the incredible prices are used to attract attention. There are other initiatives that are headed in the same direction. I hope mine helps the others with an aesthetics component.
 
@@ -45,20 +48,8 @@ In the 2021 edition, all files have the same red dot and/or a pixelation but it 
 
 You can find the NFTs in this OpenSea collection: [https://opensea.io/collection/shared-folder-red-box](https://bit.ly/3eVNPlm)
 
-![](IMG_4934-Editar-2.jpg) 
 
-![](IMG_5027-Editar-2.jpg) ![](IMG_0026-Editar.jpg) ![](IMG_0668-Editar.jpg)
-
-![](DSC_0157-Editar.jpg) ![](DSC02884-Editar.jpg)
-
-![](DSC01593-Editar.jpg) ![](IMG_0060-Editar.jpg)
-
-![](DSC2674-Editar.jpg)
-
-
-
-
-## **How can you protect yourself?**
+## How can you protect yourself?
 
 For this project I used the [emule network (ed2k)](https://en.wikipedia.org/wiki/EDonkey_network). If you have [emule](https://www.emule-project.net/home/perl/general.cgi?l=1) installed just check which folders you are sharing.
 
@@ -66,7 +57,7 @@ As for the phones, you should check if you are using cloud backups. If you are, 
 
 Back to film… don’t worry, somebody will find it. And they might get rich selling your photos. The difference is that you will probably be dead by that time.
 
-## **How can I do it myself?**
+## How can I do it myself?
 
 Since it’s not my intention for people to start downloading the private lives of others, I always share my code.
 
@@ -95,3 +86,15 @@ If you want more you can check this links:
 -   [Flickr Found Photo Group](https://www.flickr.com/groups/1459463@N25/)
 
 I hope all this material makes you think. That’s my goal.
+
+## Gallery
+
+![](IMG_4934-Editar-2.jpg) 
+
+![](IMG_5027-Editar-2.jpg) ![](IMG_0026-Editar.jpg) ![](IMG_0668-Editar.jpg)
+
+![](DSC_0157-Editar.jpg) ![](DSC02884-Editar.jpg)
+
+![](DSC01593-Editar.jpg) ![](IMG_0060-Editar.jpg)
+
+![](DSC2674-Editar.jpg)

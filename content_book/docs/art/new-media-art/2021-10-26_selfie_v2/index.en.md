@@ -46,7 +46,7 @@ The sculpture and all the pieces are available as NFTs at [OpenSea](https://open
 
 
 
-## **Technical data**
+## Technical data
 
 - Interactive video sculpture. 1.1 m x 1.1 m x 60 cm.
 - MRIs of feet and knees. Kidney ultrasounds. X-rays of the chest, jaw and teeth. From 2012 up to 2021.
@@ -56,7 +56,7 @@ The piece consists of 6 RasperriPis. Five of them are model 3 with a 3.5″ scre
 
 Source code @ [github](https://github.com/fransimo/selfie_v2).
 
-## **Interesting facts**
+## Interesting facts
 
 The careful observer will notice that the videos of the MRIs “jerk”. The sequences of images appear to be “poorly made”. The scan visualization software, when exporting the video format, ordered the frames as 0, 1, 10, 11, 2, 3. A fairly common computer error. When I saw it, I thought it would be very interesting to relate _#Selfie\_v2_ to _[God Is in the Bugs](https://fransimo.info/blog/2021/07/31/god-is-in-the-bugs/)_.
 
