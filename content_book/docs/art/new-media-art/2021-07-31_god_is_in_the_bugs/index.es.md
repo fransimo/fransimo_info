@@ -24,7 +24,10 @@ tags:
 - spirituality
 title: God is in the bugs (Dios está en los «bugs»)
 url: /es/blog/2021/07/31/god-is-in-the-bugs/
+bookToc: false
 ---
+# God is in the bugs
+
 God is in the [_bugs_](https://es.wikipedia.org/wiki/Error_de_software): cualquier evolución biológica real es la consecuencia de un error en la copia del ADN.
 
 A diferencia de lo que se cree comúnmente, la evolución no está basada en la intención consiente del ser que «se adapta mejor al ambiente». Este animal o planta nunca quizo adaptarse, no tuvo esa voluntad, la adaptación solo «ocurre». Él/ella se ha adaptado o tiene una ventaja comparativa como consecuencia de un error durante su concepción o crecimiento. Algunas células comenten un error al reproducirse y nacen con sensibilidad a la luz. Millones de años después son ojos.

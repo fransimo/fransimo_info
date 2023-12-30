@@ -16,13 +16,20 @@ title: S'Arenal Summertime 2016
 bookToc: false
 url: /blog/2017/04/02/sarenal-summertime-2016/
 ---
-
+{{< columns >}}
+![](SArenal-Summertime-COVER.jpg)
+<--->
+````
 2016-2017  
 Magazine, 36 pages, 22×28 cm (Letter format)
-
+````
 -   A 50 copy limited edition, numbered and signed for the [“Ciutat de Vacances” (Vacation City)](http://www.esbaluard.org/es/exposicions/159/ciutat-de-vacances-stand-de-turismo-en-el-palacio-grimani-venecia) exhibition. Printed on 130g paper and 170g paper for the cover, stapled. Available at the [Es Baluard Museum Shop](http://www.esbaluard.org/) or by request at [contact@fransimo.info](mailto:contact@fransimo.info)
 -   Print-on-demand edition. Printed on 118g matte paper, semi-glossy 216 g paper for the cover, rustic binding. [Available for on-line purchase](http://www.blurb.com/b/7844486-s-arenal-summertime-2016).
 -   Digital edition available through: [Apple iBooks](http://itunes.apple.com/us/book/id1223132726), [Amazon Kindle](http://amzn.to/2o2O2JN) [(free)](S_Arenal_Summertime_2016_v2.mobi), [Issue](https://issuu.com/fransimo/docs/s_arenal_summertime_pdf_on_line) and in [PDF](S_Arenal_Summertime_2016.pdf).
+
+{{< /columns >}}
+
+# S'Arenal Summertime 2016
 
 “… the fundamental thing I am constantly exploring is the difference between the mythology of a place and the reality of it.” ([Martin Parr por Martin Parr, La Fábrica, 2010](http://amzn.to/2omVlfK))
 

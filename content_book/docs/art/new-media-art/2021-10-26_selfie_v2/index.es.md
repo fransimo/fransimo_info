@@ -21,6 +21,9 @@ title: '#Selfie_v2'
 lang: es
 url: /es/blog/2021/10/26/selfie_v2/
 ---
+![](XT238820.jpg)
+# #Selfie_v2
+
 En los últimos años nos hemos aficionado a publicar nuestra imagen. Una imagen construida de lo que queremos mostrar de nosotros, de nuestra vida. Así creamos un personaje que publicamos, exhibimos, vendemos, a veces, incluso en busca de amor. Algunos caen en la trampa de creer que ese personaje es real, que son ellos.
 
 En esa distopía psicológica y espiritual ver es más difícil. Proyectamos un personaje que ha nacido de convenciones propias de las redes sociales. Convenciones que se generan y evolucionan globalmente. Encarriladas por una idea de “felicidad” estandarizada y, muchas veces, dirigida por publicistas e “influencers”. ¿Hasta qué punto lo hemos elegido?
@@ -39,17 +42,7 @@ La obra permite al espectador llevarse un recuerdo #selfie\_v2. El stream de vid
 
 La escultura y todas la piezas están disponibles como NFTs en [OpenSea](https://opensea.io/collection/selfie-v2-fransimo).
 
-## Galería
 
-![](XT238820.jpg) ![](XT238744.jpg)
-
-![](XT238761.jpg) ![](XT238764.jpg) 
-
-![](XT238773.jpg) ![](XT238777.jpg) 
-
-![](XT238787.jpg) ![](XT238794.jpg) 
-
-![](XT238818.jpg)
     
 
 ## Datos técnicos
@@ -67,4 +60,14 @@ Código fuente en [github](https://github.com/fransimo/selfie_v2).
 El observador cuidadoso notará que los videos de las resonancias dan “saltos”. Las secuencias de las imágenes parecen estar “mal hechas”. El software de visualización de los estudios médicos al exportar el formato vídeo ordenó los fotogramas como 0,1,10,11,2,3. Un error informático bastante común. Al verlo me pareció muy interesante relacionar #Selfie\_v2 con [“God is in the bugs”.](https://fransimo.info/es/blog/2021/07/31/god-is-in-the-bugs/)
 
 
+## Galería
 
+![](XT238820.jpg) ![](XT238744.jpg)
+
+![](XT238761.jpg) ![](XT238764.jpg) 
+
+![](XT238773.jpg) ![](XT238777.jpg) 
+
+![](XT238787.jpg) ![](XT238794.jpg) 
+
+![](XT238818.jpg)
