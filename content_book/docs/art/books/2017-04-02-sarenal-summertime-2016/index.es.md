@@ -16,15 +16,21 @@ title: S'Arenal Summertime 2016
 lang: es
 url: /es/blog/2017/04/02/sarenal-summertime-2016/
 ---
-
+{{< columns >}}
+![](SArenal-Summertime-COVER.jpg)
+<--->
+````
 2016-2017  
 Revista, 36 páginas, 22×28 cm (Letter)
+````
 
 -   Edición limitada de 50 ejemplares, numeradas y firmadas con motivo de la exposición [Ciutat de Vacances](http://www.esbaluard.org/es/exposicions/159/ciutat-de-vacances-stand-de-turismo-en-el-palacio-grimani-venecia). Papel de 130 gramos y portada de 170 gramos encuadernación grapada. Disponible en la tienda del [Museo Es Baluard](http://www.esbaluard.org/) o a petición en [contact@fransimo.info](mailto:contact@fransimo.info).
 -   Edición de impresión bajo demanda. Papel mate 118 gramos y portada semibrillante de 216 gramos, encuadernación rústica. [Disponible para compra on line](http://www.blurb.com/b/7844486-s-arenal-summertime-2016).
 -   Edición digital está disponible para: [Apple iBooks](http://itunes.apple.com/us/book/id1223132726), [Amazon Kindle](http://amzn.to/2o2O2JN) [(free)](S_Arenal_Summertime_2016_v2.mobi), [Issue](https://issuu.com/fransimo/docs/s_arenal_summertime_pdf_on_line) y [PDF](S_Arenal_Summertime_2016.pdf)
 
-_«…el aspecto fundamental que me interesaba explorar constantemente es la diferencia entre la mitología de un lugar y su realidad»_ ([Martin Parr por Martin Parr, La Fábrica, 2010](http://amzn.to/2omVlfK))
+{{< /columns >}}
+
+_«...el aspecto fundamental que me interesaba explorar constantemente es la diferencia entre la mitología de un lugar y su realidad»_ ([Martin Parr por Martin Parr, La Fábrica, 2010](http://amzn.to/2omVlfK))
 
 Cuando Parr habla de la mitología de un lugar lo relaciono inmediatamente a postales, catálogos turísticos y vídeos promocionales. Pero el mito del turismo va más allá de la construcción de un ícono dirigido al consumidor.
 

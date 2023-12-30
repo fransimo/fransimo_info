@@ -7,10 +7,10 @@ layout: post
 guid: 'https://fransimo.info/blog/2016/05/07/shared-folder-red-box/'
 url: /blog/2016/05/07/shared-folder-red-box/
 image: DSCF3138.jpg
+
 ---
+
 ![Sahred folder box](DSCF3138.jpg)
- 
-# Shared Folder (Red box)
 
 ````
 2015-2016 
@@ -20,6 +20,9 @@ Art book
 57 13x18cm photographs  
 6 Folders
 ````
+
+
+# Shared Folder (Red box)
 
 In the context of the digital era, _[found photography](https://en.wikipedia.org/wiki/Found_photography)_ means images found on public websites such as the social networks, e.g. Flickr, Instagram, Google Street View, etc. In these cases, the author of the images meant for them to become accessible (even if only out of legal obligation, as it happens with surveillance footage).
 
