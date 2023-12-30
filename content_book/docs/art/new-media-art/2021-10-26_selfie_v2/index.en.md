@@ -21,6 +21,8 @@ title: '#Selfie_v2'
 lang: en
 url: /blog/2021/10/26/selfie_v2/
 ---
+![](XT238820.jpg)
+# #Selfie_v2
 ## Motivation
 
 In recent years, we have grown fond of publishing our image. A constructed image of what we want to show of ourselves, of our life. This way, we create a character that we publish, exhibit, or sell, sometimes even in search of love. Some fall into the trap of believing that character is real, that it is them.
@@ -41,17 +43,7 @@ The piece allows the viewer to take a _#Selfie\_v2_ souvenir. The video stream c
 
 The sculpture and all the pieces are available as NFTs at [OpenSea](https://opensea.io/collection/selfie-v2-fransimo).
 
-## Gallery
 
-![](XT238820.jpg) ![](XT238744.jpg)
-
-![](XT238761.jpg) ![](XT238764.jpg) 
-
-![](XT238773.jpg) ![](XT238777.jpg) 
-
-![](XT238787.jpg) ![](XT238794.jpg) 
-
-![](XT238818.jpg)
 
 
 ## **Technical data**
@@ -69,5 +61,15 @@ Source code @ [github](https://github.com/fransimo/selfie_v2).
 The careful observer will notice that the videos of the MRIs “jerk”. The sequences of images appear to be “poorly made”. The scan visualization software, when exporting the video format, ordered the frames as 0, 1, 10, 11, 2, 3. A fairly common computer error. When I saw it, I thought it would be very interesting to relate _#Selfie\_v2_ to _[God Is in the Bugs](https://fransimo.info/blog/2021/07/31/god-is-in-the-bugs/)_.
 
 
+## Gallery
 
+![](XT238820.jpg) ![](XT238744.jpg)
+
+![](XT238761.jpg) ![](XT238764.jpg) 
+
+![](XT238773.jpg) ![](XT238777.jpg) 
+
+![](XT238787.jpg) ![](XT238794.jpg) 
+
+![](XT238818.jpg)
 
