@@ -26,7 +26,10 @@ tags:
 - spirituality
 title: God is in the bugs
 url: /blog/2021/07/31/god-is-in-the-bugs/
+bookToc: false
 ---
+# God is in the bugs
+
 God is in the [_bugs_](https://en.wikipedia.org/wiki/Software_bug): any real biological evolution is the consequence of an error in a DNA copy. 
 
 Contrary to common understanding, evolution is not based on any intention of the being which is “more adapted to the environment”. It never wanted to be more adapted, there is no will, it just happened. It’s more adapted or has an advantage over others as a consequence of an error during its growth. Some cells make mistakes and it has a more sensitive eye to infrared light.
