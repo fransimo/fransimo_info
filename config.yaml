@@ -5,6 +5,8 @@ paginate: 5
 title: Fran Simó
 relativeURLs: true
 
+theme: ["hugo-video"]
+
 module:
   # uncomment line below for temporary local development of module
   # replacements: "github.com/CaiJimmy/hugo-theme-stack/v3 -> ../../hugo-theme-stack"
