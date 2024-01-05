@@ -1,13 +1,9 @@
 ---
-id: 8984
 title: 'Shared Folder (Red box)'
 date: '2016-05-07T19:51:21+02:00'
 author: fran
-layout: post
-guid: 'https://fransimo.info/blog/2016/05/07/shared-folder-red-box/'
-url: /blog/2016/05/07/shared-folder-red-box/
+aliases: /blog/2016/05/07/shared-folder-red-box/
 image: DSCF3138.jpg
-
 ---
 
 ![Sahred folder box](DSCF3138.jpg)

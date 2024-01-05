@@ -18,7 +18,7 @@ tags:
 - dummy
 - street photography
 title: Heaven
-url: /blog/2017/11/10/heaven/
+aliases: /blog/2017/11/10/heaven/
 bookToc: false
 ---
 {{< columns >}}

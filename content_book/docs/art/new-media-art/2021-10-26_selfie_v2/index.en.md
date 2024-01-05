@@ -19,7 +19,7 @@ tags:
 - video sculpture
 title: '#Selfie_v2'
 lang: en
-url: /blog/2021/10/26/selfie_v2/
+aliases: /blog/2021/10/26/selfie_v2/
 
 ---
 ![](XT238820.jpg)

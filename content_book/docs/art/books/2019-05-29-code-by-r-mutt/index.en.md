@@ -20,7 +20,7 @@ tags:
 - ready made
 - spftware art
 title: CODE by R.Mutt
-url: /blog/2019/05/29/code-by-r-mutt/
+aliases: /blog/2019/05/29/code-by-r-mutt/
 ---
 
 (text by [Carlos Lozano](https://twitter.com/clozano80))

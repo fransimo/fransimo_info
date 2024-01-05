@@ -22,7 +22,7 @@ tags:
 guid: https://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/
 id: 8978
 image: all.png
-url: /blog/2014/05/02/traces-2013-12-07-barcelona/
+aliases: /blog/2014/05/02/traces-2013-12-07-barcelona/
 ---
 
 [Traces](http://traces-barcelona.fransimo.info/) is a collective project that provides a chance to experience a dérive \[literally: “drifting”, a technique of rapid passage through varied ambiances\] and verify its capacity to document urban space from different perspectives while using a common methodology and creating a psychogeographical map of Barcelona.

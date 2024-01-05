@@ -5,7 +5,7 @@ guid: http://fransimo.info/?p=1824
 id: 1824
 image: fran_simo_traces_1_02__A009704_DxO.jpg
 title: Traces (personal drifts)
-url: /blog/2015/03/15/traces-personal-drifts/
+aliases: /blog/2015/03/15/traces-personal-drifts/
 categories:
 - highlighted
 - photography

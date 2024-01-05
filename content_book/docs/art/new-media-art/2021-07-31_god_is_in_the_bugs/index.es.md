@@ -23,7 +23,7 @@ tags:
 - software
 - spirituality
 title: God is in the bugs (Dios está en los «bugs»)
-url: /es/blog/2021/07/31/god-is-in-the-bugs/
+aliases: /es/blog/2021/07/31/god-is-in-the-bugs/
 bookToc: false
 ---
 # God is in the bugs

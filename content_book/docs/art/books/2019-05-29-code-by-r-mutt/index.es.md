@@ -17,7 +17,7 @@ tags:
 - spftware art
 title: CODE by R.Mutt
 lang: es
-url: /es/blog/2019/05/29/code-by-r-mutt/
+aliases: /es/blog/2019/05/29/code-by-r-mutt/
 ---
 
 (texto por [Carlos Lozano](https://twitter.com/clozano80))

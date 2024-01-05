@@ -22,7 +22,7 @@ tags:
 guid: https://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/
 id: 8978
 image: all.png
-url: /es/blog/2014/05/02/traces-2013-12-07-barcelona/
+aliases: /es/blog/2014/05/02/traces-2013-12-07-barcelona/
 ---
 2012-2014  
 Proyecto transmedia participativo: app, libros, video e instalación.
