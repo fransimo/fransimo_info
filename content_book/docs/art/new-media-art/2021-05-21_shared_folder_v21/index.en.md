@@ -3,7 +3,6 @@ author: fran
 categories:
 - new media art
 date: "2021-05-21T01:01:00Z"
-id: 9402
 image: IMG_4934-Editar-2.jpg
 tags:
 - cybersecurity

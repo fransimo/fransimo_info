@@ -5,8 +5,6 @@ categories:
 date: "2019-05-26T19:46:00Z"
 excerpt: "Digital & Electronic Art Festival Mallorca \nMay 24-25, 2019\nCentre Cultural
   Casa Planas"
-guid: https://fransimo.info/?p=9200
-id: 9200
 image: function_2019_innocence.png
 tags:
 - festival
@@ -14,7 +12,7 @@ tags:
 - majorca
 - new media art
 title: function("innocence", 2019)
-url: /blog/2019/05/26/functioninnocence-2019/
+aliases: /blog/2019/05/26/functioninnocence-2019/
 ---
 
 In January 2019 a group of digital artist meet in [Cultural Center Casa Planas](http://www.casaplanas.org/). As result we create the first Digital & Electronic Art Festival Mallorca [function(“innocence”, 2019)](http://2019.functionfest.com/en/function_home_eng/) which becomes a reality for two day between 24 and 25 of May.

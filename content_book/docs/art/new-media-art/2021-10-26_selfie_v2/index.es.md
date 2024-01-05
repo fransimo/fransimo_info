@@ -3,8 +3,6 @@ author: fran
 categories:
 - new media art
 date: "2021-10-26T22:03:36Z"
-guid: https://fransimo.info/?p=9358
-id: 9358
 image: XT238794.jpg
 tags:
 - new media art

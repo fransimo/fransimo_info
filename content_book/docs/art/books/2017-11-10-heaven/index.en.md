@@ -10,8 +10,6 @@ excerpt: |-
   Art book.
   23 x 16 x 1 cm.
   31 Instax Square pictures.
-guid: https://fransimo.info/blog/2017/11/10/heaven/
-id: 9412
 image: 09_03_fransimo_dde82e215088f6430c7a8a5e7a3c4542.jpg
 tags:
 - artbook

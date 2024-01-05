@@ -9,8 +9,6 @@ enclosure:
   24721836
   video/mp4
 excerpt: "Selfie glitch video (mp4)\n4 seconds (24,721,836 bytes)\nNFT \n2501Ξ "
-guid: https://fransimo.info/blog/2021/04/17/buy-me-a-life/
-id: 9403
 image: buy_me_a.jpg
 tags:
 - "2501"
@@ -23,7 +21,7 @@ tags:
 - selfie
 - nft
 title: Buy me a life!
-url: /blog/2021/04/17/buy-me-a-life/
+aliases: /blog/2021/04/17/buy-me-a-life/
 ---
 
 **Buy me a life! I’ll use my energy to create art, help other artists, walk my spiritual path and share my knowledge.**
@@ -38,4 +36,4 @@ Is this a joke? No. My intention is not to be disrespectful to collectors or the
 
 (\*) The voice was a male one.
 
-{{--- < video src="buy_me_a_life.mp4" autoplay="true" loop="true" >}}
+{{< video src="buy_me_a_life.mp4" autoplay="true" loop="true" >}}

@@ -3,8 +3,6 @@ author: fran
 categories:
 - new media art
 date: "2021-07-31T10:43:05Z"
-guid: https://fransimo.info/blog/2021/07/31/god-is-in-the-bugs/
-id: 9395
 image: 20210617_r049_3_700px.png
 tags:
 - ai

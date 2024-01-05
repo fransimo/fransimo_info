@@ -1,8 +1,6 @@
 ---
 author: fran
 date: "2013-11-16T14:56:00Z"
-guid: https://fransimo.info/blog/2013/11/16/passengers-2012/
-id: 8976
 categories:
 - photography
 - street photography
