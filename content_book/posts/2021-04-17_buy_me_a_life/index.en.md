@@ -3,11 +3,6 @@ author: fran
 categories:
 - new media art
 date: "2021-04-17T12:43:13Z"
-enclosure:
-- |
-  https://fransimo.info/wp-content/uploads/2021/04/buy_me_a_life.mp4
-  24721836
-  video/mp4
 excerpt: "Selfie glitch video (mp4)\n4 seconds (24,721,836 bytes)\nNFT \n2501Ξ "
 image: buy_me_a.jpg
 tags:

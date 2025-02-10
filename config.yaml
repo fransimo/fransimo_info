@@ -12,8 +12,6 @@ module:
   # uncomment line below for temporary local development of module
   # replacements: "github.com/CaiJimmy/hugo-theme-stack/v3 -> ../../hugo-theme-stack"
   imports:
-    - path: github.com/CaiJimmy/hugo-theme-stack/v3
-      disable: true
     - path: github.com/alex-shpak/hugo-book
       disable: false
 
