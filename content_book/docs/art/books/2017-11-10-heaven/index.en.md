@@ -19,7 +19,7 @@ title: Heaven
 aliases: /blog/2017/11/10/heaven/
 bookToc: false
 ---
-{{< columns >}}
+{{% columns %}}
 ![](09_03_fransimo_dde82e215088f6430c7a8a5e7a3c4542.jpg)
 <--->
 ````
@@ -28,7 +28,7 @@ Art book.
 23 x 16 x 1 cm.
 31 Instax Square pictures.
 ````
-{{< /columns >}}
+{{% /columns %}}
 
 # Heaven
 

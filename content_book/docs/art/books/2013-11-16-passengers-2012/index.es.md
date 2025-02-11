@@ -13,7 +13,7 @@ title: Passengers 2012
 aliases: /es/blog/2013/11/16/passengers-2012/
 bookToc: true
 ---
-{{< columns >}}
+{{% columns %}}
 ![Passengers 2012](passengers_2012_cover_en.jpg)
 <--->
 Passengers es una web y una serie de libros de “street photography” sobre pasajeros del transporte público que se
@@ -23,7 +23,7 @@ sobre los pasajeros del transporte público, la estética de los dispositivos m�
 pequeños ensayos sobre “el estado del arte” y su relación con la sociedad, la historia, la persona y los procesos de
 creación utilizados para crear Passengers.
 
-{{< /columns >}}
+{{% /columns %}}
 
 En diciembre del 2011, se
 publicó [el primer volumen de Passengers](http://passengers-streetphotography.com/eds/#Passengers). Con cuatro autores y

@@ -16,7 +16,7 @@ title: S'Arenal Summertime 2016
 lang: es
 aliases: /es/blog/2017/04/02/sarenal-summertime-2016/
 ---
-{{< columns >}}
+{{% columns %}}
 ![](SArenal-Summertime-COVER.jpg)
 <--->
 ````
@@ -28,7 +28,7 @@ Revista, 36 páginas, 22×28 cm (Letter)
 -   Edición de impresión bajo demanda. Papel mate 118 gramos y portada semibrillante de 216 gramos, encuadernación rústica. [Disponible para compra on line](http://www.blurb.com/b/7844486-s-arenal-summertime-2016).
 -   Edición digital está disponible para: [Apple iBooks](http://itunes.apple.com/us/book/id1223132726), [Amazon Kindle](http://amzn.to/2o2O2JN) [(free)](S_Arenal_Summertime_2016_v2.mobi), [Issue](https://issuu.com/fransimo/docs/s_arenal_summertime_pdf_on_line) y [PDF](S_Arenal_Summertime_2016.pdf)
 
-{{< /columns >}}
+{{% /columns %}}
 
 _«...el aspecto fundamental que me interesaba explorar constantemente es la diferencia entre la mitología de un lugar y su realidad»_ ([Martin Parr por Martin Parr, La Fábrica, 2010](http://amzn.to/2omVlfK))
 

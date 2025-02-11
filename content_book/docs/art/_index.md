@@ -9,7 +9,8 @@ title: "Art"
 ---
 
 # New media
-{{< columns >}}
+
+{{% columns %}}
 
 {{< figure
   src="/docs/art/new-media-art/XT238744.jpg"
@@ -31,11 +32,11 @@ title: "Art"
 
 
 
-{{< /columns >}}
+{{% /columns %}}
 
 # Photography 
 
-{{< columns >}}
+{{% columns %}}
 
 {{< figure
   src="/docs/art/photography/It-is-in-all-of-us/X1V45282-Enhanced-SR.jpg"
@@ -58,11 +59,11 @@ title: "Art"
 
 
 
-{{< /columns >}}
+{{% /columns %}}
 
 # Books
 
-{{< columns >}}
+{{% columns %}}
 
 {{< figure
   src="/docs/art/books/2017-04-02-sarenal-summertime-2016/SArenal-Summertime-COVER.jpg"
@@ -82,4 +83,4 @@ title: "Art"
 >}}
 
 
-{{< /columns >}}
+{{% /columns %}}

@@ -16,7 +16,7 @@ title: S'Arenal Summertime 2016
 bookToc: false
 aliases: /blog/2017/04/02/sarenal-summertime-2016/
 ---
-{{< columns >}}
+{{% columns %}}
 ![](SArenal-Summertime-COVER.jpg)
 <--->
 ````
@@ -27,7 +27,7 @@ Magazine, 36 pages, 22×28 cm (Letter format)
 -   Print-on-demand edition. Printed on 118g matte paper, semi-glossy 216 g paper for the cover, rustic binding. [Available for on-line purchase](http://www.blurb.com/b/7844486-s-arenal-summertime-2016).
 -   Digital edition available through: [Apple iBooks](http://itunes.apple.com/us/book/id1223132726), [Amazon Kindle](http://amzn.to/2o2O2JN) [(free)](S_Arenal_Summertime_2016_v2.mobi), [Issue](https://issuu.com/fransimo/docs/s_arenal_summertime_pdf_on_line) and in [PDF](S_Arenal_Summertime_2016.pdf).
 
-{{< /columns >}}
+{{% /columns %}}
 
 # S'Arenal Summertime 2016
 
