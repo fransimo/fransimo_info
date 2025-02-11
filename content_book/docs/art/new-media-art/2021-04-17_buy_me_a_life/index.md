@@ -16,6 +16,7 @@ tags:
 - selfie
 - nft
 title: Buy me a life!
+slug: Buy me a life!
 aliases: /blog/2021/04/17/buy-me-a-life/
 ---
 

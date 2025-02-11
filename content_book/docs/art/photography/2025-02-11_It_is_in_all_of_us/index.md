@@ -2,6 +2,7 @@
 author: fran
 image: X1V45282-Enhanced-SR.jpg
 title: It is in all of us
+slug: It is in all of us
 date: 2025-02-06
 bookToc: false
 aliases: /blog/2025/02/06/it-is-in-all-of-us/

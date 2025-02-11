@@ -23,10 +23,12 @@ tags:
 - software
 - spirituality
 title: God is in the bugs (Dios está en los «bugs»)
+slug: God is in the bugs
+lang: es
 aliases: /es/blog/2021/07/31/god-is-in-the-bugs/
 bookToc: false
 ---
-# God is in the bugs
+# God is in the bugs (Dios está en los «bugs»)
 
 God is in the [_bugs_](https://es.wikipedia.org/wiki/Error_de_software): cualquier evolución biológica real es la consecuencia de un error en la copia del ADN.
 

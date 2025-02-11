@@ -19,14 +19,15 @@ languages:
     en:
         languageName: English
         title: Fran Simó
-        subtitle: Hola
         weight: 1
         contentDir: content_book
+        languageCode: en-US
     es:
         languageName: Español
         title: Fran Simó
         weight: 2
         contentDir: content_book
+        languageCode: es-ES
 
 # Book configuration
 disablePathToLower: true

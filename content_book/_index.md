@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Fran Simó - Art, touch and code to walk the path together.
 type: docs
 bookToc: false
 ---

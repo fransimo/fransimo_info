@@ -11,12 +11,25 @@ title: "Art"
 # New media
 {{< columns >}}
 
-[![#Selfie_v2](/docs/art/new-media-art/XT238744.jpg)](/docs/art/new-media-art/2021-10-26_selfie_v2/)  
-#Selfie_v2
+{{< figure
+  src="/docs/art/new-media-art/XT238744.jpg"
+  alt="#Selfie_v2"
+  link="/docs/art/new-media-art/2021-10-26_selfie_v2/"
+  caption="#Selfie_v2"
+  class="image_portfolio"
+>}}
+
 <--->
 
-[![Shared Folver](/docs/art/new-media-art/IMG_5027-Editar-2.jpg)](/docs/art/new-media-art/2021-05-21_shared_folder_v21/)
-Shared Folver
+{{< figure
+  src="/docs/art/new-media-art/IMG_5027-Editar-2.jpg"
+  alt="Shared Folder"
+  link="/docs/art/new-media-art/Shared-Folder-Red-box-v21/"
+  caption="Shared Folder"
+  class="image_portfolio"
+>}}
+
+
 
 {{< /columns >}}
 
@@ -24,11 +37,26 @@ Shared Folver
 
 {{< columns >}}
 
-![X1V45282-Enhanced-SR.jpg](photography/2025-02-11/X1V45282-Enhanced-SR.jpg)
+{{< figure
+  src="/docs/art/photography/It-is-in-all-of-us/X1V45282-Enhanced-SR.jpg"
+  alt="It is in all of us"
+  link="/docs/art/photography/It-is-in-all-of-us/"
+  caption="It is in all of us"
+  class="image_portfolio"
+>}}
+
 
 <--->
 
-![fran_simo_traces_1_02__A009704_DxO.jpg](photography/2015-03-15-traces-personal-drifts/fran_simo_traces_1_02__A009704_DxO.jpg)
+{{< figure
+  src="photography/2015-03-15-traces-personal-drifts/fran_simo_traces_1_02__A009704_DxO.jpg"
+  alt="Traces (personal drifts)"
+  link="/docs/art/photography/2015-03-15-traces-personal-drifts/"
+  caption="Traces (personal drifts)"
+  class="image_portfolio"
+>}}
+
+
 
 {{< /columns >}}
 
@@ -36,11 +64,22 @@ Shared Folver
 
 {{< columns >}}
 
+{{< figure
+  src="/docs/art/books/2017-04-02-sarenal-summertime-2016/SArenal-Summertime-COVER.jpg"
+  alt="S’Arenal Summertime 2016"
+  link="/docs/art/books/2017-04-02-sarenal-summertime-2016/"
+  caption="S’Arenal Summertime 2016"
+  class="image_portfolio"
+>}}
 
-![SArenal-Summertime-COVER.jpg](/docs/art/books/2017-04-02-sarenal-summertime-2016/SArenal-Summertime-COVER.jpg)
 <--->
-
-![passengers_2012_cover_en.jpg](/docs/art/books/2013-11-16-passengers-2012/passengers_2012_cover_en.jpg)
+{{< figure
+  src="/docs/art/books/2013-11-16-passengers-2012/passengers_2012_cover_en.jpg"
+  alt="Passengers 2012"
+  link="/docs/art/books/2013-11-16-passengers-2012/"
+  caption="Passengers 2012"
+  class="image_portfolio"
+>}}
 
 
 {{< /columns >}}

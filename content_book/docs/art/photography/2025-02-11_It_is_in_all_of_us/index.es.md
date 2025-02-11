@@ -2,6 +2,7 @@
 author: fran
 image: X1V45282-Enhanced-SR.jpg
 title: Está en todos nosotros
+slug: Esta en todos nosotros
 date: 2025-02-06
 bookToc: false
 aliases: /es/blog/2025/02/06/esta-en-todos-nosotros/
@@ -31,4 +32,4 @@ La tradición mágica siempre ha existido dentro de nosotros. Y siempre resurgir
 brujas, volverá porque es inherente al ser humano.
 
 Surge de nuestros corazones, de las estrellas, del sonido original que resuena en todo: _Está en todos nosotros._
-You can explore the project’s website here: [https://esta-en-todos-nosotros.fransimo.info/](https://esta-en-todos-nosotros.fransimo.info/)
+Puedes explorar la página web del proyecto aquí: [https://esta-en-todos-nosotros.fransimo.info/](https://esta-en-todos-nosotros.fransimo.info/es/)

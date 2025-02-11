@@ -1,9 +1,9 @@
 ---
 weight: 1
-date: "2017-04-02T18:52:55Z"
+date: "2017-04-02"
 author: fran
 bookFlatSection: false
-bookCollapseSection: true
+bookCollapseSection: false
 bookToc: false
 title: "Statement"
 ---
