@@ -50,9 +50,9 @@ title: "Art"
 <--->
 
 {{< figure
-  src="photography/2015-03-15-traces-personal-drifts/fran_simo_traces_1_02__A009704_DxO.jpg"
+  src="/docs/art/photography/Traces_personal_drifts/fran_simo_traces_1_02__A009704_DxO.jpg"
   alt="Traces (personal drifts)"
-  link="/docs/art/photography/2015-03-15-traces-personal-drifts/"
+  link="/docs/art/photography/Traces_personal_drifts/"
   caption="Traces (personal drifts)"
   class="image_portfolio"
 >}}
@@ -66,18 +66,18 @@ title: "Art"
 {{% columns %}}
 
 {{< figure
-  src="/docs/art/books/2017-04-02-sarenal-summertime-2016/SArenal-Summertime-COVER.jpg"
+  src="/docs/art/books/SArenal_summertime_2016/SArenal-Summertime-COVER.jpg"
   alt="S’Arenal Summertime 2016"
-  link="/docs/art/books/2017-04-02-sarenal-summertime-2016/"
+  link="/docs/art/books/SArenal_summertime_2016/"
   caption="S’Arenal Summertime 2016"
   class="image_portfolio"
 >}}
 
 <--->
 {{< figure
-  src="/docs/art/books/2013-11-16-passengers-2012/passengers_2012_cover_en.jpg"
+  src="/docs/art/books/Passengers_2012/passengers_2012_cover_en.jpg"
   alt="Passengers 2012"
-  link="/docs/art/books/2013-11-16-passengers-2012/"
+  link="/docs/art/books/Passengers_2012/"
   caption="Passengers 2012"
   class="image_portfolio"
 >}}
