@@ -142,3 +142,7 @@ output/*
 /.hugo_build.lock
 /resources/_gen/
 /migration/
+
+.DS_Store
+
+/public/
