@@ -1,6 +1,5 @@
 ---
 title: 'Shared Folder (Red box)'
-slug: Shared Folder (Red box)
 date: '2016-05-07T19:51:21+02:00'
 author: fran
 aliases: /es/blog/2016/05/07/shared-folder-red-box/

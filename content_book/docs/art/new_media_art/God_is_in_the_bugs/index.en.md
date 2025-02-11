@@ -23,7 +23,6 @@ tags:
 - software
 - spirituality
 title: God is in the bugs
-slug: God is in the bugs
 aliases: /blog/2021/07/31/god-is-in-the-bugs/
 bookToc: false
 ---

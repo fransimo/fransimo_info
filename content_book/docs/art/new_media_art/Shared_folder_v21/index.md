@@ -16,7 +16,6 @@ tags:
 - post photography
 - privacy
 title: Shared Folder (Red box) v'21
-slug: Shared Folder (Red box) v'21
 aliases: /blog/2021/05/21/shared-folder-red-box-v21/
 ---
 ![](IMG_4934-Editar-2.jpg) 

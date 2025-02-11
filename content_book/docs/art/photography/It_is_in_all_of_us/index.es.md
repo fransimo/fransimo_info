@@ -2,7 +2,6 @@
 author: fran
 image: X1V45282-Enhanced-SR.jpg
 title: Está en todos nosotros
-slug: Esta en todos nosotros
 date: 2025-02-06
 bookToc: false
 aliases: /es/blog/2025/02/06/esta-en-todos-nosotros/
