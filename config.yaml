@@ -6,7 +6,7 @@ title: Fran Simó
 relativeURLs: false
 enableRobotsTXT: false
 
-theme: ["hugo-book"]
+theme: "hugo-book"
 
 module:
   # uncomment line below for temporary local development of module
