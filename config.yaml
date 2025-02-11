@@ -19,6 +19,7 @@ languages:
     en:
         languageName: English
         title: Fran Simó
+        subtitle: Hola
         weight: 1
         contentDir: content_book
     es:
@@ -47,17 +48,17 @@ markup:
 
 menu:
   # before: []
-  after:
-    - name: "github"
-      url: "https://github.com/fransimo"
-      weight: 10
-      params:
-        icon: brand-github
-    - name: "twitter"
-      url: "https://twitter.com/fransimo"
-      weight: 20
-      params:
-        icon: brand-twitter
+#  after:
+#    - name: "github"
+#      url: "https://github.com/fransimo"
+#      weight: 10
+#      params:
+#        icon: brand-github
+#    - name: "instagram"
+#      url: "https://instagram.com/fransimo"
+#      weight: 20
+#      params:
+#        icon: brand-instagram
 
 
 params:

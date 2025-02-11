@@ -4,7 +4,7 @@ categories:
 - photography
 - street photography
 - books, zines and so
-title: Books
+title: Books & zines
 image: X1V16641.jpg
 bookFlatSection: false
 ---

@@ -1,7 +1,9 @@
 ---
 author: fran
 title: 'About'
+weight: 30
 bookFlatSection: false
+bookCollapseSection: true
 bookHidden: false
 bookToc: false
 ---

@@ -1,10 +1,10 @@
 ---
 author: fran
-date: "2015-03-15T17:14:37Z"
 guid: http://fransimo.info/?p=1824
 id: 1824
 image: fran_simo_traces_1_02__A009704_DxO.jpg
 title: Traces (personal drifts)
+bookToc: false
 aliases: /blog/2015/03/15/traces-personal-drifts/
 categories:
 - highlighted

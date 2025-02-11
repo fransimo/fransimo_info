@@ -5,7 +5,7 @@ title: New media art
 image: IMG_5027-Editar-2.jpg
 bookToc: false
 ---
-# New media art home
+# New media art
 {{< columns >}}
 [![#Selfie_v2](XT238744.jpg)](/blog/2021/10/26/selfie_v2/)  
 <--->
