@@ -39,9 +39,9 @@ title: "Art"
 {{% columns %}}
 
 {{< figure
-  src="/docs/art/photography/It-is-in-all-of-us/X1V45282-Enhanced-SR.jpg"
+  src="/docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg"
   alt="It is in all of us"
-  link="/docs/art/photography/It-is-in-all-of-us/"
+  link="/docs/art/photography/It_is_in_all_of_us/"
   caption="It is in all of us"
   class="image_portfolio"
 >}}
