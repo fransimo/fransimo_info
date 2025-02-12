@@ -14,7 +14,7 @@ bookToc: false
   alt="#Selfie_v2"
   link="/docs/art/new_media_art/Selfie_v2/"
   caption="#Selfie_v2"
-  class="image_portfolio"
+  class="image-portfolio"
 >}}
 
 <--->
@@ -24,7 +24,7 @@ bookToc: false
   alt="Shared Folder"
   link="/docs/art/new_media_art/Shared_folder_v21/"
   caption="Shared Folder"
-  class="image_portfolio"
+  class="image-portfolio"
 >}}
 
 
