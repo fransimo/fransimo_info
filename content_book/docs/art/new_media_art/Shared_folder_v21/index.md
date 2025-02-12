@@ -87,13 +87,5 @@ If you want more you can check this links:
 I hope all this material makes you think. That’s my goal.
 
 ## Gallery
-
-![](IMG_4934-Editar-2.jpg) 
-
-![](IMG_5027-Editar-2.jpg) ![](IMG_0026-Editar.jpg) ![](IMG_0668-Editar.jpg)
-
-![](DSC_0157-Editar.jpg) ![](DSC02884-Editar.jpg)
-
-![](DSC01593-Editar.jpg) ![](IMG_0060-Editar.jpg)
-
-![](DSC2674-Editar.jpg)
+{{< load-photoswipe >}}
+{{< gallery caption-position="none" />}}

@@ -6,7 +6,7 @@ title: Fran Simó
 relativeURLs: false
 enableRobotsTXT: false
 
-theme: "hugo-book"
+theme: ["hugo-book", "hugo-photoswipe5-gallery"]
 
 module:
   # uncomment line below for temporary local development of module
@@ -134,6 +134,10 @@ params:
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables a drop-down menu for translations only if a translation is present.
   BookTranslatedOnly: false
+
+  gallery:
+    useExif: false
+    sort: asc
 
 
 
