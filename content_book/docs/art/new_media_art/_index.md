@@ -27,6 +27,4 @@ bookToc: false
   class="image-portfolio"
 >}}
 
-
-
 {{% /columns %}}

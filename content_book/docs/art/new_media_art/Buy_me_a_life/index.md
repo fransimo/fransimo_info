@@ -18,6 +18,7 @@ tags:
 title: Buy me a life!
 aliases: /blog/2021/04/17/buy-me-a-life/
 ---
+![buy_me_a_life_medium.gif](buy_me_a_life_medium.gif)
 
 **Buy me a life! I’ll use my energy to create art, help other artists, walk my spiritual path and share my knowledge.**
 
@@ -32,6 +33,3 @@ Is this a joke? No. My intention is not to be disrespectful to collectors or the
 (\*) The voice was a male one.
 
 
-<video controls autoplay loop>
-<source src="buy_me_a_life.mp4" type="video/mp4" />
-</video>
