@@ -17,7 +17,7 @@ title: "Art"
   alt="#Selfie_v2"
   link="/docs/art/new_media_art/Selfie_v2/"
   caption="#Selfie_v2"
-  class="image_portfolio"
+  class="image-portfolio"
 >}}
 
 <--->
@@ -27,7 +27,7 @@ title: "Art"
   alt="Shared Folder"
   link="/docs/art/new_media_art/Shared_folder_v21/"
   caption="Shared Folder"
-  class="image_portfolio"
+  class="image-portfolio"
 >}}
 
 
@@ -43,7 +43,7 @@ title: "Art"
   alt="It is in all of us"
   link="/docs/art/photography/It_is_in_all_of_us/"
   caption="It is in all of us"
-  class="image_portfolio"
+  class="image-portfolio"
 >}}
 
 
@@ -54,7 +54,7 @@ title: "Art"
   alt="Traces (personal drifts)"
   link="/docs/art/photography/Traces_personal_drifts/"
   caption="Traces (personal drifts)"
-  class="image_portfolio"
+  class="image-portfolio"
 >}}
 
 
@@ -70,7 +70,7 @@ title: "Art"
   alt="S’Arenal Summertime 2016"
   link="/docs/art/books/SArenal_summertime_2016/"
   caption="S’Arenal Summertime 2016"
-  class="image_portfolio"
+  class="image-portfolio"
 >}}
 
 <--->
@@ -79,7 +79,7 @@ title: "Art"
   alt="Passengers 2012"
   link="/docs/art/books/Passengers_2012/"
   caption="Passengers 2012"
-  class="image_portfolio"
+  class="image-portfolio"
 >}}
 
 
