@@ -6,6 +6,7 @@ image: IMG_5027-Editar-2.jpg
 categories:
 - new media art
 bookToc: false
+bookCollapseSection: trues
 ---
 # New media art
 
