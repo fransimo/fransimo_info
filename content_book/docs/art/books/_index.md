@@ -8,6 +8,7 @@ bookFlatSection: false
 bookToc: false
 bookCollapseSection: true
 aliases: /books/
+weight: 20
 ---
 
 # Books

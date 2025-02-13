@@ -1,12 +1,12 @@
 ---
 author: fran
-date: "2022-04-02T18:52:55Z"
 title: New media art
 image: IMG_5027-Editar-2.jpg
 categories:
 - new media art
 bookToc: false
 bookCollapseSection: trues
+weight: 10
 ---
 # New media art
 
