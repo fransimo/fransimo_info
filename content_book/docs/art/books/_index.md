@@ -81,7 +81,7 @@ aliases: /books/
 {{% columns %}}
 
 {{< figure
-  src="/docs/art/books/Passangers/passengers.jpg"
+  src="/docs/art/books/Passengers/passengers.jpg"
   alt="Passengers"
   link="/docs/art/books/Passengers/"
   caption="Book: Passengers"

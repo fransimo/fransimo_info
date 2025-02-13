@@ -22,6 +22,8 @@ passengers. It’s designed as a participative online project. All the images ar
 on Instagram. The site is a “real-time view” of the participation process. The book is a visual meditation on public
 transport passengers and the aesthetics of street photography using mobile devices.
 
+[From the Kodak Brownie to the iPhone](From_the_Kodak_Brownie_to_the_iPhone) is a text I wrote for the book.
+
 It’s available in printed and various ebook formats:
 
 <ul>
