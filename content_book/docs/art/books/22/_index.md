@@ -37,7 +37,16 @@ When I approached the project I knew I wanted to convey a feeling of abandonment
 
 I wanted to show photographs that could have been taken with a camera found among the factory ruins, a cheap camera forgotten by someone while leaving the plant behind. It would have a plastic lens and over the years light leaks would show up inside the camera… also, if it carried any film it would be expired.
 
+{{% columns %}}
+![ISC9166-Edit-2.jpg](ISC9166-Edit-2.jpg) 
+<--->
+![ISC9178.jpg](ISC9178.jpg)
+{{% /columns %}}
+![ISC9179_dxo.jpg](ISC9179_dxo.jpg)
+
+
 {{< vimeo 130667877 >}}
+
 
 
 # Photographs
