@@ -13,6 +13,7 @@ title: Passengers 2012
 aliases: /blog/2013/11/16/passengers-2012/
 bookToc: true
 ---
+
 {{% columns %}}
 ![Passengers 2012](passengers_2012_cover_en.jpg)
 <--->
@@ -59,7 +60,7 @@ this moment in this time capsule that is a book. That’s the purpose of this se
 
 Passengers is a project by Fran Simó for Barcelona Photobloggers. This volume has been directed and edited as a team
 effort by: Marcelo Aurelio, Godo Chillida, Benjamin Julve and Fran Simó. In the
-section [“Participatory Process through the Web”](http://passengers-streetphotography.com/participative-processes-on-the-web-making-of-passengers-2012/),
+section [“Participatory Process through the Web”](/docs/art/books/Passengers_2012/Participative_processes_on_the_web_making_of_passengers_2012),
 you can find more information about the process that we’ve used in this book and our experiences.
 
 You
