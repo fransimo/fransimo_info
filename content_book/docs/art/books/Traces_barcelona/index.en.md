@@ -23,7 +23,17 @@ tags:
 image: all.png
 aliases: /blog/2014/05/02/traces-2013-12-07-barcelona/
 ---
+![DSCF1435.jpg](DSCF1435.jpg)
+
 # Traces - 2013.12.07 - Barcelona
+
+{{% details title="Technical details" open=true %}}
+
+2012-2014  
+
+Transmedia participative project: app, book collection, video and exhibition.
+
+{{% /details %}}
 
 [Traces](http://traces-barcelona.fransimo.info/) is a collective project that provides a chance to experience a dérive \[literally: “drifting”, a technique of rapid passage through varied ambiances\] and verify its capacity to document urban space from different perspectives while using a common methodology and creating a psychogeographical map of Barcelona.
 

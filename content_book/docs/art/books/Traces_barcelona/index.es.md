@@ -1,7 +1,8 @@
 ---
 author: fran
 title: "Traces - 2013.12.07 - Barcelona"
-date: "2014-05-02T12:45:43Z"
+date: "2014-05-02"
+bookToc: false
 author: fran
 categories:
 - Barcelona Photobloggers
@@ -24,9 +25,14 @@ id: 8978
 image: all.png
 aliases: /es/blog/2014/05/02/traces-2013-12-07-barcelona/
 ---
-2012-2014  
-Proyecto transmedia participativo: app, libros, video e instalación.
+![DSCF1435.jpg](DSCF1435.jpg)
 
+# Traces - 2013.12.07 - Barcelona
+{{% details title="Technical details" open=true %}}
+2012-2014  
+
+Proyecto transmedia participativo: app, libros, video y exposición.
+{{% /details %}}
 [Traces](http://traces-barcelona.fransimo.info/) es un proyecto colectivo para experimentar la “deriva” y verificar su
 capacidad para documentar un espacio urbano desde distintas perspectivas con una metodología común, creando un mapa
 psicogeográfico de Barcelona.
@@ -148,3 +154,6 @@ evolucionado para convertirse en lo que ahora podéis disfrutar.
 ![all](all.png)
 
 Traces es un proyecto de Fran Simó para [Barcelona Photobloggers](http://barcelonaphotobloggers.org/).
+
+{{< load-photoswipe >}}
+{{< gallery match="*.JPG" caption-position="none" />}}
