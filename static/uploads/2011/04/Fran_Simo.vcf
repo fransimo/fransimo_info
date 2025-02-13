@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Simó;Fran;;;
+FN:Fran Simó
+ORG:Barcelona Photobloggers;
+EMAIL;type=INTERNET;type=HOME;type=pref:fransimo@gmail.com
+EMAIL;type=INTERNET;type=WORK:fran@barcelonaphotobloggers.org
+TEL;type=IPHONE;type=CELL;type=VOICE;type=pref:+34 655384230
+item1.URL;type=pref:http://fransimo.info/
+item1.X-ABLabel:_$!<HomePage>!$_
+URL;type=WORK:http://barcelonaphotobloggers.org/
+X-ABUID:291797D9-9434-4D8F-B10F-9692BA717A9E:ABPerson
+END:VCARD
