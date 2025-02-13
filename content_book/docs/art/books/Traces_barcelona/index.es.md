@@ -65,50 +65,40 @@ parte de la obra.
 El propósito de tener reglas en la deriva es simplificar. De esta manera, en el momento de la deriva nos preocupamos
 solo por el experiencia en sí misma.
 
-### 1\. Usa una cámara cómoda
+1. **Usa una cámara cómoda.**
+   Sentirse libre de movimiento corporal es fundamental para dejar que la intuición nos guíe con libertad.
+2. **Elige un día para la deriva. El día se dedica completamente a ella.**
+   No puede haber paradas predeterminadas ni actividades dentro de él que no sean fruto de la misma casualidad. El 7 de
+   diciembre del 2013 fue el día que escogimos. Los siete autores nos dividimos los distritos de la ciudad por sorteo para
+   tener un punto de partida.
 
-Sentirse libre de movimiento corporal es fundamental para dejar que la intuición nos guíe con libertad.
+3. **Sal a la calle, enciende el GPS y entrégate a tu intuición.**
+   Tras las primeras reuniones decidimos que sería interesante hacer “una foto” de la ciudad, un día determinado y dividir
+   los puntos de inicio de las derivas al azar.
 
-### 2\. Elige un día para la deriva. El día se dedica completamente a ella.
+4. **Dispara cada vez que algo te llame la atención.**
+   Por bonito, feo, raro, aburrido o divertido… cualquier cosa que te detenga.
 
-No puede haber paradas predeterminadas ni actividades dentro de él que no sean fruto de la misma casualidad. El 7 de
-diciembre del 2013 fue el día que escogimos. Los siete autores nos dividimos los distritos de la ciudad por sorteo para
-tener un punto de partida.
+5. **Después de ese disparo, no dejes que te atrape, sigue al siguiente.**
+   Muchas veces tendemos a repetirnos, pero si nos quedamos en un tema, situación o sujeto no podremos seguir andando.
 
-### 3\. Sal a la calle, enciende el GPS y entrégate a tu intuición.
+6. **Sigue al menos 2 horas y cambia el sentido para regresar.**
+   Lo importante es que cada uno se sienta siempre cómodo. Es necesario pensar un tiempo límite porque luego hay que
+   descargar las fotos, editarlas y aplicarles el post-proceso en el mismo día.
 
-Tras las primeras reuniones decidimos que sería interesante hacer “una foto” de la ciudad, un día determinado y dividir
-los puntos de inicio de las derivas al azar.
+7. **Descarga las fotos y escoge 100 también utilizando la intuición.**
+   En un visor sencillo y rápido, pasa cada foto dejándola solo dos segundos. Si una te llama la atención la marcas, sino
+   pasa a la siguiente.
 
-### 4\. Dispara cada vez que algo te llame la atención.
+   Así como el trayecto y el disparo se basan en la intuición, la edición sigue el mismo concepto. Además, debe ser
+   inmediata para no dar margen a más interpretaciones que la experiencia vivida.
 
-Por bonito, feo, raro, aburrido o divertido… cualquier cosa que te detenga.
+8. **A esas 100 fotos aplícale el post-procesado que define tu estilo.**
+   En esta etapa quienes trabajan con procesos complejos deben encontrar una aproximación para poder entregar las
+   fotografías en el mismo día o reservar más tiempo para procesar dentro del día.
 
-### 5\. Después de ese disparo, no dejes que te atrape, sigue al siguiente.
-
-Muchas veces tendemos a repetirnos, pero si nos quedamos en un tema, situación o sujeto no podremos seguir andando.
-
-### 6\. Sigue al menos 2 horas y cambia el sentido para regresar.
-
-Lo importante es que cada uno se sienta siempre cómodo. Es necesario pensar un tiempo límite porque luego hay que
-descargar las fotos, editarlas y aplicarles el post-proceso en el mismo día.
-
-### 7\. Descarga las fotos y escoge 100 también utilizando la intuición.
-
-En un visor sencillo y rápido, pasa cada foto dejándola solo dos segundos. Si una te llama la atención la marcas, sino
-pasa a la siguiente.
-
-Así como el trayecto y el disparo se basan en la intuición, la edición sigue el mismo concepto. Además, debe ser
-inmediata para no dar margen a más interpretaciones que la experiencia vivida.
-
-### 8\. A esas 100 fotos aplícale el post-procesado que define tu estilo.
-
-En esta etapa quienes trabajan con procesos complejos deben encontrar una aproximación para poder entregar las
-fotografías en el mismo día o reservar más tiempo para procesar dentro del día.
-
-### 9\. Enviar las fotografías al gestor del equipo.
-
-Este recibe todas las fotos y las reparte entre los autores-editores para la edición final.
+9. **Enviar las fotografías al gestor del equipo.**
+   Este recibe todas las fotos y las reparte entre los autores-editores para la edición final.
 
 Un conjunto de reglas también nos permiten la repetición, entre varios individuos, en diferentes lugares y momentos. La
 repetibilidad es una de las características principales de un experimento. Traces, científicamente hablando, podría ser
