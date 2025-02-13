@@ -11,6 +11,7 @@ tags: street photography
 image: passengers.jpg
 title: Passengers
 bookToc: false
+bookCollapseSection: true
 ---
 
 ![passengers.jpg](passengers.jpg)
