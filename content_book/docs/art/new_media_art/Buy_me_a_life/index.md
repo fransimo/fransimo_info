@@ -18,7 +18,15 @@ tags:
 title: Buy me a life!
 aliases: /blog/2021/04/17/buy-me-a-life/
 ---
+
 ![buy_me_a_life_medium.gif](buy_me_a_life_medium.gif)
+
+````
+Selfie glitch video (mp4)
+4 seconds (24,721,836 bytes)
+NFT
+2501Ξ
+````
 
 **Buy me a life! I’ll use my energy to create art, help other artists, walk my spiritual path and share my knowledge.**
 

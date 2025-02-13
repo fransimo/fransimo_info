@@ -21,8 +21,8 @@ aliases: /blog/2021/10/26/selfie_v2/
 
 ---
 ![](XT238820.jpg)
-{{< details title="Technical details" open=true >}}
 
+{{% details title="Technical details" open=true %}}
 - Interactive video sculpture. 1.1 m x 1.1 m x 60 cm.
 - MRIs of feet and knees. Kidney ultrasounds. X-rays of the chest, jaw and teeth. From 2012 up to 2021.
 - Videos in animated GIF format. JPG images.
@@ -32,7 +32,8 @@ screens are located around the chest, coming out of a “spine”. The transpare
 mini computers. The chest consists of a model 4 Pi with a 24″ monitor and a webcam.
 
 Source code @ [github](https://github.com/fransimo/selfie_v2).
-{{< /details >}}
+
+{{% /details %}}
 
 # #Selfie_v2
 

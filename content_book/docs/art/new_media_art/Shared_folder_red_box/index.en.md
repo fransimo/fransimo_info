@@ -8,14 +8,15 @@ image: DSCF3138.jpg
 
 ![Sahred folder box](DSCF3138.jpg)
 
-````
-2015-2016 
-Art book
+{{% details title="Technical details" open=true %}}
+```
+Art book (2015-2016)
 10,50 x 20,50 x 38cm
 29 A4 80gm pages
 57 13x18cm photographs  
 6 Folders
-````
+```
+{{% /details %}}
 
 
 # Shared Folder (Red box)

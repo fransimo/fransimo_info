@@ -7,6 +7,7 @@ image: DSCF3138.jpg
 ---
 ![Sahred folder box](DSCF3138.jpg)
 
+{{% details title="Datos técnicos" open=true %}}
 ````
 Libro de artista  
 10,50 x 20,50 x 38cm  
@@ -14,10 +15,9 @@ Libro de artista
 57 fotografías 13x18cm  
 6 Carpetas
 ````
+{{% /details %}}
 
 # Shared Folder (Red box)
-
-
 
 Cuando la _[found photography](https://en.wikipedia.org/wiki/Found_photography)_ entra en la era digital se basa en imagenes encontradas en webs públicas, como redes sociales: Flickr, Instagram, Google Street View. En todos estos casos el creador de las imágenes tuvo la intención de hacer estas imágenes accesibles (aunque solo fuera por una obligación legal, como los sistemas de vigilancia)
 

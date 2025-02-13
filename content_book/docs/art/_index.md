@@ -13,7 +13,7 @@ title: "Art"
 {{% columns %}}
 
 {{< figure
-  src="/docs/art/new_media_art/XT238744.jpg"
+  src="/docs/art/new_media_art/Selfie_v2/XT238744.jpg"
   alt="#Selfie_v2"
   link="/docs/art/new_media_art/Selfie_v2/"
   caption="#Selfie_v2"
@@ -23,12 +23,13 @@ title: "Art"
 <--->
 
 {{< figure
-  src="/docs/art/new_media_art/IMG_5027-Editar-2.jpg"
+  src="/docs/art/new_media_art/Shared_folder_v21/IMG_5027-Editar-2.jpg"
   alt="Shared Folder"
   link="/docs/art/new_media_art/Shared_folder_v21/"
   caption="Shared Folder"
   class="image-portfolio"
 >}}
+
 
 
 

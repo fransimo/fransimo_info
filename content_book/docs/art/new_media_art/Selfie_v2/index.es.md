@@ -60,12 +60,5 @@ El observador cuidadoso notará que los videos de las resonancias dan “saltos�
 
 ## Galería
 
-![](XT238820.jpg) ![](XT238744.jpg)
-
-![](XT238761.jpg) ![](XT238764.jpg) 
-
-![](XT238773.jpg) ![](XT238777.jpg) 
-
-![](XT238787.jpg) ![](XT238794.jpg) 
-
-![](XT238818.jpg)
+{{< load-photoswipe >}}
+{{< gallery caption-position="none" />}}
