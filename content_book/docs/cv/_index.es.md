@@ -12,7 +12,6 @@ Arte, tacto y código para recorrer juntos el camino.
 
 {{% columns %}}
 
-[Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info)
 
 Esta etapa de mi viaje se centra en conectar el arte, la sanación (la magia) y la tecnología, integrando estas
 disciplinas para crear expresiones artísticas significativas.
@@ -43,7 +42,6 @@ sanación y la expansión de la conciencia a través del arte.
 ## Links
 
 - [Instagram](https://www.instagram.com/fransimo)
-- [Artist web](https://fransimo.info/), [statement](https://fransimo.info/es/statement/)
 - [Linkedin](https://www.linkedin.com/in/fransimo/)
 - [CV detallado (solo en inglés)](detailed_cv.md)
 

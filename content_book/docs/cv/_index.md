@@ -15,7 +15,6 @@ Art, touch and code to walk the path together.
 
 {{% columns %}}
 
-[Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info)
 
 This stage of my journey focuses on connecting art, healing (magic), and technology, integrating these disciplines to
 create meaningful artistic expressions.
@@ -45,7 +44,6 @@ healing and the expansion of consciousness through art.
 ## Links
 
 - [Instagram](https://www.instagram.com/fransimo)
-- [Artist web](https://fransimo.info/), [statement](https://fransimo.info/es/statement/)
 - [Linkedin](https://www.linkedin.com/in/fransimo/)
 - [Full CV](detailed_cv.md)
 
