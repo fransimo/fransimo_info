@@ -2,19 +2,14 @@
 author: fran
 categories:
 - new media art
-date: "2019-05-29T21:02:00Z"
-summary: |-
-  2019
-  Book
-  166 A3 pages.
-guid: https://fransimo.info/blog/2019/05/29/code-by-r-mutt/
-id: 9233
+- ready made
+date: 2019-05-29
 image: X1V16641_v2.jpg
 tags:
 - non creative writing
 - open source
 - ready made
-- spftware art
+- software art
 title: CODE by R.Mutt
 lang: es
 aliases: /es/blog/2019/05/29/code-by-r-mutt/

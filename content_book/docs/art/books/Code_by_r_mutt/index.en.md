@@ -2,23 +2,14 @@
 author: fran
 categories:
 - new media art
-date: "2019-05-29T21:02:00Z"
-summary: |-
-  2019
-  Book
-  166 A3 pages.
-links:
-  - title: GitHub
-    description: Open sourced
-    website: https://github.com/r-mutt-1917/CODE
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-
+- ready made
+date: 2019-05-29
 image: X1V16641_v2.jpg
 tags:
 - non creative writing
 - open source
 - ready made
-- spftware art
+- software art
 title: CODE by R.Mutt
 aliases: /blog/2019/05/29/code-by-r-mutt/
 ---
