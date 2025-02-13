@@ -40,7 +40,9 @@ Esta primera serie de imágenes son el resultado de cálculos estadísticos sobr
 Otra manera de percibir esta acumulación de imágenes es pasar las imágenes a toda velocidad desenfocando un poco la vista. Se puede apreciar el mismo “efecto promedio” mirando el siguiente vídeo, que tiene 2582 imágenes pasando a una velocidad de 25 por segundo <a href="http://vimeo.com/49552899">http://vimeo.com/49552899</a>
 
 <strong>Actualización 14/2/2013</strong>: También podéis ver las "hojas de contacto" aquí <a title="Mugs from the cloud" href="http://cloudmugshots.fransimo.info/">http://cloudmugshots.fransimo.info/</a>
+
 <strong>Actualización 6/8/2013</strong>: La base de datos ya contiene 75 millones de imágenes y ha reconocido 345,625 caras.
+
 <strong>Actualización 25/1/2015</strong>: a base de datos ya contiene 88 millones de imágenes y ha reconocido 1,250,415 caras.
 
 ## El algoritmo
@@ -133,14 +135,17 @@ El entrenamiento se ha hecho con la librería de visión artificial openCV versi
 
 ### ¿Qué software se ha utilizado?
 
-Base de datos: MySQL varias versiones con los años.
-Lenguajes de programación: PHP y C.
-Librería de visión artificial: openCV 2.1 y 2.3
-Para las tareas “humanas” de visualización Lightroom 4 y Photoshop 5.
+- Base de datos: MySQL varias versiones con los años.
+- Lenguajes de programación: PHP y C.
+- Librería de visión artificial: openCV 2.1 y 2.3
+- Para las tareas “humanas” de visualización Lightroom 4 y Photoshop 5.
 
 ### ¿Como se hizo el render estadístico?
 
 Después del entrenamiento se evaluaron los posibles retratos en las 5 millones de imágenes guardando los resultados en una base de datos. Un programa en PHP descargó las imágenes de Flickr y generó JPGs con la información que encontró el algoritmo de reconocimiento.
+
 Estos JPGs se importan en Lightroom donde se puede hacer una revisión humana. Los JPGs se pueden ver con y sin el re-encuadre para poder evaluarlos.
+
 Tras separar por resolución se exportaron las 257 imágenes a 3000x3000. Muchas tenían más resolución pero para el cálculo deben ser todas iguales.
+
 Las 257 imágenes se abren en Photoshop como capas, estas se agrupan en un objeto inteligente al que se le pide que haga los cálculos estadísticos.

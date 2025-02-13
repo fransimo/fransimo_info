@@ -55,6 +55,7 @@ weight: 10
 >}}
 
 {{% /columns %}}
+
 {{% columns %}}
 {{< figure
   src="/docs/art/new_media_art/Shared_folder_red_box/DSCF3138.jpg"
@@ -64,6 +65,15 @@ weight: 10
   class="image-portfolio"
 >}}
 
-
 <--->
+
+{{< figure
+  src="/docs/art/new_media_art/I_dreamed_about_a_human_being/fran_simo_0002_Untitled1_mean_.jpg"
+  alt="I dreamed about a human being"
+  link="/docs/art/new_media_art/I_dreamed_about_a_human_being/"
+  caption="Print: I dreamed about a human being"
+  class="image-portfolio"
+>}}
+
 {{% /columns %}}
+

@@ -42,7 +42,9 @@ This first series of images is the result of statistical calculations on 257 fac
 Another way of viewing these accumulated images is by seeing them pass by at full speed and blurring your vision a little. You can see the same “average effect” by watching the following video, which has 2,582 images moving at a rate of 25 images per second: <a href="http://vimeo.com/49552899">http://vimeo.com/49552899</a>
 
 <strong>2/14/2013 update</strong>: You can also see it as "contact sheets" here <a title="Mugs from the cloud" href="http://contact-sheets-idahb.fransimo.info/">http://contact-sheets-idahb.fransimo.info/</a>
+
 <strong>8/6/2013 update</strong>: Database has 75 millions of images and had recognized 345,625 faces.
+
 <strong>1/25/2015 update</strong>: Database has 88 millions of images and had recognized 1,250,415 faces.
 
 ## The algorithm
@@ -68,6 +70,7 @@ An example of the algorithm at work can be seen below in a photograph of a perso
 The algorithm’s learning is supervised. You teach it, it learns and you assess it until you obtain a satisfactory result. Each iteration adds faces and the mistakes that it has made are explained to it.
 
 As part of its assessment I needed to see all the images statistically described by their average, median, maximum and minimum. This is how I came across “I dreamed about a human being”. On seeing the pictures I thought: “Is this how a robot would imagine us?”
+
 <table>
 <tbody>
 <tr>
@@ -132,19 +135,21 @@ Processing took 3 weeks using an Intel Core i5 650 3.20GHz x 4 processor with 12
 
 ### Why 257 over 5 millions?
 
-5 millions images of 500 pixels uses almost a terabyte, the disc size I use for the photo library.
-Within this 5 millions, the algorithm found 166 thousand portraits, but only 257 has more than 6 mega-pixels and fill more than 70% of the original image. I though this would be a good resolution for a printed copy. “I dreamed about a human being” has 3000x3000 pixels.
+5 millions images of 500 pixels uses almost a terabyte, the disc size I use for the photo library. Within this 5 millions, the algorithm found 166 thousand portraits, but only 257 has more than 6 mega-pixels and fill more than 70% of the original image. I though this would be a good resolution for a printed copy. “I dreamed about a human being” has 3000x3000 pixels.
 
 ### Which software has been used?
 
-Database: MySQL, various versions.
-Programming language: PHP and C.
-Computer vision library: openCV 2.1 and 2.3
-For human visualization: Lightroom 4 and Photoshop 5.
+- Database: MySQL, various versions.
+- Programming language: PHP and C.
+- Computer vision library: openCV 2.1 and 2.3
+- For human visualization: Lightroom 4 and Photoshop 5.
 
 ### How was made the statical render?
 
 With the 3th version of trained cascade I ran a test over the library. The results were stored in MySQL.
-A PHP program download high resolution images from Flicrk and generates JPGs files with cropping information of detection. All these files were imported into Lightroom where images can be seen in a cropped and original version.
+
+A PHP program download high resolution images from Flickr and generates JPGs files with cropping information of detection. All these files were imported into Lightroom where images can be seen in a cropped and original version.
+
 A group of 257 images was selected by its resolution and exported at 3000 by 3000 pixels. Most images has a bigger resolution.
-Then those images were opened in Photoshop as layers and stacked into a “smart object” and rendered
+
+Then those images were opened in Photoshop as layers and stacked into a “smart object” and rendered.
