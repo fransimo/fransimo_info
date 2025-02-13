@@ -6,7 +6,7 @@ categories:
   - street photography
   - books, zines and so
   - Barcelona Photobloggers
-  - projects
+  - Textos
 tags: street photography
 title: "Procesos participativos en red, cómo se hizo Passengers 2012"
 bookToc: false

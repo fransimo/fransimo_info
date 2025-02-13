@@ -6,7 +6,7 @@ categories:
   - street photography
   - books, zines and so
   - Barcelona Photobloggers
-  - projects
+  - Texts
 tags: street photography
 title: "Participative Processes on the Web: Making of Passengers 2012"
 bookToc: false
