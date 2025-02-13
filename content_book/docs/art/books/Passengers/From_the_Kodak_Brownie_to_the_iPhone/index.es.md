@@ -10,6 +10,7 @@ categories:
 tags: street photography
 title: De la Kodak Brownie al iPhone
 bookToc: false
+aliases: /es/blog/2011/12/20/passengers-de-la-kodak-brownie-al-iphone-libro/
 ---
 
 # De la Kodak Brownie al iPhone
@@ -22,6 +23,29 @@ La Kodak Brownie es reconocida como el principio de la masificación de la fotog
 snapshot: una fotografía hecha sin pensar con un disparo rápido, sin ninguna intención artística o documental que
 normalmente no está bien enfocada, ni bien encuadrada, en la que el sujeto acostumbra ser la vida diaria, cumpleaños,
 atardeceres, mascotas o viajes.
+
+{{% columns %}}
+
+{{< figure
+  src="la-foto-2.jpg"
+  alt="Woman reading, about 1890 National Media Museum – Kodak Gallery Collection"
+  link="https://www.flickr.com/photos/nationalmediamuseum/2780164461/in/faves-fransimo/"
+  caption="Woman reading, about 1890 National Media Museum – Kodak Gallery Collection"
+  class="image-portfolio"
+>}}
+>
+
+<--->
+
+{{< figure
+  src="la-foto-1.jpg"
+  alt="Two men on the deck of a ship, about 1890 National Media Museum – Kodak Gallery Collection"
+  link="https://www.flickr.com/photos/nationalmediamuseum/2781021446/in/faves-fransimo/"
+  caption="Two men on the deck of a ship, about 1890 National Media Museum – Kodak Gallery Collection"
+  class="image-portfolio"
+>}}
+
+{{% /columns %}}
 
 Pero los snapshots evolucionaron en varios sentidos. Se han constituido en la reserva de la memoria visual,
 especialmente en Estados Unidos, donde se han hecho muchas investigaciones, publicaciones y exposiciones a partir de

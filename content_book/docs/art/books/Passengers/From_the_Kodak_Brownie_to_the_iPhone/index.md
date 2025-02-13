@@ -10,6 +10,7 @@ categories:
 tags: street photography
 title: From the Kodak Brownie to the iPhone
 bookToc: false
+aliases: /blog/2011/12/20/passengers-de-la-kodak-brownie-al-iphone-libro/
 ---
 
 # From the Kodak Brownie to the iPhone
@@ -21,6 +22,29 @@ mobile phone, it is in reality the continuation of a trend that began with the a
 The Kodak Brownie is recognised as the beginning of photography for the masses and with it was born the term “snapshot”:
 a photograph taken quickly without thinking, without any artistic or documentary intent, usually blurry, badly framed
 and in which the subject is usually a scene from everyday life, such as birthdays, sunsets, pets or travel.
+
+{{% columns %}}
+
+{{< figure
+  src="la-foto-2.jpg"
+  alt="Woman reading, about 1890 National Media Museum – Kodak Gallery Collection"
+  link="https://www.flickr.com/photos/nationalmediamuseum/2780164461/in/faves-fransimo/"
+  caption="Woman reading, about 1890 National Media Museum – Kodak Gallery Collection"
+  class="image-portfolio"
+>}}
+>
+
+<--->
+
+{{< figure
+  src="la-foto-1.jpg"
+  alt="Two men on the deck of a ship, about 1890 National Media Museum – Kodak Gallery Collection"
+  link="https://www.flickr.com/photos/nationalmediamuseum/2781021446/in/faves-fransimo/"
+  caption="Two men on the deck of a ship, about 1890 National Media Museum – Kodak Gallery Collection"
+  class="image-portfolio"
+>}}
+
+{{% /columns %}}
 
 But snapshots evolved in several ways and have become the reserve of visual memory, especially in America, where many
 research projects, publications and exhibitions have been based on these anonymous snapshots.
