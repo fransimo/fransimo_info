@@ -2,6 +2,7 @@
 author: fran
 categories:
 - new media art
+- NFT
 date: "2021-10-26T22:03:36Z"
 image: XT238794.jpg
 tags:

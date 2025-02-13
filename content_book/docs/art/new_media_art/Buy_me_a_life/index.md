@@ -2,6 +2,7 @@
 author: fran
 categories:
 - new media art
+- NFT
 date: "2021-04-17T12:43:13Z"
 excerpt: "Selfie glitch video (mp4)\n4 seconds (24,721,836 bytes)\nNFT \n2501Ξ "
 image: buy_me_a.jpg
