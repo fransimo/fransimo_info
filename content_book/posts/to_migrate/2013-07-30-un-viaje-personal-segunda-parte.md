@@ -11,7 +11,7 @@ categories:
     - 'Calle 35'
 ---
 
-<img class="aligncenter size-full wp-image-5080" src="http://fransimo.info/wp-content/uploads/2013/07/Untitled_Crowd_1_1992.jpg" alt="City of Shadows - Alexey Titarenko" width="540" height="518" />
+<img class="aligncenter size-full wp-image-5080" src="/uploads/2013/07/Untitled_Crowd_1_1992.jpg" alt="City of Shadows - Alexey Titarenko" width="540" height="518" />
 
 City of Shadows – © Alexey Titarenko
 
@@ -21,6 +21,6 @@ Desde que tuve en mis manos el libro <a href="http://www.thamesandhudson.com/Str
  	<li>la explotación del subconsciente</li>
  	<li>inteligencia espacial</li>
 </ul>
-Salir a la calle con una cámara a encontrar vida… y retratarla. Sin que tenga que perseguir una idea conceptual, sin que las imágenes tengan que formar una serie, sin construir, tan solo descubrir la imagen. Este espíritu, es lo que define la street. Si os interesa Titarenko y una posible relación con la street os puede gustar esta <a href="http://www.theasc.com/blog/2009/12/07/street-wise-the-photography-of-garry-winogrand-and-alexey-titarenko/">The Photography of Garry Winogrand and Alexey Titarenko</a>. Aun a riesgo de ser cansino tengo que repetir que esto es una búsqueda personal, no académica. <img class="aligncenter wp-image-5079 size-full" src="http://fransimo.info/wp-content/uploads/2013/07/05.jpg" sizes="(max-width: 570px) 100vw, 570px" srcset="http://calle35.com/wp-content/uploads/2013/07/05-300x197.jpg 300w, http://fransimo.info/wp-content/uploads/2013/07/05.jpg 570w" alt="New Bond Street - Matt Stuart" width="570" height="375" />
+Salir a la calle con una cámara a encontrar vida… y retratarla. Sin que tenga que perseguir una idea conceptual, sin que las imágenes tengan que formar una serie, sin construir, tan solo descubrir la imagen. Este espíritu, es lo que define la street. Si os interesa Titarenko y una posible relación con la street os puede gustar esta <a href="http://www.theasc.com/blog/2009/12/07/street-wise-the-photography-of-garry-winogrand-and-alexey-titarenko/">The Photography of Garry Winogrand and Alexey Titarenko</a>. Aun a riesgo de ser cansino tengo que repetir que esto es una búsqueda personal, no académica. <img class="aligncenter wp-image-5079 size-full" src="/uploads/2013/07/05.jpg" sizes="(max-width: 570px) 100vw, 570px" srcset="http://calle35.com/wp-content/uploads/2013/07/05-300x197.jpg 300w, /uploads/2013/07/05.jpg 570w" alt="New Bond Street - Matt Stuart" width="570" height="375" />
 
 New Bond Street – © Matt Stuart

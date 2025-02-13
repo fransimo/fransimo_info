@@ -17,8 +17,8 @@ El verano pasado viajamos a New York. Pensé "¡Verano! ¡New York! ¡Coney Isla
 <table>
 <tbody>
 <tr>
-<td width="50%"><img src="http://fransimo.info/wp-content/uploads/2011/03/barceloneta_0001_000016-500x337.jpg" alt="" title="Barceloneta 5 - Miradas cruzadas" class="alignleft size-medium wp-image-488"></td>
-<td width="50%"><img src="http://fransimo.info/wp-content/uploads/2011/03/barceloneta_0007_000035-1-500x337.jpg" alt="" title="Barceloneta 11 - Otras curvas" class="alignright size-medium wp-image-492"></td>
+<td width="50%"><img src="/uploads/2011/03/barceloneta_0001_000016-500x337.jpg" alt="" title="Barceloneta 5 - Miradas cruzadas" class="alignleft size-medium wp-image-488"></td>
+<td width="50%"><img src="/uploads/2011/03/barceloneta_0007_000035-1-500x337.jpg" alt="" title="Barceloneta 11 - Otras curvas" class="alignright size-medium wp-image-492"></td>
 </tr>
 </tbody>
 </table>
@@ -30,8 +30,8 @@ Podría haber perseguido a los frikis, habitantes naturales de San Sebastián, p
 <table>
 <tbody>
 <tr>
-<td width="50%"><img src="http://fransimo.info/wp-content/uploads/2011/03/barceloneta_0008_000006-500x337.jpg" alt="" title="Barceloneta 12" class="alignleft size-medium wp-image-493"></td>
-<td width="50%"><img src="http://fransimo.info/wp-content/uploads/2011/03/barceloneta_0017__ISC3884-Edit-500x332.jpg" alt="" title="Barceloneta 23" class="alignright size-medium wp-image-494"></td>
+<td width="50%"><img src="/uploads/2011/03/barceloneta_0008_000006-500x337.jpg" alt="" title="Barceloneta 12" class="alignleft size-medium wp-image-493"></td>
+<td width="50%"><img src="/uploads/2011/03/barceloneta_0017__ISC3884-Edit-500x332.jpg" alt="" title="Barceloneta 23" class="alignright size-medium wp-image-494"></td>
 </tr>
 </tbody>
 </table>

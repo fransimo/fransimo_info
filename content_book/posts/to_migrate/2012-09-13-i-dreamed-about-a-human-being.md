@@ -29,7 +29,7 @@ tags:
     - postphotography
 ---
 
-<img src="http://fransimo.info/wp-content/uploads/2012/08/fran_simo_0001_Untitled1_medium_-500x500.jpg" alt="I&#039;ve dreamed about a human being" width="500" height="500" class="alignleft size-medium wp-image-1123" />
+<img src="/uploads/2012/08/fran_simo_0001_Untitled1_medium_-500x500.jpg" alt="I&#039;ve dreamed about a human being" width="500" height="500" class="alignleft size-medium wp-image-1123" />
 How would a robot imagine a human face? “I dreamed about a human being” is like spying into a robot’s brain.
 
 “I dreamed about a human being” is part of a project exploring the use of artificial intelligence as applied to photography by using online open source code and data. The project already has a database of 56 million images. We have freely accessible amazing tools and databases of gigantic images, but have not yet fully understood what we can do with them or what it means that they are there.
@@ -54,7 +54,7 @@ In other words, the algorithm reframes a photograph in order to convert it into 
 
 An example of the algorithm at work can be seen below in a photograph of a person against a landscape background. The algorithm recognises the face and frames it. We can see how the eyes tend to be positioned in the central lines of the rule of thirds and the mouth in the lower middle third.
 
-<center><a href="http://www.flickr.com/photos/fraboof/2126593950/"><img class="alignnone size-medium wp-image-1187" title="ejemplo_recorte" src="http://fransimo.info/wp-content/uploads/2012/09/ejemplo_recorte-500x386.png" alt="" width="500" height="386" />
+<center><a href="http://www.flickr.com/photos/fraboof/2126593950/"><img class="alignnone size-medium wp-image-1187" title="ejemplo_recorte" src="/uploads/2012/09/ejemplo_recorte-500x386.png" alt="" width="500" height="386" />
 "Me on the top of matanga hill" by fraboof</a></center>
 
 The algorithm’s learning is supervised. You teach it, it learns and you assess it until you obtain a satisfactory result. Each iteration adds faces and the mistakes that it has made are explained to it.
@@ -63,12 +63,12 @@ As part of its assessment I needed to see all the images statistically described
 <table>
 <tbody>
 <tr>
-<td><a href="http://fransimo.info/wp-content/uploads/2012/08/fran_simo_0001_Untitled1_medium_.jpg"><img class="alignnone size-full wp-image-1192" title="fran_simo_0001_Untitled1_medium_200" src="http://fransimo.info/wp-content/uploads/2012/09/fran_simo_0001_Untitled1_medium_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="http://fransimo.info/wp-content/uploads/2012/08/fran_simo_0003_Untitled1_dev_std_.jpg"><img class="alignnone size-full wp-image-1193" title="fran_simo_0003_Untitled1_dev_std_200" src="http://fransimo.info/wp-content/uploads/2012/09/fran_simo_0003_Untitled1_dev_std_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="http://fransimo.info/wp-content/uploads/2012/08/fran_simo_0004_Untitled1_variance_.jpg"><img class="alignnone size-full wp-image-1194" title="fran_simo_0004_Untitled1_variance_200" src="http://fransimo.info/wp-content/uploads/2012/09/fran_simo_0004_Untitled1_variance_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="http://fransimo.info/wp-content/uploads/2012/08/fran_simo_0005_Untitled1_skew_.jpg"><img class="alignnone size-full wp-image-1195" title="fran_simo_0005_Untitled1_skew_200" src="http://fransimo.info/wp-content/uploads/2012/09/fran_simo_0005_Untitled1_skew_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="http://fransimo.info/wp-content/uploads/2012/08/fran_simo_0007_Untitled1_range_.jpg"><img class="alignnone size-full wp-image-1197" title="fran_simo_0007_Untitled1_range_200" src="http://fransimo.info/wp-content/uploads/2012/09/fran_simo_0007_Untitled1_range_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="http://fransimo.info/wp-content/uploads/2012/08/fran_simo_0006_Untitled1_min_.jpg"><img class="alignnone size-full wp-image-1196" title="fran_simo_0006_Untitled1_min_200" src="http://fransimo.info/wp-content/uploads/2012/09/fran_simo_0006_Untitled1_min_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="/uploads/2012/08/fran_simo_0001_Untitled1_medium_.jpg"><img class="alignnone size-full wp-image-1192" title="fran_simo_0001_Untitled1_medium_200" src="/uploads/2012/09/fran_simo_0001_Untitled1_medium_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="/uploads/2012/08/fran_simo_0003_Untitled1_dev_std_.jpg"><img class="alignnone size-full wp-image-1193" title="fran_simo_0003_Untitled1_dev_std_200" src="/uploads/2012/09/fran_simo_0003_Untitled1_dev_std_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="/uploads/2012/08/fran_simo_0004_Untitled1_variance_.jpg"><img class="alignnone size-full wp-image-1194" title="fran_simo_0004_Untitled1_variance_200" src="/uploads/2012/09/fran_simo_0004_Untitled1_variance_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="/uploads/2012/08/fran_simo_0005_Untitled1_skew_.jpg"><img class="alignnone size-full wp-image-1195" title="fran_simo_0005_Untitled1_skew_200" src="/uploads/2012/09/fran_simo_0005_Untitled1_skew_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="/uploads/2012/08/fran_simo_0007_Untitled1_range_.jpg"><img class="alignnone size-full wp-image-1197" title="fran_simo_0007_Untitled1_range_200" src="/uploads/2012/09/fran_simo_0007_Untitled1_range_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="/uploads/2012/08/fran_simo_0006_Untitled1_min_.jpg"><img class="alignnone size-full wp-image-1196" title="fran_simo_0006_Untitled1_min_200" src="/uploads/2012/09/fran_simo_0006_Untitled1_min_200.jpg" alt="" width="170" height="170" /></a></td>
 </tr>
 <tr align="center">
 <td>Median</td>

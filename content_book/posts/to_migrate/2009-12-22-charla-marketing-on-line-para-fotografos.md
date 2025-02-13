@@ -7,8 +7,8 @@ layout: post
 guid: 'http://fransimo.info/?p=762'
 aliases:  /es/blog/2009/12/22/charla-marketing-on-line-para-fotografos/
 enclosure:
-    - "http://fransimo.info/wp-content/uploads/2009/12/DS300041.mp3\n99233120\naudio/mpeg\n"
-    - "http://fransimo.info/wp-content/uploads/2009/12/mkt_on_line-Mediano.m4v\n11550862\nvideo/mp4\n"
+    - "/uploads/2009/12/DS300041.mp3\n99233120\naudio/mpeg\n"
+    - "/uploads/2009/12/mkt_on_line-Mediano.m4v\n11550862\nvideo/mp4\n"
 image: /wp-content/uploads/2009/12/mkt_on_line_oscar_ciutat.jpg
 categories:
     - 'Barcelona Photobloggers'
@@ -17,13 +17,13 @@ categories:
 
 En el taller <a href="http://barcelonaphotobloggers.org/2009/11/02/vivir-de-la-fotografia-en-el-siglo-xxi-tecnica-estilo-personal-y-estrategias-de-marketing/">Vivir de la fotografía en el siglo XXI</a> se respiraba la necesidad de ampliar las ponencias relacionadas con marketing on-line y redes sociales. Se nos ocurrió que podíamos continuar el tema con una charla informal reuniendo fotógrafos profesionales por un lado y expertos de marketing y redes sociales por otro.
 
-Preparé un <a href="http://fransimo.info/wp-content/uploads/2009/12/Script_Marketing_on_line_para_fotografos.pdf">guión</a> muy básico para que todos los ponentes supiéramos por dónde ir. A diferencia de un curso no habría ejemplos, ni recetas de cómo hacer un perfil en la red social "a" o "b". La intención era transmitir una serie de ideas básicas de marketing.
+Preparé un <a href="/uploads/2009/12/Script_Marketing_on_line_para_fotografos.pdf">guión</a> muy básico para que todos los ponentes supiéramos por dónde ir. A diferencia de un curso no habría ejemplos, ni recetas de cómo hacer un perfil en la red social "a" o "b". La intención era transmitir una serie de ideas básicas de marketing.
 
-La charla se puede <a href="http://fransimo.info/wp-content/uploads/2009/12/DS300041.mp3">descargar</a> como fichero o escuchar aquí.
+La charla se puede <a href="/uploads/2009/12/DS300041.mp3">descargar</a> como fichero o escuchar aquí.
 
 <!--more-->
 
-[embed]http://fransimo.info/wp-content/uploads/2009/12/DS300041.mp3[/embed]
+[embed]/uploads/2009/12/DS300041.mp3[/embed]
 
 Las ideas principales que queríamos transmitir eran
 <ul>
@@ -74,6 +74,6 @@ Algunas ideas muy personales que expresé en la reunión:
 Hemos tenido la suerte de contar con el apoyo de <a href="http://www.sincronia.cat/">Francesc Muntada</a>, quien consiguió la sala del <a href="http://www.iec.cat/">Institut d'Estudis Catalans</a> donde nos reunimos. Los ánimos de <a href="http://tinosoriano.com/">Tino Soriano</a> y <a href="http://www.shan.cat/">Valentí Zapater</a> para organizar la charla. La ayuda de <a href="http://www.tobiasfeijoo.es/">Toni Rodríguez</a>, <a href="http://naturpixel.com/">Joan Vendrell</a>, <a href="http://godochillida.aminus3.com/">Godo Chillida</a>, <a href="http://www.marceloaurelio.com/nocturama/">Marcelo Aurelio</a>, <a href="http://alfonsopara.info/">Alfonso Para</a> y <a href="http://nitifixis.com/">Oscar Ciutat</a> como ponentes. Y unos oyentes de lujo: <a href="http://enfocant.blogspot.com/">Rosa Maria Vila</a>, <a href="http://www.rogerllonch.com/">Roger Llonch</a>, <a href="http://www.shan.cat/">Valentí Zapater</a>, <a href="http://xampeny.blogspot.com/">Jordi Xampeny</a>, <a href="http://www.jordibas.net/ca/homepage">Jordi Bas</a>, <a href="http://www.eritja.com/">Roger Eritja</a>, <a href="http://www.foreste.com/maso/indice.htm">Albert Masó</a>, Antoni Fernàndez, <a href="http://www.fotonatura.org/miembros/fichas/7934/">Quim Reverté</a> y Montse Guillamon.
 
 Al final, de recuerdo, las fotos de Marcelo:
-[embed]http://fransimo.info/wp-content/uploads/2009/12/mkt_on_line-Mediano.m4v[/embed]
+[embed]/uploads/2009/12/mkt_on_line-Mediano.m4v[/embed]
 
 Originalmente publicada en <a href="http://barcelonaphotobloggers.org/?p=2598">Barcelona Photobloggers</a>.

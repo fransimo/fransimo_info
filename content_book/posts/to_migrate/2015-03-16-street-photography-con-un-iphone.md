@@ -33,21 +33,21 @@ Al caminar solo modificar la velocidad si percibimos que la luz cambia mucho. En
 
 Al final de la entrada encontraréis un link para descargar todas las pruebas a resolución completa para poder evaluar vosotros mismos. Estos son unos ejemplos, sin recortar, pero post-procesados.
 
-<img class="aligncenter size-full wp-image-7883" src="http://fransimo.info/wp-content/uploads/2015/03/IMG_2845.jpg" alt="Processed with VSCOcam with g2 preset" width="600" height="450">
+<img class="aligncenter size-full wp-image-7883" src="/uploads/2015/03/IMG_2845.jpg" alt="Processed with VSCOcam with g2 preset" width="600" height="450">
 
-<img class="aligncenter size-full wp-image-7882" src="http://fransimo.info/wp-content/uploads/2015/03/IMG_2836.jpg" alt="Processed with VSCOcam with b4 preset" width="600" height="450">
+<img class="aligncenter size-full wp-image-7882" src="/uploads/2015/03/IMG_2836.jpg" alt="Processed with VSCOcam with b4 preset" width="600" height="450">
 
-<img class="aligncenter size-full wp-image-7884" src="http://fransimo.info/wp-content/uploads/2015/03/IMG_2860.jpg" alt="Processed with VSCOcam with g2 preset" width="600" height="450">
+<img class="aligncenter size-full wp-image-7884" src="/uploads/2015/03/IMG_2860.jpg" alt="Processed with VSCOcam with g2 preset" width="600" height="450">
 
-<img class="aligncenter size-full wp-image-7881" src="http://fransimo.info/wp-content/uploads/2015/03/IMG_2817.jpg" alt="Processed with VSCOcam with b4 preset" width="600" height="450">
+<img class="aligncenter size-full wp-image-7881" src="/uploads/2015/03/IMG_2817.jpg" alt="Processed with VSCOcam with b4 preset" width="600" height="450">
 
-<img class="aligncenter size-full wp-image-7877" src="http://fransimo.info/wp-content/uploads/2015/03/IMG_2752_DxO.jpg" alt="IMG_2752_DxO" width="600" height="450">
+<img class="aligncenter size-full wp-image-7877" src="/uploads/2015/03/IMG_2752_DxO.jpg" alt="IMG_2752_DxO" width="600" height="450">
 
-<img class="aligncenter size-full wp-image-7885" src="http://fransimo.info/wp-content/uploads/2015/03/IMG_2871.jpg" alt="Processed with VSCOcam with g2 preset" width="600" height="450">
+<img class="aligncenter size-full wp-image-7885" src="/uploads/2015/03/IMG_2871.jpg" alt="Processed with VSCOcam with g2 preset" width="600" height="450">
 
-<img class="aligncenter size-full wp-image-7878" src="http://fransimo.info/wp-content/uploads/2015/03/IMG_2765_DxO.jpg" alt="IMG_2765_DxO" width="600" height="450">
+<img class="aligncenter size-full wp-image-7878" src="/uploads/2015/03/IMG_2765_DxO.jpg" alt="IMG_2765_DxO" width="600" height="450">
 
-<img class="aligncenter size-full wp-image-7879" src="http://fransimo.info/wp-content/uploads/2015/03/IMG_2773_DxO.jpg" alt="IMG_2773_DxO" width="600" height="450">
+<img class="aligncenter size-full wp-image-7879" src="/uploads/2015/03/IMG_2773_DxO.jpg" alt="IMG_2773_DxO" width="600" height="450">
 
 Un problema que encontré mientras caminaba fue que al disparar con el botón del volumen en algún momento tocaba la pantalla y la aplicación cambiaba algún parámetro. Para sortearlo utilicé un disparador a distancia: <a href="http://www.amazon.es/gp/product/B00JK5OW8C?ie=UTF8&amp;camp=3714&amp;creative=25246&amp;creativeASIN=B00JK5OW8C&amp;linkCode=shr&amp;tag=justpictures-21&amp;=wireless&amp;qid=1426419441&amp;sr=1-1&amp;keywords=Muku+Shuttr">Shuttr</a>. Este modelo es un poco caro pero a consecuencia de los palos selfies ya hay <a href="http://www.amazon.es/gp/product/5891092824?ie=UTF8&amp;camp=3714&amp;creative=25246&amp;creativeASIN=5891092824&amp;linkCode=shr&amp;tag=justpictures-21&amp;qid=1426419298&amp;sr=8-6&amp;keywords=shutter+iphone">modelos chinos por mucho menos</a>. También se pueden usar los cascos con el control de volumen, pero el cable llama la atención.
 
@@ -60,13 +60,13 @@ La mayoría de las imágenes de arriba están procesadas con la aplicación <a h
 El efecto es bastante visible en la mejilla izquierda, los labios y el mentón pero es reconocible en todo el contorno de la cara.
 
 Original iPhone
-<img class="aligncenter size-full wp-image-7899" src="http://fransimo.info/wp-content/uploads/2015/03/IMG_2581.jpg" alt="IMG_2581" width="600" height="600">
+<img class="aligncenter size-full wp-image-7899" src="/uploads/2015/03/IMG_2581.jpg" alt="IMG_2581" width="600" height="600">
 
 Procesada VSCO
-<img class="aligncenter size-full wp-image-7900" src="http://fransimo.info/wp-content/uploads/2015/03/IMG_28451.jpg" alt="Processed with VSCOcam with g2 preset" width="600" height="600">
+<img class="aligncenter size-full wp-image-7900" src="/uploads/2015/03/IMG_28451.jpg" alt="Processed with VSCOcam with g2 preset" width="600" height="600">
 
 Procesada DXO
-<img class="aligncenter size-full wp-image-7898" src="http://fransimo.info/wp-content/uploads/2015/03/IMG_2581_DxO-2.jpg" alt="IMG_2581_DxO-2" width="600" height="600">
+<img class="aligncenter size-full wp-image-7898" src="/uploads/2015/03/IMG_2581_DxO-2.jpg" alt="IMG_2581_DxO-2" width="600" height="600">
 
 Para ser riguroso imprimí en casa un par de ejemplos a tamaño A4. No fui capaz de ver el detalle que se ve ampliando al 100% en el ordenador.
 

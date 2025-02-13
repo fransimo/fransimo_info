@@ -9,7 +9,7 @@ aliases:  /blog/2009/01/01/fotografia-intuitiva/
 image: /wp-content/uploads/2009/01/fotografia_intuitiva_dsc_2104.jpg
 ---
 
-<img class="size-medium wp-image-749 alignleft" src="http://fransimo.info/wp-content/uploads/2009/01/fotografia_intuitiva_dsc_2104-500x332.jpg" alt="fotografia intuitiva" width="500" height="332" />"El meramente curioso no tiene derecho... El Zen, como toda mística, será comprendido únicamente por un místico que... no sucumbirá a la tentación de obtener en forma subrepticia lo que la experiencia mística le niega" (Nota del traductor en: <em>Zen en el arte del tiro con arco</em>)
+<img class="size-medium wp-image-749 alignleft" src="/uploads/2009/01/fotografia_intuitiva_dsc_2104-500x332.jpg" alt="fotografia intuitiva" width="500" height="332" />"El meramente curioso no tiene derecho... El Zen, como toda mística, será comprendido únicamente por un místico que... no sucumbirá a la tentación de obtener en forma subrepticia lo que la experiencia mística le niega" (Nota del traductor en: <em>Zen en el arte del tiro con arco</em>)
 
 En la <a href="../?p=745">charla de Pepe Baeza</a> me enteré que <a href="http://es.wikipedia.org/wiki/Braque">Braque</a> le había recomendado a Henri Cartier-Bresson la lectura del libro <em>Zen en el arte del tiro con arco</em> de <a href="http://en.wikipedia.org/wiki/Eugen_Herrigel" target="_blank" rel="noopener noreferrer">Eugen Herrigel</a>.
 

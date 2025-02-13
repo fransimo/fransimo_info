@@ -11,7 +11,7 @@ categories:
     - press
 ---
 
-<img src="http://fransimo.info/wp-content/uploads/2010/10/29102010-IMG_2384.jpg" alt="" title="Extrarradi ComRadio Arrinconado" width="500" height="333" class="aligncenter size-full wp-image-3517">
+<img src="/uploads/2010/10/29102010-IMG_2384.jpg" alt="" title="Extrarradi ComRadio Arrinconado" width="500" height="333" class="aligncenter size-full wp-image-3517">
 
 [audio src="http://barcelonaphotobloggers.org/wp-content/uploads/2010/10/P_extraradi_comradio_um_bcn_photobloggers_291010.mp3"]
 

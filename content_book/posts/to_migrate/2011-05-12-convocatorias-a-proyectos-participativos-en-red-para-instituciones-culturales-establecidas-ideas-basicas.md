@@ -38,6 +38,6 @@ Más información sobre <a href="http://barcelonaphotobloggers.org/info/#a52">lo
 
 <a href="http://entregas.fransimo.info/fransimo.info/docs/cv_fran_simo_cultural.pdf">C.V. cultural de Fran Simó</a>
 
-<a href="http://fransimo.info/wp-content/uploads/2011/05/Convocatorias_a_proyectos_participativos.pdf">Descargar como PDF</a>
+<a href="/uploads/2011/05/Convocatorias_a_proyectos_participativos.pdf">Descargar como PDF</a>
 
 <img src="http://fransimo.info/wp-content/themes/phT/images/1px_white.gif" />

@@ -103,16 +103,16 @@ En la wikipedia se define photoblogging como la acción de publicar periódicame
 Os dejo algunas imágenes de despedida:
 <table>
 <tr valign="top">
-<td><img src="http://fransimo.info/wp-content/uploads/2010/04/fran_simo_0001_DSC_0661_-500x332.jpg" alt="" title="Segundo cumpleaños de Barcelona Photobloggers" width="500" height="332" class="alignleft size-medium wp-image-522" />
+<td><img src="/uploads/2010/04/fran_simo_0001_DSC_0661_-500x332.jpg" alt="" title="Segundo cumpleaños de Barcelona Photobloggers" width="500" height="332" class="alignleft size-medium wp-image-522" />
 Intercambio de fotografías, segundo cumpleaños de Barcelona Photobloggers 2007 
 </td>
-<td><img src="http://fransimo.info/wp-content/uploads/2010/04/europe_photobloggers_barcelona_meetup-500x332.jpg" alt="" title="europe_photobloggers_barcelona_meetup" width="500" height="332" class="alignright size-medium wp-image-520" />
+<td><img src="/uploads/2010/04/europe_photobloggers_barcelona_meetup-500x332.jpg" alt="" title="europe_photobloggers_barcelona_meetup" width="500" height="332" class="alignright size-medium wp-image-520" />
 Encuentro Europe Photobloggers, Barcelona 2008
 </td>
 </tr>
 </table>
 
-<img src="http://fransimo.info/wp-content/uploads/2010/04/fran_simo_0002_FSC_5121_Maremagnum-Retail-Sebastián.jpg" alt="" title="fran_simo_0002_FSC_5121_Maremagnum, Retail, Sebastián" width="1024" height="680" class="aligncenter size-full wp-image-8424" />
+<img src="/uploads/2010/04/fran_simo_0002_FSC_5121_Maremagnum-Retail-Sebastián.jpg" alt="" title="fran_simo_0002_FSC_5121_Maremagnum, Retail, Sebastián" width="1024" height="680" class="aligncenter size-full wp-image-8424" />
 Exposición “elements” 1578 fotografías, centro comercial Maremagnum, Barcelona 2008 http://www.elements-barcelona.com/
 
 Originalmente publicado en el <a href="http://www.phedigital.com/portal/es/load.php?file=blogsandisk.php&post=10406">Blog SanDisk de PHEspaña</a> 

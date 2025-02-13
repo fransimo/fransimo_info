@@ -11,7 +11,7 @@ categories:
     - 'Calle 35'
 ---
 
-<img src="http://fransimo.info/wp-content/uploads/2013/03/fransimo_calle35_que_es_street_640px.jpg" width="640" height="512" class="alignleft" />
+<img src="/uploads/2013/03/fransimo_calle35_que_es_street_640px.jpg" width="640" height="512" class="alignleft" />
 Hace unas semanas, seleccionando fotos para el fotoblog, me encontré con esta pareja de imágenes. Me pareció interesante hacer una serie de entradas con las dudas que tengo durante los procesos de edición. Aunque al final dejo alguna certeza, la mayoría son interrogantes.
 
 Había empezado a seleccionar buscando un conjunto de street photography y al ver estas fotos se disparó la eterna cuestión ¿qué es <em>street photography</em>?

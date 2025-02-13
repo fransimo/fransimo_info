@@ -17,7 +17,7 @@ Llegué a Wall Street sobre las nueve, llovía, llovía mucho. En la cultura est
 
 El lugar era especial, el centro del mundo financiero y la herida más reciente en la historia de Estados unidos. Con sus símbolos de poder y miedo por igual.
 
-[caption id="attachment_423" align="alignleft" width="500"]<img class="wp-image-423 size-medium" src="http://fransimo.info/wp-content/uploads/2011/03/fran_simo_0122_New-York-Essence_KSC6440_New-York-Street-photography-street-portraits-Umbrella-Wall-Street-500x332.jpg" alt="Lugar: 51-65 William St, New York, NY 10038, USA Fecha: 27/09/2010" width="500" height="332" /> Lugar: 51-65 William St, New York, NY 10038, USA<br /> Fecha: 27/09/2010[/caption]
+[caption id="attachment_423" align="alignleft" width="500"]<img class="wp-image-423 size-medium" src="/uploads/2011/03/fran_simo_0122_New-York-Essence_KSC6440_New-York-Street-photography-street-portraits-Umbrella-Wall-Street-500x332.jpg" alt="Lugar: 51-65 William St, New York, NY 10038, USA Fecha: 27/09/2010" width="500" height="332" /> Lugar: 51-65 William St, New York, NY 10038, USA<br /> Fecha: 27/09/2010[/caption]
 
 Una hora después de estar disparando distintos encuadres vi aparecer a la mujer con la niña en el carrito, el paraguas bandera y el tío del hotdog y lo supe: si la cojo es la foto que vine a buscar. No sé si será mi mejor foto, pero cuando Darius me dijo “tu foto favorita” esta fue la que apareció en mi mente.
 

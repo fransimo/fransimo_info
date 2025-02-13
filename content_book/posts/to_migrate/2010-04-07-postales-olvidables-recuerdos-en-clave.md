@@ -26,8 +26,8 @@ La respuesta no tiene importancia, jugar sí.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://fransimo.info/wp-content/uploads/2011/03/berlin_fransimo_0055__ISC4729_dxo-500x332.jpg" alt="" title="Puerta de Brademburgo" width="500" height="332" class="alignleft size-medium wp-image-443"></td>
-<td><img src="http://fransimo.info/wp-content/uploads/2011/03/berlin_fransimo_0060__ISC5425-500x332.jpg" alt="" title="Tacheles artists resistance" width="500" height="332" class="alignright size-medium wp-image-442"></td>
+<td><img src="/uploads/2011/03/berlin_fransimo_0055__ISC4729_dxo-500x332.jpg" alt="" title="Puerta de Brademburgo" width="500" height="332" class="alignleft size-medium wp-image-443"></td>
+<td><img src="/uploads/2011/03/berlin_fransimo_0060__ISC5425-500x332.jpg" alt="" title="Tacheles artists resistance" width="500" height="332" class="alignright size-medium wp-image-442"></td>
 </tr>
 </tbody>
 </table>
@@ -40,8 +40,8 @@ La respuesta no tiene importancia, jugar sí.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://fransimo.info/wp-content/uploads/2011/03/india_dsc_9895-500x332.jpg" alt="" title="india_dsc_9895" width="500" height="332" class="alignleft size-medium wp-image-445"></td>
-<td><img src="http://fransimo.info/wp-content/uploads/2011/03/india_dsc_0913-500x332.jpg" alt="" title="india_dsc_0913" width="500" height="332" class="alignright size-medium wp-image-446"></td>
+<td><img src="/uploads/2011/03/india_dsc_9895-500x332.jpg" alt="" title="india_dsc_9895" width="500" height="332" class="alignleft size-medium wp-image-445"></td>
+<td><img src="/uploads/2011/03/india_dsc_0913-500x332.jpg" alt="" title="india_dsc_0913" width="500" height="332" class="alignright size-medium wp-image-446"></td>
 </tr>
 </tbody>
 </table>
@@ -54,8 +54,8 @@ La respuesta no tiene importancia, jugar sí.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://fransimo.info/wp-content/uploads/2011/03/tokyo_gsc_5285_dxo-500x332.jpg" alt="" title="Sensoji" width="500" height="332" class="alignleft size-medium wp-image-448"></td>
-<td><img src="http://fransimo.info/wp-content/uploads/2011/03/tokyo_DSCN2030-Edit-500x333.jpg" alt="" title="Shibuya" width="500" height="333" class="alignright size-medium wp-image-449"></td>
+<td><img src="/uploads/2011/03/tokyo_gsc_5285_dxo-500x332.jpg" alt="" title="Sensoji" width="500" height="332" class="alignleft size-medium wp-image-448"></td>
+<td><img src="/uploads/2011/03/tokyo_DSCN2030-Edit-500x333.jpg" alt="" title="Shibuya" width="500" height="333" class="alignright size-medium wp-image-449"></td>
 </tr>
 </tbody>
 </table>
@@ -68,8 +68,8 @@ La respuesta no tiene importancia, jugar sí.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://fransimo.info/wp-content/uploads/2011/03/lisboa_fransimo_0038__ISC3636-500x332.jpg" alt="" title="Convento do Carmo" width="500" height="332" class="alignleft size-medium wp-image-451"></td>
-<td><img src="http://fransimo.info/wp-content/uploads/2011/03/lisboa_fransimo_0033__ISC3375-500x332.jpg" alt="" title="Por nuestros pecados" width="500" height="332" class="alignright size-medium wp-image-452"></td>
+<td><img src="/uploads/2011/03/lisboa_fransimo_0038__ISC3636-500x332.jpg" alt="" title="Convento do Carmo" width="500" height="332" class="alignleft size-medium wp-image-451"></td>
+<td><img src="/uploads/2011/03/lisboa_fransimo_0033__ISC3375-500x332.jpg" alt="" title="Por nuestros pecados" width="500" height="332" class="alignright size-medium wp-image-452"></td>
 </tr>
 </tbody>
 </table>
@@ -82,8 +82,8 @@ La respuesta no tiene importancia, jugar sí.
 <td></td>
 </tr>
 <tr>
-<td><img src="http://fransimo.info/wp-content/uploads/2010/04/new_york_0039_HSC_6653_dxo-500x332.jpg" alt="" title="Manhantan" width="500" height="332" class="alignleft size-medium wp-image-457"></td>
-<td><img src="http://fransimo.info/wp-content/uploads/2010/04/new_york_0040_HSC_6897_dxo-500x332.jpg" alt="" title="Sabrett" width="500" height="332" class="alignright size-medium wp-image-456"></td>
+<td><img src="/uploads/2010/04/new_york_0039_HSC_6653_dxo-500x332.jpg" alt="" title="Manhantan" width="500" height="332" class="alignleft size-medium wp-image-457"></td>
+<td><img src="/uploads/2010/04/new_york_0040_HSC_6897_dxo-500x332.jpg" alt="" title="Sabrett" width="500" height="332" class="alignright size-medium wp-image-456"></td>
 </tr>
 </tbody>
 </table>

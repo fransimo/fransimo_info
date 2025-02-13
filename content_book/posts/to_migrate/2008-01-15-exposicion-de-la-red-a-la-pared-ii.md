@@ -12,7 +12,7 @@ categories:
     - exhibits
 ---
 
-<img src="http://fransimo.info/wp-content/uploads/2008/01/200invitacion-bcn-photobloggers.jpg" alt="De la red a la pared II" class="alignleft" align="left">Barcelona Photobloggers sale de nuevo del mundo online para presentar su segunda exposición colectiva bajo el título "De la red a la pared II" el 17 de enero a las 20.30 horas. Un total de 34 fotobloguers del área de Barcelona expondrán sus fotografías en la galería Fotonauta hasta el 8 de febrero.
+<img src="/uploads/2008/01/200invitacion-bcn-photobloggers.jpg" alt="De la red a la pared II" class="alignleft" align="left">Barcelona Photobloggers sale de nuevo del mundo online para presentar su segunda exposición colectiva bajo el título "De la red a la pared II" el 17 de enero a las 20.30 horas. Un total de 34 fotobloguers del área de Barcelona expondrán sus fotografías en la galería Fotonauta hasta el 8 de febrero.
 
 La iniciativa ha seguido la filosofía participativa de internet, permitiendo a cada autor seleccionar las fotografías a exponer. Todo el trabajo de organización, coordinación e impresión de fotografías se ha realizado también a través de la red.
 

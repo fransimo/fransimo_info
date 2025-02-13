@@ -15,4 +15,4 @@ categories:
 
 El diario ADN ha escrito un artículo sobre la exposición "De la red a la pared II" organizada por Barcelona Photobloggers y la galería Fotonauta. ¡Muchas gracias!
 
-<img src="http://fransimo.info/wp-content/uploads/2008/01/adn.jpg" alt="&quot;De la red a la pared II&quot; en ADN" width="500" height="664" class="alignnone size-full wp-image-7520">
+<img src="/uploads/2008/01/adn.jpg" alt="&quot;De la red a la pared II&quot; en ADN" width="500" height="664" class="alignnone size-full wp-image-7520">

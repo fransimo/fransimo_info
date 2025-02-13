@@ -30,4 +30,4 @@ The mechanisms of the system’s self-control didn’t work. Nobody listened to 
 Every time I though about the crisis and its responsible I remember that Bruce Springsteen’s words in Youngstown “Once I made you rich enough, rich enough to forget my name” 
 
 [gallery type="rectangular" columns="2" link="none" ids="1385,1387,1388,547"]
-<a href="http://fransimo.info/wp-content/uploads/2010/02/PicturingAnEthicalEconomy_PressRelease.pdf"rel="">Picturing An Ethical Economy Press Release</a>
+<a href="/uploads/2010/02/PicturingAnEthicalEconomy_PressRelease.pdf"rel="">Picturing An Ethical Economy Press Release</a>
