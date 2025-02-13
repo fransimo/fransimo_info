@@ -22,6 +22,20 @@ tags:
 title: CODE by R.Mutt
 aliases: /blog/2019/05/29/code-by-r-mutt/
 ---
+![](X1V16639.jpg)
+# CODE by R.Mutt
+
+{{% details title="Technical details" open=true %}}
+
+2019
+
+Color book.
+164 Pages, A5.
+
+Available on [Lulu](https://www.lulu.com/en/shop/fran-sim%C3%B3/code-by-rmutt/paperback/product-1wk5j69d.html?page=1&pageSize=4) and [Issue](https://issuu.com/fransimo/docs/code_by_mutt).
+
+{{% /details %}}
+
 
 (text by [Carlos Lozano](https://twitter.com/clozano80))
 
@@ -53,7 +67,7 @@ Florian Cramer and Ulrike Gabriel.
 
 (3) Inke Arns. _Code as an Act of Performative Speech_ (2005).
 
-![](X1V16639.jpg)
+![X1V16641_v2.jpg](X1V16641_v2.jpg)
 
 ## Motivation
 

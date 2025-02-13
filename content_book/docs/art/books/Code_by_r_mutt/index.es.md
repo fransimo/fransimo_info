@@ -19,6 +19,18 @@ title: CODE by R.Mutt
 lang: es
 aliases: /es/blog/2019/05/29/code-by-r-mutt/
 ---
+![](X1V16639.jpg)
+# CODE by R.Mutt
+{{% details title="Datos técnicos" open=true %}}
+
+2019
+
+Libro color.
+164 Páginas, A5.
+
+Disponible en [Lulu](https://www.lulu.com/en/shop/fran-sim%C3%B3/code-by-rmutt/paperback/product-1wk5j69d.html?page=1&pageSize=4) y [Issue](https://issuu.com/fransimo/docs/code_by_mutt).
+
+{{% /details %}}
 
 (texto por [Carlos Lozano](https://twitter.com/clozano80))
 
@@ -46,7 +58,7 @@ La obra entraría dentro de la clasificación de Software Art ya que resulta de 
 
 (3) Inke Arns. El código como acto de habla performativo (2005). [https://artnodes.uoc.edu/articles/10.7238/](https://artnodes.uoc.edu/articles/10.7238/)
 
-![](X1V16639.jpg)
+![X1V16641_v2.jpg](X1V16641_v2.jpg)
 
 ## Motivación
 
