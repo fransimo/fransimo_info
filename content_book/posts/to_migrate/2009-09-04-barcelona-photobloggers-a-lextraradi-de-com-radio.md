@@ -3,7 +3,7 @@ id: 2196
 title: 'Barcelona Photobloggers a l&#8217;Extraradi de COM Ràdio'
 date: '2009-09-04T09:36:38+02:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://barcelonaphotobloggers.org/?p=2196'
 aliases:  /ca/blog/2009/09/04/barcelona-photobloggers-a-lextraradi-de-com-radio/
 sociallikes:

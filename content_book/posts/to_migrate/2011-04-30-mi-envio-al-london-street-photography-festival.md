@@ -3,7 +3,7 @@ id: 773
 title: '&#8220;Somewhere else&#8221;, mi envío al &#8220;London Street Photography Festival&#8221;'
 date: '2011-04-30T19:05:50+02:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=773'
 aliases:  /es/blog/2011/04/30/mi-envio-al-london-street-photography-festival/
 image: /wp-content/uploads/2011/04/0001_fran_simo__JSC6879.jpg

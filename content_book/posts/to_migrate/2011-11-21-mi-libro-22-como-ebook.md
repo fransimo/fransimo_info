@@ -3,7 +3,7 @@ id: 950
 title: 'Mi libro &#8220;22&#8221; como eBook'
 date: '2011-11-21T10:13:16+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=950'
 aliases:  /es/blog/2011/11/21/mi-libro-22-como-ebook/
 categories:

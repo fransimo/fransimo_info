@@ -3,7 +3,7 @@ id: 7747
 title: '&#8220;inside Out&#8221; de Fran Simó y Benjamín Julve'
 date: '2007-04-19T10:44:59+02:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=7747'
 aliases:  /es/blog/2007/04/19/inside-out-de-fran-simo-y-benjamin-julve/
 enclosure:

@@ -3,7 +3,7 @@ id: 8955
 title: 'Fotoblogueando (Photoblogging)'
 date: '2010-04-12T13:34:51+02:00'
 author: fran
-layout: post
+lang: es
 guid: 'https://fransimo.info/blog/2010/04/12/fotoblogueando-photoblogging/'
 aliases:  /blog/2010/04/12/fotoblogueando-photoblogging/
 ---

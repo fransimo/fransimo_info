@@ -3,7 +3,7 @@ id: 7650
 title: 'Street photography con un iPhone'
 date: '2015-03-16T08:46:55+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=7650'
 aliases:  /es/blog/2015/03/16/street-photography-con-un-iphone/
 image: /wp-content/uploads/2015/03/IMG_2581_DxO-2.jpg

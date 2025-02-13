@@ -3,7 +3,7 @@ id: 8959
 title: 'My Very Special Photo, New York Essence'
 date: '2011-03-31T09:54:14+02:00'
 author: fran
-layout: post
+lang: es
 guid: 'https://fransimo.info/blog/2011/03/31/my-very-special-photo-new-york-essence/'
 aliases:  /es/blog/2011/03/31/my-very-special-photo-new-york-essence/
 image: /wp-content/uploads/2011/03/fran_simo_0122_New-York-Essence_KSC6440_New-York-Street-photography-street-portraits-Umbrella-Wall-Street.jpg

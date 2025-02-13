@@ -3,7 +3,7 @@ id: 439
 title: 'Postales olvidables, recuerdos en clave'
 date: '2010-04-07T09:38:43+02:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=439'
 aliases:  /es/blog/2010/04/07/postales-olvidables-recuerdos-en-clave/
 categories:

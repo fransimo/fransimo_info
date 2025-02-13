@@ -3,7 +3,7 @@ id: 7563
 title: 'fotometro.org en los medios'
 date: '2013-06-13T14:00:11+02:00'
 author: 'Barcelona Photobloggers'
-layout: post
+lang: es
 guid: 'http://barcelonaphotobloggers.org/?p=7563'
 aliases:  /es/blog/2013/06/13/fotometro-org-en-los-medios/
 sociallikes:

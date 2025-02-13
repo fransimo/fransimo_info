@@ -3,7 +3,7 @@ id: 1807
 title: 'Ubiquography a real-time world-wide mobile photography exhibition'
 date: '2012-05-20T12:05:13+02:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=1807'
 aliases:  /blog/2012/05/20/ubiquography-a-real-time-world-wide-mobile-photography-exhibition/
 image: /wp-content/uploads/2012/05/ubiquography.png

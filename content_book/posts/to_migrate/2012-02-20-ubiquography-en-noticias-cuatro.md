@@ -3,7 +3,7 @@ id: 5583
 title: 'Ubiquography en Noticias Cuatro'
 date: '2012-02-20T09:00:01+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://barcelonaphotobloggers.org/?p=5583'
 aliases:  /es/blog/2012/02/20/ubiquography-en-noticias-cuatro/
 sociallikes:

@@ -3,7 +3,7 @@ id: 7661
 title: 'Un viaje personal'
 date: '2013-03-25T09:05:18+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=7661'
 aliases:  /es/blog/2013/03/25/un-viaje-personal/
 image: /wp-content/uploads/2013/03/fransimo_calle35_que_es_street_640px.jpg

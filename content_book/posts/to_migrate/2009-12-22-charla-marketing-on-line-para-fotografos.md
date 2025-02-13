@@ -3,7 +3,7 @@ id: 762
 title: 'Charla: Marketing on-line para fotógrafos'
 date: '2009-12-22T11:07:49+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=762'
 aliases:  /es/blog/2009/12/22/charla-marketing-on-line-para-fotografos/
 enclosure:

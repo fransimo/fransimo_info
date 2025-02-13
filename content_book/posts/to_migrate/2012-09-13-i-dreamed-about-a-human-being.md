@@ -3,7 +3,7 @@ id: 1100
 title: 'I dreamed about a human being'
 date: '2012-09-13T11:18:56+02:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=1100'
 aliases:  /blog/2012/09/13/i-dreamed-about-a-human-being/
 image: /wp-content/uploads/2012/08/fran_simo_0002_Untitled1_mean_.jpg

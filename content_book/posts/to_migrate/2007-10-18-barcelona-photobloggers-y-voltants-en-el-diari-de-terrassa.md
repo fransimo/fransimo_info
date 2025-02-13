@@ -3,7 +3,7 @@ id: 1898
 title: 'Barcelona Photobloggers y Voltants en el Diari de Terrassa'
 date: '2007-10-18T15:00:37+02:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://barcelonaphotobloggers.org/2007/10/20/barcelona-photobloggers-y-voltants-en-el-diari-de-terrassa/'
 aliases:  /es/blog/2007/10/18/barcelona-photobloggers-y-voltants-en-el-diari-de-terrassa/
 sociallikes:

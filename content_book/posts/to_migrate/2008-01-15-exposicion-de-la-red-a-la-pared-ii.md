@@ -3,7 +3,7 @@ id: 7725
 title: 'Exposición &#8220;De la red a la pared II&#8221;'
 date: '2008-01-15T08:53:23+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=7725'
 aliases:  /es/blog/2008/01/15/exposicion-de-la-red-a-la-pared-ii/
 image: /wp-content/uploads/2008/01/marcelo_aurelio_de_la_red_a_la_pared_ii_20160213_009.jpg

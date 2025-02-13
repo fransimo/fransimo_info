@@ -3,7 +3,7 @@ id: 9411
 title: 'Contact sheets'
 date: '2013-06-25T17:26:31+02:00'
 author: fran
-layout: post
+lang: en
 guid: 'https://fransimo.info/blog/2013/06/25/contact-sheets/'
 aliases:  /blog/2013/06/25/contact-sheets/
 image: /wp-content/uploads/2013/06/i_dreamed_contacts_fran_simo_02_8e9b80952408ba7c47a32dcce7c04c0e.jpg

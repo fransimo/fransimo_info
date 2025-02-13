@@ -3,7 +3,7 @@ id: 8951
 title: 'Fotografía intuitiva'
 date: '2009-01-01T18:57:48+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'https://fransimo.info/blog/2009/01/01/fotografia-intuitiva/'
 aliases:  /blog/2009/01/01/fotografia-intuitiva/
 image: /wp-content/uploads/2009/01/fotografia_intuitiva_dsc_2104.jpg

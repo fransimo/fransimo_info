@@ -3,7 +3,7 @@ id: 7481
 title: '&#8220;Brangulí estuvo aquí. ¿Y tú?&#8221; en El Periódico'
 date: '2011-06-30T14:00:26+02:00'
 author: 'Barcelona Photobloggers'
-layout: post
+lang: es
 guid: 'http://barcelonaphotobloggers.org/?p=7481'
 aliases:  /es/blog/2011/06/30/branguli-estuvo-aqui-y-tu-en-el-periodico/
 sociallikes:

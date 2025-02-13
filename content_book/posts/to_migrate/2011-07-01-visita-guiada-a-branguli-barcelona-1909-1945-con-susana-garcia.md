@@ -3,7 +3,7 @@ id: 7592
 title: 'Visita guiada a &#8220;Brangulí. Barcelona 1909-1945&#8221; con Susana García'
 date: '2011-07-01T18:53:24+02:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=7592'
 aliases:  /es/blog/2011/07/01/visita-guiada-a-branguli-barcelona-1909-1945-con-susana-garcia/
 enclosure:

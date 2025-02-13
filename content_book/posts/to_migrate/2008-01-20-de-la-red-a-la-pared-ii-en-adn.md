@@ -3,7 +3,7 @@ id: 7519
 title: '&#8220;De la red a la pared II&#8221; en ADN'
 date: '2008-01-20T09:00:01+01:00'
 author: 'Barcelona Photobloggers'
-layout: post
+lang: es
 guid: 'http://barcelonaphotobloggers.org/?p=7519'
 aliases:  /es/blog/2008/01/20/de-la-red-a-la-pared-ii-en-adn/
 sociallikes:

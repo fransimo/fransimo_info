@@ -3,7 +3,7 @@ id: 7653
 title: 'New York, New York… la edición “de memoria”'
 date: '2014-10-27T09:01:44+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=7653'
 aliases:  /es/blog/2014/10/27/new-york-new-york-la-edicion-de-memoria/
 image: /wp-content/uploads/2014/10/0001__KSC6878.jpg

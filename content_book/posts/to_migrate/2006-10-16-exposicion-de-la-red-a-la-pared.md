@@ -3,7 +3,7 @@ id: 8943
 title: 'Exposición &#8220;De la red a la pared&#8221;'
 date: '2006-10-16T08:07:32+02:00'
 author: fran
-layout: post
+lang: es
 guid: 'https://fransimo.info/blog/2006/10/16/exposicion-de-la-red-a-la-pared/'
 aliases:  /blog/2006/10/16/exposicion-de-la-red-a-la-pared/
 image: /wp-content/uploads/2006/10/DSC_1245_DxO.jpg

@@ -3,7 +3,7 @@ id: 1833
 title: 'Software factories'
 date: '2013-06-25T17:28:25+02:00'
 author: fran
-layout: post
+lang: en
 guid: 'http://fransimo.info/?p=1833'
 aliases:  /blog/2013/06/25/software-factories/
 image: /wp-content/uploads/2013/06/software_factories_fran_simo_01_FSC_7246.jpg

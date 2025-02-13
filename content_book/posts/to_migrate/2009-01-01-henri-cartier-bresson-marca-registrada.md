@@ -3,7 +3,7 @@ id: 745
 title: 'Henri Cartier-Bresson marca registrada'
 date: '2009-01-01T10:00:20+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=745'
 aliases:  /es/blog/2009/01/01/henri-cartier-bresson-marca-registrada/
 image: /wp-content/uploads/2009/01/pepe_baeza.jpg

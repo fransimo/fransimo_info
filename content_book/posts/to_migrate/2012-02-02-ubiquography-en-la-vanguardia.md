@@ -3,7 +3,7 @@ id: 7476
 title: 'Ubiquography en La Vanguardia'
 date: '2012-02-02T13:00:54+01:00'
 author: 'Barcelona Photobloggers'
-layout: post
+lang: es
 guid: 'http://barcelonaphotobloggers.org/?p=7476'
 aliases:  /es/blog/2012/02/02/ubiquography-en-la-vanguardia/
 sociallikes:

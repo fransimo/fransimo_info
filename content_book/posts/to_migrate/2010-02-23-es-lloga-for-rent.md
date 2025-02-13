@@ -3,7 +3,7 @@ id: 1869
 title: 'Es lloga (For Rent)'
 date: '2010-02-23T16:32:40+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=1869'
 aliases:  /blog/2010/02/23/es-lloga-for-rent/
 image: /wp-content/uploads/2013/06/es_lloga_fran_simo_01__ISC1838_DxO.jpg

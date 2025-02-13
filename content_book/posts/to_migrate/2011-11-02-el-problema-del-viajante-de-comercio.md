@@ -3,7 +3,7 @@ id: 936
 title: 'El problema del viajante de comercio, heurística basada georeferencias, 1996-1998'
 date: '2011-11-02T08:55:33+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=936'
 aliases:  /es/blog/2011/11/02/el-problema-del-viajante-de-comercio/
 categories:

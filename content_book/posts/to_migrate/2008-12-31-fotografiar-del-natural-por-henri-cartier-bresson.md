@@ -3,7 +3,7 @@ id: 7845
 title: 'Fotografiar del natural por Henri Cartier-Bresson'
 date: '2008-12-31T19:57:21+01:00'
 author: fran
-layout: post
+lang: es
 guid: 'http://fransimo.info/?p=7845'
 aliases:  /es/blog/2008/12/31/fotografiar-del-natural-por-henri-cartier-bresson/
 categories:
