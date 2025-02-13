@@ -20,7 +20,20 @@ lang: es
 aliases: /es/blog/2021/10/26/selfie_v2/
 ---
 ![](XT238820.jpg)
+
+{{% details title="Datos técnicos" open=true %}}
+- Video escultura interactiva. 1,1m x 1,1m x 60cm.  
+- Resonancias magnéticas de pies y rodillas. Ecografías de riñón. Radiografías de tórax, mandíbula y dientes.  
+- Videos en formato GIF animado. Imágenes en JPG.
+
+La obra está formada por 6 RasperriPis. 5 de ellas son del modelo 3 con una pantalla de 3.5” y una carcasa transparente. Estas pantallas se ubican alrededor del tórax, saliendo desde una “columna vertebral”. La carcasa transparente permite ver el interior de los mini ordenadores. El tórax está formado por una Pi modelo 4 con un monitor de 24” y una webcam.
+
+Código fuente en [github](https://github.com/fransimo/selfie_v2).
+
+{{% /details %}}
+
 # #Selfie_v2
+
 
 En los últimos años nos hemos aficionado a publicar nuestra imagen. Una imagen construida de lo que queremos mostrar de nosotros, de nuestra vida. Así creamos un personaje que publicamos, exhibimos, vendemos, a veces, incluso en busca de amor. Algunos caen en la trampa de creer que ese personaje es real, que son ellos.
 
@@ -43,15 +56,6 @@ La escultura y todas la piezas están disponibles como NFTs en [OpenSea](https:/
 
     
 
-## Datos técnicos
-
-Video escultura interactiva. 1,1m x 1,1m x 60cm.  
-Resonancias magnéticas de pies y rodillas. Ecografías de riñón. Radiografías de tórax, mandíbula y dientes.  
-Videos en formato GIF animado. Imágenes en JPG.
-
-La obra está formada por 6 RasperriPis. 5 de ellas son del modelo 3 con una pantalla de 3.5” y una carcasa transparente. Estas pantallas se ubican alrededor del tórax, saliendo desde una “columna vertebral”. La carcasa transparente permite ver el interior de los mini ordenadores. El tórax está formado por una Pi modelo 4 con un monitor de 24” y una webcam.
-
-Código fuente en [github](https://github.com/fransimo/selfie_v2).
 
 ## Curiosidades
 
