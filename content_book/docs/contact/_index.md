@@ -13,6 +13,7 @@ bookToc: false
 
 - [Mail](mailto:contact@fransimo.info)
 - [Instagram](https://www.instagram.com/fransimo)
+- [Facebook](https://www.facebook.com/fransimo)
 - [Phone](tel:+34655384230)
 
 ## Newsletter
