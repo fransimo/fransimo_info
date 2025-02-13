@@ -3,10 +3,8 @@ author: fran
 date: "2013-11-16T14:56:00Z"
 categories:
 - photography
-- street photography
 - books, zines and so
 - Barcelona Photobloggers
-- projects
 tags: street photography
 image: passengers_2012_cover_en.jpg
 title: Passengers 2012

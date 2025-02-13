@@ -1,8 +1,6 @@
 ---
 author: fran
 categories:
-  - new media art
-  - ready made
   - photography
 date: 2011-04-25
 image: arrinconado.jpg

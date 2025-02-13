@@ -2,12 +2,11 @@
 author: fran
 date: 2011-12-20
 categories:
-  - photography
-  - street photography
-  - books, zines and so
-  - Barcelona Photobloggers
-  - projects
-tags: street photography
+- photography
+- books, zines and so
+- Barcelona Photobloggers
+tags: 
+- street photography 
 image: passengers.jpg
 title: Passengers
 bookToc: false

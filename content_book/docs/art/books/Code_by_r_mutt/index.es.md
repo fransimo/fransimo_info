@@ -3,6 +3,7 @@ author: fran
 categories:
 - new media art
 - ready made
+- books, zines and so
 date: 2019-05-29
 image: X1V16641_v2.jpg
 tags:

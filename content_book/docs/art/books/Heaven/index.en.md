@@ -2,7 +2,6 @@
 author: fran
 categories:
 - photography
-- street photography
 - books, zines and so
 date: "2017-11-10T17:58:00Z"
 excerpt: |-

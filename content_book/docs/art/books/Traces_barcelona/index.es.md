@@ -6,8 +6,8 @@ bookToc: false
 author: fran
 categories:
 - Barcelona Photobloggers
-- projects
-- highlighted
+- books, zines and so
+- photography
 tags:
 - Antoine D’Agata
 - Barcelona

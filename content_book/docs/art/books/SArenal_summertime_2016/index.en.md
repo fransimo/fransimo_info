@@ -2,7 +2,6 @@
 author: fran
 categories:
 - photography
-- street photography
 - books, zines and so
 tags:
 - beach 
