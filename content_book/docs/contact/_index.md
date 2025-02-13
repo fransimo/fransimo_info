@@ -11,10 +11,11 @@ bookToc: false
 
 ## Direct contact
 
-- [Mail](mailto:contact@fransimo.info)
-- [Instagram](https://www.instagram.com/fransimo)
-- [Facebook](https://www.facebook.com/fransimo)
-- [Phone](tel:+34655384230)
+- Mail: [contact@fransimo.info](mailto:contact@fransimo.info)
+- Instagram:[@fransimo](https://www.instagram.com/fransimo)
+- Facebook: [@fransimo](https://www.facebook.com/fransimo)
+- Linkedin: [@fransimo](https://www.linkedin.com/in/fransimo/)
+- Mobile: [+34 655 384 230](tel:+34655384230)
 
 ## Newsletter
 
