@@ -15,6 +15,15 @@ module:
   #  - path: github.com/alex-shpak/hugo-book
   #    disable: false
 
+# https://gohugo.io/content-management/urls/#permalinks
+permalinks:
+  page:
+    posts: /blog/:year/:month/:day/:slug/
+    # tutorials: /training/:slug/
+  section:
+    posts: /blog/
+    # tutorials: /training/
+
 languages:
     en:
         languageName: English
