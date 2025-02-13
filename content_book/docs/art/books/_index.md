@@ -59,9 +59,9 @@ aliases: /books/
 {{% columns %}}
 
 {{< figure
-  src="/docs/art/books/Traces/DSCF1438-2.jpg"
+  src="/docs/art/books/Traces_barcelona/DSCF1438-2.jpg"
   alt="Traces"
-  link="/docs/art/books/Traces/"
+  link="/docs/art/books/Traces_barcelona/"
   caption="Book collection: Traces"
   class="image-portfolio"
 >}}
