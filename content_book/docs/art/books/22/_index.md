@@ -12,7 +12,7 @@ categories:
 
 ![22_fran_simo_05.jpg](22_fran_simo_05.jpg)
 # 22 
-
+{{% details title="Technical details" open=true %}}
 2000-2009  
 Book  
 Self-published, 21×29 cm, 26 pages, laser color printing on recycled paper, manual binding.  
@@ -23,12 +23,9 @@ Site-specific installation at Centre Civi Pati Llimona.
 22 photographs (21 of A4 y one copy of 150x100cm), laser color printing on recycled paper, framed on cardboard.  
 200 photographs 10x15cm standard photo paper. Single copies.
 
-eBook available [here](http://www.lulu.com/product/ebook/22/18681128)
+It’s available in a limited printed edition and ebook in [English](http://www.lulu.com/shop/fran-sim%C3%B3/22/ebook/product-20663836.html) and [Spanish](http://www.lulu.com/shop/fran-sim%C3%B3/22/ebook/product-18680983.html).
 
-{{< vimeo 130667877 >}}
-
-
-
+{{% /details %}}
 
 22′s pictures are fragments of calm between two eras, two development models: the industrial model and the knowledge one.
 
@@ -39,6 +36,9 @@ This selection of 22 pictures comes from my personal archive of about 2000 pictu
 When I approached the project I knew I wanted to convey a feeling of abandonment, plunder and give it a radically non-digital look. I also liked the idea of exploiting the transformation potential of digital media (the foundation of the knowledge society) to give it an analog look and feel.
 
 I wanted to show photographs that could have been taken with a camera found among the factory ruins, a cheap camera forgotten by someone while leaving the plant behind. It would have a plastic lens and over the years light leaks would show up inside the camera… also, if it carried any film it would be expired.
+
+{{< vimeo 130667877 >}}
+
 
 # Photographs
 
