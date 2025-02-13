@@ -20,13 +20,14 @@ aliases: /blog/2021/04/17/buy-me-a-life/
 ---
 
 ![buy_me_a_life_medium.gif](buy_me_a_life_medium.gif)
-
+{{% details title="Technical details" open=true %}}
 ````
+2021
 Selfie glitch video (mp4)
-4 seconds (24,721,836 bytes)
 NFT
 2501Ξ
 ````
+{{% /details %}}
 
 **Buy me a life! I’ll use my energy to create art, help other artists, walk my spiritual path and share my knowledge.**
 
