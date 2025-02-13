@@ -6,8 +6,8 @@ aliases: /blog/2015/04/23/22-2/
 image: 0013_018_GSC_2765_cover.jpg
 bookToc: false
 categories:
-  - projects
-  - highlighted
+  - photography
+  - books, zines and so
 ---
 ![0013_018_GSC_2765_cover.jpg](0013_018_GSC_2765_cover.jpg)
 # 22.2

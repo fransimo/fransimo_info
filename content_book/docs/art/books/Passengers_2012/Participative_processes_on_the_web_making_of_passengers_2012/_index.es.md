@@ -3,11 +3,11 @@ author: fran
 date: "2013-11-16"
 categories:
   - photography
-  - street photography
   - books, zines and so
   - Barcelona Photobloggers
   - Textos
-tags: street photography
+tags: 
+  - street photography
 title: "Procesos participativos en red, cómo se hizo Passengers 2012"
 bookToc: false
 ---

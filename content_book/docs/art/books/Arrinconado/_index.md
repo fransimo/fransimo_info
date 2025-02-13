@@ -2,10 +2,12 @@
 author: fran
 categories:
   - photography
+  - Barcelona Photobloggers
+  - books, zines and so
 date: 2011-04-25
 image: arrinconado.jpg
 tags:
-  - Barcelona Photobloggers
+
 title: “Arrinconado” (Cornered)
 ---
 ![arrinconado.jpg](arrinconado.jpg)

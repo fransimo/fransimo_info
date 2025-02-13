@@ -3,11 +3,11 @@ author: fran
 date: "2013-11-16"
 categories:
   - photography
-  - street photography
   - books, zines and so
   - Barcelona Photobloggers
   - Texts
-tags: street photography
+tags: 
+  - street photography
 title: "Participative Processes on the Web: Making of Passengers 2012"
 bookToc: false
 ---

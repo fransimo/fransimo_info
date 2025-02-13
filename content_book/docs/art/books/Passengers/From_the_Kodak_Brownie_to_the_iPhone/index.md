@@ -3,11 +3,11 @@ author: fran
 date: 2011-12-20
 categories:
   - photography
-  - street photography
   - books, zines and so
   - Barcelona Photobloggers
   - Texts
-tags: street photography
+tags: 
+  - street photography
 title: From the Kodak Brownie to the iPhone
 bookToc: false
 aliases: /blog/2011/12/20/passengers-de-la-kodak-brownie-al-iphone-libro/

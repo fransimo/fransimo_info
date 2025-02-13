@@ -1,8 +1,6 @@
 ---
 author: fran
 categories:
-- photography
-- street photography
 - books, zines and so
 title: Books & zines
 image: X1V16641.jpg
