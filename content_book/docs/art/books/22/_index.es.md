@@ -2,7 +2,7 @@
 title: '22'
 date: '2010-01-22'
 author: fran
-aliases: /blog/2010/01/14/22/
+aliases: /es/blog/2010/01/14/22/
 image: 0013_018_GSC_2765_cover.jpg
 bookToc: false
 categories:
