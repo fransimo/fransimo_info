@@ -5,7 +5,7 @@ date: '2012-09-13T11:18:56+02:00'
 author: fran
 lang: es
 guid: 'http://fransimo.info/?p=1100'
-aliases:  /blog/2012/09/13/i-dreamed-about-a-human-being/
+aliases: /blog/2012/09/13/i-dreamed-about-a-human-being/
 image: /wp-content/uploads/2012/08/fran_simo_0002_Untitled1_mean_.jpg
 categories:
     - highlighted
@@ -29,7 +29,10 @@ tags:
     - postphotography
 ---
 
-<img src="/uploads/2012/08/fran_simo_0001_Untitled1_medium_-500x500.jpg" alt="I&#039;ve dreamed about a human being" width="500" height="500" class="alignleft size-medium wp-image-1123" />
+![fran_simo_0001_Untitled1_medium_.jpg](fran_simo_0001_Untitled1_medium_.jpg)
+
+# I dreamed about a human being
+
 How would a robot imagine a human face? “I dreamed about a human being” is like spying into a robot’s brain.
 
 “I dreamed about a human being” is part of a project exploring the use of artificial intelligence as applied to photography by using online open source code and data. The project already has a database of 56 million images. We have freely accessible amazing tools and databases of gigantic images, but have not yet fully understood what we can do with them or what it means that they are there.
@@ -43,7 +46,9 @@ Another way of viewing these accumulated images is by seeing them pass by at ful
 <strong>2/14/2013 update</strong>: You can also see it as "contact sheets" here <a title="Mugs from the cloud" href="http://contact-sheets-idahb.fransimo.info/">http://contact-sheets-idahb.fransimo.info/</a>
 <strong>8/6/2013 update</strong>: Database has 75 millions of images and had recognized 345,625 faces.
 <strong>1/25/2015 update</strong>: Database has 88 millions of images and had recognized 1,250,415 faces.
-<h2>The algorithm</h2>
+
+## The algorithm
+
 The algorithm used to recognise the faces is able to find any object within a photograph, but to do this it must be shown what we are looking for through similar images.
 
 When I began this project I was not interested in finding faces, but portraits with a specific aesthetic quality. The first step was to assemble a collection of portraits that followed this aesthetic line so that the algorithm could begin to learn it.
@@ -84,7 +89,9 @@ As part of its assessment I needed to see all the images statistically described
 Today we take it for granted that cameras, phones, our photo software and even Facebook can recognise faces. Most people think of this as “magic”. Not only does nobody know how they do this, but also nobody questions how they do it and what else they can do.
 
 The most fascinating thing about this subject for me is the question: What else can they learn and what can we teach them to see? The typical applications of these technologies have always been security. Commercial applications are not very far advanced. For example, to make an image database automatically catalogue itself. Similar algorithms are used for diagnostic imaging. But what can artists or philosophers use it for?
-<h2>Photography and artificial intelligence</h2>
+
+## Photography and artificial intelligence
+
 “I dreamed about a human being” is part of a larger project exploring the use of artificial intelligence as applied to photography by using online open source code and data.
 
 The project began in 2008 and it has a database of 56 million images with Creative Commons licenses. In 2011 the image search ended in order to begin processing the images. In later versions the system was able to add 200,000 photos per day to the database.
@@ -103,17 +110,25 @@ All this can be added to increased computing capacity and the transfer speed on 
 
 We are all getting into digital technology as we all got into cars, although it took 100 years to see the impact on the environment. But the impact of this technology does not end up in the atmosphere; it is entering our brains and even altering its structure. It is essential that we at least try to understand the capabilities of the technologies that we are using.
 
-<h2>Technical FAQ</h2>
-<h3>Which algorithm was used?</h3>
+## Technical FAQ
+
+### Which algorithm was used?
+
 Haar-like features proposed by Viola-Jones in 2001 <a href="http://en.wikipedia.org/wiki/Haar-like_features">http://en.wikipedia.org/wiki/Haar-like_features</a>
-<h3>Can I download the haar cascade?</h3>
+
+### Can I download the haar cascade?
+
 Yes, from here <a href="http://bit.ly/S6PShC">http://bit.ly/S6PShC</a>
-<h3>How was trained?</h3>
+
+### How was trained?
+
 Training was made using openCV 2.1 on Ubuntu 10.04.
 For this results I used the third version of the training.
 It has being done whit 209 positive and 3123 negatives samples.
 Processing took 3 weeks using an Intel Core i5 650 3.20GHz x 4 processor with 12 Gigas of RAM.
-<h3>Why 257 over 5 millions?</h3>
+
+### Why 257 over 5 millions?
+
 5 millions images of 500 pixels uses almost a terabyte, the disc size I use for the photo library.
 Within this 5 millions, the algorithm found 166 thousand portraits, but only 257 has more than 6 mega-pixels and fill more than 70% of the original image. I though this would be a good resolution for a printed copy. “I dreamed about a human being” has 3000x3000 pixels.
 <h3>Which software has been used?</h3>
@@ -121,7 +136,9 @@ Database: MySQL, various versions.
 Programming language: PHP and C.
 Computer vision library: openCV 2.1 and 2.3
 For human visualization: Lightroom 4 and Photoshop 5.
-<h3>How was made the statical render?</h3>
+
+### How was made the statical render?
+
 With the 3th version of trained cascade I ran a test over the library. The results were stored in MySQL.
 A PHP program download high resolution images from Flicrk and generates JPGs files with cropping information of detection. All these files were imported into Lightroom where images can be seen in a cropped and original version.
 A group of 257 images was selected by its resolution and exported at 3000 by 3000 pixels. Most images has a bigger resolution.
