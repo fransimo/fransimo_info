@@ -5,7 +5,7 @@ date: '2011-11-21T10:13:16+01:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=950'
-permalink: /es/blog/2011/11/21/mi-libro-22-como-ebook/
+aliases:  /es/blog/2011/11/21/mi-libro-22-como-ebook/
 categories:
     - projects
 ---

@@ -5,7 +5,7 @@ date: '2009-09-04T09:36:38+02:00'
 author: fran
 layout: post
 guid: 'http://barcelonaphotobloggers.org/?p=2196'
-permalink: /ca/blog/2009/09/04/barcelona-photobloggers-a-lextraradi-de-com-radio/
+aliases:  /ca/blog/2009/09/04/barcelona-photobloggers-a-lextraradi-de-com-radio/
 sociallikes:
     - '1'
 enclosure:

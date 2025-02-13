@@ -5,7 +5,7 @@ date: '2010-02-23T16:32:40+01:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=1869'
-permalink: /blog/2010/02/23/es-lloga-for-rent/
+aliases:  /blog/2010/02/23/es-lloga-for-rent/
 image: /wp-content/uploads/2013/06/es_lloga_fran_simo_01__ISC1838_DxO.jpg
 categories:
     - highlighted

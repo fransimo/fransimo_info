@@ -5,7 +5,7 @@ date: '2012-02-24T17:27:03+01:00'
 author: fran
 layout: post
 guid: 'https://fransimo.info/blog/2012/02/24/fotografies-street-photography/'
-permalink: /blog/2012/02/24/fotografies-street-photography/
+aliases:  /blog/2012/02/24/fotografies-street-photography/
 image: /wp-content/uploads/2016/02/03_fotografies_fran_simo.png
 categories:
     - press

@@ -5,7 +5,7 @@ date: '2008-12-31T19:57:21+01:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=7845'
-permalink: /es/blog/2008/12/31/fotografiar-del-natural-por-henri-cartier-bresson/
+aliases:  /es/blog/2008/12/31/fotografiar-del-natural-por-henri-cartier-bresson/
 categories:
     - 'Barcelona Photobloggers'
 ---

@@ -5,7 +5,7 @@ date: '2012-02-20T09:00:01+01:00'
 author: fran
 layout: post
 guid: 'http://barcelonaphotobloggers.org/?p=5583'
-permalink: /es/blog/2012/02/20/ubiquography-en-noticias-cuatro/
+aliases:  /es/blog/2012/02/20/ubiquography-en-noticias-cuatro/
 sociallikes:
     - '1'
 categories:

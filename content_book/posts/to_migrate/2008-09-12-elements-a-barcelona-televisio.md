@@ -5,7 +5,7 @@ date: '2008-09-12T10:32:37+02:00'
 author: 'Barcelona Photobloggers'
 layout: post
 guid: 'http://barcelonaphotobloggers.org/?p=1481'
-permalink: /es/blog/2008/09/12/elements-a-barcelona-televisio/
+aliases:  /es/blog/2008/09/12/elements-a-barcelona-televisio/
 sociallikes:
     - '1'
 categories:

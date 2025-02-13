@@ -5,7 +5,7 @@ date: '2009-01-01T18:57:48+01:00'
 author: fran
 layout: post
 guid: 'https://fransimo.info/blog/2009/01/01/fotografia-intuitiva/'
-permalink: /blog/2009/01/01/fotografia-intuitiva/
+aliases:  /blog/2009/01/01/fotografia-intuitiva/
 image: /wp-content/uploads/2009/01/fotografia_intuitiva_dsc_2104.jpg
 ---
 

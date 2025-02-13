@@ -5,7 +5,7 @@ date: '2007-10-18T15:00:37+02:00'
 author: fran
 layout: post
 guid: 'http://barcelonaphotobloggers.org/2007/10/20/barcelona-photobloggers-y-voltants-en-el-diari-de-terrassa/'
-permalink: /es/blog/2007/10/18/barcelona-photobloggers-y-voltants-en-el-diari-de-terrassa/
+aliases:  /es/blog/2007/10/18/barcelona-photobloggers-y-voltants-en-el-diari-de-terrassa/
 sociallikes:
     - '1'
 categories:

@@ -5,7 +5,7 @@ date: '2009-05-16T14:12:43+02:00'
 author: 'Barcelona Photobloggers'
 layout: post
 guid: 'http://barcelonaphotobloggers.org/?p=2041'
-permalink: /es/blog/2009/05/16/al-detall-a-barcelona-televisio/
+aliases:  /es/blog/2009/05/16/al-detall-a-barcelona-televisio/
 sociallikes:
     - '1'
 categories:

@@ -5,7 +5,7 @@ date: '2012-02-02T13:00:54+01:00'
 author: 'Barcelona Photobloggers'
 layout: post
 guid: 'http://barcelonaphotobloggers.org/?p=7476'
-permalink: /es/blog/2012/02/02/ubiquography-en-la-vanguardia/
+aliases:  /es/blog/2012/02/02/ubiquography-en-la-vanguardia/
 sociallikes:
     - '1'
 categories:

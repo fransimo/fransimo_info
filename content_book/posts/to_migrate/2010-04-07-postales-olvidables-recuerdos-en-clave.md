@@ -5,7 +5,7 @@ date: '2010-04-07T09:38:43+02:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=439'
-permalink: /es/blog/2010/04/07/postales-olvidables-recuerdos-en-clave/
+aliases:  /es/blog/2010/04/07/postales-olvidables-recuerdos-en-clave/
 categories:
     - phespaña
 ---

@@ -5,7 +5,7 @@ date: '2012-05-20T12:05:13+02:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=1807'
-permalink: /blog/2012/05/20/ubiquography-a-real-time-world-wide-mobile-photography-exhibition/
+aliases:  /blog/2012/05/20/ubiquography-a-real-time-world-wide-mobile-photography-exhibition/
 image: /wp-content/uploads/2012/05/ubiquography.png
 categories:
     - highlighted

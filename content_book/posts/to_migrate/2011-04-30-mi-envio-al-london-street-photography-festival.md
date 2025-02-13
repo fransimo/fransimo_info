@@ -5,7 +5,7 @@ date: '2011-04-30T19:05:50+02:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=773'
-permalink: /es/blog/2011/04/30/mi-envio-al-london-street-photography-festival/
+aliases:  /es/blog/2011/04/30/mi-envio-al-london-street-photography-festival/
 image: /wp-content/uploads/2011/04/0001_fran_simo__JSC6879.jpg
 categories:
     - press

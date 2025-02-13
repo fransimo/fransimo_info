@@ -5,7 +5,7 @@ date: '2012-05-07T15:46:13+02:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=1045'
-permalink: /es/blog/2012/05/07/influencias-alexey-titarenko/
+aliases:  /es/blog/2012/05/07/influencias-alexey-titarenko/
 image: /wp-content/uploads/2012/05/0026758.jpg
 categories:
     - 'Calle 35'

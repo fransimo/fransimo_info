@@ -5,7 +5,7 @@ date: '2010-03-29T13:31:43+02:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=477'
-permalink: /es/blog/2010/03/29/san-sebastian-barceloneta/
+aliases:  /es/blog/2010/03/29/san-sebastian-barceloneta/
 image: /wp-content/uploads/2013/06/san_sebastian_barceloneta_fran_simo_01.jpg
 categories:
     - phespaña

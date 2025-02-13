@@ -5,7 +5,7 @@ date: '2008-12-31T19:54:14+01:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=7843'
-permalink: /es/blog/2008/12/31/el-instante-decisivo-por-henri-cartier-bresson/
+aliases:  /es/blog/2008/12/31/el-instante-decisivo-por-henri-cartier-bresson/
 categories:
     - 'Barcelona Photobloggers'
 ---

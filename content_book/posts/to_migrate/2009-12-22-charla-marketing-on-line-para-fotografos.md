@@ -5,7 +5,7 @@ date: '2009-12-22T11:07:49+01:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=762'
-permalink: /es/blog/2009/12/22/charla-marketing-on-line-para-fotografos/
+aliases:  /es/blog/2009/12/22/charla-marketing-on-line-para-fotografos/
 enclosure:
     - "http://fransimo.info/wp-content/uploads/2009/12/DS300041.mp3\n99233120\naudio/mpeg\n"
     - "http://fransimo.info/wp-content/uploads/2009/12/mkt_on_line-Mediano.m4v\n11550862\nvideo/mp4\n"

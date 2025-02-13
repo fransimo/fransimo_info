@@ -5,7 +5,7 @@ date: '2010-04-12T13:34:51+02:00'
 author: fran
 layout: post
 guid: 'https://fransimo.info/blog/2010/04/12/fotoblogueando-photoblogging/'
-permalink: /blog/2010/04/12/fotoblogueando-photoblogging/
+aliases:  /blog/2010/04/12/fotoblogueando-photoblogging/
 ---
 
 Durante el 2002 el laboratorio donde acostumbraba revelar bajó los precios del “revelado a CD” y empecé a pedir siempre el soporte digital. A principio del 2003 ya había decidido abandonar el papel.

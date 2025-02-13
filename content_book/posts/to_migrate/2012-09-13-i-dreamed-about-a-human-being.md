@@ -5,7 +5,7 @@ date: '2012-09-13T11:18:56+02:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=1100'
-permalink: /blog/2012/09/13/i-dreamed-about-a-human-being/
+aliases:  /blog/2012/09/13/i-dreamed-about-a-human-being/
 image: /wp-content/uploads/2012/08/fran_simo_0002_Untitled1_mean_.jpg
 categories:
     - highlighted

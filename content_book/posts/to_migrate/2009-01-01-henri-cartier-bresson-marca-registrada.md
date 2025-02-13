@@ -5,7 +5,7 @@ date: '2009-01-01T10:00:20+01:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=745'
-permalink: /es/blog/2009/01/01/henri-cartier-bresson-marca-registrada/
+aliases:  /es/blog/2009/01/01/henri-cartier-bresson-marca-registrada/
 image: /wp-content/uploads/2009/01/pepe_baeza.jpg
 categories:
     - 'Barcelona Photobloggers'

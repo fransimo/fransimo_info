@@ -5,7 +5,7 @@ date: '2011-06-30T14:00:26+02:00'
 author: 'Barcelona Photobloggers'
 layout: post
 guid: 'http://barcelonaphotobloggers.org/?p=7481'
-permalink: /es/blog/2011/06/30/branguli-estuvo-aqui-y-tu-en-el-periodico/
+aliases:  /es/blog/2011/06/30/branguli-estuvo-aqui-y-tu-en-el-periodico/
 sociallikes:
     - '1'
 categories:

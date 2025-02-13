@@ -5,7 +5,7 @@ date: '2013-06-03T18:04:53+02:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=1835'
-permalink: /blog/2013/06/03/store-fronts/
+aliases:  /blog/2013/06/03/store-fronts/
 image: /wp-content/uploads/2013/06/fran_simo_0007_Casa-Vega_KSC9003_Madrid-Store-Fronts.jpg
 categories:
     - highlighted

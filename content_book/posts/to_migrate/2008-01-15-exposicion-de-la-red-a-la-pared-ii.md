@@ -5,7 +5,7 @@ date: '2008-01-15T08:53:23+01:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=7725'
-permalink: /es/blog/2008/01/15/exposicion-de-la-red-a-la-pared-ii/
+aliases:  /es/blog/2008/01/15/exposicion-de-la-red-a-la-pared-ii/
 image: /wp-content/uploads/2008/01/marcelo_aurelio_de_la_red_a_la_pared_ii_20160213_009.jpg
 categories:
     - 'Barcelona Photobloggers'

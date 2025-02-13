@@ -5,7 +5,7 @@ date: '2013-07-30T09:03:09+02:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=7658'
-permalink: /es/blog/2013/07/30/un-viaje-personal-segunda-parte/
+aliases:  /es/blog/2013/07/30/un-viaje-personal-segunda-parte/
 image: /wp-content/uploads/2013/07/Untitled_Crowd_1_1992.jpg
 categories:
     - 'Calle 35'

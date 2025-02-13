@@ -5,7 +5,7 @@ date: '2007-08-08T12:05:00+02:00'
 author: fran
 layout: post
 guid: 'https://fransimo.info/?p=8065'
-permalink: /es/blog/2007/08/08/principios-de-fotografia-en-la-campusmac-2007/
+aliases:  /es/blog/2007/08/08/principios-de-fotografia-en-la-campusmac-2007/
 image: /wp-content/uploads/2009/01/fotografia_intuitiva_dsc_2104.jpg
 categories:
     - press

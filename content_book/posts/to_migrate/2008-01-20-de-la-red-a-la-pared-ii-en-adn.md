@@ -5,7 +5,7 @@ date: '2008-01-20T09:00:01+01:00'
 author: 'Barcelona Photobloggers'
 layout: post
 guid: 'http://barcelonaphotobloggers.org/?p=7519'
-permalink: /es/blog/2008/01/20/de-la-red-a-la-pared-ii-en-adn/
+aliases:  /es/blog/2008/01/20/de-la-red-a-la-pared-ii-en-adn/
 sociallikes:
     - '1'
 categories:

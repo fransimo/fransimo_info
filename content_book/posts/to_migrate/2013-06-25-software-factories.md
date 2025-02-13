@@ -5,7 +5,7 @@ date: '2013-06-25T17:28:25+02:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=1833'
-permalink: /blog/2013/06/25/software-factories/
+aliases:  /blog/2013/06/25/software-factories/
 image: /wp-content/uploads/2013/06/software_factories_fran_simo_01_FSC_7246.jpg
 categories:
     - highlighted

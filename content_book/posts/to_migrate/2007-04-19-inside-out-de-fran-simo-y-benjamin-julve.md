@@ -5,7 +5,7 @@ date: '2007-04-19T10:44:59+02:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=7747'
-permalink: /es/blog/2007/04/19/inside-out-de-fran-simo-y-benjamin-julve/
+aliases:  /es/blog/2007/04/19/inside-out-de-fran-simo-y-benjamin-julve/
 enclosure:
     - "http://fransimo.info/wp-content/uploads/2007/04/01-insideOut.mp3\n6087588\naudio/mpeg\n"
 image: /wp-content/uploads/2016/02/insideout_benjamin_julve_fran_simo_01_untitled-1-copy.jpg

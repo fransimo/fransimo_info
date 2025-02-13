@@ -5,7 +5,7 @@ date: '2011-07-01T18:53:24+02:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=7592'
-permalink: /es/blog/2011/07/01/visita-guiada-a-branguli-barcelona-1909-1945-con-susana-garcia/
+aliases:  /es/blog/2011/07/01/visita-guiada-a-branguli-barcelona-1909-1945-con-susana-garcia/
 enclosure:
     - "http://fransimo.info/wp-content/uploads/2011/07/2011-06-30-cccb-bcnph-2.mp3\n22430708\naudio/mpeg\n"
     - "http://barcelonaphotobloggers.org/wp-content/uploads/2011/07/2011-06-30-cccb-bcnph-2.mp3\n22430708\naudio/mpeg\n"

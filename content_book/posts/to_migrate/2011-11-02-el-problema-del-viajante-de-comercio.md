@@ -5,7 +5,7 @@ date: '2011-11-02T08:55:33+01:00'
 author: fran
 layout: post
 guid: 'http://fransimo.info/?p=936'
-permalink: /es/blog/2011/11/02/el-problema-del-viajante-de-comercio/
+aliases:  /es/blog/2011/11/02/el-problema-del-viajante-de-comercio/
 categories:
     - Software
 ---
