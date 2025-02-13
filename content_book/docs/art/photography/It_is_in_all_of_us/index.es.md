@@ -6,9 +6,9 @@ date: 2025-02-06
 bookToc: false
 aliases: /es/blog/2025/02/06/esta-en-todos-nosotros/
 categories:
-- highlighted
 - photography
-- projects
+- research
+- ongoing
 ---
 
 ![El susurro de las ninfas](X1V45282-Enhanced-SR.jpg)

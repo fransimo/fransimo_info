@@ -6,9 +6,7 @@ date: 2025-02-06
 bookToc: false
 aliases: /blog/2025/02/06/it-is-in-all-of-us/
 categories:
-- highlighted
 - photography
-- projects
 ---
 
 ![The Whisper of the Nymphs](X1V45282-Enhanced-SR.jpg)
