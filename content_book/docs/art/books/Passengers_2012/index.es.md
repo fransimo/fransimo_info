@@ -60,7 +60,7 @@ guardar en esta cápsula del tiempo que son los libros hoy, ahora. Este es el mo
 
 Passengers es un proyecto de Fran Simó para [Barcelona Photobloggers](http://barcelonaphotobloggers.org/). Este volumen
 ha sido dirigido y editado en equipo por: Marcelo Aurelio, Godo Chillida, Benjamín Julve y Fran Simó. En la
-sección: [“Procesos participativos en red”](http://passengers-streetphotography.com/participative-processes-on-the-web-making-of-passengers-2012/)
+sección: [“Procesos participativos en red”](/docs/art/books/Passengers_2012/Participative_processes_on_the_web_making_of_passengers_2012)
 encontrarás más información sobre el proceso que hemos utilizado en este libro y nuestras experiencias similares.
 
 Puedes [navegar el libro en pantalla](http://issuu.com/FranSimo/docs/es_passengers_2012-e-version?e=2922899/5647894), [descargarlo como PDF](http://passengers-streetphotography.com/wp-content/uploads/2012/book/es_Passengers_2012-e-version.pdf)
