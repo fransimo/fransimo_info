@@ -49,7 +49,7 @@ aliases: /books/
 {{< figure
   src="/docs/art/books/22.2/0013_018_GSC_2765_cover.jpg"
   alt="22.2"
-  link="/docs/art/new_media_art/22.2/"
+  link="/docs/art/books/22.2/"
   caption="Fanzine: 22.2"
   class="image-portfolio"
 >}}
@@ -61,7 +61,7 @@ aliases: /books/
 {{< figure
   src="/docs/art/books/Traces/DSCF1438-2.jpg"
   alt="Traces"
-  link="/docs/art/new_media_art/Traces/"
+  link="/docs/art/books/Traces/"
   caption="Book collection: Traces"
   class="image-portfolio"
 >}}
