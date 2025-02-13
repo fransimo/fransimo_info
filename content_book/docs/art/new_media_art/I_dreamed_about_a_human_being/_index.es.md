@@ -1,23 +1,36 @@
 ---
 id: 8968
 title: 'He soñado con un ser humano'
-date: '2012-09-13T11:18:56+02:00'
+date: '2012-09-13'
 author: fran
 lang: es
-guid: 'https://fransimo.info/blog/2012/09/13/he-sonado-con-un-ser-humano/'
-aliases:  /blog/2012/09/13/i-dreamed-about-a-human-being/
-image: /wp-content/uploads/2012/08/fran_simo_0002_Untitled1_mean_.jpg
+aliases: /blog/2012/09/13/i-dreamed-about-a-human-being/
+image: fran_simo_0002_Untitled1_mean_.jpg
 categories:
-    - 'new media art'
-    - projects
+- new media art
+- NFT
 tags:
-    - life
-    - 'new media art'
-    - postfotografía
-    - 'spftware art'
+- AIArt
+- artificial intelligence
+- ArtificialIntelligenceArt
+- computer vision
+- creative commons
+- face detection
+- faces
+- fine art
+- flickr
+- machine learning
+- portraits
+- postfotografía
+- postphotography
+- life
 ---
 
-<img src="/uploads/2012/08/fran_simo_0001_Untitled1_medium_-500x500.jpg" alt="I've dreamed about a human being" width="500" height="500" class="alignleft size-medium wp-image-1123">
+
+![fran_simo_0001_Untitled1_medium_.jpg](fran_simo_0001_Untitled1_medium_.jpg)
+
+# He soñado con un ser humano
+
 ¿Cómo imaginaría un robot un rostro humano? “I dreamed about a human being” es como espiar dentro del cerebro de un robot.“I dreamed about a human being” es parte de un proyecto que explora el uso de la inteligencia artificial aplicada a la fotografía utilizando código y datos abiertos en Internet. El proyecto ya tiene una base de datos de 56 millones de imágenes. Tenemos herramientas increíbles y bases de datos de imágenes gigantescas de acceso gratuito pero no terminamos de entender qué podemos hacer con ellas o qué significa que estén ahí.
 
 IDAAHB nos cuestiona sobre identidad, privacidad, el incrementó del poder computacional y el libre acceso a poderosos algoritmos matemáticos. Todo con un sentido estético y educacional.
@@ -30,7 +43,7 @@ Otra manera de percibir esta acumulación de imágenes es pasar las imágenes a 
 <strong>Actualización 6/8/2013</strong>: La base de datos ya contiene 75 millones de imágenes y ha reconocido 345,625 caras.
 <strong>Actualización 25/1/2015</strong>: a base de datos ya contiene 88 millones de imágenes y ha reconocido 1,250,415 caras.
 
-<h2>El algoritmo</h2>
+## El algoritmo
 
 El algoritmo utilizado para reconocer los rostros es capaz de encontrar cualquier objeto dentro de una fotografía pero para ello hay que enseñarle qué buscamos con imágenes similares.
 
@@ -42,8 +55,13 @@ Dicho con otras palabras, el algoritmo re-encuadra una fotografía para converti
 
 Debajo podemos ver un ejemplo del algoritmo funcionando. Una foto de una persona con un paisaje de fondo. El algoritmo reconoce la cara y la encuadra. Vemos como lo ojos tienden a estar en las líneas centrales de los tercios y la boca queda en el tercio medio inferior.
 
-<center><a href="http://www.flickr.com/photos/fraboof/2126593950/"><img class="alignnone size-medium wp-image-1187" title="ejemplo_recorte" src="/uploads/2012/09/ejemplo_recorte-500x386.png" alt="" width="500" height="386">
-"Me on the top of matanga hill" by fraboof</a></center>
+{{< figure
+  src="ejemplo_recorte.png"
+  alt="'Me on the top of matanga hill' by fraboof"
+  link="http://www.flickr.com/photos/fraboof/2126593950/"
+  caption="'Me on the top of matanga hill' by fraboof"
+  class="image-general"
+>}}
 
 El aprendizaje del algoritmo es supervisado. Le enseñas, aprende y lo evalúas hasta que el resultado es satisfactorio. En cada iteración se agregan rostros y se le explican los errores que ha cometido.
 
@@ -52,12 +70,12 @@ Como parte de la evaluación necesitaba ver el conjunto de imágenes descrito es
 <table>
 <tbody>
 <tr>
-<td><a href="/uploads/2012/08/fran_simo_0001_Untitled1_medium_.jpg"><img class="alignnone size-full wp-image-8569" title="fran_simo_0001_Untitled1_medium_200" src="/uploads/2012/09/fran_simo_0001_Untitled1_medium_200.jpg" alt="" width="170" height="170"></a></td>
-<td><a href="/uploads/2012/08/fran_simo_0003_Untitled1_dev_std_.jpg"><img class="alignnone size-full wp-image-8570" title="fran_simo_0003_Untitled1_dev_std_200" src="/uploads/2012/09/fran_simo_0003_Untitled1_dev_std_200.jpg" alt="" width="170" height="170"></a></td>
-<td><a href="/uploads/2012/08/fran_simo_0004_Untitled1_variance_.jpg"><img class="alignnone size-full wp-image-8571" title="fran_simo_0004_Untitled1_variance_200" src="/uploads/2012/09/fran_simo_0004_Untitled1_variance_200.jpg" alt="" width="170" height="170"></a></td>
-<td><a href="/uploads/2012/08/fran_simo_0005_Untitled1_skew_.jpg"><img class="alignnone size-full wp-image-8572" title="fran_simo_0005_Untitled1_skew_200" src="/uploads/2012/09/fran_simo_0005_Untitled1_skew_200.jpg" alt="" width="170" height="170"></a></td>
-<td><a href="/uploads/2012/08/fran_simo_0007_Untitled1_range_.jpg"><img class="alignnone size-full wp-image-8574" title="fran_simo_0007_Untitled1_range_200" src="/uploads/2012/09/fran_simo_0007_Untitled1_range_200.jpg" alt="" width="170" height="170"></a></td>
-<td><a href="/uploads/2012/08/fran_simo_0006_Untitled1_min_.jpg"><img class="alignnone size-full wp-image-8573" title="fran_simo_0006_Untitled1_min_200" src="/uploads/2012/09/fran_simo_0006_Untitled1_min_200.jpg" alt="" width="170" height="170"></a></td>
+<td><a href="fran_simo_0001_Untitled1_medium_.jpg"><img class="alignnone size-full wp-image-8569" title="fran_simo_0001_Untitled1_medium_200" src="/uploads/2012/09/fran_simo_0001_Untitled1_medium_200.jpg" alt="" width="170" height="170"></a></td>
+<td><a href="fran_simo_0003_Untitled1_dev_std_.jpg"><img class="alignnone size-full wp-image-8570" title="fran_simo_0003_Untitled1_dev_std_200" src="/uploads/2012/09/fran_simo_0003_Untitled1_dev_std_200.jpg" alt="" width="170" height="170"></a></td>
+<td><a href="fran_simo_0004_Untitled1_variance_.jpg"><img class="alignnone size-full wp-image-8571" title="fran_simo_0004_Untitled1_variance_200" src="/uploads/2012/09/fran_simo_0004_Untitled1_variance_200.jpg" alt="" width="170" height="170"></a></td>
+<td><a href="fran_simo_0005_Untitled1_skew_.jpg"><img class="alignnone size-full wp-image-8572" title="fran_simo_0005_Untitled1_skew_200" src="/uploads/2012/09/fran_simo_0005_Untitled1_skew_200.jpg" alt="" width="170" height="170"></a></td>
+<td><a href="fran_simo_0007_Untitled1_range_.jpg"><img class="alignnone size-full wp-image-8574" title="fran_simo_0007_Untitled1_range_200" src="/uploads/2012/09/fran_simo_0007_Untitled1_range_200.jpg" alt="" width="170" height="170"></a></td>
+<td><a href="fran_simo_0006_Untitled1_min_.jpg"><img class="alignnone size-full wp-image-8573" title="fran_simo_0006_Untitled1_min_200" src="/uploads/2012/09/fran_simo_0006_Untitled1_min_200.jpg" alt="" width="170" height="170"></a></td>
 </tr>
 <tr align="center">
 <td>Mediana</td>
@@ -74,7 +92,7 @@ Hoy damos por sentado que las cámaras, los teléfonos, nuestro software de foto
 
 Lo más fascinante del tema para mi es la pregunta ¿qué más pueden aprender? ¿qué les podemos enseñar a ver? Las aplicaciones típicas de estas tecnologías siempre han sido la seguridad. Las aplicaciones comerciales están poco desarrolladas. Por ejemplo, hacer que un banco de imágenes se catalogue automáticamente. Algoritmos similares se utilizan para el diagnóstico por imagen. Pero ¿para qué la pueden utilizar los artistas o los filósofos?
 
-<h2>Fotografía e inteligencia artificial</h2>
+## Fotografía e inteligencia artificial
 
 “I dreamed about a human being” es parte de un proyecto más grande que explora el uso de la inteligencia artificial aplicada a la fotografía utilizando código y datos abiertos en Internet.
 
@@ -95,32 +113,32 @@ Todo esto se suma al incremento de la capacidad computacional y de la velocidad 
 
 Todos estamos subiéndonos a la tecnología digital como todos nos subimos a los coches. Tuvieron que pasar 100 años para ver el impacto medioambiental. Pero el impacto de esta tecnología no acaba en el aire, se está metiendo dentro de nuestro cerebro alterando incluso su estructura. Es necesario, al menos, intentar comprender las capacidades de las tecnologías que estamos usando.
 
-<h2>Preguntas técnicas frecuentes sobre el proyecto</h2>
+## Preguntas técnicas frecuentes sobre el proyecto
 
-<h3>¿Qué algoritmo se ha utilizado?</h3>
+### ¿Qué algoritmo se ha utilizado?
 
 haar-like features de Viola-Jones propuesto en 2001 <a href="http://en.wikipedia.org/wiki/Haar-like_features">http://en.wikipedia.org/wiki/Haar-like_features</a>
 
-<h3>¿Puedo descargar la haar.xml?</h3>
+### ¿Puedo descargar la haar.xml?
 
 Sí, está disponible aquí <a href="http://bit.ly/S6PShC">http://bit.ly/S6PShC</a>
 
-<h3>¿Como se ha entrenado al algoritmo?</h3>
+### ¿Como se ha entrenado al algoritmo?
 
 El entrenamiento se ha hecho con la librería de visión artificial openCV versión 2.1 sobre Ubuntu 10.04. Para el reconocimiento de estas imágenes se ha usado la tercera versión del entrenamiento que se ha hecho con 209 imágenes positivas y 3123 negativas. El procesamiento ha tardado 3 semanas en un ordenador con un procesador Intel Core i5 650 3.20GHz x 4 con 12 Gigas de RAM.
 
-<h3>¿Porqué 257 sobre 5 millones?</h3>
+### ¿Porqué 257 sobre 5 millones?
 
 5 millones de imágenes a 500 pixeles ocupan casi un Terabyte, el tamaño del disco que tengo dedicado a la biblioteca del proyecto. De esas 5 millones de imágenes el algoritmo encontró 166 mil rostros pero solo 257 tenían un retrato que ocupase el 70% de la fotografía y más de 6 megapixels resolución que creí aceptable para hacer una copia impresa de calidad. “I dreamed about a human being” tiene una resolución de 3000x3000 pixeles.
 
-<h3>¿Qué software se ha utilizado?</h3>
+### ¿Qué software se ha utilizado?
 
 Base de datos: MySQL varias versiones con los años.
 Lenguajes de programación: PHP y C.
 Librería de visión artificial: openCV 2.1 y 2.3
 Para las tareas “humanas” de visualización Lightroom 4 y Photoshop 5.
 
-<h3>¿Como se hizo el render estadístico?</h3>
+### ¿Como se hizo el render estadístico?
 
 Después del entrenamiento se evaluaron los posibles retratos en las 5 millones de imágenes guardando los resultados en una base de datos. Un programa en PHP descargó las imágenes de Flickr y generó JPGs con la información que encontró el algoritmo de reconocimiento.
 Estos JPGs se importan en Lightroom donde se puede hacer una revisión humana. Los JPGs se pueden ver con y sin el re-encuadre para poder evaluarlos.

@@ -1,32 +1,30 @@
 ---
 id: 1100
 title: 'I dreamed about a human being'
-date: '2012-09-13T11:18:56+02:00'
+date: '2012-09-13'
 author: fran
-lang: es
-guid: 'http://fransimo.info/?p=1100'
-aliases: /blog/2012/09/13/i-dreamed-about-a-human-being/
-image: /wp-content/uploads/2012/08/fran_simo_0002_Untitled1_mean_.jpg
+lang: en
+aliases: 
+- /blog/2012/09/13/i-dreamed-about-a-human-being/
+image: fran_simo_0002_Untitled1_mean_.jpg
 categories:
-    - highlighted
-    - 'new media art'
-    - projects
-    - Software
+- new media art
+- NFT
 tags:
-    - AIArt
-    - 'artificial intelligence'
-    - ArtificialIntelligenceArt
-    - 'computer vision'
-    - 'creative commons'
-    - 'face detection'
-    - faces
-    - 'fine art'
-    - flickr
-    - 'machine learning'
-    - 'new media art'
-    - portraits
-    - postfotografía
-    - postphotography
+- AIArt
+- artificial intelligence
+- ArtificialIntelligenceArt
+- computer vision
+- creative commons
+- face detection
+- faces
+- fine art
+- flickr
+- machine learning
+- portraits
+- postfotografía
+- postphotography
+- life
 ---
 
 ![fran_simo_0001_Untitled1_medium_.jpg](fran_simo_0001_Untitled1_medium_.jpg)
@@ -59,8 +57,13 @@ In other words, the algorithm reframes a photograph in order to convert it into 
 
 An example of the algorithm at work can be seen below in a photograph of a person against a landscape background. The algorithm recognises the face and frames it. We can see how the eyes tend to be positioned in the central lines of the rule of thirds and the mouth in the lower middle third.
 
-<center><a href="http://www.flickr.com/photos/fraboof/2126593950/"><img class="alignnone size-medium wp-image-1187" title="ejemplo_recorte" src="/uploads/2012/09/ejemplo_recorte-500x386.png" alt="" width="500" height="386" />
-"Me on the top of matanga hill" by fraboof</a></center>
+{{< figure
+  src="ejemplo_recorte.png"
+  alt="'Me on the top of matanga hill' by fraboof"
+  link="http://www.flickr.com/photos/fraboof/2126593950/"
+  caption="'Me on the top of matanga hill' by fraboof"
+  class="image-general"
+>}}
 
 The algorithm’s learning is supervised. You teach it, it learns and you assess it until you obtain a satisfactory result. Each iteration adds faces and the mistakes that it has made are explained to it.
 
@@ -68,12 +71,12 @@ As part of its assessment I needed to see all the images statistically described
 <table>
 <tbody>
 <tr>
-<td><a href="/uploads/2012/08/fran_simo_0001_Untitled1_medium_.jpg"><img class="alignnone size-full wp-image-1192" title="fran_simo_0001_Untitled1_medium_200" src="/uploads/2012/09/fran_simo_0001_Untitled1_medium_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="/uploads/2012/08/fran_simo_0003_Untitled1_dev_std_.jpg"><img class="alignnone size-full wp-image-1193" title="fran_simo_0003_Untitled1_dev_std_200" src="/uploads/2012/09/fran_simo_0003_Untitled1_dev_std_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="/uploads/2012/08/fran_simo_0004_Untitled1_variance_.jpg"><img class="alignnone size-full wp-image-1194" title="fran_simo_0004_Untitled1_variance_200" src="/uploads/2012/09/fran_simo_0004_Untitled1_variance_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="/uploads/2012/08/fran_simo_0005_Untitled1_skew_.jpg"><img class="alignnone size-full wp-image-1195" title="fran_simo_0005_Untitled1_skew_200" src="/uploads/2012/09/fran_simo_0005_Untitled1_skew_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="/uploads/2012/08/fran_simo_0007_Untitled1_range_.jpg"><img class="alignnone size-full wp-image-1197" title="fran_simo_0007_Untitled1_range_200" src="/uploads/2012/09/fran_simo_0007_Untitled1_range_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="/uploads/2012/08/fran_simo_0006_Untitled1_min_.jpg"><img class="alignnone size-full wp-image-1196" title="fran_simo_0006_Untitled1_min_200" src="/uploads/2012/09/fran_simo_0006_Untitled1_min_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0001_Untitled1_medium_.jpg"><img class="alignnone size-full wp-image-1192" title="fran_simo_0001_Untitled1_medium_200" src="/uploads/2012/09/fran_simo_0001_Untitled1_medium_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0003_Untitled1_dev_std_.jpg"><img class="alignnone size-full wp-image-1193" title="fran_simo_0003_Untitled1_dev_std_200" src="/uploads/2012/09/fran_simo_0003_Untitled1_dev_std_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0004_Untitled1_variance_.jpg"><img class="alignnone size-full wp-image-1194" title="fran_simo_0004_Untitled1_variance_200" src="/uploads/2012/09/fran_simo_0004_Untitled1_variance_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0005_Untitled1_skew_.jpg"><img class="alignnone size-full wp-image-1195" title="fran_simo_0005_Untitled1_skew_200" src="/uploads/2012/09/fran_simo_0005_Untitled1_skew_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0007_Untitled1_range_.jpg"><img class="alignnone size-full wp-image-1197" title="fran_simo_0007_Untitled1_range_200" src="/uploads/2012/09/fran_simo_0007_Untitled1_range_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0006_Untitled1_min_.jpg"><img class="alignnone size-full wp-image-1196" title="fran_simo_0006_Untitled1_min_200" src="/uploads/2012/09/fran_simo_0006_Untitled1_min_200.jpg" alt="" width="170" height="170" /></a></td>
 </tr>
 <tr align="center">
 <td>Median</td>
@@ -131,7 +134,9 @@ Processing took 3 weeks using an Intel Core i5 650 3.20GHz x 4 processor with 12
 
 5 millions images of 500 pixels uses almost a terabyte, the disc size I use for the photo library.
 Within this 5 millions, the algorithm found 166 thousand portraits, but only 257 has more than 6 mega-pixels and fill more than 70% of the original image. I though this would be a good resolution for a printed copy. “I dreamed about a human being” has 3000x3000 pixels.
-<h3>Which software has been used?</h3>
+
+### Which software has been used?
+
 Database: MySQL, various versions.
 Programming language: PHP and C.
 Computer vision library: openCV 2.1 and 2.3
