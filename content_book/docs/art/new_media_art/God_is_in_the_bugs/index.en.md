@@ -26,7 +26,15 @@ title: God is in the bugs
 aliases: /blog/2021/07/31/god-is-in-the-bugs/
 bookToc: false
 ---
+
 # God is in the bugs
+{{% details title="Technical details" open=true %}}
+````
+2021
+NFT collection
+2.501Ξ
+````
+{{% /details %}}
 
 God is in the [_bugs_](https://en.wikipedia.org/wiki/Software_bug): any real biological evolution is the consequence of an error in a DNA copy. 
 

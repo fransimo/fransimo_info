@@ -19,6 +19,14 @@ title: Shared Folder (Red box) v'21
 aliases: /blog/2021/05/21/shared-folder-red-box-v21/
 ---
 ![](IMG_4934-Editar-2.jpg) 
+{{% details title="Technical details" open=true %}}
+````
+2021
+NFT collection
+2.501Ξ
+````
+{{% /details %}}
+
 # Shared Folder (Red box) v'21
 
 POI Finch: _“You are being watched. The government has a secret system: a machine that spies on you every hour of every day. I know, because I built it… “_ …maybe the government doesn’t need the machine… **you are sharing your intimacy without even knowing and anyone can access it with a 35$ machine**.
