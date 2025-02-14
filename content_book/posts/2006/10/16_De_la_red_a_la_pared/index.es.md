@@ -1,16 +1,13 @@
 ---
-id: 8943
-title: 'Exposición &#8220;De la red a la pared&#8221;'
+title: 'Exposición: "De la red a la pared"'
 date: '2006-10-16T08:07:32+02:00'
 author: fran
-lang: es
-guid: 'https://fransimo.info/blog/2006/10/16/exposicion-de-la-red-a-la-pared/'
-aliases:  /blog/2006/10/16/exposicion-de-la-red-a-la-pared/
+aliases:  /es/blog/2006/10/16/exposicion-de-la-red-a-la-pared/
 image: /wp-content/uploads/2006/10/DSC_1245_DxO.jpg
 categories:
-    - 'Barcelona Photobloggers'
-    - exhibits
-    - highlighted
+- 'Barcelona Photobloggers'
+- exhibits
+
 ---
 
 El fenómeno de los fotoblogs, una extensión de la cultura blog en la que la fotografía es el centro de interés, ha ido ganando adeptos en internet en los últimos años. Alrededor de este fenómeno han ido apareciendo comunidades online en varias ciudades del mundo, entre ellas Barcelona, que pretenden ser un lugar de encuentro para los fotobloguers.
