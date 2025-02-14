@@ -11,7 +11,7 @@ tags:
   - functionfest
   - mallorca
 title: function("innocence", 2019)
-aliases: /blog/2019/05/26/functioninocencia-2019/
+aliases: /es/blog/2019/05/26/functioninocencia-2019/
 ---
 ![function_2019_innocence.png](function_2019_innocence.png)
 
