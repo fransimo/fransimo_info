@@ -10,18 +10,19 @@ tags:
 ---
 ![3049300655_461362df67_b.jpg](3049300655_461362df67_b.jpg)
 
-[Rainy Day](http://www.flickr.com/photos/summerfeelings/3030122090/) as flickrGrama.
+[Rainy Day](http://www.flickr.com/photos/summerfeelings/3030122090/) como flickrGrama.
 
-This is a procjet i’m working **flickrGramas**.
+Este es un proyecto en el que estoy trabajando llamado **flickrGramas**.
 
-It’s a very early version, my first try. Next improvements are  
-1) use only cc drivates allowed  
-2) create by tags (a face formed by thousands of faces, a rainy day formed by thousands of rainy images)  
-3) improve color indexing technics
+Esta es una versión muy inicial, mi primer intento. Las mejoras futuras incluyen:
+1) Usar solo imágenes permitidas por licencias Creative Commons derivadas  
+2) Crear flickrGramas por etiquetas (por ejemplo, un rostro formado por miles de imágenes de rostros, un día lluvioso formado por miles de imágenes relacionadas con la lluvia)  
+3) Mejorar las técnicas de indexación de color
 
-More resulution [here](3049300655_8ca88c85b5_o.jpg) (1,800px)  
-Full resolution [here](http://entregas.fransimo.info/flickrGramas/3030122090/fG_3030122090_ps.jpg), (18,000px, 106Mb!!!).
+Resolución más alta disponible [aquí](3049300655_8ca88c85b5_o.jpg) (1.800px)  
+Resolución completa disponible [aquí](http://entregas.fransimo.info/flickrGramas/3030122090/fG_3030122090_ps.jpg) (18.000px, 106MB).
 
-There are 43200 pixels, represented by 22938 different images on this flickrGrama.
+Este flickrGrama contiene 43.200 píxeles representados por 22.938 imágenes diferentes.
 
-flickrGramas are the evolution of [elements exhibition’s](http://elements-barcelona.com/) software.
+Los flickrGramas son una evolución del software de la [Exposición Elements](http://elements-barcelona.com/).
+
