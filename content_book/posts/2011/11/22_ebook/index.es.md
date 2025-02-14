@@ -1,13 +1,11 @@
 ---
 id: 950
 title: 'Mi libro "22" como eBook'
-date: '2011-11-21T10:13:16+01:00'
+date: '2011-11-21'
 author: fran
-lang: es
-guid: 'http://fransimo.info/?p=950'
 aliases:  /es/blog/2011/11/21/mi-libro-22-como-ebook/
 categories:
-    - projects
+- photography
 ---
 [![cover.jpg](cover.jpg)](http://www.lulu.com/shop/fran-sim%C3%B3/22/ebook/product-18680983.html)
 
