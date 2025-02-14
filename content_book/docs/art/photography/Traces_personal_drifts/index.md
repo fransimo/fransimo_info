@@ -1,7 +1,6 @@
 ---
 author: fran
-guid: http://fransimo.info/?p=1824
-id: 1824
+date: 2015-03-15
 image: fran_simo_traces_1_02__A009704_DxO.jpg
 title: Traces (personal drifts)
 bookToc: false

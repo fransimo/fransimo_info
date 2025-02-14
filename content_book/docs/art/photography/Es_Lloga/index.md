@@ -1,21 +1,21 @@
 ---
 id: 1869
 title: 'Es lloga (For Rent)'
-date: '2010-02-23T16:32:40+01:00'
+date: '2010-02-23'
 author: fran
-lang: en
 guid: 'http://fransimo.info/?p=1869'
 aliases:  /blog/2010/02/23/es-lloga-for-rent/
-image: /wp-content/uploads/2013/06/es_lloga_fran_simo_01__ISC1838_DxO.jpg
+image: es_lloga_fran_simo_01__ISC1838_DxO.jpg
 categories:
-    - highlighted
-    - photography
-    - projects
+- photography
 ---
+![es_lloga_fran_simo_01__ISC1838_DxO.jpg](es_lloga_fran_simo_01__ISC1838_DxO.jpg)
+
+# Es lloga (For Rent)
 
 2009-2010
 
-Quote: <em>“Unemployment keeps rising in Spain, punishing with the most cruelty small and medium-seize businesses. It is estimated that every day 500 independent contractors lose their jobs and every week about 4000 businesses are forced to close. The small and medium-size Catalan companies will demonstrate again tomorrow before the Congress…”</em> (11-17-2009 “La Vanguardia” Newspaper. Barcelona. )
+> _“Unemployment keeps rising in Spain, punishing with the most cruelty small and medium-seize businesses. It is estimated that every day 500 independent contractors lose their jobs and every week about 4000 businesses are forced to close. The small and medium-size Catalan companies will demonstrate again tomorrow before the Congress…”_ (11-17-2009 “La Vanguardia” Newspaper. Barcelona. )
 
 The closure of thousands of small businesses is only one facet of a more complex drama. Every store that closes affects its owner, its employees, its providers and all of their families. 
 
@@ -29,5 +29,9 @@ The mechanisms of the system’s self-control didn’t work. Nobody listened to 
 
 Every time I though about the crisis and its responsible I remember that Bruce Springsteen’s words in Youngstown “Once I made you rich enough, rich enough to forget my name” 
 
-[gallery type="rectangular" columns="2" link="none" ids="1385,1387,1388,547"]
-<a href="/uploads/2010/02/PicturingAnEthicalEconomy_PressRelease.pdf"rel="">Picturing An Ethical Economy Press Release</a>
+{{< load-photoswipe >}}
+{{< gallery />}}
+
+
+{{< embedpdf url="PicturingAnEthicalEconomy_PressRelease.pdf" >}}
+[Picturing An Ethical Economy Press Release](PicturingAnEthicalEconomy_PressRelease.pdf)
