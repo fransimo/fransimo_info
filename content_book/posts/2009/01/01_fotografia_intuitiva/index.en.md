@@ -8,7 +8,7 @@ image: fotografia_intuitiva_dsc_2104.jpg
 
 ![fotografia_intuitiva_dsc_2104.jpg](fotografia_intuitiva_dsc_2104.jpg)
 
-“The simply curious doesn’t have the right… Zen, like all mysticism, will only be understood by a mystic who… won’t give into the temptation to obtain by a surreptitious way that which the mystical experience denies” (Translator’s note from ‘Zen in the Art of Archery’)
+> _“The simply curious doesn’t have the right… Zen, like all mysticism, will only be understood by a mystic who… won’t give into the temptation to obtain by a surreptitious way that which the mystical experience denies”_ (Translator’s note from ‘Zen in the Art of Archery’)
 
 From Pepe Baeza’s talk I found out that Braque had recommended Henri Cartier-Bresson to read the book ‘Zen in the Art of Archery’ by Eugen Herrigel.
 

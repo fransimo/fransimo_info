@@ -8,7 +8,7 @@ image: fotografia_intuitiva_dsc_2104.jpg
 
 ![fotografia_intuitiva_dsc_2104.jpg](fotografia_intuitiva_dsc_2104.jpg)
 
-«El meramente curioso no tiene derecho… El Zen, como toda mística, será comprendido únicamente por un místico que… no sucumbirá a la tentación de obtener en forma subrepticia lo que la experiencia mística le niega» (Nota del traductor en: _Zen en el arte del tiro con arco_)
+> _"El meramente curioso no tiene derecho… El Zen, como toda mística, será comprendido únicamente por un místico que… no sucumbirá a la tentación de obtener en forma subrepticia lo que la experiencia mística le niega"_ (Nota del traductor en: _Zen en el arte del tiro con arco_)
 
 En la [charla de Pepe Baeza](https://fransimo.info/es/blog/2009/01/01/?p=745) me enteré que [Braque](http://es.wikipedia.org/wiki/Braque) le había recomendado a Henri Cartier-Bresson la lectura del libro _Zen en el arte del tiro con arco_ de [Eugen Herrigel](http://en.wikipedia.org/wiki/Eugen_Herrigel).
 
