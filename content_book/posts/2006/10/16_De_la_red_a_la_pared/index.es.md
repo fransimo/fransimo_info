@@ -28,4 +28,4 @@ Fotoblogs participantes: [Ayer fue miércoles](http://www.ayerfuemiercoles.com/)
 **En la prensa:** [“De la red a la pared” en El País](http://fransimo.info/blog/2006/10/19/de-la-red-a-la-pared-en-el-pais/)
 
 {{< load-photoswipe >}}
-{{< gallery />}}
+{{< gallery match="DSC*" />}}
