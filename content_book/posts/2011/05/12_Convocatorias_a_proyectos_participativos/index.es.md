@@ -1,6 +1,6 @@
 ---
 title: 'Convocatorias a proyectos participativos en red para instituciones culturales establecidas: ideas básicas'
-date: '2011-05-12T15:20:57+02:00'
+date: '2011-05-12'
 author: fran
 aliases:  /es/blog/2011/05/12/convocatorias-a-proyectos-participativos-en-red-para-instituciones-culturales-establecidas-ideas-basicas/
 ---
