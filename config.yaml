@@ -5,7 +5,7 @@ paginate: 5
 title: Fran Simó
 relativeURLs: false
 enableRobotsTXT: false
-timeout: 60
+timeout: 120
 
 theme: ["hugo-book", "hugo-photoswipe5-gallery"]
 
