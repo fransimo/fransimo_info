@@ -106,7 +106,7 @@ weight: 20
   src="/docs/art/books/22/22_fran_simo_05.jpg"
   alt="22"
   link="/docs/art/books/22/"
-  caption="Art book: 22"
+  caption="Art book and site-specific: 22"
   class="image-portfolio"
 >}}
 
