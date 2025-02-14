@@ -25,7 +25,7 @@ Fotoblogs participantes: [Ayer fue miércoles](http://www.ayerfuemiercoles.com/)
 **Lugar:** [Galería Fotonauta](http://www.fotonauta.com/), C/ Vic 15, 08006 Barcelona, Tel.: 93 217 8159  
 **Precio:** Entrada gratuita
 
-**En la prensa:** [“De la red a la pared” en El País](http://fransimo.info/blog/2006/10/19/de-la-red-a-la-pared-en-el-pais/)
+**En la prensa:** [“De la red a la pared” en El País](/es/blog/2006/10/19/de-la-red-a-la-pared-en-el-pais/)
 
 {{< load-photoswipe >}}
 {{< gallery match="DSC*" />}}
