@@ -1,11 +1,8 @@
 ---
-id: 8961
 title: 'Convocatorias a proyectos participativos en red para instituciones culturales establecidas: ideas básicas'
 date: '2011-05-12T15:20:57+02:00'
 author: fran
-lang: es
-guid: 'https://fransimo.info/blog/2011/05/12/convocatorias-a-proyectos-participativos-en-red-para-instituciones-culturales-establecidas-ideas-basicas/'
-aliases:  /blog/2011/05/12/convocatorias-a-proyectos-participativos-en-red-para-instituciones-culturales-establecidas-ideas-basicas/
+aliases:  /es/blog/2011/05/12/convocatorias-a-proyectos-participativos-en-red-para-instituciones-culturales-establecidas-ideas-basicas/
 ---
 
 La semana pasada un centro cultural de Barcelona me contactó para contrastar ideas sobre un proyecto. Tuvimos una charla de un par de horas en las que conté la experiencia de <a href="http://barcelonaphotobloggers.org/">Barcelona Photobloggers</a> en la organización de proyectos participativos de fotografía. Al terminar, me quedó la sensación de que esa charla podría ayudar a más centros y he decidido publicarla esperando que el nivel de las llamadas “participativas” aumente, sobre todo, que aumente el respeto a los participantes.
