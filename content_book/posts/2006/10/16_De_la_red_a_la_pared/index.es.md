@@ -18,7 +18,7 @@ La iniciativa ha seguido la filosofía abierta de internet, permitiendo a cada p
 
 Las fotografías se pondrán a subasta los días que dure la exposición, teniendo todas un precio de salida de 5€ cada una.
 
-<img alt="Exposición de Barcelona Photobloggers" src="https://fransimo.info/wp-content/uploads/2016/02/exposicionbcnphotobloggers.jpg" class="aligncenter" />
+<img alt="Exposición de Barcelona Photobloggers" src="/uploads/2016/02/exposicionbcnphotobloggers.jpg" class="aligncenter" />
 
 Fotoblogs participantes: [Ayer fue miércoles](http://www.ayerfuemiercoles.com/), [Baldiri](http://www.baldiri.net/), [Barcelona](http://barcelona.visualblogging.com/), [C.Pasadas](http://www.fotocpasadas.blogspot.com/), [Day 2 Day Captivations](http://sebastian.yepes.in/), [Deambulations](http://papalimbo.my-expressions.com/), [Desenfocado](http://www.desenfocado.com/), [Desnivell](http://www.desnivell.com/), [Elrostro](http://www.elrostro.com/), [En la recámara](http://www.enlarecamara.com/), [Fnowp](http://www.fnowp.blogspot.com/), [Fotòxic](http://www.fotoxic.org/), [Fotototi](http://www.fotototi.blogspot.com/), [Imatges](http://www.imatges.net/), [justPictures](http://justpictures.inhubi.com/), [Lluís Gerard](http://www.lluisgerard.com/), [Míramelas](http://www.miramela.com/fotoblog/), [Monica Guerrero](http://monica-guerrero.blogspot.com/), [Nitifixis](http://www.nitifixis.com/), [Nocturama](http://www.marceloaurelio.com/nocturama/), [Paco L. Giménez](http://pacolopez.blogspot.com/) y [Safaris Urbans](http://safarisurbans.blogspot.com/).
 
