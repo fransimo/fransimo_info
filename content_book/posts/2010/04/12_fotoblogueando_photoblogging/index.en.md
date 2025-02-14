@@ -1,8 +1,8 @@
 ---
-title: 'Fotoblogueando (Photoblogging)'
+title: 'Photoblogging'
 date: '2010-04-12'
 author: fran
-aliases: /es/blog/2010/04/12/fotoblogueando-photoblogging/
+aliases: /blog/2010/04/12/fotoblogueando-photoblogging/
 ---
 
 Durante el 2002 el laboratorio donde acostumbraba revelar bajó los precios del “revelado a CD” y empecé a pedir siempre el soporte digital. A principio del 2003 ya había decidido abandonar el papel.
