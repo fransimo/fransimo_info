@@ -3,10 +3,10 @@ title: 'Fotografía intuitiva'
 date: '2009-01-01'
 author: fran
 aliases:  /es/blog/2009/01/01/fotografia-intuitiva/
-image: /wp-content/uploads/2009/01/fotografia_intuitiva_dsc_2104.jpg
+image: fotografia_intuitiva_dsc_2104.jpg
 ---
 
-![fotografia intuitiva](Fotograf%C3%ADa%20intuitiva%20%E2%80%93%20Fran%20Sim%C3%B3/fotografia_intuitiva_dsc_2104-500x332.jpg)
+![fotografia_intuitiva_dsc_2104.jpg](fotografia_intuitiva_dsc_2104.jpg)
 
 «El meramente curioso no tiene derecho… El Zen, como toda mística, será comprendido únicamente por un místico que… no sucumbirá a la tentación de obtener en forma subrepticia lo que la experiencia mística le niega» (Nota del traductor en: _Zen en el arte del tiro con arco_)
 
