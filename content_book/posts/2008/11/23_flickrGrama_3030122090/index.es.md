@@ -2,9 +2,7 @@
 title: 'flickrGrama 3030122090'
 date: '2008-11-23'
 author: fran
-lang: en
-aliases:  /blog/2008/11/23/flickrgrama-3030122090/
-image: /wp-content/uploads/2008/11/flickrGrama_3049300655_461362df67_b.jpg
+image: flickrGrama_3049300655_461362df67_b.jpg
 categories:
 - new media art
 tags:
@@ -14,9 +12,9 @@ tags:
 
 [Rainy Day](http://www.flickr.com/photos/summerfeelings/3030122090/) as flickrGrama.
 
-This is a project i’m working **flickrGramas**.
+This is a procjet i’m working **flickrGramas**.
 
-It’s a very early version, my first try. Next improvements are: 
+It’s a very early version, my first try. Next improvements are  
 1) use only cc drivates allowed  
 2) create by tags (a face formed by thousands of faces, a rainy day formed by thousands of rainy images)  
 3) improve color indexing technics
