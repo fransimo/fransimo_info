@@ -1,6 +1,6 @@
 ---
 id: 7725
-title: 'Exposición &#8220;De la red a la pared II&#8221;'
+title: 'Exposición "De la red a la pared II"'
 date: '2008-01-15T08:53:23+01:00'
 author: fran
 lang: es

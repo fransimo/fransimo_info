@@ -1,6 +1,6 @@
 ---
 id: 773
-title: '&#8220;Somewhere else&#8221;, mi envío al &#8220;London Street Photography Festival&#8221;'
+title: '"Somewhere else", mi envío al "London Street Photography Festival"'
 date: '2011-04-30T19:05:50+02:00'
 author: fran
 lang: es

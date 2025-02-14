@@ -1,6 +1,6 @@
 ---
 id: 7481
-title: '&#8220;Brangulí estuvo aquí. ¿Y tú?&#8221; en El Periódico'
+title: '"Brangulí estuvo aquí. ¿Y tú?" en El Periódico'
 date: '2011-06-30T14:00:26+02:00'
 author: 'Barcelona Photobloggers'
 lang: es

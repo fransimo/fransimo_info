@@ -1,6 +1,6 @@
 ---
 id: 2041
-title: '&#8220;Al Detall&#8221; a Barcelona Televisió'
+title: '"Al Detall" a Barcelona Televisió'
 date: '2009-05-16T14:12:43+02:00'
 author: 'Barcelona Photobloggers'
 lang: es

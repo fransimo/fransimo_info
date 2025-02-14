@@ -1,6 +1,6 @@
 ---
 id: 7465
-title: '&#8220;De la red a la pared&#8221; en El País'
+title: '"De la red a la pared" en El País'
 date: '2006-10-19T19:00:17+02:00'
 author: 'Barcelona Photobloggers'
 lang: es

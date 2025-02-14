@@ -1,6 +1,6 @@
 ---
 id: 7519
-title: '&#8220;De la red a la pared II&#8221; en ADN'
+title: '"De la red a la pared II" en ADN'
 date: '2008-01-20T09:00:01+01:00'
 author: 'Barcelona Photobloggers'
 lang: es

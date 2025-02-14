@@ -1,6 +1,6 @@
 ---
 id: 7592
-title: 'Visita guiada a &#8220;Brangulí. Barcelona 1909-1945&#8221; con Susana García'
+title: 'Visita guiada a "Brangulí. Barcelona 1909-1945" con Susana García'
 date: '2011-07-01T18:53:24+02:00'
 author: fran
 lang: es

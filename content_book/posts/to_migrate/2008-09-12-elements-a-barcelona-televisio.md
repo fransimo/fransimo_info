@@ -1,6 +1,6 @@
 ---
 id: 1903
-title: '&#8220;elements&#8221; a Barcelona Televisió'
+title: '"elements" a Barcelona Televisió'
 date: '2008-09-12T10:32:37+02:00'
 author: 'Barcelona Photobloggers'
 lang: es

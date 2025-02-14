@@ -1,6 +1,6 @@
 ---
 id: 7747
-title: '&#8220;inside Out&#8221; de Fran Simó y Benjamín Julve'
+title: '"inside Out" de Fran Simó y Benjamín Julve'
 date: '2007-04-19T10:44:59+02:00'
 author: fran
 lang: es

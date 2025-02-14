@@ -1,6 +1,6 @@
 ---
 id: 8957
-title: '&#8220;Arrinconado&#8221; en Extraradi de COMRàdio'
+title: '"Arrinconado" en Extraradi de COMRàdio'
 date: '2010-10-29T23:00:23+02:00'
 author: fran
 lang: es
