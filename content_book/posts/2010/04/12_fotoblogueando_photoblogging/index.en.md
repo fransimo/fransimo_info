@@ -5,96 +5,92 @@ author: fran
 aliases: /blog/2010/04/12/fotoblogueando-photoblogging/
 ---
 
-Durante el 2002 el laboratorio donde acostumbraba revelar bajó los precios del “revelado a CD” y empecé a pedir siempre el soporte digital. A principio del 2003 ya había decidido abandonar el papel.
+In 2002, the lab where I used to have my film developed reduced the price of ‘developing to CD’ and I started asking for the digital medium. By the beginning of 2003 I’d already decided to give paper up.
 
-La desmaterialización de mis fotos implicó que ya no tenía “nada” que llevar al trabajo para comentar en el café. Un compañero me sugirió un soft que estaba usando para galerías. Acabé adaptando el programa; buscaba que se vieran primero las últimas fotos que hubiese subido, que las fotos se vieran grandes, ocupando casi toda la pantalla, sin estorbos, y que se pudieran dejar comentarios.
+The dematerialization of my photos implied that I didn’t have anything to take to work anymore to comment on in a café. A friend recommended some software that he was using for galleries. I ended up adapting the program. I wanted the last photos to be seen first; the photos had to be of large size, taking up the whole screen, unobstructed; and I wanted viewers to be able to leave comments.
 
-Con el tiempo descubrí que había montado un fotoblog. Y como en todo, no era el primero, ni el que mejor lo había hecho. Los fotoblogs estaban surgiendo por todas partes a principios de “los 2000”, pero a eso volveré más tarde.
+After a while, I discovered that I had set up a photoblog. And as with everything, I wasn’t the first or the best. Photoblogs were popping up everywhere in the beginning of 2000’s but I will come back to that later.  
+The world “fotoblog” is the result of the ‘spanification’ of “photoblog”, a category of blog classified by media type, a sort of a morphologic classification.
 
-La palabra fotoblog es la castellanización de photoblog una categoría de blog según la clasificación por “media type”, algo así como una clasificación morfológica.
+According to this classification blogs can be:
 
-Según esta clasificación los blogs pueden ser
+-   Blogs (text-oriented)
+-   Photoblogs (photography)
+-   Videoblogs (videos)
+-   Sketchblogs (drawings, theoretically published in specific file formats)
+-   Typecast ( manuscripts)
+-   Etc…
 
--   blogs (textuales)
--   photoblogs (fotografías)
--   videoblogs (vídeos)
--   podcast (audio)
--   sketchblogs (dibujos, teóricamente publicados con formatos de ficheros específicos)
--   typecast (manuscritos)
--   etc…
+So, a photoblog is a type of blog where photographs are published. The photographs are the content; they don’t either illustrate or accompany. A photoblog can be defined as an online exhibition format for photographs designed to be updated and read periodically and characterized by being compiled in inverse chronological order to the date of publishing.
 
-Entonces un fotoblog es un tipo de blog en que se publican fotografías. La fotografía es el contenido, no ilustra ni acompaña. Podríamos definir un fotoblog como un formato expositivo en red para fotografías, diseñado para ser actualizado y leído periódicamente y que se caracteriza por ser una recopilación ordenada cronológicamente de forma inversa a la publicación.
+Each entry (or post) of this typology of blog contains at least one photograph that can be presented without any text or even a title. The goal of a photoblog is to show photographs.
 
-Cada entrada (o post) de esta tipología de blog tiene al menos una fotografía, puede prescindir de texto, incluso de título. El objetivo de un fotoblog es mostrar  
-fotografías.
+Additionally, it must be clarified that a photoblog is not a blog where one speaks about photography or cameras; that would be semantic classification from which things like ‘cowblogs’ could surge if we were writing about cows.
 
-Por contraste debería quedar claro que un fotoblog no es un blog en el que se habla de fotografía, ni de cámaras, eso sería una clasificación semántica de la que podrían surgir cosas como los vacablogs, si escribiésemos de vacas.
+## Design, layout and interaction
 
-## Diseño, layout e interacción
+There are different standardized layouts, the first one being the most classical, where there’s just one photo per entry that occupies the whole screen. For example, my photoblog: [http://justpictures.es/](http://justpictures.es/).  
+The second most used layout also has one image per entry but you can see various images at the same time. For example, [Silvia Varela Diary](http://www.silviavareladiary.com/).
 
-Hay varios layouts estandarizados, el primero, el más clásico, es el de una sola fotografía por entrada y que ocupa toda la pantalla. Por ejemplo, mi fotoblog, [http://justpictures.es/](http://justpictures.es/)
+Finally, there are two types of layouts where each entry shows a series, some in vertical and some in horizontal format. To exemplify the first type we can see Albert Jordar’s [yakuzablog](http://www.yakuzasblog.net/?p=18) and the second, horizontal type, is exemplified by [Abigail Reese](http://abigailreese.com/blog/).
 
-El segundo más utilizado sigue siendo teniendo una imagen por entrada, pero se pueden ver varias imágenes al mismo tiempo. Por ejemplo, [Silvia Varela Diary](http://www.silviavareladiary.com/)
+For me, taking advantage of the whole screen area and getting the simplest interaction is essential. With the most classical design, the viewer has to click just once, not even having to move the mouse and, in the case of touchscreen devices, it’s even simpler: you just have to ‘touch’ the photo in order to see the next one. Having to use the scroll bars (horizontal or vertical) is a nuisance. Also, I prefer for one image to be seen on the screen; a series can be viewed by interacting.
 
-Finalmente hay dos tipos en los que cada entrada muestra una serie, algunos en forma vertical y otros en forma horizontal. De la primera clase podríamos ver, [yakuzasblog](http://www.yakuzasblog.net/?p=18), de Albert Jordar, y de la segunda, los horizontales podríamos citar a [Abigail Reese](http://abigailreese.com/blog/).
+## Books, newspapers, paintings, screens, iPad and Wii
 
-Para mi, aprovechar toda la pantalla y conseguir la interacción más simple es esencial. En el diseño más clásico el lector solo tiene que hacer click, sin siquiera mover el ratón, en el caso de un dispositivo táctil es, aún más sencillo, solo tiene que “tocar” la foto para ver la siguiente. Tener que utilizar las barras de desplazamiento, sean horizontales o verticales, es una molestia. Además, prefiero que en la pantalla se vea una sola imagen, la serie se puede leer interactuando.
+In his presentation at SCAN’08 Quentin Bajac mentioned a study by Pompidou Center regarding the suitability of the vertical and horizontal exhibition format for photography. The study analyzed horizontality and verticality. It said that the idea of hanging photographs had been largely influenced by the concept of hanging paintings. It seemed more natural to view photographs in books or newspapers since they are more modern formats, more contemporary to photography itself…
 
-## Libros, periódicos, cuadros, pantallas, iPad y Wii
+It turns out that now we can look at photographs on the screens of computers, mobile phones, iPads and we can interact with them even through game consoles. The nexus that all of the devices have in common, from the point of view of an author who distributes content, is the web.  
+Certainly, there are other platforms to distribute photography on-line, such as galleries, PDF’s, e-mails and different formats of eBooks, each one suiting best different types of communication.
 
-En una ponencia de Quentin Bajac en SCAN’08 mencionó un estudio del Centre Pompidou referente a la idoneidad del formato expositivo vertical u horizontal para la fotografía. El estudio analizaba la horizontalidad y verticalidad, la idea de colgar fotografías estaba muy influenciada por la idea de colgar cuadros, parecía más natural leer fotografías en libros o periódicos porque eran un formato más moderno, más contemporáneo a la fotografía misma…
+The photoblogs are firstly blogs, which means that they are a periodical publication that is meant to be read regularly, where comments can be left and where the newest content has the most relevance. They seem to be most suitable for displaying projects in progress, personal diaries, news or daily work. In turn, a gallery, a PDF or an eBook are best for finished projects and portfolios.
 
-Resulta que ahora podemos ver fotografías en pantallas de ordenador, teléfonos móviles, iPads y podemos interactuar con ellas incluso con las consolas de juego. El nexo común que tienen todos los dispositivos, desde el punto de vista de un autor que distribuye contenido, es la web.
+A technological exception has to be made here: photoblogs, being blogs, are best adapted to web 2.0. Web 2.0 and social networks make updating content a priority. It could be one of the reasons why we would be interested in using a photoblog to show finished projects or portfolios – not because it’s the type of container that adjusts best to content but because it helps achieve most diffusion.
 
-Desde luego existen otros contenedores para la distribución on-line de las fotografías, como las galerías, los PDFs, los mails y los distintos formatos de eBooks y cada uno de ellos se adapta mejor a distintos tipos de comunicación.
+## Photoblog as a project and conceptual photoblogs
 
-Los fotoblogs son, antes que nada, blogs, es decir, una publicación periódica que se lee de manera regular en la que normalmente se pueden dejar comentarios y que da mayor relevancia al contenido más nuevo. Parecen una herramienta más adecuada para comunicar proyectos en desarrollo, diarios personales, noticias o trabajo diario. En cambio una galería, PDF o eBook se adapta más a proyectos terminados y portfolios.
+A photoblog can be a project in itself or be a medium for showing an independently conceived project.
 
-Aquí hay que hacer una salvedad tecnológica, los fotoblogs, al ser blogs, están más adaptados a la web 2.0. La web 2.0 y las redes sociales dan mucha importancia a la renovación del contenido. Esta podría ser una razón por la cuál nos interesara utilizar un fotoblog para mostrar proyectos ya ha acabados o portfolios, no porque sea el contenedor que más se adapta al contenido, sino porque logra una mayor difusión.
+My photoblog ‘[justPictures](http://justpictures.es/)’ fits the most classical definition of a photoblog. It’s a personal diary, it’s published every day, there’s one photograph per entry, rarely can you find text there, and the design is minimalist. As a result, it has very little glamor, no unified concept of photographic style behind it, which often makes it lack visual coherence. A casual visitor, when he sees just one photo on the home page, does not understand that there are many more behind it.
 
-## Fotoblog como proyecto y fotoblogs conceptuales
+But the objective of my blog is no to reach massive audience but a limited group of viewers, many of them close ones, and, above all, to keep me working and thinking. It’s not an outlet for selling my work; I consider those published photos to be drafts.
 
-El fotoblog puede ser un proyecto en sí mismo o ser un medio para dar a conocer un proyecto concebido independientemente.
+They have passed the selection stage that happened very close to when the photos were taken and they lack perspective but a later look gives me clues to keep searching. Nonetheless, there is an infinite number of blogs that have behind them a concept, a certain style and some defined intention.
 
-[justPictures](http://justpictures.es/), mi fotoblog, cumple con la definición más clásica de fotoblog. Es un diario personal, publica cada día, solo hay una fotografía en cada entrada, rara vez hay texto y el diseño es minimalista. Visto así, tiene muy poco glamour, no tiene un único concepto ni estilo fotográfico detrás, lo que muchas veces le quita coherencia visual. Un visitante casual, al ver solo una foto en la home, no entiende que detrás hay muchas más.
+In the section “About the Author” of [Muros hablados](http://muroshablados.es/) it says: “When there’s no other place but a wall in the street to express yourself…” “That is the motif behind the photoblog, to take advantage of this medium so that words that have been written can be read.” Judging from one of the [last entries](http://muroshablados.es/archives/1919) many can think that it’s a photoblog about graffiti but it’s about a conglomerate of messages left on the walls.
 
-Pero el objetivo de mi fotoblog no es llegar a un publico masivo, sino a un grupo reducido de lectores, muchos cercanos, y, por encima de todo mantenerme trabajando y pensando. No es un canal para vender mi fotografía, considero que las fotografías publicadas en él son borradores.
+Other photoblogs with a defined style or concept could be:
 
-Pasaron una etapa de selección, muy cercana a la toma y carecen de perspectiva, pero una lectura posterior me da pistas para continuar buscando. Pero existen infinitos fotoblogs que han nacido con un concepto, estilo e intención definidos.
+-   Erika Svensson: [http://erikasvensson.com/](http://erikasvensson.com/)
+-   nofound, de varios autores, curado por Emeric Glayse: [http://nofound.tumblr.com/](http://nofound.tumblr.com/)
+-   Oscar Ciutat: [http://oscarciutat.com/](http://oscarciutat.com/)
+-   emillamola de Enric Mestres Illamola: [http://emillamola.com/](http://emillamola.com/)
+-   yamasaki ko-ji: [http://www.yamasakiko-ji.com/](http://www.yamasakiko-ji.com/)
+-   Nocturama fotoblog de Marcelo Aurelio: [http://www.arte-redes.com/nocturama/](http://www.arte-redes.com/nocturama/)
+-   macroColors de Lia Naim, [http://macrocolors.com/](http://macrocolors.com/)
+-   deletedimages, de varios autores: [http://www.deletedimages.com/](http://www.deletedimages.com/)
+-   baldiri: [http://baldiri.net/](http://baldiri.net/)
 
-En su “acerca de” [Muros hablados](http://muroshablados.es/) dice “Cuando no queda otro lugar que un muro o pared en la calle para expresarte…” “Éste es el motivo del photoblog, aprovechar este medio para que aquellas palabras que fueron escritas puedan ser leídas.” y como ejemplo una de las [últimas entradas](http://muroshablados.es/archives/1919) muchos podrían creer que es un fotoblog de graffitis, pero se trata de un conjunto de mensajes dejados en las paredes.
+A good place to look for interesting photoblogs is annual photoblog awards. The one I liked best (but which have only had three editions) is the ‘[photobloggies](http://photobloggies.org/)’. [Photoblog awards](http://www.photoblogawards.com/) continue and you can see the most voted for in 2010 here:  
+[http://www.coolphotoblogs.com/awards](http://www.coolphotoblogs.com/awards) (this award is based on audience votes so it’s not as convincing to me).
 
-Otros fotoblogs con una definición estilística o conceptual podrían ser:
+## “God creates them and they join up together”
 
--   Erika Svensson: [http://erikasvensson.com/](http://erikasvensson.com/)
--   nofound, de varios autores, curado por Emeric Glayse: [http://nofound.tumblr.com/](http://nofound.tumblr.com/)
--   Oscar Ciutat: [http://oscarciutat.com/](http://oscarciutat.com/)
--   emillamola de Enric Mestres Illamola: [http://emillamola.com/](http://emillamola.com/)
--   yamasaki ko-ji: [http://www.yamasakiko-ji.com/](http://www.yamasakiko-ji.com/)
--   Nocturama fotoblog de Marcelo Aurelio: [http://www.arte-redes.com/nocturama/](http://www.arte-redes.com/nocturama/)
--   macroColors de Lia Naim, [http://macrocolors.com/](http://macrocolors.com/)
--   deletedimages, de varios autores: [http://www.deletedimages.com/](http://www.deletedimages.com/)
--   baldiri: [http://baldiri.net/](http://baldiri.net/)
+I was telling you that in the beginning of 2000’s photoblogs started popping up everywhere. At that time everything revolved around a photoblog directory, [photoblogs.org](http://photoblogs.org/). Their wiki gave basic definitions and instructions on how to start.
 
-Un buen lugar donde buscar fotoblogs interesantes son los premios anuales de fotoblogs. Los que más me gustaban solo han tenido tres ediciones son los [photobloggies](http://photobloggies.org/) . Los [photoblog awards](http://www.photoblogawards.com/) aún continúan y podéis ver a los más votados en el premio del 2010 en [http://www.coolphotoblogs.com/awards](http://www.coolphotoblogs.com/awards) (este premio se basa en votaciones populares, por eso no  
-me acaba de convencer)
+The directory allowed you to find photoblogs by similar themes and by the location of the photobloggers. That was the key, the location. Suddenly, we had a list of photoblogs in Spain and started following Spanish photobloggers, commenting their photos, and, little by little, a photoblogging community was born. The first physical manifestation of the on-line community took place as a meet up in Zaragoza in October of 2005. As a direct consequence, Barcelona Photobloggers was born in February of 2006, which was later followed by [Madrid Photobloggers](http://madridphotobloggers.blogspot.com/), [Vinaròs Photobloggers](http://www.vinarosphotobloggers.org/) and [Valencia Photobloggers](http://valenciafotobloggers.org/).
 
-## “Dios los cría y ellos se juntan”
+At the same time, at European level, [Europe Photobloggers](http://europephotobloggers.org/) was created and the tendency was repeated in many cities, such as London, New York, Toronto, Chicago, etc.
 
-Os decía que a principios del 2000 los fotoblogs aparecían por todas partes, en esa época todo giraba en torno a un directorio de fotoblogs [photoblogs.org](http://photoblogs.org/) La wiki de photoblogs.org tenía las definiciones básicas e instrucciones para empezar.  
-El directorio nos permitió encontrar fotoblogs por temáticas similares y por ubicación del fotobloguer. Esa fue la clave, la ubicación. De repente teníamos un listado de los fotoblogs de España y comenzamos a seguir a los fotobloguers españoles a comentar en las fotos y, poco a poco, fue naciendo la comunidad fotobloguer. La primera manifestación física de la comunidad on-line fue el encuentro en Zaragoza en octubre del 2005. Como consecuencia directa nace [Barcelona Photobloggers](http://barcelonaphotobloggers.org/) en febrero del 2006, a la que después se le unen [Madrid Photobloggers](http://madridphotobloggers.blogspot.com/), [Vinaròs Photobloggers](http://www.vinarosphotobloggers.org/) y [Valencia Photobloggers](http://valenciafotobloggers.org/).
+This way, what had started as a way to show photos on-line turned into a local community related to cultural activities. In my case, as a co-founder of Barcelona Photobloggers, I can assure you that reality has fully surpassed imagination.
 
-Al mismo tiempo, a nivel Europeo, crece [Europe Photobloggers](http://europephotobloggers.org/) y en muchas ciudades se repite la tendencia como Londres, Nueva York, Toronto, Chicago, etc.
+For example, among some of the projects [we’ve done](http://barcelonaphotobloggers.org/info/#a52) are collaborations such as [Caja Azul](http://caja-azul.org/), a space for debates about photography theory, and many more that are about to see the light.
 
-Así, lo que había empezado como una forma de mostrar las fotos on-line, se convierte en una comunidad local de actividades culturales. En mi caso, como co-fundador de Barcelona Photobloggers os puedo asegurar que la realidad ha superado ampliamente a la imaginación.
+In this short review about photoblogging, I’ve omitted certain topics such as Flickr, the influence on the amateur market, esthetic trends native to the web and many other things. I’ve focused on photoblogs hosted on personal domains with personalized design because they seem more appropriate as an artistic resource but there’s much more to talk about.
 
-Me gustaría que vierais esta referencia, algunos de los proyectos que [hemos hecho](http://barcelonaphotobloggers.org/info/#a52) a los que podemos sumar colaboraciones como [Caja Azul](http://caja-azul.org/), un espacio de debate teórico de fotografía y muchas más que están por ver la luz.
+In ‘Wikipedia’ photoblogging is defined as the act of periodically publishing photographs on the web, but it is much more than that, especially when it comes to interaction, connecting through the web and the desire to work on collective projects. I hope I’ve been able to give a taste of this world, a mix of the artistic and the technological, to the reader of the blog PHotoEspaña SanDisk.
 
-En esta pequeña reseña de fotoblogueando he omitido ciertos temas como Flickr, la influencia en el mercado de los aficionados, las tendencias estéticas nativas de la web y muchas otras cosas. Me he centrado en los fotoblogs alojados en dominios propios con diseños personalizados porque me parecen más apropiados como recurso artístico, pero hay mucho más de que hablar.
-
-En la wikipedia se define photoblogging como la acción de publicar periódicamente fotografías en la red, pero es mucho más cuando comienzan las interacciones, la conexiones de la red y las ganas de trabajar en proyectos comunes, espero haber podido dar una pequeña pincelada de este mundo, una mezcla entres artístico y tecnológico, a los lectores del Blog PHotoEspaña SanDisk.
-
-Os dejo algunas imágenes de despedida:
+Here are some images as a ‘good-bye’.
 <table>
 <tr valign="top">
 <td><img src="/uploads/2010/04/fran_simo_0001_DSC_0661_.jpg" alt="" title="Segundo cumpleaños de Barcelona Photobloggers" width="500" height="332" class="alignleft size-medium wp-image-522" />
@@ -107,6 +103,6 @@ Encuentro Europe Photobloggers, Barcelona 2008
 </table>
 
 <img src="/uploads/2010/04/fran_simo_0002_FSC_5121_Maremagnum-Retail-Sebastian.jpg" alt="" title="fran_simo_0002_FSC_5121_Maremagnum, Retail, Sebastián" width="1024" height="680" class="aligncenter size-full wp-image-8424" />
-Exposición “elements” 1578 fotografías, centro comercial Maremagnum, Barcelona 2008 http://www.elements-barcelona.com/
+‘Elements’ exhibition, 1578 photographs, Maremagnum Mall, Barcelona 2008. http://www.elements-barcelona.com/
 
-Originalmente publicado en el [Blog SanDisk de PHEspaña](http://www.phedigital.com/portal/es/load.php?file=blogsandisk.php&post=10406)
+Originally published in [SanDisk blog of PHEspaña](http://www.phedigital.com/portal/es/load.php?file=blogsandisk.php&post=10406)
