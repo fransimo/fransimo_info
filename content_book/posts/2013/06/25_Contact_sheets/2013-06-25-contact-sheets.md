@@ -1,7 +1,7 @@
 ---
 id: 9411
 title: 'Contact sheets'
-date: '2013-06-25T17:26:31+02:00'
+date: '2013-06-25'
 author: fran
 lang: en
 guid: 'https://fransimo.info/blog/2013/06/25/contact-sheets/'
