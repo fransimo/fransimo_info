@@ -11,7 +11,7 @@ categories:
 Remember a factory... an early 20th-century one. You may recall some [iconic images by Lewis W. Hine](https://www.google.es/search?q=lewis+w+hines+factory).
 
 We need to photograph our 21st-century factories. I capture the spaces where I work as a software engineer.
-
+<!--more-->
 {{< load-photoswipe >}}
 {{< gallery />}}
 
