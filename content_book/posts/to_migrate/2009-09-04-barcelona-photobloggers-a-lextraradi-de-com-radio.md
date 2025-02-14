@@ -1,6 +1,6 @@
 ---
 id: 2196
-title: 'Barcelona Photobloggers a l&#8217;Extraradi de COM Ràdio'
+title: "Barcelona Photobloggers a l'Extraradi de COM Ràdio"
 date: '2009-09-04T09:36:38+02:00'
 author: fran
 lang: es
