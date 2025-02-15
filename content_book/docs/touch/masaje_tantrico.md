@@ -1,16 +1,19 @@
-+++
-author = "Pau Lluc"
-title = "Masaje tántrico"
-description = "Masaje tántrico: enfoque y preguntas frecuentes."
-date = "2024-01-01"
-lastmod = 2024-02-21T11:40:04+01:00
-tags = ["sanación", "masaje",]
-categories = ["_técnicas",]
-series = ["masaje"]
-aliases = ["/post/masaje_tantrico/"]
-url = "/masaje/tantrico"
-draft = false
-+++
+---
+author: "Pau Lluc"
+title: "Masaje tántrico"
+description: "Masaje tántrico: enfoque y preguntas frecuentes."
+date: "2024-01-01"
+tags: 
+  - sanación
+  - masaje
+categories:
+  - tecnicas masaje
+aliases:
+  - /post/masaje_tantrico/
+  - /masaje/tantrico
+---
+# Masaje tántrico
+
 Para poder entendernos y estar seguros que hablamos de lo mismo me he permitido hacer un resumen de las preguntas
 frecuentes de la [Escuela Daya](https://escueladaya.com/faqs/) en la que me he formado como masajista.
 
