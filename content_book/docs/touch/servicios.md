@@ -1,10 +1,9 @@
-+++
-title = "Servicios"
-description = "Tipos de masajes, precios y contexto"
-date = "2024-01-5"
-lastmod = 2024-05-17T10:02:04+01:00
-author = "Pau Lluc"
-+++
+---
+title: "Servicios"
+description: "Tipos de masajes, precios y contexto"
+date: "2024-01-5"
+author: "Pau Lluc"
+---
 
 ## Servicios
 
