@@ -1,14 +1,14 @@
 ---
-id: 7661
 title: 'Un viaje personal'
-date: '2013-03-25T09:05:18+01:00'
+date: '2013-03-25'
 author: fran
-lang: es
-guid: 'http://fransimo.info/?p=7661'
 aliases:  /es/blog/2013/03/25/un-viaje-personal/
 image: /wp-content/uploads/2013/03/fransimo_calle35_que_es_street_640px.jpg
 categories:
-    - 'Calle 35'
+  - 'Calle 35'
+  - photography
+tags:
+  - street photography
 ---
 
 <img src="/uploads/2013/03/fransimo_calle35_que_es_street_640px.jpg" width="640" height="512" class="alignleft" />

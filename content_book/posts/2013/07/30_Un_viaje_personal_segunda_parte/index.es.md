@@ -11,7 +11,6 @@ categories:
   - 'Calle 35'
   - photography
 tags:
-  - iPhoneography
   - street photography
 ---
 
