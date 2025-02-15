@@ -3,7 +3,7 @@ weight: 20
 date: "2017-04-02"
 author: fran
 bookFlatSection: false
-bookCollapseSection: false
+bookCollapseSection: true
 title: "Touch"
 aliases:
   - /post/el_masaje/

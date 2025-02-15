@@ -8,7 +8,9 @@ aliases: /servicios/
 
 # Precios de las sesiones
 
-## Masaje holístico
+## Tameana
+
+## Sesión holística
 
 Son sesiones dónde mezclo todas las técnicas que he ido aprendiendo para hacerlas más accesibles y adaptarlas a
 situaciones muy variadas. [Puedes leer más aquí](/masaje/pau/).
