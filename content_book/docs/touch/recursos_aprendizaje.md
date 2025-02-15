@@ -1,13 +1,14 @@
-+++
-author = "Pau Lluc"
-title = "Recrusos para explorar el Tantra"
-description = "Recrusos para explorar el Tantra, facilitadores, películas y algún libro."
-date = "2024-07-05"
-lastmod = 2024-07-05T10:02:04+01:00
-tags = ["tantra", "recrusos", ]
-categories = ["recrusos", ]
-draft = false
-+++
+---
+author: "Pau Lluc"
+title: "Recrusos para explorar el Tantra"
+description: "Recrusos para explorar el Tantra, facilitadores, películas y algún libro."
+date: 2024-07-05
+tags:
+  - tantra
+  - recrusos
+draft: false
+---
+# Recrusos para explorar el Tantra
 
 A menudo me preguntan sobre el Tantra: ¿qué es?, ¿por dónde empezar? El Tantra es una experiencia que debe vivirse en el cuerpo. Para quienes están comenzando, me gusta recomendar un "Tantra para todos". Cada facilitador tiene su propio enfoque, pero suelen ser encuentros más cortos e introductorios.
 

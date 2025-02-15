@@ -5,7 +5,8 @@ date: 2024-01-01
 tags:
   - sanación
   - masaje
-aliases: "/masaje/pau"
+aliases:
+  - /masaje/pau
 draft: false
 ---
 # Sesión masaje holístico

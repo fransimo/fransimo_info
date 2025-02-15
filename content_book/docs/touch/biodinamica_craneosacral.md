@@ -5,6 +5,8 @@ date: 2024-04-13
 tags:
   - sanación
   - masaje
+categories:
+  - tecnicas masaje
 aliases: 
   - /masaje/biodinamica_craneosacral
 draft: false
