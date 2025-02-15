@@ -1,5 +1,5 @@
 ---
-title: "A cerca de"
+title: "Acerca de Pau Lluc"
 description: "Sobre Pau Lluc"
 date: "2023-12-31"
 author: "Pau Lluc"
