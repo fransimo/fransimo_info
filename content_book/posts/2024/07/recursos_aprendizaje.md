@@ -10,7 +10,6 @@ draft: false
 aliases:
   - /post/recursos_aprendizaje/
 ---
-# Recrusos para explorar el Tantra
 
 A menudo me preguntan sobre el Tantra: ¿qué es?, ¿por dónde empezar? El Tantra es una experiencia que debe vivirse en el cuerpo. Para quienes están comenzando, me gusta recomendar un "Tantra para todos". Cada facilitador tiene su propio enfoque, pero suelen ser encuentros más cortos e introductorios.
 
