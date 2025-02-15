@@ -1,14 +1,15 @@
 ---
-id: 7653
-title: 'New York, New York… la edición “de memoria”'
+title: 'New York, New York... la edición “de memoria”'
 date: '2014-10-27T09:01:44+01:00'
 author: fran
-lang: es
-guid: 'http://fransimo.info/?p=7653'
 aliases:  /es/blog/2014/10/27/new-york-new-york-la-edicion-de-memoria/
-image: /wp-content/uploads/2014/10/0001__KSC6878.jpg
+image: 0001__KSC6878.jpg
 categories:
-    - 'Calle 35'
+- 'Calle 35'
+- photography
+tags:
+- iPhoneography 
+- street photography
 ---
 
 Hace tiempo que tenía ganas de contar una forma de trabajo que estoy explorando. Normalmente edito fotos con un sistema secuencial de varias pasadas. En el caso de mis propias fotos intento dejar mucho tiempo entre una pasada, meses o años.
