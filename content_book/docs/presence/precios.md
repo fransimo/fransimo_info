@@ -17,16 +17,6 @@ Salush Nahí (equilibrio energético a una persona) y H´ama (armonización de u
 - Precio: 50.00€
 - Lugar: remoto, desplazamiento a tu lugar o sala contratada.
 
-## Sesión holística
-
-Son sesiones dónde mezclo todas las técnicas que he ido aprendiendo para hacerlas más accesibles y adaptarlas a
-situaciones muy variadas. [Puedes leer más aquí](masaje_holistico.md).
-
-- Duración: 1 hora.
-- En silla, camilla o tatami.
-- Precio: 50.00€
-- Lugar: remoto, espacios públicos, desplazamiento a tu lugar o sala contratada.
-
 ## Biodinámica Craneosacral
 
 La Biodinámica Craneosacral busca recuperar la salud inherente del cuerpo, despertando su capacidad de
@@ -36,6 +26,16 @@ sanación. [Puedes leer más aquí](biodinamica_craneosacral.md).
 - En camilla.
 - Precio: 50.00€
 - Lugar: desplazamiento a tu lugar o sala contratada.
+
+## Sesión holística
+
+Son sesiones dónde mezclo todas las técnicas que he ido aprendiendo para hacerlas más accesibles y adaptarlas a
+situaciones muy variadas. [Puedes leer más aquí](masaje_holistico.md).
+
+- Duración: 1 hora.
+- En silla, camilla o tatami.
+- Precio: 50.00€
+- Lugar: remoto, espacios públicos, desplazamiento a tu lugar o sala contratada.
 
 ## Masaje Tántrico
 
