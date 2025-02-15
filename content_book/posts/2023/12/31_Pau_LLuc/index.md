@@ -3,6 +3,7 @@ title: "Acerca de Pau Lluc"
 description: "Sobre Pau Lluc"
 date: "2023-12-31"
 author: "Pau Lluc"
+bookToc: false
 aliases:
   - /acerca_de/
   - /quien_soy/
@@ -10,7 +11,7 @@ aliases:
 
 ![Pau Lluc es ...](pau_lluc_2024-01-13.jpg)
 
-Pau Lluc fue un seudónimo que utilicé entre 2023 y 2024 para _explorar el desapego, mantener la privacidad on-line y no
+Pau Lluc fue un seudónimo que utilicé el 2024 para _explorar el desapego, mantener la privacidad on-line y no
 condicionar la experiencia del masaje con mi identidad digital._
 
 No quería que un cliente de masaje me relacionara con mi trabajo en inteligencia artificial. Aún no he comprendido por
