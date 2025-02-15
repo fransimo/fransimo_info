@@ -1,11 +1,16 @@
 ---
+author: "Pau Lluc"
 title: "El masaje, la esencia"
 description: "Filosofía del masaje"
 date: "2023-12-31"
 tags:
   - sanación
   - masaje
+aliases:
+  - /post/el_masaje/
 ---
+
+# El masaje, la esencia
 
 Cuando los cuerpos se tocan desde el amor sanan.
 
