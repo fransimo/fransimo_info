@@ -16,7 +16,7 @@ situaciones muy variadas. [Puedes leer más aquí](/masaje/pau/).
 - Duración: 1 hora.
 - En silla, camilla o tatami.
 - Precio: 50.00€
-- Lugar: Zona Blanquerna, espacios públicos o desplazamiento a tu casa.
+- Lugar: espacios públicos, desplazamiento a tu casa o sala contratada.
 
 ## Biodinámica Craneosacral
 
@@ -26,7 +26,7 @@ sanación. [Puedes leer más aquí](/masaje/biodinamica_craneosacral).
 - Duración: 1 horas.
 - En camilla.
 - Precio: gratuito, en prácticas.
-- Lugar: Zona Blanquerna, espacio privado.
+- Lugar: desplazamiento a tu casa o sala contratada.
 
 ## Masaje Tántrico
 
@@ -38,7 +38,7 @@ Como estudiante en prácticas el precio es menor que el de un profesional.
 - Duración: 3 horas.
 - En tatami.
 - Precio: ~~180€~~ 60.00€
-- Lugar: Zona Blanquerna, espacio privado.
+- Lugar: desplazamiento a tu casa o sala contratada.
 
 # Límites del servicio
 
