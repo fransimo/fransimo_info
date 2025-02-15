@@ -3,15 +3,15 @@ title: 'Un viaje personal'
 date: '2013-03-25'
 author: fran
 aliases:  /es/blog/2013/03/25/un-viaje-personal/
-image: /wp-content/uploads/2013/03/fransimo_calle35_que_es_street_640px.jpg
+image: fransimo_calle35_que_es_street_640px.jpg
 categories:
   - 'Calle 35'
   - photography
 tags:
   - street photography
 ---
+![fransimo_calle35_que_es_street_640px.jpg](fransimo_calle35_que_es_street_640px.jpg)
 
-<img src="/uploads/2013/03/fransimo_calle35_que_es_street_640px.jpg" width="640" height="512" class="alignleft" />
 Hace unas semanas, seleccionando fotos para el fotoblog, me encontré con esta pareja de imágenes. Me pareció interesante hacer una serie de entradas con las dudas que tengo durante los procesos de edición. Aunque al final dejo alguna certeza, la mayoría son interrogantes.
 
 Había empezado a seleccionar buscando un conjunto de street photography y al ver estas fotos se disparó la eterna cuestión ¿qué es <em>street photography</em>?
