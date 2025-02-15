@@ -51,7 +51,7 @@ La meditación es central en el Tantra. Osho popularizó las meditaciones activa
 
 ### Películas
 
-[Bliss (1997)](https://www.imdb.com/title/tt0118742/) es la única película que muestra el Tantra como vía de sanación. No es perfecta, pero creo que es la única que vale la pena mencionar.
+[Bliss (1997)](https://www.imdb.com/title/tt0118742/) muestra el Tantra como vía de sanación. No es perfecta, pero creo que es la única que vale la pena mencionar.
 
 ### Libros
 
