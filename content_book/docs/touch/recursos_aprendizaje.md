@@ -7,6 +7,8 @@ tags:
   - tantra
   - recrusos
 draft: false
+aliases:
+  - /post/recursos_aprendizaje/
 ---
 # Recrusos para explorar el Tantra
 
