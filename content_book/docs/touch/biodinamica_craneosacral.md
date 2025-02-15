@@ -1,15 +1,15 @@
-+++
-author = "Pau Lluc"
-title = "Biodinámica Craneosacral"
-date = "2024-04-13"
-lastmod = 2024-05-17T10:02:04+01:00
-tags = ["sanación", "masaje",]
-categories = ["_técnicas",]
-series = ["masaje"]
-url = "/masaje/biodinamica_craneosacral"
-draft = false
-+++
-
+---
+author: "Pau Lluc"
+title: "Biodinámica Craneosacral"
+date: 2024-04-13
+tags:
+  - sanación
+  - masaje
+aliases: 
+  - /masaje/biodinamica_craneosacral
+draft: false
+---
+# Biodinámica Craneosacral
 
 Es un trabajo corporal extremadamente sutil no intrusivo, suave y eficaz, que combina técnicas científicas con intuición y sensibilidad, en un espacio de conciencia meditativa.
 
