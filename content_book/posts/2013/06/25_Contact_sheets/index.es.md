@@ -1,5 +1,5 @@
 ---
-title: 'Hojas de contacto'
+title: 'Contact Sheets'
 date: '2013-06-25'
 author: Fran
 guid: 'https://fransimo.info/blog/2013/06/25/contact-sheets/'

@@ -19,10 +19,10 @@ module:
 # https://gohugo.io/content-management/urls/#permalinks
 permalinks:
   page:
-    posts: /blog/:year/:month/:day/:slug/
-    # tutorials: /training/:slug/
+     posts: /var/log/:year/:month/:day/:slug/
+     # tutorials: /training/:slug/
   section:
-    posts: /blog/
+    posts: /var/log/
     # tutorials: /training/
 
 languages:
