@@ -8,6 +8,7 @@ tags:
   - masaje
 aliases:
   - /post/el_masaje/
+draft: true
 ---
 
 # El masaje, la esencia

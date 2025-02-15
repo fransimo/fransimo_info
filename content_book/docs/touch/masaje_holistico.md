@@ -1,6 +1,6 @@
 ---
 author: "Pau Lluc"
-title: "Sesión masaje holístico"
+title: "Masaje holístico"
 date: 2024-01-01
 tags:
   - sanación
