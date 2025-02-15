@@ -1,11 +1,12 @@
 ---
-title: "Servicios"
+title: "Precios"
 description: "Tipos de masajes, precios y contexto"
 date: "2024-01-5"
 author: "Pau Lluc"
+aliases: /servicios/
 ---
 
-## Servicios
+## Precios de las sesiones
 
 ### "Sesión Pau" - Masaje holístico
 

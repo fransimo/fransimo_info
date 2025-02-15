@@ -4,6 +4,8 @@ bookFlatSection: false
 title: "Detailed CV"
 bookHidden: false
 bookToc: true
+aliases:
+  - /post/formacion/ 
 ---
 
 # Fran Simó
