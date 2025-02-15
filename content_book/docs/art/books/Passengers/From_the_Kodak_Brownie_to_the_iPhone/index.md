@@ -32,7 +32,6 @@ and in which the subject is usually a scene from everyday life, such as birthday
   caption="Woman reading, about 1890 National Media Museum – Kodak Gallery Collection"
   class="image-portfolio"
 >}}
->
 
 <--->
 
