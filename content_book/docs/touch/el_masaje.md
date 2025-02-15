@@ -1,14 +1,11 @@
-+++
-author = "Pau Lluc"
-title = "El masaje, la esencia"
-description = "Filosofía del masaje"
-date = "2023-12-31"
-lastmod = 2024-02-21T11:40:04+01:00
-tags = ["sanación", "masaje",]
-categories = ["sobre mí",]
-series = ["masaje"]
-draft = false
-+++
+---
+title: "El masaje, la esencia"
+description: "Filosofía del masaje"
+date: "2023-12-31"
+tags:
+  - sanación
+  - masaje
+---
 
 Cuando los cuerpos se tocan desde el amor sanan.
 
