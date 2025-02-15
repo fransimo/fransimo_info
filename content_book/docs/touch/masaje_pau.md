@@ -1,15 +1,14 @@
-+++
-author = "Pau Lluc"
-title = "Sesión 'Pau' - masaje holístico"
-date = "2024-01-01"
-lastmod = 2024-02-12T11:40:04+01:00
-tags = ["sanación", "masaje",]
-categories = ["_técnicas",]
-series = ["masaje"]
-aliases = ["/post/masaje_pau/"]
-url = "/masaje/pau"
-draft = false
-+++
+---
+author: "Pau Lluc"
+title: "Sesión masaje holístico"
+date: 2024-01-01
+tags:
+  - sanación
+  - masaje
+aliases: "/masaje/pau"
+draft: false
+---
+# Sesión masaje holístico
 
 Son sesiones dónde mezclo todas las técnicas que he ido aprendiendo para adaptarlas a situaciones muy variadas.
 
