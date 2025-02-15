@@ -1,10 +1,10 @@
 ---
-title: Fran Simó - Art, touch and code to walk the path together.
+title: Fran Simó - Art, presence and code to walk the path together.
 type: docs
 bookToc: false
 ---
 
-# Art, touch and code to walk the path together.
+# Art, presence and code to walk the path together.
 
 
 

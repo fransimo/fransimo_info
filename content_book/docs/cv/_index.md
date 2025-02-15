@@ -11,7 +11,7 @@ bookToc: false
 
 # Fran Simó
 
-Art, touch and code to walk the path together.
+Art, presence and code to walk the path together.
 
 {{% columns %}}
 
