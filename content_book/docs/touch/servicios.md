@@ -1,0 +1,50 @@
++++
+title = "Servicios"
+description = "Tipos de masajes, precios y contexto"
+date = "2024-01-5"
+lastmod = 2024-05-17T10:02:04+01:00
+author = "Pau Lluc"
++++
+
+## Servicios
+
+### "Sesión Pau" - Masaje holístico
+
+Son sesiones dónde mezclo todas las técnicas que he ido aprendiendo para hacerlas más accesibles y adaptarlas a
+situaciones muy variadas. [Puedes leer más aquí](/masaje/pau/).
+
+- Duración: 1 hora.
+- En silla, camilla o tatami.
+- Precio: 50.00€
+- Lugar: Zona Blanquerna, espacios públicos o desplazamiento a tu casa.
+
+### Biodinámica Craneosacral
+
+La Biodinámica Craneosacral busca recuperar la salud inherente del cuerpo, despertando su capacidad de sanación. [Puedes leer más aquí](/masaje/biodinamica_craneosacral).
+
+- Duración: 1 horas.
+- En camilla.
+- Precio: gratuito, en prácticas.
+- Lugar: Zona Blanquerna, espacio privado.
+
+### Masaje Tántrico
+
+Es importante que antes de empezar estemos de acuerdo en un marco para evitar confusiones.
+En [este enlace](/masaje/tantrico) puedes leer mi forma de entender el masaje tántrico.
+
+Como estudiante en prácticas el precio es menor que el de un profesional.
+
+- Duración: 3 horas.
+- En tatami.
+- Precio: ~~180€~~ 60.00€
+- Lugar: Zona Blanquerna, espacio privado.
+
+## Límites del servicio
+
+**No soy terapeuta.** He estudiado técnicas de masaje y me considero masajista. He vivido muchas experiencias durante
+mis formaciones que creo que pueden ayudar a otros y que van más allá del masaje tradicional pero en ningún caso soy un 
+terapeuta.
+
+**En las sesiones moveremos la energía, pero nosotros no la controlamos. Pueden iniciarse procesos (destaparse
+traumas) que requieran de un acompañamiento emocional de un profesional.** Si es el caso, y no tienes un terapeuta, puedo 
+darte el contacto de algunos de confianza aquí en Mallorca.
