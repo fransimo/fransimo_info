@@ -1,11 +1,12 @@
-+++
-title = "A cerca de"
-description = "Sobre Pau Lluc"
-date = "2023-12-31"
-lastmod = 2024-05-17T10:02:04+01:00
-author = "Pau Lluc"
-aliases = "/acerca_de/"
-+++
+---
+title: "A cerca de"
+description: "Sobre Pau Lluc"
+date: "2023-12-31"
+author: "Pau Lluc"
+aliases:
+  - /acerca_de/
+  - /quien_soy/
+---
 
 ## ¿Quién soy?
 
