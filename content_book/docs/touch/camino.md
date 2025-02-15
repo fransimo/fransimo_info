@@ -1,14 +1,14 @@
-+++
-author = "Pau Lluc"
-title = "Mi camino"
-description = "Mis experiencias en el camino de autoconocimiento y el Tantra."
-date = "2024-01-04"
-lastmod = 2024-02-21T11:40:04+01:00
-tags = ["tantra", "masaje",]
-categories = ["sobre mí",]
-series = ["masaje"]
-draft = true
-+++
+---
+author: "Pau Lluc"
+title: "Mi camino"
+description: "Mis experiencias en el camino de autoconocimiento y el Tantra."
+date: 2024-01-04
+tags:
+  - tantra
+  - masaje
+draft: false
+---
+# Mi camino
 
 Desde pequeño he vivido ese _algo más_ (percepciones, energía, salud holística, masajes). Me interesé por la filosofía, la teosofía, la música y diferentes místicas pero nunca profundicé. Leí sobre el Tantra en 1999...
 
