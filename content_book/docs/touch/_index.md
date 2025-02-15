@@ -27,4 +27,3 @@ Durante el masaje mi _trabajo_ es abrirme al amor y ser un canal para que la vol
 ___
 
 
-
