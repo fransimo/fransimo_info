@@ -20,12 +20,26 @@ bookToc: false
 ## [Presence](docs/presence)
 
 > - [Tameana](docs/presence/tameana)
-> - [Biodinamica craneosacral](docs/presence/biodinamica_craneosacral)
-> - [Masaje tantrico](docs/presence/masaje_tantrico)
-> - [Masaje holistico](docs/presence/masaje_holistico)
+> - [Craniosacral Biodynamics](docs/presence/biodinamica_craneosacral)
+> - [Tantric Massage](docs/presence/masaje_tantrico)
+> - [Holistic Massage](docs/presence/masaje_holistico)
 
 <--->
 
 ## [Code](docs/code)
 
+{{% /columns %}}
+
+{{% columns %}}
+
+## [About](docs/cv)
+> - [Detailed CV](docs/cv/detailed_cv.md)
+
+<--->
+
+## [Contact](docs/contact)
+
+<--->
+
+## [Blog](posts)
 {{% /columns %}}
