@@ -9,9 +9,6 @@ tags:
   - tantra
 categories:
   - massage techniques
-aliases:
-  - /post/tantric_massage/
-  - /massage/tantric
 ---
 
 # Tantric Massage
