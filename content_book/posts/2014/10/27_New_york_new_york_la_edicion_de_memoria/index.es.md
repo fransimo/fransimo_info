@@ -38,7 +38,7 @@ Es curioso que esta foto haya sido la sexta que he recordado. Para mi esta image
 
 ![New York Essence](0006__KSC6440.jpg)
 
-En septimo lugar apareció una de mis fotos favoritas de todos los tiempos. Tiene un guiño informático, detrás de la chica que usa un Mac hay un chico con una camiseta de Microsoft.  
+En séptimo lugar apareció una de mis fotos favoritas de todos los tiempos. Tiene un guiño informático, detrás de la chica que usa un Mac hay un chico con una camiseta de Microsoft.  
 
 ![Trying to connect](0007__KSC6905_DxO.jpg)
 
