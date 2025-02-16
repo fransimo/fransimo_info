@@ -9,4 +9,4 @@ bookToc: false
 # Mapa Mental
 
 Aquí puedes ver el esquema de mi investigación:
-{{< mapa >}}
+
