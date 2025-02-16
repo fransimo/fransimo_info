@@ -17,11 +17,7 @@ To ensure mutual understanding and avoid misunderstandings, I have summarized th
 
 It is important that we agree on this framework to prevent confusion.
 
-Before the first massage session, we will have an interview where we will review this information, address any other questions you may have, and discuss your motivation. This session can take place via video call, in a café, or at my home.
-
-Since this is a practice massage, the recipient is asked to send a report to the school. You can find [the details here](https://vermarodriguez.com/el-jardin-tantrico/); I will also remind you by email or WhatsApp.
-
-If you found this page through a web search, are not in Mallorca, or prefer another professional, you can use [the school's therapist directory](https://escueladaya.com/terapeutas/).
+Before the first massage session, we will have an interview where we will review this information, address any other questions you may have, and discuss your motivation. This session can take place via video call or in a café.
 
 ## FAQ
 

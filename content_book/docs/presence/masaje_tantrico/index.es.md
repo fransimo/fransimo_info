@@ -21,13 +21,8 @@ frecuentes de la [Escuela Daya](https://escueladaya.com/faqs/) en la que me he f
 Es importante que estemos de acuerdo en este marco para evitar confusiones.
 
 Antes de la primera sesión de masaje haremos una entrevista donde repasaremos esto, cualquier otra pregunta que puedas
-tener y tu motivación. Esta sesión puede ser por videoconferencia, en un café o en mi casa.
+tener y tu motivación. Esta sesión puede ser por videoconferencia o en un café.
 
-Al ser un masaje en prácticas se pide a quién recibe que envíe un informe a la escuela. Puedes
-ver [los detalles aquí](https://vermarodriguez.com/el-jardin-tantrico/), te los recordaré por mail o whatsApp.
-
-Si has llegado aquí _googleando_, no estás en Mallorca o prefieres otro profesional puedes
-usar [la sección de terapeutas de la escuela](https://escueladaya.com/terapeutas/).
 
 ## FAQ
 
