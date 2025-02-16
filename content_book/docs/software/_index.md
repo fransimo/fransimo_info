@@ -1,12 +1,11 @@
 ---
 weight: 30
-date: "2017-04-02"
+date: "2025-02-16"
 author: fran
 bookFlatSection: false
 bookCollapseSection: false
 title: "Code"
 ---
-
 # Code
 
 En 1985, con 11 años, estudiaba [Logo](https://es.wikipedia.org/wiki/Logo_(lenguaje_de_programaci%C3%B3n)). Ese mismo
@@ -45,5 +44,26 @@ distribuidos en múltiples Data Centers.
 Recibí la oferta para volver a los equipos de arquitectura en 2018. Acepté, suponía poder trabajar como Solution
 Architect para el equipo de Applied Science, especializado en decisiones basadas en datos, big data y machine learning.
 
+Incluso llegué a pasar unos años en el equipo de Enterprise Architects, siempre relacionado con los datos.
 
+El 2024 fue un año de muchos cambios y decisiones. En febrero cree una empresa [Unity Labs SL](https://unity-labs.eu/). 
+Es el marco legal para permitirme desarrollar una nueva forma de ayudar en el mundo con mis conocimientos, 
+aptitudes y experiencia.
+
+**Después de más de 30 años de experiencia profesional en la industria del software sé que el software es algo muy humano.**
+
+Crearlo y conseguir que ayude a las personas requiere conocimientos técnicos, pero sobre todo, requiere comunicación
+entre personas de muy diferentes ámbitos, atención al detalle, habilidad para gestionar el cambio, 
+tanto en el software como en las organizaciones.
+
+En todos estos años **he llegado a llamarme: traductor. El trabajo de conseguir que todos los humanos que trabajan 
+para que una línea de código haga lo correcto en un entrono productivo es un trabajo de traducción.** 
+
+Traducir lo que el negocio quiere en alguna forma de modelo, traducir el modelo a un conjunto de artefactos que tendrán 
+diferentes funciones, traducir esa arquitectura a código y traducir todo lo que se necesita para que esa línea viaje 
+hasta el cliente en procesos de prueba y promoción entre entornos, traducir todo lo anterior en una comunicación con el 
+cliente para que pueda usarlo.
+
+Si crees que puedo ayudarte en tu proyecto [ponte en contacto](../contact), seguramente encontraremos como hacer que
+los humanos se hablen y acaben escribiendo código que ayude a que tu proyecto sea un éxito.
 
