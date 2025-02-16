@@ -22,6 +22,6 @@ From the most subtle, like [tameana](tameana.md) and [craniosacral biodynamics](
 [tantric massage](masaje_tantrico.md), we can explore paths to expand your awareness, remind your body 
 how to restore its inherent health, or simply find a moment of peace.
 
-If you feel the calling, you can check out the [services and prices](prices.en.md) and [contact me](../contact).
+If you feel the calling, you can check out the [services and prices](prices/) and [contact me](../contact).
 
 **May our hearts illuminate the path!**
