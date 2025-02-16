@@ -4,7 +4,7 @@ languageCode: en-us
 paginate: 100
 title: Fran Simó
 relativeURLs: false
-enableRobotsTXT: false
+enableRobotsTXT: true
 timeout: 120
 
 theme: ["hugo-book", "hugo-photoswipe5-gallery"]
