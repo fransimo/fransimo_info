@@ -1,6 +1,4 @@
-baseurl: /
-languageCode: en-us
-
+baseURL: https://fransimo.info/
 paginate: 100
 title: Fran Simó
 relativeURLs: false
