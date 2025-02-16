@@ -3,7 +3,7 @@ author: fran
 categories:
 - books, zines and so
 title: Books & zines
-image: X1V16641.jpg
+image: /docs/art/books/Passengers_2013_2017/Passengers_Vol_III.jpg
 bookFlatSection: false
 bookToc: false
 bookCollapseSection: true
@@ -12,6 +12,20 @@ weight: 20
 ---
 
 # Books
+
+{{% columns %}}
+
+{{< figure
+  src="/docs/art/books/Passengers_Vol_III/Passengers_Vol_III.jpg"
+  alt="Passengers Vol. III"
+  link="/docs/art/books/Passengers_Vol_III/"
+  caption="Book: Passengers Vol. III"
+  class="image-portfolio"
+>}}
+
+<--->
+
+{{% /columns %}}
 
 {{% columns %}}
 {{< figure
