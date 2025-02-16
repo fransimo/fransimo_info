@@ -16,7 +16,7 @@ The sessions are arranged from the most subtle to the most physical:
 
 ## Tameana  
 
-Tameana is a vibrational healing practice that uses quartz crystals and channeled symbols to work on the energetic body. I practice the Salush Nahí technique (energetic balancing for a person) and H’ama (harmonization of a space or unlocking a situation). [Read more here](tameana.md).  
+Tameana is a vibrational healing practice that uses quartz crystals and channeled symbols to work on the energetic body. I practice the Salush Nahí technique (energetic balancing for a person) and H’ama (harmonization of a space or unlocking a situation). [Read more here](tameana/).  
 
 - **Duration:** 1 hour.  
 - **Setting:** chair, massage table, or tatami.  
@@ -27,7 +27,7 @@ Tameana is a vibrational healing practice that uses quartz crystals and channele
 
 ## Craniosacral Biodynamics  
 
-Craniosacral Biodynamics aims to restore the body's inherent health by awakening its natural healing capacity. [Read more here](biodinamica_craneosacral.md).  
+Craniosacral Biodynamics aims to restore the body's inherent health by awakening its natural healing capacity. [Read more here](biodinamica_craneosacral/).  
 
 - **Duration:** 1 hour.  
 - **Setting:** massage table.  
@@ -36,7 +36,7 @@ Craniosacral Biodynamics aims to restore the body's inherent health by awakening
 
 ## Holistic Session  
 
-These sessions combine various massage and energy techniques, adapting them to each person and situation. [Read more here](masaje_holistico.md).  
+These sessions combine various massage and energy techniques, adapting them to each person and situation. [Read more here](masaje_holistico/).  
 
 - **Duration:** 1 hour.  
 - **Setting:** chair, massage table, or tatami.  
@@ -64,7 +64,7 @@ I am not a Tantra master, but I have walked part of the path. If you don’t fee
 ## Tantric Massage  
 
 Before starting, it’s important that we agree on a framework to avoid misunderstandings.  
-In [this link](masaje_tantrico.md), you can read about my approach to Tantric massage.  
+In [this link](masaje_tantrico/), you can read about my approach to Tantric massage.  
 
 - **Duration:** 3 hours.  
 - **Setting:** tatami.  
