@@ -24,6 +24,13 @@ weight: 20
 >}}
 
 <--->
+{{< figure
+  src="/docs/art/books/Susurros/susurros3.png"
+  alt="Susurros"
+  link="/docs/art/books/Susurros/"
+  caption="Fanzine: Susurros"
+  class="image-portfolio"
+>}}
 
 {{% /columns %}}
 
