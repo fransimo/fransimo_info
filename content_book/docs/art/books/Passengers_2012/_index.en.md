@@ -10,13 +10,15 @@ tags:
 image: passengers_2012_cover_en.jpg
 title: Passengers 2012
 aliases: /blog/2013/11/16/passengers-2012/
-bookToc: true
+bookToc: false
 bookCollapseSection: true
 ---
 
 {{% columns %}}
 ![Passengers 2012](passengers_2012_cover_en.jpg)
 <--->
+# Passengers 2012
+
 Passengers is a website as well as a series of street photography books about the passengers who use public transport.
 The project was developed as a web participatory concept. All of the images were captured with mobile devices and
 published on Instagram. The website gives a real time look at participation while the books are a visual contemplation

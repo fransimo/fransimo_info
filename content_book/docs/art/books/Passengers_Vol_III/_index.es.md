@@ -8,13 +8,15 @@ categories:
 tags: street photography
 image: Passengers_Vol_III.jpg
 title: Passengers Vol. III
-bookToc: true
+bookToc: false
 bookCollapseSection: true
 ---
 
 {{% columns %}}
 ![Passengers_Vol_III.jpg](Passengers_Vol_III.jpg)
 <--->
+# Passengers Vol. III
+
 Passengers Vol. III termina la trilogía con fotografías que van desde el 2013 hasta el 2015. En el libro encontramos 42 imágenes de 12 autores. Son el resultado de una edición de 7515 imágenes de 71 fotógrafos. La selección de la primera ronda llevó más de un año. Los editores podían dar un voto para aceptar la imagen como parte del nuevo libro. El proceso fue individual utilizando herramientas on-line. Tras tanto trabajo de selección no teníamos claro que pudiésemos hacer un libro más que tuviera un hilo común… hasta que vimos las imágenes elegidas por los 4 editores en conjunto. Fue un sorpresa ver que encontramos una coherencia dentro de esas siete mil fotos y entre los cuatro. La segunda, tercera y cuarta vuelta de edición fue presencial con unas 300 fotografías impresas en papel.
 {{% /columns %}}
 
