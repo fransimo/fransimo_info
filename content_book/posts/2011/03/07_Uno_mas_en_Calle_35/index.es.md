@@ -10,10 +10,12 @@ tags:
   - street photography
 ---
 
-Hoy <a href="http://calle35.com/nueva-incorporacion-a-calle-35-fran-simo/">se hace oficial</a> mi incorporación al colectivo <a href="http://calle35.com/">Calle 35</a>.
+Hoy [se hace oficial](http://calle35.com/nueva-incorporacion-a-calle-35-fran-simo/) mi incorporación al colectivo [Calle 35](http://calle35.com/).
 
-<a href="http://calle35.com/" target="_blank">Calle 35</a> es un colectivo cuya finalidad es divulgar y disfrutar la fotografía de calle. Formado inicialmente por <a href="http://marcelocaballero-fotografia.blogspot.com/" target="_blank">Marcelo Caballero</a>, <a href="http://cmprieto.blogspot.com/" target="_blank">Carlos Prieto</a>, <a href="http://elfotografoviajero.com" target="_blank">Rafa Pérez</a>, <a href="http://www.domingovenerobarberan.es/" target="_blank">Domingo Venero Barberán</a> y <a href="http://rafabadia.blogspot.com/" target="_blank">Rafa Badia</a>, este colectivo con base de operaciones en Barcelona está abierto a nuevas incorporaciones y miradas.
+[Calle 35](http://calle35.com/) es un colectivo cuya finalidad es divulgar y disfrutar la fotografía de calle. Formado inicialmente por [Marcelo Caballero](http://marcelocaballero-fotografia.blogspot.com/), [Carlos Prieto](http://cmprieto.blogspot.com/), [Rafa Pérez](http://elfotografoviajero.com/), [Domingo Venero Barberán](http://www.domingovenerobarberan.es/) y [Rafa Badia](http://rafabadia.blogspot.com/), este colectivo con base de operaciones en Barcelona está abierto a nuevas incorporaciones y miradas.
 
 Update: Por falta de tiempo dejo el colectivo en Mayo del 2015.
 
-[gallery type="rectangular" link="none" ids="668,669,670,671,672,673,674,675,676,677,678,679,680,681,682,683,684,685,686,687,688,689,690,691,692,693,694,695,696,697"]
+{{< load-photoswipe >}}
+{{< gallery />}}
+
