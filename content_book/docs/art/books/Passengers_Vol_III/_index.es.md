@@ -22,3 +22,4 @@ En la trilogía podemos ver cómo cambian la estética móvil, los dispositivos 
 
 Passengers ha sido un proyecto que nos ha llevado por muchas estaciones durante 9 años. Nos ha ayudado a acortar distancias con nuestros compañeros en muchos países y esperamos que sirva para acercar la compresión de cómo hemos vivido el principio de siglo los habitantes de las ciudades.
 
+Disponible en versión impresa en [Lulu](https://www.lulu.com/es/shop/fran-sim%C3%B3-and-benjam%C3%ADn-julve-and-godo-chillida-and-marcelo-aurelio/passengers-vol-iii/paperback/product-1y884p24.html?page=1&pageSize=4).
