@@ -24,4 +24,4 @@ aliviarlos. Si hay necesidad de quietud, darle espacio. Si hay fuego o rabia cre
 
 Suele mejorar la experiencia el contacto con la piel y utilizar aceites.
 
-Recuerda leer los [límites del servicio](/servicios/#límites-del-servicio).
+Recuerda leer los [límites del servicio](../prices/#límites-del-servicio).

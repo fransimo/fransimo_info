@@ -22,4 +22,4 @@ El entrenamiento permite percibir la respiración primaria, o las «Mareas», y 
 
 Por claridad, estos textos [son una copia de la definición](https://biodinamicacraneosacral.org/es/que-es-2/) Instituto Español de Biodinámica Craneosacral.
 
-Recuerda leer los [límites del servicio](/servicios/#límites-del-servicio).
+Recuerda leer los [límites del servicio](../prices/#límites-del-servicio).

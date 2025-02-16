@@ -16,3 +16,5 @@ Practico dos de las técnicas:
 - H´ama: limpieza energética de ambientes. Limpia las energías impregnadas que pueden estar densificando y bloqueando casas, negocios,etc. En su lugar se eleva la vibración para que estos lugares estén funcionando a su óptimo.
 
 Puedes leer más sobre Tameana en https://tameana.es/que-es-tameana/
+
+Recuerda leer los [límites del servicio](../prices/#límites-del-servicio).
