@@ -10,9 +10,9 @@ tags:
   - street photography
 ---
 
-
-
 Después de mucho pensar esta es la serie que he enviado al _«[London Street Photography Festival](http://londonstreetphotographyfestival.org/)«_. Dudo mucho que llegue a ganar, hay mucha gente muy buena en el mundo de la street, pero al menos el proceso de selección siempre sirve como un sistema de autocrítica y meditación sobre lo que vemos cuando disparamos, sobre lo que «nos mueve» mientras caminamos.
+
+<!--more-->
 
 {{< load-photoswipe >}}
 {{< gallery />}}

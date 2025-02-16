@@ -16,6 +16,8 @@ Hoy [se hace oficial](http://calle35.com/nueva-incorporacion-a-calle-35-fran-sim
 
 Update: Por falta de tiempo dejo el colectivo en Mayo del 2015.
 
+<!--more-->
+
 {{< load-photoswipe >}}
 {{< gallery />}}
 
