@@ -3,6 +3,7 @@ title: 'El problema del viajante de comercio, heurística basada georeferencias,
 date: '2011-11-02'
 author: fran
 aliases: /es/blog/2011/11/02/el-problema-del-viajante-de-comercio/
+slug: El-problema-del-viajante-de-comercio
 categories:
   - Software
 ---
