@@ -1,31 +1,31 @@
 ---
-title: Fran Simó - Art, presence and code to walk the path together.
+title: Fran Simó - Arte, presencia y código para recorrer juntos el camino.
 type: docs
 bookToc: false
 ---
 
 ![X1V45282-Enhanced-SR.jpg](docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg)
 
-# [Art](docs/art), [presence](docs/presence) and [code](docs/code) to walk the path together.
+# [Arte](docs/art), [presencia](docs/presence) y [código](docs/code) para recorrer juntos el camino.
 {{% columns %}}
 
-## [Art](docs/art)
+## [Arte](docs/art)
 
 > - [New media art](docs/art/new_media_art)
-> - [Books](docs/art/books)
-> - [Photography](docs/art/photography)
+> - [Libros](docs/art/books)
+> - [Fotografía](docs/art/photography)
   
 <--->
 
-## [Presence](docs/presence)
+## [Presencia](docs/presence)
 
 > - [Tameana](docs/presence/tameana)
-> - [Biodinamica craneosacral](docs/presence/biodinamica_craneosacral)
+> - [Biodinámica craneosacral](docs/presence/biodinamica_craneosacral)
 > - [Masaje tantrico](docs/presence/masaje_tantrico)
 > - [Masaje holistico](docs/presence/masaje_holistico)
 
 <--->
 
-## [Code](docs/code)
+## [Código](docs/code)
 
 {{% /columns %}}
