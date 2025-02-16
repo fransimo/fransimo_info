@@ -29,3 +29,17 @@ bookToc: false
 ## [Código](docs/code)
 
 {{% /columns %}}
+
+{{% columns %}}
+
+## [Acerca de](docs/cv)
+> - [Detailed CV](docs/cv/detailed_cv.md)
+
+<--->
+
+## [Contacto](docs/contact)
+
+<--->
+
+## [Blog](posts)
+{{% /columns %}}
