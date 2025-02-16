@@ -25,6 +25,6 @@ Desde lo más sutil, como la [tameana](tameana.md) y la [biodinámica craneosacr
 el [masaje tántrico](masaje_tantrico.md), podemos explorar caminos para expandir tu conciencia, recordarle a tu cuerpo 
 cómo restaurar su salud inherente o encontrar un momento de paz.
 
-Si sientes el llamado, puedes ver los [servicios y precios](precios.md) y [llamarme](../contact).
+Si sientes el llamado, puedes ver los [servicios y precios](precios.es.md) y [llamarme](../contact).
 
 **¡Que nuestros corazones iluminen el camino!**
