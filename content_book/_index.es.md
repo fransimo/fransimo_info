@@ -14,7 +14,8 @@ bookToc: false
 > - [New media art](docs/art/new_media_art)
 > - [Libros](docs/art/books)
 > - [Fotografía](docs/art/photography)
-  
+> - [Statement](docs/art/statement)
+
 <--->
 
 ## [Presencia](docs/presence)
@@ -23,6 +24,7 @@ bookToc: false
 > - [Biodinámica craneosacral](docs/presence/biodinamica_craneosacral)
 > - [Masaje tantrico](docs/presence/masaje_tantrico)
 > - [Masaje holistico](docs/presence/masaje_holistico)
+> - [Precios](docs/presence/prices)
 
 <--->
 
@@ -33,7 +35,7 @@ bookToc: false
 {{% columns %}}
 
 ## [Acerca de](docs/cv)
-> - [Detailed CV](docs/cv/detailed_cv.md)
+> - [CV completo](docs/cv/detailed_cv.md)
 
 <--->
 

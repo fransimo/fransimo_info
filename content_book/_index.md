@@ -14,6 +14,7 @@ bookToc: false
 > - [New media art](docs/art/new_media_art)
 > - [Books](docs/art/books)
 > - [Photography](docs/art/photography)
+> - [Statement](docs/art/statement)
   
 <--->
 
@@ -23,6 +24,7 @@ bookToc: false
 > - [Craniosacral Biodynamics](docs/presence/biodinamica_craneosacral)
 > - [Tantric Massage](docs/presence/masaje_tantrico)
 > - [Holistic Massage](docs/presence/masaje_holistico)
+> - [Prices](docs/presence/prices)
 
 <--->
 
