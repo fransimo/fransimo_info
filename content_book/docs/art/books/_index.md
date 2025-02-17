@@ -35,6 +35,16 @@ weight: 20
 {{% /columns %}}
 
 {{% columns %}}
+
+{{< figure
+  src="/docs/art/books/Heaven/X1V16657-1.jpg"
+  alt="Heaven"
+  link="/docs/art/books/Heaven/"
+  caption="Art book: Heaven"
+  class="image-portfolio"
+>}}
+
+<--->
 {{< figure
   src="/docs/art/books/Code_by_r_mutt/X1V16641_v2.jpg"
   alt="CODE by R.Mutt"
@@ -43,7 +53,9 @@ weight: 20
   class="image-portfolio"
 >}}
 
-<--->
+{{% /columns %}}
+
+{{% columns %}}
 
 {{< figure
   src="/docs/art/books/SArenal_summertime_2016/SArenal-Summertime-COVER.jpg"
@@ -53,9 +65,7 @@ weight: 20
   class="image-portfolio"
 >}}
 
-{{% /columns %}}
-
-{{% columns %}}
+<--->
 
 {{< figure
   src="/docs/art/new_media_art/Shared_folder_red_box/DSCF3138.jpg"
@@ -65,7 +75,10 @@ weight: 20
   class="image-portfolio"
 >}}
 
-<--->
+
+{{% /columns %}}
+
+{{% columns %}}
 
 {{< figure
   src="/docs/art/books/22.2/0013_018_GSC_2765_cover.jpg"
@@ -75,9 +88,7 @@ weight: 20
   class="image-portfolio"
 >}}
 
-{{% /columns %}}
-
-{{% columns %}}
+<--->
 
 {{< figure
   src="/docs/art/books/Traces_barcelona/DSCF1438-2.jpg"
@@ -87,7 +98,9 @@ weight: 20
   class="image-portfolio"
 >}}
 
-<--->
+{{% /columns %}}
+
+{{% columns %}}
 
 {{< figure
   src="/docs/art/books/Passengers_2012/passengers_2012_cover_en.jpg"
@@ -97,9 +110,7 @@ weight: 20
   class="image-portfolio"
 >}}
 
-{{% /columns %}}
-
-{{% columns %}}
+<--->
 
 {{< figure
   src="/docs/art/books/Passengers/passengers.jpg"
@@ -109,7 +120,10 @@ weight: 20
   class="image-portfolio"
 >}}
 
-<--->
+
+{{% /columns %}}
+
+{{% columns %}}
 
 {{< figure
   src="/docs/art/books/Arrinconado/arrinconado.jpg"
@@ -119,9 +133,7 @@ weight: 20
   class="image-portfolio"
 >}}
 
-{{% /columns %}}
-
-{{% columns %}}
+<--->
 
 {{< figure
   src="/docs/art/books/22/22_fran_simo_05.jpg"
@@ -131,6 +143,6 @@ weight: 20
   class="image-portfolio"
 >}}
 
-<--->
+
 
 {{% /columns %}}

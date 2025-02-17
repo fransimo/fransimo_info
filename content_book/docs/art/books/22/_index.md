@@ -10,6 +10,7 @@ categories:
   - books, zines and so
 tags:
 - Barcelona
+- art book
 ---
 
 ![22_fran_simo_05.jpg](22_fran_simo_05.jpg)

@@ -16,6 +16,7 @@ tags:
 - post photography
 - privacy
 - opensea
+- art book
 title: Shared Folder (Red box) v'21
 aliases: /blog/2021/05/21/shared-folder-red-box-v21/
 ---

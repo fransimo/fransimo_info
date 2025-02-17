@@ -7,7 +7,7 @@ categories:
 - books, zines and so
 tags: 
 - street photography 
-- artbook
+- art book
 - dummy
 title: Heaven
 aliases: /blog/2017/11/10/heaven/
