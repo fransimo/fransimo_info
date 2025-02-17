@@ -111,6 +111,23 @@ Some of my works have been included in the following books:
 | 2015 | Finalist with [Traces](http://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/) at [DOCfield Dummy Award Fundació Banc Sabadell](https://docfieldbarcelona.org/en/entrega-del-docfield-dummy-award-fundacio-banc-sabadell/)                                                                                                                                      |
 | 2015 | [Lumen Prize](https://lumenprize.com/) Longlist                                                                                                                                                                                                                                                                                                                            |
 
+# Press
+
+| Year | Project and medium                                                                                                                                                           |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2013 | fotometro.org: [El Periódico, La Vanguardia and El País](/es/var/log/2013/06/13/fotometro.org-en-los-medios/)                                                                |
+| 2012 | Ubiquography: [Noticias Cuatro TV](http://bit.ly/J73rtC), [La Vanguardia](http://bit.ly/J73u8W),[RNE (26’) Radio](http://bit.ly/J73wxG), [BVisio TV](http://bit.ly/J73AgH)() |
+| 2012 | **Interview _Fotografies: Street Photography_ [TV3](http://www.ccma.cat/tv3/alacarta/fotografies/street-photography/video/3966610/)**                                        |
+| 2012 | SOY CÁMARA #19 // Más fotoperiodismo hoy: [CCCB & TVE](https://vimeo.com/41416084)                                                                                           |
+| 2011 | Brangulí: [El Periódico](/es/var/log/2011/06/30/Branguli-estuvo-aqui.-Y-tu-en-El-Periodico/)                                                                                 |
+| 2010 | Arrinconado: [Extraradi de COMRàdio](/es/var/log/2010/10/29/Arrinconado-en-Extraradi-de-COMRadio/)                                                                           |
+| 2009 | Barcelona Photobloggers: [l'Extraradi de COM Ràdio](/es/var/log/2009/09/04/Barcelona-Photobloggers-a-lExtraradi-de-COM-Radio/)                                               |
+| 2009 | Al Detall: [Barcelona Televisió](/es/var/log/2009/05/16/Al-Detall-a-Barcelona-Televisio/)                                                                                    |
+| 2008 | elements: [Barcelona Televisió](/es/var/log/2008/09/12/elements-a-Barcelona-Televisio/)                                                                                      |
+| 2008 | De la red a la pared II: [ADN](/es/var/log/2008/01/20/De-la-red-a-la-pared-II-en-ADN/)                                                                                       |
+| 2007 | Voltants: [Diari de Terrassa](/es/var/log/2007/10/18/Barcelona-Photobloggers-y-Voltants-en-el-Diari-de-Terrassa/)                                                            |
+| 2006 | De la red a la pared [El País](/es/var/log/2006/10/19/De-la-red-a-la-pared-en-El-Pais/)                                                                                      |
+
 # Residencies
 
 | Year      | Residency                                                              |
