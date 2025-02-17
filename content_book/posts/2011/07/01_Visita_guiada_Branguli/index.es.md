@@ -6,7 +6,6 @@ aliases:  /es/blog/2011/07/01/visita-guiada-a-branguli-barcelona-1909-1945-con-s
 slug: Visita-guiada-a-Branguli-Barcelona-1909-1945-con-Susana-Garcia
 categories:
 - Barcelona Photobloggers
-- press
 ---
 ![CCCB Barcelona Photobloggers Visita guiada para Brangulí. Barcelona 1909-1945 para Brangulí va ser aquí, i tu? / Marcelo Aurelio](0001_IMG_5297-marcelo-aurelio.jpg "CCCB Barcelona Photobloggers Visita guiada para Brangulí. Barcelona 1909-1945 para Brangulí va ser aquí, i tu? / Marcelo Aurelio")
 
