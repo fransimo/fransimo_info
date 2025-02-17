@@ -14,9 +14,7 @@ tags:
 - cyber spirituality
 - darwin
 - evolution
-- giitb
 - god
-- godisinthebugs
 - life
 - opensea
 - self awareness

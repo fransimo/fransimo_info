@@ -8,6 +8,8 @@ bookToc: false
 categories:
   - photography
   - books, zines and so
+tags:
+- Barcelona
 ---
 
 ![22_fran_simo_05.jpg](22_fran_simo_05.jpg)

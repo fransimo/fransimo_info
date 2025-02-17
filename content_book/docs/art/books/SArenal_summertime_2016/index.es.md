@@ -6,7 +6,7 @@ categories:
 tags:
 - beach 
 - fanzine 
-- majorca 
+- mallorca 
 - street photography 
 - tourism
 date: "2017-04-02T18:52:55Z"

@@ -8,6 +8,9 @@ bookToc: false
 categories:
   - photography
   - books, zines and so
+tags:
+- fanzine 
+- Barcelona
 ---
 ![0013_018_GSC_2765_cover.jpg](0013_018_GSC_2765_cover.jpg)
 # 22.2

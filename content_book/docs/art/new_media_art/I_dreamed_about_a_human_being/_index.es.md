@@ -21,6 +21,7 @@ tags:
 - post photography
 - life
 - opensea
+- software
 ---
 ![fran_simo_0001_Untitled1_medium_.jpg](fran_simo_0001_Untitled1_medium_.jpg)
 

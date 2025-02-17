@@ -8,6 +8,7 @@ tags:
   - non creative writing
   - open source
   - ready made
+  - fanzine 
 image: susurros3.png
 title: Susurros
 bookToc: true

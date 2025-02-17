@@ -4,7 +4,6 @@ categories:
   - exhibits
   - new media art
 date: "2019-05-26"
-
 image: function_2019_innocence.png
 tags:
   - festival

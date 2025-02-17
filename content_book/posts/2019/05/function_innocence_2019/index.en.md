@@ -8,7 +8,7 @@ image: function_2019_innocence.png
 tags:
   - festival
   - functionfest
-  - majorca
+  - mallorca
 title: function("innocence", 2019)
 aliases: /blog/2019/05/26/functioninnocence-2019/
 ---
