@@ -7,6 +7,7 @@ image: mkt_on_line_oscar_ciutat.jpg
 categories:
 - 'Barcelona Photobloggers'
 - texts
+- charlas
 ---
 
 En el taller [Vivir de la fotografía en el siglo XXI](http://barcelonaphotobloggers.org/2009/11/02/vivir-de-la-fotografia-en-el-siglo-xxi-tecnica-estilo-personal-y-estrategias-de-marketing/) se respiraba la necesidad de ampliar las ponencias relacionadas con marketing on-line y redes sociales. Se nos ocurrió que podíamos continuar el tema con una charla informal reuniendo fotógrafos profesionales por un lado y expertos de marketing y redes sociales por otro.
