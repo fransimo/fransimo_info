@@ -33,7 +33,7 @@ Colección NFT
 
 POI Finch: _“Estás siendo vigilado. El gobierno tiene un sistema secreto: una máquina que te espía cada hora de cada día. Lo sé, porque yo la construí…”_ …quizás el gobierno no necesite la máquina… **estás compartiendo tu intimidad sin siquiera saberlo y cualquiera puede acceder a ella con una máquina de 35$**.
 
-En 2015 me pregunté: ¿cómo sería la fotografía encontrada en la era digital? Creé [_Shared Folder (Red Box)_ en 2016](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/).
+En 2015 me pregunté: ¿cómo sería la fotografía encontrada en la era digital? Creé [_Shared Folder (Red Box)_ en 2016](../Shared_folder_red_box).
 
 Dado que la motivación era puramente teórica, lo que encontré fue muy preocupante.
 
@@ -73,7 +73,7 @@ Puedes ver cómo lo hice en este [repositorio de Github](https://github.com/fran
 
 Si quieres hacerlo de manera sencilla, solo descarga emule y busca “IMG\_0001, IMG\_0002, IMG\_0003…”
 
-## Una palabra sobre la “fotografía encontrada clásica”
+## Comentario sobre la “fotografía encontrada clásica”
 
 [Wikipedia](https://en.wikipedia.org/wiki/Found_photography): “**_Fotografía encontrada_** es un género de fotografía y/o arte visual basado en la recuperación (y posible exhibición) de fotografías perdidas, no reclamadas o descartadas.
 

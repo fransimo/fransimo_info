@@ -33,7 +33,7 @@ NFT collection
 
 POI Finch: _“You are being watched. The government has a secret system: a machine that spies on you every hour of every day. I know, because I built it… “_ …maybe the government doesn’t need the machine… **you are sharing your intimacy without even knowing and anyone can access it with a 35$ machine**.
 
-Back in 2015 I asked myself: what could found photography be like in the digital age? I created [_Shared Folder (Red Box)_ in 2016](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/).
+Back in 2015 I asked myself: what could found photography be like in the digital age? I created [_Shared Folder (Red Box)_ in 2016](../Shared_folder_red_box).
 
 Since the motivation was a purely theoretical one, what I found was very concerning.
 
