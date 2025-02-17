@@ -65,8 +65,11 @@ Algunas ideas muy personales que expresé en la reunión:
 
 Hemos tenido la suerte de contar con el apoyo de [Francesc Muntada](http://www.sincronia.cat/), quien consiguió la sala del [Institut d’Estudis Catalans](http://www.iec.cat/) donde nos reunimos. Los ánimos de [Tino Soriano](http://tinosoriano.com/) y [Valentí Zapater](http://www.shan.cat/) para organizar la charla. La ayuda de [Toni Rodríguez](http://www.tobiasfeijoo.es/), [Joan Vendrell](http://naturpixel.com/), [Godo Chillida](http://godochillida.aminus3.com/), [Marcelo Aurelio](http://www.marceloaurelio.com/nocturama/), [Alfonso Para](http://alfonsopara.info/) y [Oscar Ciutat](http://nitifixis.com/) como ponentes. Y unos oyentes de lujo: [Rosa Maria Vila](http://enfocant.blogspot.com/), [Roger Llonch](http://www.rogerllonch.com/), [Valentí Zapater](http://www.shan.cat/), [Jordi Xampeny](http://xampeny.blogspot.com/), [Jordi Bas](http://www.jordibas.net/ca/homepage), [Roger Eritja](http://www.eritja.com/), [Albert Masó](http://www.foreste.com/maso/indice.htm), Antoni Fernàndez, [Quim Reverté](http://www.fotonatura.org/miembros/fichas/7934/) y Montse Guillamon.
 
-Al final, de recuerdo, las fotos de Marcelo:  
-[mkt_on_line-Mediano.m4v](mkt_on_line-Mediano.m4v)
+Al final, de recuerdo, las fotos de Marcelo:
+
+<video controls autoplay loop>
+<source src="mkt_on_line-Mediano.m4v" type="video/mp4" />
+</video>
 
 Originalmente publicada en [Barcelona Photobloggers](http://barcelonaphotobloggers.org/?p=2598).
 
