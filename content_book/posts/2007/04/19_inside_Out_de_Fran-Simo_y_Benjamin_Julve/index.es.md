@@ -22,5 +22,5 @@ Las fotografías de [inside Out](http://i-o-p.es/) desnudan dos mundos interiore
 <audio class="player" controls preload="none" src="01-insideOut.mp3" type="audio/mp3"></audio>
 
 
-
-[gallery type="rectangular" link="none" ids="7748,7749,7750,7751,7752,7753,7754,7755,7756,7757,7758,7759,7760,7761"]
+{{< load-photoswipe >}}
+{{< gallery match="ins*" />}}
