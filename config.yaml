@@ -1,7 +1,6 @@
+title: Fran Simó
 baseURL: https://fransimo.info/
 paginate: 100
-title: Fran Simó
-relativeURLs: false
 enableRobotsTXT: true
 timeout: 120
 
@@ -14,6 +13,8 @@ module:
   #  - path: github.com/alex-shpak/hugo-book
   #    disable: false
 
+relativeURLs: false
+removePathAccents: true
 # https://gohugo.io/content-management/urls/#permalinks
 permalinks:
   page:
@@ -23,6 +24,7 @@ permalinks:
     posts: /var/log/
     # tutorials: /training/
 
+defaultContentLanguage: en
 languages:
     en:
         languageName: English
@@ -151,11 +153,8 @@ params:
     useExif: false
     sort: asc
 
-  author:
-    email: contact@fransimo.info
-    name: Fran Simó
 
-  removePathAccents: true
+
 
 
 
