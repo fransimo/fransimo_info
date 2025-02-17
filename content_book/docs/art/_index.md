@@ -40,6 +40,15 @@ All [New media art](new_media_art) works.
 {{% columns %}}
 
 {{< figure
+  src="/docs/art/books/Passengers_Vol_III/Passengers_Vol_III.jpg"
+  alt="Passengers Vol. III"
+  link="/docs/art/books/Passengers_Vol_III/"
+  caption="Book: Passengers Vol. III"
+  class="image-portfolio"
+>}}
+
+<--->
+{{< figure
   src="/docs/art/books/SArenal_summertime_2016/SArenal-Summertime-COVER.jpg"
   alt="S’Arenal Summertime 2016"
   link="/docs/art/books/SArenal_summertime_2016/"
@@ -47,14 +56,8 @@ All [New media art](new_media_art) works.
   class="image-portfolio"
 >}}
 
-<--->
-{{< figure
-  src="/docs/art/books/Passengers_2012/passengers_2012_cover_en.jpg"
-  alt="Passengers 2012"
-  link="/docs/art/books/Passengers_2012/"
-  caption="Passengers 2012"
-  class="image-portfolio"
->}}
+
+
 
 {{% /columns %}}
 
