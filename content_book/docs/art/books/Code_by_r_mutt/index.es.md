@@ -9,7 +9,6 @@ tags:
 - non creative writing
 - open source
 - ready made
-- software art
 title: CODE by R.Mutt
 lang: es
 aliases: /es/blog/2019/05/29/code-by-r-mutt/

@@ -11,20 +11,17 @@ categories:
 - new media art
 - NFT
 tags:
-- AIArt
 - artificial intelligence
-- ArtificialIntelligenceArt
 - computer vision
 - creative commons
 - face detection
 - faces
-- fine art
 - flickr
 - machine learning
 - portraits
-- postfotografía
-- postphotography
+- post photography
 - life
+- opensea
 ---
 
 ![fran_simo_0001_Untitled1_medium_.jpg](fran_simo_0001_Untitled1_medium_.jpg)

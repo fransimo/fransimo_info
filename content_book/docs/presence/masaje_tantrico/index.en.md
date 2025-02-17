@@ -3,12 +3,11 @@ author: "Pau Lluc"
 title: "Tantric Massage"
 description: "Tantric massage: approach and frequently asked questions."
 date: "2024-01-01"
-tags: 
-  - healing
-  - massage
-  - tantra
 categories:
-  - massage techniques
+  - massage
+  - presence
+tags: 
+  - tantra
 ---
 
 # Tantric Massage

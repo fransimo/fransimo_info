@@ -3,12 +3,11 @@ author: "Pau Lluc"
 title: "Masaje tántrico"
 description: "Masaje tántrico: enfoque y preguntas frecuentes."
 date: "2024-01-01"
-tags: 
-  - sanación
-  - masaje
-  - tantra
 categories:
-  - tecnicas masaje
+  - massage
+  - presence
+tags: 
+  - tantra
 aliases:
   - /post/masaje_tantrico/
   - /masaje/tantrico

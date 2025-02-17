@@ -6,6 +6,16 @@ aliases: /es/blog/2016/05/07/shared-folder-red-box/
 image: DSCF3138.jpg
 categories:
 - new media art
+tags:
+- cybersecurity
+- e2dk
+- edonkey
+- found photography
+- grey networks
+- intimacy
+- photography
+- post photography
+- privacy
 ---
 ![Sahred folder box](DSCF3138.jpg)
 

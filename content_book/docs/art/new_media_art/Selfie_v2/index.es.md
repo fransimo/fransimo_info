@@ -9,7 +9,7 @@ tags:
 - Nondualism
 - oneness
 - opensea
-- postphotography
+- post photography
 - selfie
 - spirituality
 - video sculpture

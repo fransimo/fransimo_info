@@ -6,22 +6,17 @@ guid: 'https://fransimo.info/blog/2013/06/25/contact-sheets/'
 aliases: /es/blog/2013/06/25/contact-sheets/
 image: i_dreamed_contacts_fran_simo_02_8e9b80952408ba7c47a32dcce7c04c0e.jpg
 categories:
-  - 'new media art'
+- new media art
 tags:
-  - AIArt
-  - artificial intelligence
-  - ArtificialIntelligenceArt
-  - computer vision
-  - creative commons
-  - face detection
-  - faces
-  - fine art
-  - flickr
-  - machine learning
-  - portraits
-  - postfotografía
-  - postphotography
-  - life
+- cybersecurity
+- e2dk
+- edonkey
+- found photography
+- grey networks
+- intimacy
+- photography
+- post photography
+- privacy
 ---
 
 Como parte de mi investigación en Inteligencia Artificial, creé estas hojas de contacto con los rostros que detecta el algoritmo.

@@ -3,9 +3,11 @@ author: "Pau Lluc"
 title: "Recursos para explorar el Tantra"
 description: "Recursos para explorar el Tantra, facilitadores, películas y algún libro."
 date: 2024-07-05
-tags:
+categories:
+  - massage
+  - presence
+tags: 
   - tantra
-  - recrusos
 draft: false
 aliases:
   - /post/recursos_aprendizaje/

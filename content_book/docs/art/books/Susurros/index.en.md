@@ -8,7 +8,6 @@ tags:
   - non creative writing
   - open source
   - ready made
-  - software art
 image: susurros3.png
 title: Susurros (Whispers)
 bookToc: true

@@ -2,9 +2,12 @@
 author: "Pau Lluc"
 title: "Masaje holístico"
 date: 2024-01-01
-tags:
-  - sanación
-  - masaje
+categories:
+  - massage
+  - presence
+tags: 
+  - tantra
+  - Biodynamics
 aliases:
   - /masaje/pau
 draft: false

@@ -2,11 +2,11 @@
 author: "Pau Lluc"
 title: "Biodinámica Craneosacral"
 date: 2024-04-13
-tags:
-  - sanación
-  - masaje
 categories:
-  - tecnicas masaje
+  - massage
+  - presence
+tags:
+  - Biodynamics
 aliases: 
   - /masaje/biodinamica_craneosacral
 draft: false

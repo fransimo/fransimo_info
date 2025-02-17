@@ -9,7 +9,6 @@ categories:
 - new media art
 - NFT
 tags:
-- ai
 - artificial intelligence
 - bug
 - cyber spirituality

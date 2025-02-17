@@ -5,22 +5,17 @@ author: fran
 aliases: /blog/2013/06/25/contact-sheets/
 image: i_dreamed_contacts_fran_simo_02_8e9b80952408ba7c47a32dcce7c04c0e.jpg
 categories:
-  - new media art
+- new media art
 tags:
-  - AIArt
-  - artificial intelligence
-  - ArtificialIntelligenceArt
-  - computer vision
-  - creative commons
-  - face detection
-  - faces
-  - fine art
-  - flickr
-  - machine learning
-  - portraits
-  - postfotografía
-  - postphotography
-  - life
+- cybersecurity
+- e2dk
+- edonkey
+- found photography
+- grey networks
+- intimacy
+- photography
+- post photography
+- privacy
 ---
 
 As part of my Artificial Intelligence research, I created these contact sheets of the faces that the algorithm detects.
