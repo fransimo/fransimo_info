@@ -4,14 +4,13 @@ title: Photography
 image: X1V16641.jpg
 bookFlatSection: false
 bookCollapseSection: true
+bookTOC: false
 weight: 30
 ---
 
 # Photography 
 
 {{% columns %}}
-<--->
-{{% /columns %}}
 
 {{< figure
   src="/docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg"
@@ -21,6 +20,8 @@ weight: 30
   class="image-portfolio"
 >}}
 
+<--->
+
 {{< figure
   src="/docs/art/photography/Traces_personal_drifts/fran_simo_traces_1_02__A009704_DxO.jpg"
   alt="Traces (personal drifts)"
@@ -29,6 +30,9 @@ weight: 30
   class="image-portfolio"
 >}}
 
+{{% /columns %}}
+
+{{% columns %}}
 {{< figure
   src="/docs/art/photography/Es_Lloga/es_lloga_fran_simo_01__ISC1838_DxO.jpg"
   alt="Es lloga (For Rent) "
@@ -37,5 +41,6 @@ weight: 30
   class="image-portfolio"
 >}}
 
+<--->
 
-
+{{% /columns %}}
