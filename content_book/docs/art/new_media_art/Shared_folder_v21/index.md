@@ -1,6 +1,6 @@
 ---
 author: fran
-date: "2021-05-21T01:01:00Z"
+date: "2021-05-21"
 image: IMG_4934-Editar-2.jpg
 categories:
 - new media art

@@ -1,6 +1,6 @@
 ---
 author: fran
-date: "2021-05-21T01:01:00Z"
+date: "2021-05-21"
 image: IMG_4934-Editar-2.jpg
 categories:
 - new media art
@@ -18,84 +18,83 @@ tags:
 - opensea
 - art book
 title: Shared Folder (Red box) v'21
-aliases: /blog/2021/05/21/shared-folder-red-box-v21/
+aliases: /es/blog/2021/05/21/shared-folder-red-box-v21/
 ---
-![](IMG_4934-Editar-2.jpg) 
-{{% details title="Technical details" open=true %}}
+![](IMG_4934-Editar-2.jpg)
+{{% details title="Detalles técnicos" open=true %}}
 ````
 2021
-NFT collection
+Colección NFT
 2.501Ξ
 ````
 {{% /details %}}
 
 # Shared Folder (Red box) v'21
 
-POI Finch: _“You are being watched. The government has a secret system: a machine that spies on you every hour of every day. I know, because I built it… “_ …maybe the government doesn’t need the machine… **you are sharing your intimacy without even knowing and anyone can access it with a 35$ machine**.
+POI Finch: _“Estás siendo vigilado. El gobierno tiene un sistema secreto: una máquina que te espía cada hora de cada día. Lo sé, porque yo la construí…”_ …quizás el gobierno no necesite la máquina… **estás compartiendo tu intimidad sin siquiera saberlo y cualquiera puede acceder a ella con una máquina de 35$**.
 
-Back in 2015 I asked myself: what could found photography be like in the digital age? I created [_Shared Folder (Red Box)_ in 2016](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/).
+En 2015 me pregunté: ¿cómo sería la fotografía encontrada en la era digital? Creé [_Shared Folder (Red Box)_ en 2016](https://fransimo.info/blog/2016/05/07/shared-folder-red-box/).
 
-Since the motivation was a purely theoretical one, what I found was very concerning.
+Dado que la motivación era puramente teórica, lo que encontré fue muy preocupante.
 
-This [collection](https://bit.ly/3eVNPlm) consists of a series of aesthetically eye-catching images that may help direct our mind towards questioning privacy in today’s network life.
+Esta [colección](https://bit.ly/3eVNPlm) consiste en una serie de imágenes estéticamente atractivas que pueden ayudarnos a cuestionar la privacidad en la vida en red actual.
 
-_Red Box_ was part of the Function Festival where I did a performance. I was there in a dark room with a box showing it to groups of people. I was telling the story of Celine: a girl from Paris, daughter of Vietnamese immigrants. I knew where she lived, her school, her friends’ faces, I even showed a picture of her grandma’s ID (all faces and personal details were hidden).
+_Red Box_ formó parte del Function Festival, donde realicé una performance. Estaba en una habitación oscura con una caja, mostrándola a grupos de personas. Contaba la historia de Celine: una chica de París, hija de inmigrantes vietnamitas. Sabía dónde vivía, su escuela, los rostros de sus amigos, incluso mostré una foto del carnet de identidad de su abuela (todos los rostros y detalles personales estaban ocultos).
 
-A woman from the audience was very angry. She believed I was downloading the nude pictures of her son she used to take with her phone. I tried to explain to her that I was downloading pictures that were somehow published on the web by mistake. A place where anyone can search and download. After the first moments of tension she asked me: “How can I know if I’m publishing without knowing?” I reached my goal: she was starting to ask the right questions.
+Una mujer del público se enfadó mucho. Creía que estaba descargando las fotos desnudas de su hijo que solía tomar con su teléfono. Intenté explicarle que estaba descargando imágenes que de alguna manera se habían publicado en la web por error. Un lugar donde cualquiera puede buscar y descargar. Después de los primeros momentos de tensión, me preguntó: “¿Cómo puedo saber si estoy publicando sin saberlo?” Había logrado mi objetivo: estaba empezando a hacer las preguntas correctas.
 
-I grabbed the images from a peer to peer network commonly used to download movies. People use the network to download but they also share their personal files. I’m not sure if they do it by mistake or because they want to send the files to their relatives or friends. The fact is that the files are there and anybody can download them. I wasn’t hacking/breaking anything. It’s as easy as doing a search for a file with a common name like “CV.DOC”
+Obtuve las imágenes de una red peer-to-peer comúnmente utilizada para descargar películas. La gente usa la red para descargar, pero también comparten sus archivos personales. No estoy seguro si lo hacen por error o porque quieren enviar los archivos a sus familiares o amigos. El hecho es que los archivos están ahí y cualquiera puede descargarlos. No estaba hackeando ni rompiendo nada. Es tan fácil como hacer una búsqueda de un archivo con un nombre común como “CV.DOC”.
 
-My objective with _Shared Folder_ is to show you that once a file is created, it can be copied, and in our era of very-connected devices, you should know what you are sharing.The project is an intersection of found photography, cybersecurity, art and NFTs.
+Mi objetivo con _Shared Folder_ es mostrarte que, una vez que se crea un archivo, puede ser copiado y, en nuestra era de dispositivos hiperconectados, debes saber qué estás compartiendo. El proyecto es una intersección entre la fotografía encontrada, la ciberseguridad, el arte y los NFTs.
 
-## Shared Folder (Red box) 2021 edition
+## Shared Folder (Red box) edición 2021
 
-With the momentum of NFTs I hope this project may go viral and more and more people realize the importance of understanding technology. In that sense, the incredible prices are used to attract attention. There are other initiatives that are headed in the same direction. I hope mine helps the others with an aesthetics component.
+Con el impulso de los NFTs, espero que este proyecto se vuelva viral y que cada vez más personas se den cuenta de la importancia de comprender la tecnología. En este sentido, los precios increíbles se usan para atraer la atención. Hay otras iniciativas en la misma dirección. Espero que la mía ayude a las demás con un componente estético.
 
-The 2016 edition is a physical edition (of 2). The public has access to photographs that are covered with red dots. In that way I invite the public to decide if they will infringe on the intimacy by removing the red dots or just let them cover their faces.
+La edición de 2016 es una edición física (de 2). El público tiene acceso a fotografías cubiertas con puntos rojos. De esta manera, invito al público a decidir si infringen la intimidad al quitar los puntos rojos o simplemente los dejan cubriendo los rostros.
 
-In the 2021 edition, all files have the same red dot and/or a pixelation but it can be removed or undone. If the viewers want to check the original photo, the only option is to search the file name in the [emule](https://www.emule-project.net/home/perl/general.cgi?l=1) network.
+En la edición de 2021, todos los archivos tienen el mismo punto rojo y/o una pixelación, pero puede ser eliminada o revertida. Si los espectadores quieren comprobar la foto original, la única opción es buscar el nombre del archivo en la red [emule](https://www.emule-project.net/home/perl/general.cgi?l=1).
 
-You can find the NFTs in this OpenSea collection: [https://opensea.io/collection/shared-folder-red-box](https://bit.ly/3eVNPlm)
+Puedes encontrar los NFTs en esta colección de OpenSea: [https://opensea.io/collection/shared-folder-red-box](https://bit.ly/3eVNPlm)
 
+## ¿Cómo puedes protegerte?
 
-## How can you protect yourself?
+Para este proyecto utilicé la [red emule (ed2k)](https://en.wikipedia.org/wiki/EDonkey_network). Si tienes [emule](https://www.emule-project.net/home/perl/general.cgi?l=1) instalado, revisa qué carpetas estás compartiendo.
 
-For this project I used the [emule network (ed2k)](https://en.wikipedia.org/wiki/EDonkey_network). If you have [emule](https://www.emule-project.net/home/perl/general.cgi?l=1) installed just check which folders you are sharing.
+En cuanto a los teléfonos, deberías comprobar si estás usando copias de seguridad en la nube. Si es así, utiliza una contraseña segura y cámbiala de vez en cuando. Si tienes varias cuentas con datos sensibles, no uses la misma contraseña para todos los servicios.
 
-As for the phones, you should check if you are using cloud backups. If you are, please use a strong password and change it from time to time. If you have several accounts with sensitive data, don’t use the same password for all the services.
+Volver al cine… no te preocupes, alguien encontrará tu material. Y quizás se hagan ricos vendiendo tus fotos. La diferencia es que probablemente estarás muerto para entonces.
 
-Back to film… don’t worry, somebody will find it. And they might get rich selling your photos. The difference is that you will probably be dead by that time.
+## ¿Cómo puedo hacerlo yo mismo?
 
-## How can I do it myself?
+Dado que no es mi intención que la gente empiece a descargar la vida privada de otros, siempre comparto mi código.
 
-Since it’s not my intention for people to start downloading the private lives of others, I always share my code.
+Puedes ver cómo lo hice en este [repositorio de Github](https://github.com/fransimo/shared_folder).
 
-You can see how I made it in this [github repository](https://github.com/fransimo/shared_folder).
+Si quieres hacerlo de manera sencilla, solo descarga emule y busca “IMG\_0001, IMG\_0002, IMG\_0003…”
 
-If you want to keep it simple just download emule and search for “IMG\_0001, IMG\_0002, IMG\_0003…”
+## Una palabra sobre la “fotografía encontrada clásica”
 
-## A word about “classic” found photography
+[Wikipedia](https://en.wikipedia.org/wiki/Found_photography): “**_Fotografía encontrada_** es un género de fotografía y/o arte visual basado en la recuperación (y posible exhibición) de fotografías perdidas, no reclamadas o descartadas.
 
-[Wikipedia](https://en.wikipedia.org/wiki/Found_photography): “**_Found photography_** _is a genre of photography and/or visual art based on the recovery (and possible exhibition) of lost, unclaimed, or discarded photographs._
+Está relacionado con la [_fotografía vernácula_](https://en.wikipedia.org/wiki/Vernacular_photography), pero se diferencia en que el “presentador” o expositor de las fotografías no tomó la foto en sí, no sabe nada sobre el fotógrafo y, en general, no conoce nada sobre el/los sujeto(s) de las fotografías.
 
-_It is related to_ [_vernacular photography_](https://en.wikipedia.org/wiki/Vernacular_photography)_, but differs in the fact that the “presenter” or exhibitor of the photographs did not “shoot” the photograph itself, does not know anything about the photographer, and generally does not know anything about the subject(s) of the photographs._
+Las fotos encontradas generalmente se adquieren en [_mercados de pulgas_](https://en.wikipedia.org/wiki/Flea_market), tiendas de segunda mano, ventas de garaje, basureros y contenedores de basura, entre las páginas de libros o simplemente en cualquier lugar._”
 
-_Found photos are generally acquired at_ [_flea markets_](https://en.wikipedia.org/wiki/Flea_market)_,_ [_thrift_](https://en.wikipedia.org/wiki/Charity_shop) _and other_ [_secondhand stores_](https://en.wikipedia.org/wiki/Second-hand_shop)_,_ [_yard sales_](https://en.wikipedia.org/wiki/Garage_sale)_,_ [_estate_](https://en.wikipedia.org/wiki/Estate_sale) _and_ [_tag sales_](https://en.wikipedia.org/wiki/Tag_sale)_, in_ [_dumpsters_](https://en.wikipedia.org/wiki/Dumpster) _and trash cans, between the pages of books, or literally just “found” anywhere._”
+Existen muchos trabajos sobre fotografía encontrada. Uno de los casos más asombrosos es el de [Vivian Maier](http://www.vivianmaier.com/). Tomó las fotografías, pero nunca las imprimió ni las mostró. Quería mantenerlas en privado, pero justo después de su muerte, una de sus taquillas fue comprada por John Maloof en una subasta. Su fotografía es tan buena como la de cualquier maestro de su tiempo, pero nunca ganó dinero con ella en vida.
 
-There are a lot of works about found photography. One of the most amazing cases of found photography is [Vivian Maier](http://www.vivianmaier.com/)’s. She took the photographs but she didn’t print them and she never showed them. She wanted to keep them private but just after her death, one of her lockers was bought by John Maloof in an auction. Her photography is as good as any of the masters of her time and she didn’t get any money in her lifetime. 
+Otro caso impactante que encontré con los años es el de Günter K. Tomó fotografías y guardó todo tipo de registros de su amante, Margaret. El material fue encontrado y eventualmente se convirtió en parte de la colección de Bruno Decharme, exhibida en Arles en 2019.
 
-Another shocking case I found through the years is Günter K. He took photographs and kept all kinds of records of his mistress, Margaret. The materials was found and eventually became part of a Bruno Decharme’s collection which was shown in Arles in 2019. Records include the occasion when she took contraceptive pills, erotic photography and all sort of private information.
+Dos artistas contemporáneos que recomiendo son [Erik Kessels](https://www.erikkessels.com/) y [Joachim Schmid](https://www.lumpenfotografie.de/).
 
-Coming to this century two artists I would like to recommend are [Erik Kessels](https://www.erikkessels.com/) and [Joachim Schmid](https://www.lumpenfotografie.de/). They both work on found photography and the Internet. 
+Si quieres más información, revisa estos enlaces:
+-   [Lista de libros en Amazon](https://amzn.to/2VV4WYF)
+-   [Bibliografía sobre fotografía encontrada](https://foundphotography.nl/bibliografie/)
+-   [Grupo de Flickr sobre fotografía encontrada](https://www.flickr.com/groups/1459463@N25/)
 
-If you want more you can check this links:
+Espero que todo este material te haga reflexionar. Ese es mi objetivo.
 
--   Amazon book list: [https://amzn.to/2VV4WYF](https://amzn.to/2VV4WYF)
--   [https://foundphotography.nl/bibliografie/](https://foundphotography.nl/bibliografie/)
--   [Flickr Found Photo Group](https://www.flickr.com/groups/1459463@N25/)
-
-I hope all this material makes you think. That’s my goal.
-
-## Gallery
+## Galería
 {{< load-photoswipe >}}
 {{< gallery caption-position="none" />}}
+
