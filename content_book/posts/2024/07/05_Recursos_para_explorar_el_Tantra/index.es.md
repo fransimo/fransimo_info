@@ -62,7 +62,3 @@ Consulta mi lista en Amazon con algunos libros recomendados [aquí](https://www.
 ### YouTube
 
 Una lista variada y algo aleatoria de vídeos que me gustan o tienen alguna relación con el Tantra [aquí](https://youtube.com/playlist?list=PLDtuqx9znDF_CQ9s-PlKRlROwcS1VUPxq). No la tomaría muy en serio, pero es algo para navegar despreocupadamente.
-
----
-
-Espero que estas mejoras sean de ayuda.
