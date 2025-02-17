@@ -1,5 +1,4 @@
 ---
-id: 7843
 title: 'El instante decisivo por Henri Cartier-Bresson'
 date: '2008-12-31T19:54:14+01:00'
 author: fran
