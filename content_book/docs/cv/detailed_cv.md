@@ -93,14 +93,14 @@ Residence: Palma, Baleares, Spain.
 
 # Books
 
-My self-published books are listed [here](http://fransimo.info/books/).
-
 Some of my works have been included in the following books:
 
 - _A tiro de piedra: acercar lo posible_, Genèric, [978-8417048372](https://www.lacentral.com/book/?id=9788409093694)
 - _Barcelona. The Forbidden Photos._, La Fábrica, [978-8417048372](https://amzn.to/2WU12Qk)
 - _Barcelona_, La Fábrica, [ISBN 978-8415691679](http://amzn.to/1IcRaSl).
 - _Central Park NYC: An Architectural View_, Universe Books, [ISBN 978-0847840793](http://amzn.to/1faEjJz).
+
+My self-published books are listed [here](http://fransimo.info/books/).
 
 # Prizes
 
