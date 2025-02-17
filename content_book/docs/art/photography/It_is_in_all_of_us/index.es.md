@@ -8,7 +8,6 @@ aliases: /es/blog/2025/02/06/esta-en-todos-nosotros/
 categories:
 - photography
 - research
-- ongoing
 ---
 
 ![El susurro de las ninfas](X1V45282-Enhanced-SR.jpg)

@@ -5,6 +5,9 @@ categories:
 - NFT
 date: "2021-07-31T10:43:05Z"
 image: 20210617_r049_3_700px.png
+categories:
+- new media art
+- NFT
 tags:
 - ai
 - artificial intelligence
@@ -16,7 +19,6 @@ tags:
 - god
 - godisinthebugs
 - life
-- nft
 - opensea
 - self awareness
 - siliconlife

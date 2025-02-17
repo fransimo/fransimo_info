@@ -1,18 +1,15 @@
 ---
 author: fran
+date: "2021-10-26T22:03:36Z"
+image: XT238794.jpg
 categories:
 - new media art
 - NFT
-date: "2021-10-26T22:03:36Z"
-image: XT238794.jpg
 tags:
-- new media art
-- nft
 - Nondualism
 - oneness
 - opensea
 - postphotography
-- seflie_v2
 - selfie
 - spirituality
 - video sculpture

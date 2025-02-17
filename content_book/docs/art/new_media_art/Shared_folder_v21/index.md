@@ -1,9 +1,10 @@
 ---
 author: fran
-categories:
-- new media art
 date: "2021-05-21T01:01:00Z"
 image: IMG_4934-Editar-2.jpg
+categories:
+- new media art
+- NFT
 tags:
 - cybersecurity
 - e2dk
@@ -11,7 +12,6 @@ tags:
 - found photography
 - grey networks
 - intimacy
-- new media art
 - photography
 - post photography
 - privacy

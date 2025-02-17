@@ -5,7 +5,7 @@ categories:
   - photography
   - books, zines and so
   - Barcelona Photobloggers
-  - Textos
+  - Texts
 tags: 
   - street photography
 title: De la Kodak Brownie al iPhone
