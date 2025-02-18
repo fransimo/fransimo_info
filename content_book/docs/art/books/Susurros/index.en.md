@@ -11,7 +11,6 @@ tags:
   - fanzine 
 image: susurros3.png
 title: Susurros (Whispers)
-bookToc: true
 bookCollapseSection: false
 ---
 

@@ -11,7 +11,6 @@ tags:
   - fanzine 
 image: susurros3.png
 title: Susurros
-bookToc: true
 bookCollapseSection: false
 ---
 
