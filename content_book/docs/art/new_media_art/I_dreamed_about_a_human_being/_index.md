@@ -7,6 +7,7 @@ lang: en
 aliases: 
 - /blog/2012/09/13/i-dreamed-about-a-human-being/
 image: fran_simo_0002_Untitled1_mean_.jpg
+BookToC: true
 categories:
 - new media art
 - NFT

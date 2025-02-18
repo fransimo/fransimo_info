@@ -2,6 +2,7 @@
 author: fran
 date: "2021-05-21"
 image: IMG_4934-Editar-2.jpg
+BookToC: true
 categories:
 - new media art
 - NFT
