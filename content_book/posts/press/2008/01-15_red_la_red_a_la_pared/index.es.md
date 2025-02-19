@@ -1,18 +1,17 @@
 ---
-id: 7725
 title: 'Exposición "De la red a la pared II"'
 date: '2008-01-15T08:53:23+01:00'
 author: fran
-lang: es
-guid: 'http://fransimo.info/?p=7725'
 aliases:  /es/blog/2008/01/15/exposicion-de-la-red-a-la-pared-ii/
-image: /wp-content/uploads/2008/01/marcelo_aurelio_de_la_red_a_la_pared_ii_20160213_009.jpg
+image: marcelo_aurelio_de_la_red_a_la_pared_ii_20160213_009.jpg
 categories:
     - 'Barcelona Photobloggers'
     - exhibits
 ---
 
-<img src="/uploads/2008/01/200invitacion-bcn-photobloggers.jpg" alt="De la red a la pared II" class="alignleft" align="left">Barcelona Photobloggers sale de nuevo del mundo online para presentar su segunda exposición colectiva bajo el título "De la red a la pared II" el 17 de enero a las 20.30 horas. Un total de 34 fotobloguers del área de Barcelona expondrán sus fotografías en la galería Fotonauta hasta el 8 de febrero.
+![200invitacion-bcn-photobloggers.jpg](200invitacion-bcn-photobloggers.jpg)
+
+Barcelona Photobloggers sale de nuevo del mundo online para presentar su segunda exposición colectiva bajo el título "De la red a la pared II" el 17 de enero a las 20.30 horas. Un total de 34 fotobloguers del área de Barcelona expondrán sus fotografías en la galería Fotonauta hasta el 8 de febrero.
 
 La iniciativa ha seguido la filosofía participativa de internet, permitiendo a cada autor seleccionar las fotografías a exponer. Todo el trabajo de organización, coordinación e impresión de fotografías se ha realizado también a través de la red.
 
@@ -27,4 +26,5 @@ Los participantes son: <a href="http://www.bcnmon.blogspot.com/">bcnmon</a>, <a 
 
 <a href="http://barcelonaphotobloggers.org/wp-content/uploads/2008/01/expo_de_la_red_a_la_pared_es.pdf" title="Nota de prensa">Nota de prensa</a> y <a href="http://barcelonaphotobloggers.org/wp-content/uploads/2008/01/invitacion-bcn-photobloggers.jpg" title="Flyer De la red a la Pared II">flyer de la exposición</a>
 
-[gallery type="rectangular" link="none" ids="7728,7729,7730,7731,7732,7733,7734,7735,7736,7737,7738,7739,7740,7741"]
+{{< load-photoswipe >}}
+{{< gallery match="marcelo*"/>}}
