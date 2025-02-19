@@ -6,6 +6,9 @@ author: fran
 lang: es
 aliases: /es/blog/2012/09/13/i-dreamed-about-a-human-being/
 image: fran_simo_0002_Untitled1_mean_.jpg
+dateCreated: 2012
+artform: Photograph
+creativework: VisualArtwork
 BookToC: true
 categories:
 - new media art
