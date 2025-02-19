@@ -10,6 +10,8 @@ tags:
   - ready made
   - fanzine 
 image: susurros3.png
+dateCreated: 2019
+creativework: Book
 title: Susurros (Whispers)
 bookCollapseSection: false
 ---
