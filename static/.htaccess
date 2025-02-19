@@ -6,3 +6,6 @@ Redirect /wp-content/uploads/2020/10/CampusMac2007_pdf.pdf /es/var/log/2007/08/0
 RewriteEngine On
 RewriteCond %{QUERY_STRING} ^p=1100$
 RewriteRule ^$ https://fransimo.info/docs/art/new_media_art/I_dreamed_about_a_human_being/? [R=301,L]
+
+RewriteCond %{QUERY_STRING} ^p=9279$
+RewriteRule ^$ https://fransimo.info/docs/art/new_media_art/Shared_folder_v21/? [R=301,L]
