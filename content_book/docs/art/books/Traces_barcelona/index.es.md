@@ -3,7 +3,8 @@ author: fran
 title: "Traces - 2013.12.07 - Barcelona"
 date: "2014-05-02"
 bookToc: false
-author: fran
+dateCreated: 2014
+creativework: Book
 categories:
 - Barcelona Photobloggers
 - books, zines and so
