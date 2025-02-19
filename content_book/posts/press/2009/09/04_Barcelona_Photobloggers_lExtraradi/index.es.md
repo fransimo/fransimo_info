@@ -3,10 +3,6 @@ title: "Barcelona Photobloggers a l'Extraradi de COM Ràdio"
 date: '2009-09-04T09:36:38+02:00'
 author: fran
 aliases:  /ca/blog/2009/09/04/barcelona-photobloggers-a-lextraradi-de-com-radio/
-sociallikes:
-    - '1'
-enclosure:
-    - "/uploads/2009/09/Extraradi_03_09_2009_barcelonaphotobloggers.mp3\n15216809\naudio/mpeg\n"
 categories:
     - press
 ---
