@@ -2,6 +2,8 @@
 author: fran
 date: "2017-11-10"
 image: 09_03_fransimo_dde82e215088f6430c7a8a5e7a3c4542.jpg
+dateCreated: 2017
+creativework: Book
 categories:
 - photography
 - books, zines and so
