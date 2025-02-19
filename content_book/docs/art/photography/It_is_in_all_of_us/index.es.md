@@ -31,3 +31,8 @@ brujas, volverá porque es inherente al ser humano.
 
 Surge de nuestros corazones, de las estrellas, del sonido original que resuena en todo: _Está en todos nosotros._
 Puedes explorar la página web del proyecto aquí: [https://esta-en-todos-nosotros.fransimo.info/](https://esta-en-todos-nosotros.fransimo.info/es/)
+
+## Galería
+
+{{< load-photoswipe >}}
+{{< gallery match="20*" />}}

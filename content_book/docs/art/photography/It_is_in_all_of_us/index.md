@@ -31,3 +31,7 @@ witches, it will resurface because it is inherent to being human.
 It comes from our hearts, from the stars, from the original sound that resonates in everything: “It is in all of us”.
 
 You can explore the project’s website here: [https://esta-en-todos-nosotros.fransimo.info/](https://esta-en-todos-nosotros.fransimo.info/)
+
+## Gallery
+{{< load-photoswipe >}}
+{{< gallery match="20*" />}}
