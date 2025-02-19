@@ -6,7 +6,7 @@ author: fran
 lang: es
 guid: 'http://fransimo.info/?p=7658'
 aliases: /es/blog/2013/07/30/un-viaje-personal-segunda-parte/
-image: /wp-content/uploads/2013/07/Untitled_Crowd_1_1992.jpg
+image: Untitled_Crowd_1_1992.jpg
 categories:
   - 'Calle 35'
   - photography
