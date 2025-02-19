@@ -1,6 +1,9 @@
 ---
 author: fran
 image: X1V45282-Enhanced-SR.jpg
+dateCreated: 2025
+artform: Photograph
+creativework: VisualArtwork
 title: Está en todos nosotros
 date: 2025-02-06
 bookToc: false

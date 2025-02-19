@@ -3,6 +3,9 @@ title: 'Es lloga (Se alquila)'
 date: '2010-02-23'
 author: fran
 image: es_lloga_fran_simo_01__ISC1838_DxO.jpg
+dateCreated: 2010
+artform: Photograph
+creativework: VisualArtwork
 categories:
   - photography
 ---
