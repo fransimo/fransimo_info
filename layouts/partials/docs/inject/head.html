@@ -59,6 +59,7 @@
   "description": {{ .Summary | plainify | safeHTML }}
 }
 {{ end }}
+{{ if eq .Section "" }}
 {
   "@context": "https://schema.org",
   "@type": "Organization",
@@ -71,4 +72,5 @@
     "https://github.com/{{ .Site.Params.schema_org.github }}"
   ]
 }
+{{ end }}
 </script>
