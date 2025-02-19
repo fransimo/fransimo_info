@@ -5,6 +5,9 @@ categories:
 - NFT
 date: "2021-04-17"
 image: buy_me_a.jpg
+dateCreated: 2021
+artform: NFT
+creativework: VisualArtwork
 tags:
 - "2501"
 - cryptoart
