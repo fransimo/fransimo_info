@@ -6,8 +6,10 @@ categories:
   - books, zines and so
 date: 2011-04-25
 image: arrinconado.jpg
+dateCreated: 2011
+creativework: Book
 tags:
-
+  - Barcelona Photobloggers
 title: “Arrinconado” (Cornered)
 ---
 ![arrinconado.jpg](arrinconado.jpg)

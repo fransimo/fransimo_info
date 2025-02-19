@@ -1,39 +1,74 @@
+
 <script type="application/ld+json">
 {{ if eq .Section "posts" }}
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": {{ .Title }},
-  "image": {{ .Params.featuredImage | absURL }},
+  {{ if isset .Params "image" }}
+  {{ $icon := .Params.image }}
+  {{ $icon_url := printf "%s%s" .Permalink $icon }}
+  "image": {{ $icon_url | absURL }},
+  {{end}}
   "datePublished": {{ .PublishDate }},
   "dateModified": {{ .Lastmod }},
   "author": {
     "@type": "Person",
-    "name": {{ .Site.Params.author }}
+    "name": {{ .Site.Params.schema_org.author }}
   },
   "mainEntityOfPage": { "@type": "WebPage" },
    "publisher": {
     "@type": "Organization",
-    "name": {{ .Site.Params.header }},
+    "name": {{ .Site.Params.schema_org.header }},
     "logo": {
       "@type": "ImageObject",
-      "url": {{ .Site.Params.logo }}
+      "url": {{ .Site.Params.schema_org.logo }}
     }
   },
   "description": {{ .Summary | plainify | safeHTML }},
   "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
 }
 {{ end }}
+{{ if eq .Section "docs" }}
+{
+  "@context": "https://schema.org",
+  {{ if isset .Params "creativework" }}
+  "@type": {{ .Params.creativework }},
+  {{ else }}
+  "@type": "VisualArtwork",
+  {{ end }}
+  "name": {{ .Title }},
+  {{ if isset .Params "image" }}
+  {{ $icon := .Params.image }}
+  {{ $icon_url := printf "%s%s" .Permalink $icon }}
+  "image": {{ $icon_url | absURL }},
+  {{end}}
+  {{ if isset .Params "dateCreated" }}
+  "dateCreated": {{ .Params.dateCreated }},
+  {{end}}
+  {{ if isset .Params "artform" }}
+  "artform": {{ .Params.artform }},
+  {{end}}
+  {{ if isset .Params "isbn" }}
+  "isbn": {{ .Params.isbn }},
+  {{end}}
+  "author": {
+    "@type": "Person",
+    "name": {{ .Site.Params.schema_org.author }}
+  },
+  "description": {{ .Summary | plainify | safeHTML }}
+}
+{{ end }}
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": {{ .Site.Params.header }},
+  "name": {{ .Site.Params.schema_org.header }},
   "url": {{ .Site.BaseURL }},
   "sameAs": [
-    "https://www.facebook.com/{{ .Site.Params.facebook }}",
-    "https://www.instagram.com/{{ .Site.Params.instagram }}",
-    "https://twitter.com/{{ .Site.Params.twitter }}",
-    "https://github.com/{{ .Site.Params.github }}"
+    "https://www.facebook.com/{{ .Site.Params.schema_org.facebook }}",
+    "https://www.instagram.com/{{ .Site.Params.schema_org.instagram }}",
+    "https://twitter.com/{{ .Site.Params.schema_org.twitter }}",
+    "https://github.com/{{ .Site.Params.schema_org.github }}"
   ]
 }
 </script>

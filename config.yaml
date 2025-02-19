@@ -153,6 +153,15 @@ params:
     useExif: false
     sort: asc
 
+  schema_org:
+    header: Fran Simó
+    author: Fran Simó
+    facebook: fransimo
+    instagram: fransimo
+    twitter: fransimo
+    github: fransimo
+    logo: https://fransimo.info/docs/presence/PauLluc.png
+
 
 
 

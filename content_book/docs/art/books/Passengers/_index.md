@@ -8,6 +8,9 @@ categories:
 tags: 
 - street photography 
 image: passengers.jpg
+dateCreated: 2011
+creativework: Book
+isbn: 9781471013713
 title: Passengers
 bookToc: false
 bookCollapseSection: true
