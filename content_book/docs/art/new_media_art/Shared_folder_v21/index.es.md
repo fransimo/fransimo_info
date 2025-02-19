@@ -2,6 +2,9 @@
 author: fran
 date: "2021-05-21"
 image: IMG_4934-Editar-2.jpg
+dateCreated: 2021
+artform: NFT
+creativework: VisualArtwork
 BookToC: true
 categories:
 - new media art
