@@ -4,6 +4,9 @@ date: '2016-05-07T19:51:21+02:00'
 author: fran
 aliases: /es/blog/2016/05/07/shared-folder-red-box/
 image: DSCF3138.jpg
+dateCreated: 2016
+artform: Artist Book
+creativework: VisualArtwork
 BookToC: true
 categories:
 - new media art
