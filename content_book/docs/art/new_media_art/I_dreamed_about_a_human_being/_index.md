@@ -73,12 +73,12 @@ As part of its assessment I needed to see all the images statistically described
 <table>
 <tbody>
 <tr>
-<td><a href="fran_simo_0001_Untitled1_medium_.jpg"><img class="alignnone size-full wp-image-1192" title="fran_simo_0001_Untitled1_medium_200" src="/uploads/2012/09/fran_simo_0001_Untitled1_medium_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="fran_simo_0003_Untitled1_dev_std_.jpg"><img class="alignnone size-full wp-image-1193" title="fran_simo_0003_Untitled1_dev_std_200" src="/uploads/2012/09/fran_simo_0003_Untitled1_dev_std_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="fran_simo_0004_Untitled1_variance_.jpg"><img class="alignnone size-full wp-image-1194" title="fran_simo_0004_Untitled1_variance_200" src="/uploads/2012/09/fran_simo_0004_Untitled1_variance_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="fran_simo_0005_Untitled1_skew_.jpg"><img class="alignnone size-full wp-image-1195" title="fran_simo_0005_Untitled1_skew_200" src="/uploads/2012/09/fran_simo_0005_Untitled1_skew_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="fran_simo_0007_Untitled1_range_.jpg"><img class="alignnone size-full wp-image-1197" title="fran_simo_0007_Untitled1_range_200" src="/uploads/2012/09/fran_simo_0007_Untitled1_range_200.jpg" alt="" width="170" height="170" /></a></td>
-<td><a href="fran_simo_0006_Untitled1_min_.jpg"><img class="alignnone size-full wp-image-1196" title="fran_simo_0006_Untitled1_min_200" src="/uploads/2012/09/fran_simo_0006_Untitled1_min_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0001_Untitled1_medium_.jpg"><img class="alignnone size-full wp-image-1192" title="fran_simo_0001_Untitled1_medium_200" src="fran_simo_0001_Untitled1_medium_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0003_Untitled1_dev_std_.jpg"><img class="alignnone size-full wp-image-1193" title="fran_simo_0003_Untitled1_dev_std_200" src="fran_simo_0003_Untitled1_dev_std_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0004_Untitled1_variance_.jpg"><img class="alignnone size-full wp-image-1194" title="fran_simo_0004_Untitled1_variance_200" src="fran_simo_0004_Untitled1_variance_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0005_Untitled1_skew_.jpg"><img class="alignnone size-full wp-image-1195" title="fran_simo_0005_Untitled1_skew_200" src="fran_simo_0005_Untitled1_skew_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0007_Untitled1_range_.jpg"><img class="alignnone size-full wp-image-1197" title="fran_simo_0007_Untitled1_range_200" src="fran_simo_0007_Untitled1_range_200.jpg" alt="" width="170" height="170" /></a></td>
+<td><a href="fran_simo_0006_Untitled1_min_.jpg"><img class="alignnone size-full wp-image-1196" title="fran_simo_0006_Untitled1_min_200" src="fran_simo_0006_Untitled1_min_200.jpg" alt="" width="170" height="170" /></a></td>
 </tr>
 <tr align="center">
 <td>Median</td>
