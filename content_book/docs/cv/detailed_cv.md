@@ -6,6 +6,7 @@ bookHidden: false
 bookToc: true
 aliases:
   - /post/formacion/ 
+  - /cv/
 ---
 
 # Fran Simó
