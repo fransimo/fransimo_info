@@ -1,5 +1,5 @@
 ---
-title: Fran Simó - Art, presence and code to walk the path together.
+title: Art, presence and code to walk the path together.
 type: docs
 bookToc: false
 ---

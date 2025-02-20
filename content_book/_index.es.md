@@ -1,5 +1,5 @@
 ---
-title: Fran Simó - Arte, presencia y código para recorrer juntos el camino.
+title: Arte, presencia y código para recorrer juntos el camino.
 type: docs
 bookToc: false
 ---
