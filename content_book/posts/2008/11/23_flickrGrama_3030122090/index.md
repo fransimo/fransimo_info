@@ -4,7 +4,8 @@ date: '2008-11-23'
 author: fran
 lang: en
 aliases:  /blog/2008/11/23/flickrgrama-3030122090/
-image: flickrGrama_3049300655_461362df67_b.jpg
+images:
+  - flickrGrama_3049300655_461362df67_b.jpg
 categories:
 - new media art
 tags:

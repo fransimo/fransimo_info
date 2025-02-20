@@ -3,7 +3,8 @@ title: 'My Very Special Photo, New York Essence'
 date: '2011-03-31'
 author: fran
 aliases:  /es/blog/2011/03/31/my-very-special-photo-new-york-essence/
-image: fran_simo_0122_New-York-Essence_KSC6440_New-York-Street-photography-street-portraits-Umbrella-Wall-Street.jpg
+images:
+  - fran_simo_0122_New-York-Essence_KSC6440_New-York-Street-photography-street-portraits-Umbrella-Wall-Street.jpg
 categories:
   - photography
 tags:

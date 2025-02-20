@@ -3,7 +3,8 @@ title: 'Fotografía intuitiva'
 date: '2009-01-01'
 author: fran
 aliases:  /es/blog/2009/01/01/fotografia-intuitiva/
-image: fotografia_intuitiva_dsc_2104.jpg
+images:
+  - fotografia_intuitiva_dsc_2104.jpg
 ---
 
 ![fotografia_intuitiva_dsc_2104.jpg](fotografia_intuitiva_dsc_2104.jpg)

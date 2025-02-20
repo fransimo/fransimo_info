@@ -3,7 +3,8 @@ title: 'Street photography con un iPhone'
 date: '2015-03-16'
 author: fran
 aliases:  /es/blog/2015/03/16/street-photography-con-un-iphone/
-image: IMG_2581_DxO-2.jpg
+images:
+  - IMG_2581_DxO-2.jpg
 categories:
 - 'Calle 35'
 - photography

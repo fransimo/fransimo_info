@@ -3,7 +3,8 @@ title: 'Ubiquography a real-time world-wide mobile photography exhibition'
 date: '2012-05-20'
 author: fran
 aliases: /blog/2012/05/20/ubiquography-a-real-time-world-wide-mobile-photography-exhibition/
-image: ubiquography.png
+images:
+  - ubiquography.png
 categories:
   - photography
   - press

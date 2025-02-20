@@ -3,7 +3,8 @@ title: 'Un viaje personal'
 date: '2013-03-25'
 author: fran
 aliases:  /es/blog/2013/03/25/un-viaje-personal/
-image: fransimo_calle35_que_es_street_640px.jpg
+images:
+  - fransimo_calle35_que_es_street_640px.jpg
 categories:
   - 'Calle 35'
   - photography

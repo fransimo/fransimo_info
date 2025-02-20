@@ -3,7 +3,8 @@ author: fran
 categories:
 - new media art
 date: 2019-05-29
-image: X1V16641_v2.jpg
+images:
+  - X1V16641_v2.jpg
 dateCreated: 2019
 creativework: Book
 isbn: 9780244481964

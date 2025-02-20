@@ -3,7 +3,8 @@ title: 'Software Factories'
 date: '2013-06-25'
 author: fran
 aliases: /blog/2013/06/25/software-factories/
-image: software_factories_fran_simo_01_FSC_7246.jpg
+images:
+  - software_factories_fran_simo_01_FSC_7246.jpg
 categories:
 - photography
 ---

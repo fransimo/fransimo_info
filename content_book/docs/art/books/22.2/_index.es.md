@@ -3,7 +3,8 @@ title: '22.2'
 date: '2015-04-23'
 author: fran
 aliases: /es/blog/2015/04/23/22-2/
-image: 0013_018_GSC_2765_cover.jpg
+images:
+  - 0013_018_GSC_2765_cover.jpg
 dateCreated: 2015
 creativework: Book
 bookToc: false

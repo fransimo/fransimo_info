@@ -6,7 +6,8 @@ author: fran
 lang: es
 guid: 'http://fransimo.info/?p=477'
 aliases:  /es/blog/2010/03/29/san-sebastian-barceloneta/
-image: barceloneta_0001_000016.jpg
+images:
+  - barceloneta_0001_000016.jpg
 bookTOC: false
 categories:
   - photography

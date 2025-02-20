@@ -7,7 +7,8 @@ categories:
 - Barcelona Photobloggers
 tags:
 - street photography 
-image: Passengers_Vol_III.jpg
+images:
+  - Passengers_Vol_III.jpg
 dateCreated: 2019
 creativework: Book
 isbn: 9780244336547

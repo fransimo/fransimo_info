@@ -3,7 +3,8 @@ title: 'Influencias: Alexey Titarenko'
 date: '2012-05-07'
 author: fran
 aliases: /es/blog/2012/05/07/influencias-alexey-titarenko/
-image: 0026758.jpg
+images:
+  - 0026758.jpg
 categories:
   - 'Calle 35'
   - photography

@@ -10,7 +10,8 @@ tags:
 - street photography 
 - tourism
 date: "2017-04-02T18:52:55Z"
-image: SArenal-Summertime-COVER.jpg
+images:
+  - SArenal-Summertime-COVER.jpg
 dateCreated: 2017
 creativework: Book
 title: S'Arenal Summertime 2016 

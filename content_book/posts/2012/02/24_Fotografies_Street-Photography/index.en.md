@@ -3,7 +3,8 @@ title: 'Fotografies: Street Photography'
 date: '2012-02-24'
 author: fran
 aliases:  /blog/2012/02/24/fotografies-street-photography/
-image: 03_fotografies_fran_simo.png
+images:
+  - 03_fotografies_fran_simo.png
 categories:
     - press
     - tv

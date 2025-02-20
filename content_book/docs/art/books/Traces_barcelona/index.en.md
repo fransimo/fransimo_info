@@ -21,7 +21,8 @@ tags:
 - Psychogeography 
 - Stephen Shore 
 - transmedia
-image: all.png
+images:
+  - all.png
 aliases: /blog/2014/05/02/traces-2013-12-07-barcelona/
 ---
 ![DSCF1435.jpg](DSCF1435.jpg)

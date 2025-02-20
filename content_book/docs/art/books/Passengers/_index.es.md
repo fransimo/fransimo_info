@@ -7,7 +7,8 @@ categories:
 - Barcelona Photobloggers
 tags: 
 - street photography 
-image: passengers.jpg
+images:
+  - passengers.jpg
 dateCreated: 2011
 creativework: Book
 isbn: 9781471005312

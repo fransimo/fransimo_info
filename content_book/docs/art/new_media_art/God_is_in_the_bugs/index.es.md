@@ -4,7 +4,8 @@ categories:
 - new media art
 - NFT
 date: "2021-07-31T10:43:05Z"
-image: 20210617_r049_3_700px.png
+images:
+  - 20210617_r049_3_700px.png
 dateCreated: 2021
 artform: NFT
 creativework: VisualArtwork

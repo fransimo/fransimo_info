@@ -2,7 +2,8 @@
 title: 'flickrGrama 3030122090'
 date: '2008-11-23'
 author: fran
-image: flickrGrama_3049300655_461362df67_b.jpg
+images:
+  - flickrGrama_3049300655_461362df67_b.jpg
 categories:
 - new media art
 tags:

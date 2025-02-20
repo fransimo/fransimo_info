@@ -3,7 +3,8 @@ title: 'Charla: Marketing on-line para fotógrafos'
 date: '2009-12-22'
 author: fran
 aliases:  /es/blog/2009/12/22/charla-marketing-on-line-para-fotografos/
-image: mkt_on_line_oscar_ciutat.jpg
+images:
+  - mkt_on_line_oscar_ciutat.jpg
 categories:
 - 'Barcelona Photobloggers'
 - texts

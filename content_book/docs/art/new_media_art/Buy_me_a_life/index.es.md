@@ -4,7 +4,8 @@ categories:
 - new media art
 - NFT
 date: "2021-04-17"
-image: buy_me_a.jpg
+images:
+  - buy_me_a.jpg
 dateCreated: 2021
 artform: NFT
 creativework: VisualArtwork

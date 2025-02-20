@@ -3,7 +3,8 @@ title: 'New York, New York... la edición “de memoria”'
 date: '2014-10-27T09:01:44+01:00'
 author: fran
 aliases:  /es/blog/2014/10/27/new-york-new-york-la-edicion-de-memoria/
-image: 0001__KSC6878.jpg
+images:
+  - 0001__KSC6878.jpg
 categories:
 - 'Calle 35'
 - photography

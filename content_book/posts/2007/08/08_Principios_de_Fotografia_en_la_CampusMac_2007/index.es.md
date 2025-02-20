@@ -6,7 +6,8 @@ author: fran
 lang: es
 guid: 'https://fransimo.info/?p=8065'
 aliases: /es/blog/2007/08/08/principios-de-fotografia-en-la-campusmac-2007/
-image: /es/var/log/2009/01/01/Fotografia-intuitiva/fotografia_intuitiva_dsc_2104.jpg
+images:
+  - /es/var/log/2009/01/01/Fotografia-intuitiva/fotografia_intuitiva_dsc_2104.jpg
 categories:
   - press
   - charlas

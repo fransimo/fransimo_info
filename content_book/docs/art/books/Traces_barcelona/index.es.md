@@ -23,7 +23,8 @@ tags:
 - transmedia
 guid: https://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/
 id: 8978
-image: all.png
+images:
+  - all.png
 aliases: /es/blog/2014/05/02/traces-2013-12-07-barcelona/
 ---
 ![DSCF1435.jpg](DSCF1435.jpg)

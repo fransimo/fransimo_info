@@ -3,7 +3,8 @@ id: 1835
 title: 'Store fronts'
 date: '2013-06-03'
 author: fran
-image: 20101014_fran_simo_0007_Casa-Vega_KSC9003_Madrid-Store-Fronts.jpg
+images:
+  - 20101014_fran_simo_0007_Casa-Vega_KSC9003_Madrid-Store-Fronts.jpg
 categories:
   - photography
 ---

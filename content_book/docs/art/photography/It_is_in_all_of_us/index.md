@@ -1,6 +1,7 @@
 ---
 author: fran
-image: X1V45282-Enhanced-SR.jpg
+images:
+  - X1V45282-Enhanced-SR.jpg
 dateCreated: 2025
 artform: Photograph
 creativework: VisualArtwork

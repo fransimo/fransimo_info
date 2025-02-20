@@ -1,7 +1,8 @@
 ---
 author: fran
 title: New media art
-image: IMG_5027-Editar-2.jpg
+images:
+  - IMG_5027-Editar-2.jpg
 categories:
 - new media art
 bookToc: false
