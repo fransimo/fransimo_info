@@ -153,6 +153,7 @@ params:
     useExif: false
     sort: asc
 
+  # https://gohugo.io/templates/embedded/#configuration-open-graph
   images:
   - https://fransimo.info/docs/presence/PauLluc.png
 
