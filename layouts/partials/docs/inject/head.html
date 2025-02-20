@@ -61,9 +61,10 @@
 {{ if eq .Section "" }}
 {
   "@context": "https://schema.org",
-  "@type": "Organization",
+  "@type": "Person",
   "name": {{ .Site.Params.schema_org.header }},
   "url": {{ .Site.BaseURL }},
+  "email": {{ .Site.Params.schema_org.email }},
   "logo": {
       "@type": "ImageObject",
       "url": {{ .Site.Params.schema_org.logo }}
