@@ -1,7 +1,8 @@
 ---
 author: fran
 date: "2021-10-26T22:03:36Z"
-image: XT238794.jpg
+images: 
+  - XT238794.jpg
 dateCreated: 2021
 artform: Sculpture
 creativework: VisualArtwork

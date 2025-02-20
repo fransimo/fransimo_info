@@ -153,6 +153,9 @@ params:
     useExif: false
     sort: asc
 
+  images:
+  - https://fransimo.info/docs/presence/PauLluc.png
+
   schema_org:
     header: Fran Simó
     author: Fran Simó
