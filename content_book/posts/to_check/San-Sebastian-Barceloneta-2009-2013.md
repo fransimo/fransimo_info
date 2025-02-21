@@ -2,7 +2,7 @@
 id: 7656
 title: 'San Sebastián, Barceloneta, 2009-2013'
 date: '2014-06-16T08:59:33+02:00'
-author: fran
+author: "Fran Simó"
 layout: post
 guid: 'http://fransimo.info/?p=7656'
 permalink: '/?p=7656'

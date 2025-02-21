@@ -2,7 +2,7 @@
 id: 7768
 title: 'Barcelona (para Marcelo Aurelio)'
 date: '2009-04-21T11:15:26+02:00'
-author: fran
+author: "Fran Simó"
 layout: post
 guid: 'http://fransimo.info/?p=7768'
 permalink: '/?p=7768'

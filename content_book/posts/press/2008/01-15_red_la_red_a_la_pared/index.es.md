@@ -1,7 +1,7 @@
 ---
 title: 'Exposición "De la red a la pared II"'
 date: '2008-01-15T08:53:23+01:00'
-author: fran
+author: "Fran Simó"
 aliases:  /es/blog/2008/01/15/exposicion-de-la-red-a-la-pared-ii/
 images:
   - marcelo_aurelio_de_la_red_a_la_pared_ii_20160213_009.jpg

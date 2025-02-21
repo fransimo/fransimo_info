@@ -1,7 +1,7 @@
 ---
 weight: 20
 date: "2017-01-10"
-author: fran
+author: "Fran Simó"
 bookFlatSection: false
 bookCollapseSection: true
 title: "Presence"

@@ -2,7 +2,7 @@
 id: 7664
 title: 'Si tienes limones haz limonada'
 date: '2015-10-15T09:11:28+02:00'
-author: fran
+author: "Fran Simó"
 layout: post
 guid: 'http://fransimo.info/?p=7664'
 permalink: '/?p=7664'

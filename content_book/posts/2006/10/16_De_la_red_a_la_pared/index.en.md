@@ -1,7 +1,7 @@
 ---
 title: 'Exhibition “De la red a la pared” (From web to wall)'
 date: '2006-10-16'
-author: fran
+author: "Fran Simó"
 aliases:  /blog/2006/10/16/exposicion-de-la-red-a-la-pared/
 images:
   - DSC_1245_DxO.jpg

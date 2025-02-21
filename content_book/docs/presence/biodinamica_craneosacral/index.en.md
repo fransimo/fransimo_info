@@ -1,5 +1,5 @@
 ---
-author: "Pau Lluc"
+author: "Fran Simó"
 title: "Craniosacral Biodynamics"
 date: 2024-04-13
 categories:

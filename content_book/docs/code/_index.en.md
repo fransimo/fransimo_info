@@ -1,7 +1,7 @@
 ---
 weight: 30
 date: "2025-02-16"
-author: fran
+author: "Fran Simó"
 bookFlatSection: false
 bookCollapseSection: false
 title: "Code"

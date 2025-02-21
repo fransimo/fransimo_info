@@ -1,7 +1,7 @@
 ---
 title: 'Fotografiar del natural por Henri Cartier-Bresson'
 date: '2008-12-31'
-author: fran
+author: "Fran Simó"
 aliases:  /es/blog/2008/12/31/fotografiar-del-natural-por-henri-cartier-bresson/
 categories:
 - 'Barcelona Photobloggers'

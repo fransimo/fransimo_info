@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 date: 2015-03-15
 images:
   - fran_simo_traces_1_02__A009704_DxO.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Barcelona Photobloggers a l'Extraradi de COM Ràdio"
 date: '2009-09-04T09:36:38+02:00'
-author: fran
+author: "Fran Simó"
 aliases:  /ca/blog/2009/09/04/barcelona-photobloggers-a-lextraradi-de-com-radio/
 categories:
     - press

@@ -2,7 +2,7 @@
 id: 771
 title: 'I need more images!'
 date: '2011-04-06T04:00:21+02:00'
-author: fran
+author: "Fran Simó"
 layout: post
 guid: 'http://fransimo.info/?p=771'
 permalink: '/?p=771'

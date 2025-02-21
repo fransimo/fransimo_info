@@ -1,5 +1,5 @@
 ---
-author: Fran
+author: "Fran Simó"
 categories:
   - exhibits
   - new media art

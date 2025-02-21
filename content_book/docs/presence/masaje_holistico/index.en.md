@@ -1,5 +1,5 @@
 ---
-author: "Pau Lluc"
+author: "Fran Simó"
 title: "Holistic Massage"
 date: 2024-01-01
 categories:

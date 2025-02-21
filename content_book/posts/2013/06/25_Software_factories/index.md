@@ -1,7 +1,7 @@
 ---
 title: 'Software Factories'
 date: '2013-06-25'
-author: fran
+author: "Fran Simó"
 aliases: /blog/2013/06/25/software-factories/
 images:
   - software_factories_fran_simo_01_FSC_7246.jpg

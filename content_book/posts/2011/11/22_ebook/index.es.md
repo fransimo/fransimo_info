@@ -2,7 +2,7 @@
 id: 950
 title: 'Mi libro "22" como eBook'
 date: '2011-11-21'
-author: fran
+author: "Fran Simó"
 aliases:  /es/blog/2011/11/21/mi-libro-22-como-ebook/
 categories:
 - photography

@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 title: 'Contact'
 weight: 40
 bookFlatSection: false

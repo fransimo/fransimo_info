@@ -1,7 +1,7 @@
 ---
 title: '"inside Out" de Fran Simó y Benjamín Julve'
 date: '2007-04-19'
-author: fran
+author: "Fran Simó"
 aliases:  /es/blog/2007/04/19/inside-out-de-fran-simo-y-benjamin-julve/
 images:
   - insideout_benjamin_julve_fran_simo_01_untitled-1-copy.jpg

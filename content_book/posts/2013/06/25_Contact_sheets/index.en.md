@@ -1,7 +1,7 @@
 ---
 title: 'Contact Sheets'
 date: '2013-06-25'
-author: fran
+author: "Fran Simó"
 aliases: /blog/2013/06/25/contact-sheets/
 images:
   - i_dreamed_contacts_fran_simo_02_8e9b80952408ba7c47a32dcce7c04c0e.jpg

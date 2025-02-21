@@ -1,7 +1,7 @@
 ---
 title: 'Influencias: Alexey Titarenko'
 date: '2012-05-07'
-author: fran
+author: "Fran Simó"
 aliases: /es/blog/2012/05/07/influencias-alexey-titarenko/
 images:
   - 0026758.jpg

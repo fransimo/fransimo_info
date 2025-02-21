@@ -2,7 +2,7 @@
 id: 9428
 title: 'NFTs para artistas'
 date: '2022-04-06T14:13:05+02:00'
-author: fran
+author: "Fran Simó"
 layout: page
 guid: 'https://fransimo.info/?page_id=9428'
 draft: true

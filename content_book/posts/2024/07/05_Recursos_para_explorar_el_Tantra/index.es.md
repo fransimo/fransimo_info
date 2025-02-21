@@ -1,5 +1,5 @@
 ---
-author: "Pau Lluc"
+author: "Fran Simó"
 title: "Recursos para explorar el Tantra"
 description: "Recursos para explorar el Tantra, facilitadores, películas y algún libro."
 date: 2024-07-05

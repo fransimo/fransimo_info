@@ -1,7 +1,7 @@
 ---
 title: 'Charla: Marketing on-line para fotógrafos'
 date: '2009-12-22'
-author: fran
+author: "Fran Simó"
 aliases:  /es/blog/2009/12/22/charla-marketing-on-line-para-fotografos/
 images:
   - mkt_on_line_oscar_ciutat.jpg

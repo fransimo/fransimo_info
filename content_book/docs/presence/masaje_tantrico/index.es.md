@@ -1,5 +1,5 @@
 ---
-author: "Pau Lluc"
+author: "Fran Simó"
 title: "Masaje tántrico"
 description: "Masaje tántrico: enfoque y preguntas frecuentes."
 date: "2024-01-01"

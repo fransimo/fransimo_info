@@ -1,7 +1,7 @@
 ---
 title: '"Somewhere else", mi envío al "London Street Photography Festival"'
 date: '2011-04-30'
-author: fran
+author: "Fran Simó"
 aliases:  /es/blog/2011/04/30/mi-envio-al-london-street-photography-festival/
 images:
   - 0001_fran_simo__JSC6879.jpg

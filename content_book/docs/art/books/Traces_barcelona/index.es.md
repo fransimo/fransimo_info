@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 title: "Traces - 2013.12.07 - Barcelona"
 date: "2014-05-02"
 bookToc: false

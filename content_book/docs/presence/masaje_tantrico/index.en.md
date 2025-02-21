@@ -1,5 +1,5 @@
 ---
-author: "Pau Lluc"
+author: "Fran Simó"
 title: "Tantric Massage"
 description: "Tantric massage: approach and frequently asked questions."
 date: "2024-01-01"

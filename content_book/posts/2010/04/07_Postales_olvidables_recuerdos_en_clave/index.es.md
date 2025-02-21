@@ -1,7 +1,7 @@
 ---
 title: 'Postales olvidables, recuerdos en clave'
 date: '2010-04-07'
-author: fran
+author: "Fran Simó"
 aliases:  /es/blog/2010/04/07/postales-olvidables-recuerdos-en-clave/
 categories:
 - photography

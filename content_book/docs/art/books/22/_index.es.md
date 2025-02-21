@@ -1,7 +1,7 @@
 ---
 title: '22'
 date: '2010-01-22'
-author: fran
+author: "Fran Simó"
 aliases: /es/blog/2010/01/14/22/
 images:
   - 0013_018_GSC_2765_cover.jpg

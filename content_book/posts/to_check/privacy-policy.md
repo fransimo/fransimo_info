@@ -2,7 +2,7 @@
 id: 1639
 title: 'Privacy policy'
 date: '2014-03-01T19:06:16+01:00'
-author: fran
+author: "Fran Simó"
 layout: page
 guid: 'http://fransimo.info/?page_id=1639'
 draft: true

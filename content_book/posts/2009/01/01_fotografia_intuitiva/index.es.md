@@ -1,7 +1,7 @@
 ---
 title: 'Fotografía intuitiva'
 date: '2009-01-01'
-author: fran
+author: "Fran Simó"
 aliases:  /es/blog/2009/01/01/fotografia-intuitiva/
 images:
   - fotografia_intuitiva_dsc_2104.jpg

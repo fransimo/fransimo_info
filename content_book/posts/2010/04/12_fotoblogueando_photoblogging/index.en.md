@@ -1,7 +1,7 @@
 ---
 title: 'Photoblogging'
 date: '2010-04-12'
-author: fran
+author: "Fran Simó"
 aliases: /blog/2010/04/12/fotoblogueando-photoblogging/
 ---
 

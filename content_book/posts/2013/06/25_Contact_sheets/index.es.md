@@ -1,7 +1,7 @@
 ---
 title: 'Contact Sheets'
 date: '2013-06-25'
-author: Fran
+author: "Fran Simó"
 guid: 'https://fransimo.info/blog/2013/06/25/contact-sheets/'
 aliases: /es/blog/2013/06/25/contact-sheets/
 images:

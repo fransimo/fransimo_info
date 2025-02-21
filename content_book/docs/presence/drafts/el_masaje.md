@@ -1,5 +1,5 @@
 ---
-author: "Pau Lluc"
+author: "Fran Simó"
 title: "El masaje, la esencia"
 description: "Filosofía del masaje"
 date: "2023-12-31"

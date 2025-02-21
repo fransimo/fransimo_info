@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 title: Photography
 images:
   - X1V16641.jpg

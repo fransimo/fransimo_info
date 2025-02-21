@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 date: "2019-12-07"
 categories:
   - photography

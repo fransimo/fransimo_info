@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 images:
   - X1V45282-Enhanced-SR.jpg
 dateCreated: 2025

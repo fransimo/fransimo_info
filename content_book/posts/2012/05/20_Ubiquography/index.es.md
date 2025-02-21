@@ -1,7 +1,7 @@
 ---
 title: 'Ubiquography a real-time world-wide mobile photography exhibition'
 date: '2012-05-20'
-author: fran
+author: "Fran Simó"
 images:
   - ubiquography.png
 categories:

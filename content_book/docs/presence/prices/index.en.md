@@ -2,7 +2,7 @@
 title: "Prices"
 description: "Types of Sessions and Prices"
 date: "2024-01-5"
-author: "Pau Lluc"
+author: "Fran Simó"
 BookToC: true
 ---
 # Types of Sessions and Prices  

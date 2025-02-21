@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 categories:
   - photography
   - Barcelona Photobloggers

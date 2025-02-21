@@ -2,7 +2,7 @@
 id: 7599
 title: 'Vivir de la fotografía en el siglo XXI: Técnica, estilo personal y estrategias de marketing'
 date: '2009-11-02T19:07:41+01:00'
-author: fran
+author: "Fran Simó"
 layout: post
 guid: 'http://fransimo.info/?p=7599'
 permalink: '/?p=7599'

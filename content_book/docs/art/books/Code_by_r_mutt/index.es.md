@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 categories:
 - new media art
 - books, zines and so

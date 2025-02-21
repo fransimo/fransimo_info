@@ -1,5 +1,5 @@
 ---
-author: "Pau Lluc"
+author: "Fran Simó"
 title: "Mi camino"
 description: "Mis experiencias en el camino de autoconocimiento y el Tantra."
 date: 2024-01-04

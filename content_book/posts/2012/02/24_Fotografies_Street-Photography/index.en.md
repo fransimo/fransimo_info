@@ -1,7 +1,7 @@
 ---
 title: 'Fotografies: Street Photography'
 date: '2012-02-24'
-author: fran
+author: "Fran Simó"
 aliases:  /blog/2012/02/24/fotografies-street-photography/
 images:
   - 03_fotografies_fran_simo.png

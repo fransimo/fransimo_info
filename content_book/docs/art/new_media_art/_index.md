@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 title: New media art
 images:
   - IMG_5027-Editar-2.jpg

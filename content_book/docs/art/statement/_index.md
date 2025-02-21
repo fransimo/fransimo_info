@@ -1,7 +1,7 @@
 ---
 weight: 1
 date: "2017-04-02"
-author: fran
+author: "Fran Simó"
 bookFlatSection: false
 bookCollapseSection: false
 bookToc: false

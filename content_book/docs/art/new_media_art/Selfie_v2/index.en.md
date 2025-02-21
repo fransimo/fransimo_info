@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 date: "2021-10-26T22:03:36Z"
 images: 
   - XT238794.jpg

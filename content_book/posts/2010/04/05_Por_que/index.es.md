@@ -1,7 +1,7 @@
 ---
 title: '¿Por qué?'
 date: '2010-04-05'
-author: fran
+author: "Fran Simó"
 aliases: /es/blog/2010/04/05/por-que/
 bookTOC: false
 categories:

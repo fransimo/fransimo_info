@@ -1,7 +1,7 @@
 ---
 title: 'Calls for participative projects online for established cultural institutions: basic ideas'
 date: '2011-05-12'
-author: fran
+author: "Fran Simó"
 aliases:  /blog/2011/05/12/convocatorias-a-proyectos-participativos-en-red-para-instituciones-culturales-establecidas-ideas-basicas/
 ---
 

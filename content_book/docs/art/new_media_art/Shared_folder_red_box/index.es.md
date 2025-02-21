@@ -1,7 +1,7 @@
 ---
 title: 'Shared Folder (Red box)'
 date: '2016-05-07T19:51:21+02:00'
-author: fran
+author: "Fran Simó"
 aliases: /es/blog/2016/05/07/shared-folder-red-box/
 images:
   - DSCF3138.jpg

@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 categories:
 - books, zines and so
 title: Books & zines

@@ -2,7 +2,7 @@
 id: 8065
 title: 'Principios de Fotografía en la CampusMac 2007'
 date: '2007-08-08T12:05:00+02:00'
-author: fran
+author: "Fran Simó"
 lang: es
 guid: 'https://fransimo.info/?p=8065'
 aliases: /es/blog/2007/08/08/principios-de-fotografia-en-la-campusmac-2007/

@@ -1,7 +1,7 @@
 ---
 title: '22.2'
 date: '2015-04-23'
-author: fran
+author: "Fran Simó"
 aliases: /es/blog/2015/04/23/22-2/
 images:
   - 0013_018_GSC_2765_cover.jpg

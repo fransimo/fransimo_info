@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 bookFlatSection: false
 title: "Acerca del autor"
 bookHidden: false

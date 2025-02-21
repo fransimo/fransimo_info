@@ -2,7 +2,7 @@
 id: 8968
 title: 'He soñado con un ser humano'
 date: '2012-09-13'
-author: fran
+author: "Fran Simó"
 lang: es
 aliases: /es/blog/2012/09/13/i-dreamed-about-a-human-being/
 images:

@@ -1,5 +1,5 @@
 ---
-author: fran
+author: "Fran Simó"
 date: 2019-05-29
 categories:
   - new media art

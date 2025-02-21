@@ -2,7 +2,7 @@
 id: 7597
 title: '¡Participa en DOMESTIC!'
 date: '2010-04-07T19:01:14+02:00'
-author: fran
+author: "Fran Simó"
 layout: post
 guid: 'http://fransimo.info/?p=7597'
 permalink: '/?p=7597'

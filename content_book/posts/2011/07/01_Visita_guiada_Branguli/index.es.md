@@ -1,7 +1,7 @@
 ---
 title: 'Visita guiada a "Brangulí. Barcelona 1909-1945" con Susana García'
 date: '2011-07-01'
-author: fran
+author: "Fran Simó"
 aliases:  /es/blog/2011/07/01/visita-guiada-a-branguli-barcelona-1909-1945-con-susana-garcia/
 slug: Visita-guiada-a-Branguli-Barcelona-1909-1945-con-Susana-Garcia
 categories:

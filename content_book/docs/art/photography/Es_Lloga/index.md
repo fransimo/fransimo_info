@@ -1,7 +1,7 @@
 ---
 title: 'Es lloga (For Rent)'
 date: '2010-02-23'
-author: fran
+author: "Fran Simó"
 aliases:  /blog/2010/02/23/es-lloga-for-rent/
 images:
   - es_lloga_fran_simo_01__ISC1838_DxO.jpg
