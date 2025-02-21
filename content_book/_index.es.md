@@ -1,10 +1,21 @@
 ---
-title: Arte, presencia y código para recorrer juntos el camino.
+title: Arte, presencia y código.
 type: docs
 bookToc: false
+description: Explorando arte, magia y tecnología como práctica y transformación, un viaje interior y exterior.
+tags:
+  - arte contemporaneo
+  - new media
+  - fotografía
+  - sanación
+  - presencia
+  - masaje
+  - open source
+  - inteligencia artificial
+  - espiritualidad
 ---
 
-![X1V45282-Enhanced-SR.jpg](docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg)
+![El susurro de las ninfas](docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg "El susurro de las ninfas")
 
 # [Arte](docs/art), [presencia](docs/presence) y [código](docs/code) para recorrer juntos el camino.
 {{% columns %}}
