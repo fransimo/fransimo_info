@@ -2,7 +2,7 @@
 title: Art, presence and code.
 type: docs
 bookToc: false
-description: Exploring art, magic, and technology as practice and transformation, an inner and outer journey.
+description: Exploring art, magic, and technology as transformative practices in an inner and outer journey.
 tags:
   - contemporary art
   - new media
