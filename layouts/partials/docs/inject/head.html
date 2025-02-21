@@ -1,14 +1,21 @@
 <script type="application/ld+json">
+
+{{ $description_text := "" }}
+{{ if isset .Params "description" }}
+  {{ $description_text = .Description }}
+{{ else }}
+  {{ $description_text = .Summary }}
+{{ end }}
+{{ $icon_url := "" }}
+{{ range first 1 (.Resources.ByType "image") }}
+{{ $icon_url = .Permalink }}
+{{ end }}
 {{ if eq .Section "posts" }}
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": {{ .Title }},
-  {{ if isset .Params "image" }}
-  {{ $icon := .Params.image }}
-  {{ $icon_url := printf "%s%s" .Permalink $icon }}
   "image": {{ $icon_url | absURL }},
-  {{end}}
   "datePublished": {{ .PublishDate }},
   "dateModified": {{ .Lastmod }},
   "author": {
@@ -16,10 +23,11 @@
     "name": {{ .Site.Params.schema_org.name }},
     "sameAs": {{ .Site.BaseURL }}
   },
-  "description": {{ .Summary | plainify | safeHTML }},
+  "description": {{ $description_text | plainify | safeHTML }},
   "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
 }
 {{ end }}
+
 {{ if eq .Section "docs" }}
 {
   "@context": "https://schema.org",
@@ -29,11 +37,7 @@
   "@type": "VisualArtwork",
   {{ end }}
   "name": {{ .Title }},
-  {{ if isset .Params "image" }}
-  {{ $icon := .Params.image }}
-  {{ $icon_url := printf "%s%s" .Permalink $icon }}
   "image": {{ $icon_url | absURL }},
-  {{end}}
   {{ if isset .Params "dateCreated" }}
   "dateCreated": {{ .Params.dateCreated }},
   {{end}}
@@ -48,9 +52,10 @@
     "name": {{ .Site.Params.schema_org.name }},
     "sameAs": {{ .Site.BaseURL }}
   },
-  "description": {{ .Summary | plainify | safeHTML }}
+  "description": {{ $description_text | plainify | safeHTML }}
 }
 {{ end }}
+
 {{ if eq .Section "" }}
 {
   "@context": "https://schema.org",
