@@ -6,16 +6,21 @@
 {{ else }}
   {{ $description_text = .Summary }}
 {{ end }}
+
 {{ $icon_url := "" }}
 {{ range first 1 (.Resources.ByType "image") }}
-{{ $icon_url = .Permalink }}
+    {{ $icon_url = .Permalink }}
 {{ end }}
+{{ if eq $icon_url "" }}
+    {{ $icon_url =  index .Site.Params.images 0 }}
+{{ end }}
+
 {{ if eq .Section "posts" }}
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
   "headline": {{ .Title }},
-  "image": {{ $icon_url | absURL }},
+  "image": {{ $icon_url }},
   "datePublished": {{ .PublishDate }},
   "dateModified": {{ .Lastmod }},
   "author": {
