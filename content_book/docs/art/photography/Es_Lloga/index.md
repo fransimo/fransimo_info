@@ -6,8 +6,8 @@ aliases:  /blog/2010/02/23/es-lloga-for-rent/
 images:
   - es_lloga_fran_simo_01__ISC1838_DxO.jpg
 dateCreated: 2010
-artform: Photograph
-creativework: VisualArtwork
+artForm: Photograph
+creativeWork: VisualArtwork
 categories:
 - photography
 ---

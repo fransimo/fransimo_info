@@ -6,8 +6,8 @@ aliases: /es/blog/2016/05/07/shared-folder-red-box/
 images:
   - DSCF3138.jpg
 dateCreated: 2016
-artform: Artist Book
-creativework: VisualArtwork
+artForm: Artist Book
+creativeWork: VisualArtwork
 BookToC: true
 categories:
 - new media art

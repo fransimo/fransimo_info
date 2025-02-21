@@ -9,8 +9,8 @@ aliases:
 images:
   - fran_simo_0002_Untitled1_mean_.jpg
 dateCreated: 2012
-artform: Photograph
-creativework: VisualArtwork
+artForm: Photograph
+creativeWork: VisualArtwork
 BookToC: true
 categories:
 - new media art

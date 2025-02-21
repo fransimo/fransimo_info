@@ -7,8 +7,8 @@ date: "2021-04-17"
 images:
   - buy_me_a.jpg
 dateCreated: 2021
-artform: NFT
-creativework: VisualArtwork
+artForm: NFT
+creativeWork: VisualArtwork
 tags:
 - "2501"
 - cryptoart

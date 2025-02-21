@@ -10,7 +10,7 @@ tags:
 images:
   - passengers.jpg
 dateCreated: 2011
-creativework: Book
+creativeWork: Book
 isbn: 9781471013713
 title: Passengers
 bookToc: false

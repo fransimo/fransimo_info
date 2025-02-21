@@ -12,7 +12,7 @@ tags:
 images:
   - susurros3.png
 dateCreated: 2019
-creativework: Book
+creativeWork: Book
 title: Susurros (Whispers)
 bookCollapseSection: false
 ---

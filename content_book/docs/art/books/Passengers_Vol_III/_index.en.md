@@ -10,7 +10,7 @@ tags:
 images:
   - Passengers_Vol_III.jpg
 dateCreated: 2019
-creativework: Book
+creativeWork: Book
 isbn: 9780244336547
 title: Passengers Vol. III
 bookToc: false

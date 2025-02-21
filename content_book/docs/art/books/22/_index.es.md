@@ -6,7 +6,7 @@ aliases: /es/blog/2010/01/14/22/
 images:
   - 0013_018_GSC_2765_cover.jpg
 dateCreated: 2009
-creativework: Book
+creativeWork: Book
 bookToc: false
 categories:
   - photography

@@ -7,8 +7,8 @@ date: "2021-07-31T10:43:05Z"
 images:
   - 20210617_r049_3_700px.png
 dateCreated: 2021
-artform: NFT
-creativework: VisualArtwork
+artForm: NFT
+creativeWork: VisualArtwork
 tags:
 - artificial intelligence
 - bug

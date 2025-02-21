@@ -4,8 +4,8 @@ date: "2021-10-26T22:03:36Z"
 images:
   - XT238794.jpg
 dateCreated: 2021
-artform: Sculpture
-creativework: VisualArtwork
+artForm: Sculpture
+creativeWork: VisualArtwork
 categories:
 - new media art
 - NFT

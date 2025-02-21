@@ -6,7 +6,7 @@ date: 2019-05-29
 images:
   - X1V16641_v2.jpg
 dateCreated: 2019
-creativework: Book
+creativeWork: Book
 isbn: 9780244481964
 tags:
 - non creative writing
