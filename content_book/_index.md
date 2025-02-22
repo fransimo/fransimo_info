@@ -13,6 +13,7 @@ tags:
   - open source
   - artificial intelligence
   - spirituality
+  - tantra
 ---
 
 ![The Whisper of the Nymphs](docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg "The Whisper of the Nymphs")
