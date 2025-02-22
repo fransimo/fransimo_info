@@ -2,6 +2,7 @@
 weight: 201
 bookFlatSection: false
 title: "Detailed CV"
+description: "Fran Simó's Curriculum Vitae (Education, Books, Exhibitions, Prizes, Press, Work experience)"
 bookHidden: false
 bookToc: true
 aliases:
