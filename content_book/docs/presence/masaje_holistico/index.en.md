@@ -23,4 +23,4 @@ Some days, the best approach may be to guide a meditation, while in another sess
 
 Skin contact and the use of oils often enhance the experience.  
 
-Remember to read the [service limitations](../prices/#limits-of-service).  
+You can check prices and service limitations [here](../prices/). 

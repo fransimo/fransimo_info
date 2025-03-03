@@ -20,4 +20,4 @@ Training in this discipline allows practitioners to perceive primary respiration
 
 For clarity, these texts [are a copy of the definition](https://biodinamicacraneosacral.org/es/que-es-2/) from the Spanish Institute of Craniosacral Biodynamics.  
 
-Remember to read the [service limitations](../prices/#límites-del-servicio).  
+You can check prices and service limitations [here](../prices/). 
