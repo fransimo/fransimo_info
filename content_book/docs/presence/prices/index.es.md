@@ -82,16 +82,31 @@ En [este enlace](masaje_tantrico.md) puedes leer mi visión sobre el masaje tán
 - **Precio:** 180€
 - **Lugar:** desplazamiento a tu lugar o sala contratada.
 
----
+El texto ya es claro y cubre los aspectos esenciales, pero podrías agregar lo siguiente si quieres mayor precisión:  
 
-# Límites del servicio
+1. **Expectativas realistas**: Puedes incluir una frase sobre la naturaleza complementaria de estas prácticas, dejando claro que no garantizan resultados específicos y que la experiencia puede variar en cada persona.  
 
-**No soy psicólogo.** He estudiado técnicas de masaje y me considero masajista. A lo largo de mis formaciones he vivido
-experiencias que pueden ayudar a otros y que van más allá del masaje tradicional, pero en ningún caso ofrezco terapia
-psicológica.
+2. **Consentimiento y responsabilidad**: Una breve mención de que la persona que recibe la sesión asume la responsabilidad sobre su propio bienestar y el uso que haga del servicio.  
 
-**En las sesiones trabajamos con la energía, pero no la controlamos.** Pueden activarse procesos internos (como la
-liberación de traumas) que requieran acompañamiento emocional de un profesional. Si este es tu caso y no tienes un
-terapeuta, puedo recomendarte algunos de confianza que trabajan presencialmente en Mallorca, así como otros que ofrecen
-sesiones en remoto en castellano, catalán, inglés y ruso.  
+3. **Contraindicaciones**: Si hay casos en los que no recomendarías las sesiones (por ejemplo, embarazo, ciertas enfermedades o trastornos), podrías mencionarlo.  
 
+
+# Límites del servicio  
+
+**No soy psicólogo.** He estudiado técnicas de masaje y me considero masajista y canalizador de energías.  
+A lo largo de mis formaciones, he vivido experiencias que pueden ayudar a otros y que van más allá del masaje  
+tradicional, pero en ningún caso ofrezco terapia psicológica.  
+
+**En las sesiones trabajamos con la energía, pero no la controlamos.** Pueden activarse procesos internos (como la  
+liberación de traumas) que requieran acompañamiento emocional por parte de un profesional. Si este es tu caso y no tienes  
+un terapeuta, puedo recomendarte algunos de confianza que trabajan presencialmente en Mallorca, así como otros que ofrecen  
+sesiones en remoto en español, catalán, inglés y ruso.  
+
+Es importante recordar que los masajes o las técnicas energéticas pueden complementar e integrarse con otros tratamientos  
+médicos, por lo que **no deben sustituir la consulta con un profesional de la salud**.  
+
+**Cada persona es responsable de su propio proceso.** La sanación es un camino individual y la experiencia puede  
+variar. No se garantizan resultados específicos, ya que el trabajo energético actúa de manera única en cada caso.  
+
+**Contraindicaciones:** Estas sesiones no están recomendadas para personas con enfermedades psiquiátricas graves sin  
+supervisión médica, ni en casos de crisis agudas. Ante cualquier duda, consulta con un profesional de la salud.  
