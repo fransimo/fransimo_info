@@ -72,10 +72,23 @@ In [this link](masaje_tantrico/), you can read about my approach to Tantric mass
 - **Price:** €180  
 - **Location:** at your place or a rented space.  
 
----
-
 # Service Limitations  
 
-**I am not a psychologist.** I have studied massage techniques and consider myself a massage therapist. Through my training, I have experienced things that may help others and go beyond traditional massage, but I do not provide psychological therapy.  
+**I am not a psychologist.** I have studied massage techniques and consider myself a massage therapist and energy channeler.  
+Throughout my training, I have had experiences that may help others and go beyond traditional massage,  
+but I do not offer psychological therapy in any form.  
 
-**During the sessions, we work with energy, but we do not control it.** Certain processes (such as trauma release) may be triggered, requiring professional emotional support. If this happens and you don’t have a therapist, I can recommend trusted professionals who work in-person in Mallorca or remotely in Spanish, Catalan, English, and Russian.  
+**In these sessions, we work with energy, but we do not control it.** Internal processes (such as trauma release) may be  
+activated, requiring emotional support from a professional. If this is your case and you do not have a therapist,  
+I can recommend trusted professionals who work in person in Mallorca, as well as others who offer remote sessions  
+in Spanish, Catalan, English, and Russian.  
+
+It is important to remember that massage and energetic techniques can complement and integrate with other medical treatments,  
+but **they should not replace consultation with a healthcare professional**.  
+
+**Each person is responsible for their own process.** Healing is an individual journey, and experiences may vary.  
+Specific results are not guaranteed, as energy work acts uniquely in each case.  
+
+**Contraindications:** These sessions are not recommended for individuals with severe psychiatric conditions without medical  
+supervision, nor in cases of acute crisis. If in doubt, please consult a healthcare professional.  
+
