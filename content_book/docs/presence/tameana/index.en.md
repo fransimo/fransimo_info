@@ -26,7 +26,7 @@ The in-person session does not involve physical contact.
 
 The process can consist of up to three sessions, only if the person receiving the energy feels it is necessary.  
 
-You can read more about Tameana at [here](https://tameana.es/en/what-is-tameana/).  
+You can read more about Tameana, even get training, at [here](https://tameanavirtual.com/).  
 
 After attending several retreats in Montserrat with Juan, I trained in 2024 with [Angelica Alercia](https://www.instagram.com/angelica.alercia.ser/).  
 

@@ -38,7 +38,7 @@ La sesión presencial no implica contacto físico.
 
 El proceso puede constar de hasta tres sesiones, si la persona que recibe la energía lo considera conveniente.
 
-Puedes leer más sobre Tameana en [aquí](https://tameana.es/que-es-tameana/).
+Puedes leer más sobre Tameana, incuso formarte, [aquí](https://tameanavirtual.com/).
 
 Después de asistir a varios retiros en Montserrat con Juan, me formé en 2024
 con [Angelica Alercia](https://www.instagram.com/angelica.alercia.ser/).
