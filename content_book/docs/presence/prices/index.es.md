@@ -93,20 +93,12 @@ El texto ya es claro y cubre los aspectos esenciales, pero podrías agregar lo s
 
 # Límites del servicio  
 
-**No soy psicólogo.** He estudiado técnicas de masaje y me considero masajista y canalizador de energías.  
-A lo largo de mis formaciones, he vivido experiencias que pueden ayudar a otros y que van más allá del masaje  
-tradicional, pero en ningún caso ofrezco terapia psicológica.  
+**No soy psicólogo.** He estudiado técnicas de masaje y me considero masajista y canalizador de energías. A lo largo de mis formaciones, he vivido experiencias que pueden ayudar a otros y que van más allá del masaje tradicional, pero en ningún caso ofrezco terapia psicológica.  
 
-**En las sesiones trabajamos con la energía, pero no la controlamos.** Pueden activarse procesos internos (como la  
-liberación de traumas) que requieran acompañamiento emocional por parte de un profesional. Si este es tu caso y no tienes  
-un terapeuta, puedo recomendarte algunos de confianza que trabajan presencialmente en Mallorca, así como otros que ofrecen  
-sesiones en remoto en español, catalán, inglés y ruso.  
+**En las sesiones trabajamos con la energía, pero no la controlamos.** Pueden activarse procesos internos (como la liberación de traumas) que requieran acompañamiento emocional por parte de un profesional. Si este es tu caso y no tienes un terapeuta, puedo recomendarte algunos de confianza que trabajan presencialmente en Mallorca, así como otros que ofrecen sesiones en remoto en español, catalán, inglés y ruso.  
 
-Es importante recordar que los masajes o las técnicas energéticas pueden complementar e integrarse con otros tratamientos  
-médicos, por lo que **no deben sustituir la consulta con un profesional de la salud**.  
+Es importante recordar que los masajes o las técnicas energéticas pueden complementar e integrarse con otros tratamientos médicos, por lo que **no deben sustituir la consulta con un profesional de la salud**.  
 
-**Cada persona es responsable de su propio proceso.** La sanación es un camino individual y la experiencia puede  
-variar. No se garantizan resultados específicos, ya que el trabajo energético actúa de manera única en cada caso.  
+**Cada persona es responsable de su propio proceso.** La sanación es un camino individual y la experiencia puede variar. No se garantizan resultados específicos, ya que el trabajo energético actúa de manera única en cada caso.  
 
-**Contraindicaciones:** Estas sesiones no están recomendadas para personas con enfermedades psiquiátricas graves sin  
-supervisión médica, ni en casos de crisis agudas. Ante cualquier duda, consulta con un profesional de la salud.  
+**Contraindicaciones:** Estas sesiones no están recomendadas para personas con enfermedades psiquiátricas graves sin supervisión médica, ni en casos de crisis agudas. Ante cualquier duda, consulta con un profesional de la salud.  
