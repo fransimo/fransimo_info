@@ -24,4 +24,4 @@ Puede que aquel día lo más adecuado sea guiar una meditación, y en la siguien
 
 El contacto con la piel y el uso de aceites suelen mejorar la experiencia.  
 
-Recuerda leer los [límites del servicio](../prices/#límites-del-servicio).  
+Puedes consultar los precios y los límites del servicio [aquí](../prices/). 

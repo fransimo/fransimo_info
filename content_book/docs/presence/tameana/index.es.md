@@ -37,7 +37,7 @@ La sesión presencial no implica contacto físico.
 
 El proceso puede constar de hasta tres sesiones, si la persona que recibe la energía lo considera conveniente.
 
-Puedes leer más sobre Tameana en [https://tameana.es/que-es-tameana/](https://tameana.es/que-es-tameana/).
+Puedes leer más sobre Tameana en [aquí](https://tameana.es/que-es-tameana/).
 
 Después de asistir a varios retiros en Montserrat con Juan, me formé en 2024
 con [Angelica Alercia](https://www.instagram.com/angelica.alercia.ser/).
@@ -46,8 +46,8 @@ Practico dos de las técnicas:
 
 - **Salush Nahí**: sesiones para la armonización completa del sistema y la sanación física, emocional y mental.
   Despierta y conecta la inteligencia de todo el Ser, equilibrando los chakras.
-- **H’ama**: limpieza energética de ambientes. Libera las energías impregnadas que pueden estar densificando y
+- **H’ama**: limpieza energética de ambientes o situaciones. Libera las energías impregnadas que pueden estar densificando y
   bloqueando casas, negocios, etc. En su lugar, eleva la vibración para optimizar el funcionamiento del espacio.
 
-Puedes consultar los precios y los límites del servicio [aquí](../prices/#límites-del-servicio).  
+Puedes consultar los precios y los límites del servicio [aquí](../prices/).  
 

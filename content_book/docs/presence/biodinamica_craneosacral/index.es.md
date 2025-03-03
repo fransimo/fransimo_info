@@ -22,4 +22,4 @@ El entrenamiento en esta disciplina permite percibir la respiración primaria, o
 
 Para mayor claridad, estos textos [son una copia de la definición](https://biodinamicacraneosacral.org/es/que-es-2/) del Instituto Español de Biodinámica Craneosacral.  
 
-Recuerda leer los [límites del servicio](../prices/#límites-del-servicio).
+Puedes consultar los precios y los límites del servicio [aquí](../prices/). 
