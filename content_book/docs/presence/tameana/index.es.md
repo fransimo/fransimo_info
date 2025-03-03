@@ -2,6 +2,7 @@
 title: "Tameana"
 date: "2024-06-29"
 author: "Fran Simó"
+description: "Qué es Tameana y como funciona una sesión"
 categories:
   - presence
 tags:

@@ -2,6 +2,7 @@
 title: "Tameana"
 date: "2024-06-29"
 author: "Fran Simó"
+description: "What is Tameana and how a session works"
 categories:
   - presence
 tags: 
