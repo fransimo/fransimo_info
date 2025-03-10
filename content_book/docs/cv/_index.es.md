@@ -4,6 +4,8 @@ bookFlatSection: false
 title: "Acerca del autor"
 bookHidden: false
 bookToc: false
+aliases: 
+  - /es/cv/
 ---
 
 # Fran Simó

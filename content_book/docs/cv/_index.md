@@ -6,6 +6,9 @@ bookFlatSection: false
 bookCollapseSection: true
 bookHidden: false
 bookToc: false
+aliases: 
+  - /en/cv/
+  - /cv/
 ---
 
 

@@ -6,6 +6,8 @@ bookFlatSection: false
 bookCollapseSection: false
 bookToc: false
 title: "Statement"
+aliases: 
+  - /es/statement/
 ---
 # Artist's statement
 
