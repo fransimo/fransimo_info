@@ -3,7 +3,7 @@ weight: 1
 date: "2017-04-02T18:52:55Z"
 author: "Fran Simó"
 bookFlatSection: false
-bookCollapseSection: true
+bookCollapseSection: false
 bookToc: false
 title: "Art"
 ---
