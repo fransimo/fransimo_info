@@ -18,7 +18,7 @@ tags:
 
 ![The Whisper of the Nymphs](docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg "The Whisper of the Nymphs")
 
-# [Art](docs/art), [presence](docs/presence) and [code](docs/code) to walk the path together.
+# Art, presence and code to walk the path together.
 {{% columns %}}
 
 ## [Art](docs/art)
