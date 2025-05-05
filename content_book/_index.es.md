@@ -34,7 +34,6 @@ tags:
 
 > - [Tameana](docs/presence/tameana)
 > - [Biodinámica craneosacral](docs/presence/biodinamica_craneosacral)
-> - [Masaje tantrico](docs/presence/masaje_tantrico)
 > - [Masaje holistico](docs/presence/masaje_holistico)
 > - [Precios](docs/presence/prices)
 

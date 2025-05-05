@@ -19,7 +19,7 @@ During the massage, my work is to open myself and become a channel so that the w
 {{% /columns %}}
 
 From the most subtle, like [tameana](tameana/) and [craniosacral biodynamics](biodinamica_craneosacral/), to 
-[tantric massage](masaje_tantrico/), we can explore paths to expand your awareness, remind your body 
+[holistic massage](masaje_holistico/), we can explore paths to expand your awareness, remind your body 
 how to restore its inherent health, or simply find a moment of peace.
 
 If you feel the calling, you can check out the [services and prices](prices/) and [contact me](../contact).
