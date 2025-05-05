@@ -14,7 +14,7 @@ aliases:
 
 Born in 1973 in Villa Carlos Paz, Córdoba, Argentina.
 
-Residence: Palma, Baleares, Spain.
+Residence: drifting between Istanbul, Palma and Barcelona.
 
 [Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info)
 
