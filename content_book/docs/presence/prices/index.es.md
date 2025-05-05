@@ -82,14 +82,6 @@ En [este enlace](masaje_tantrico.md) puedes leer mi visión sobre el masaje tán
 - **Precio:** 180€
 - **Lugar:** desplazamiento a tu lugar o sala contratada.
 
-El texto ya es claro y cubre los aspectos esenciales, pero podrías agregar lo siguiente si quieres mayor precisión:  
-
-1. **Expectativas realistas**: Puedes incluir una frase sobre la naturaleza complementaria de estas prácticas, dejando claro que no garantizan resultados específicos y que la experiencia puede variar en cada persona.  
-
-2. **Consentimiento y responsabilidad**: Una breve mención de que la persona que recibe la sesión asume la responsabilidad sobre su propio bienestar y el uso que haga del servicio.  
-
-3. **Contraindicaciones**: Si hay casos en los que no recomendarías las sesiones (por ejemplo, embarazo, ciertas enfermedades o trastornos), podrías mencionarlo.  
-
 
 # Límites del servicio  
 
