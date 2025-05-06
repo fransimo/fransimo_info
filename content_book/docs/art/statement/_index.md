@@ -22,7 +22,7 @@ I present my work organized in series of images as installations, photobooks… 
 
 Being an artist is an addiction even a moral obligation. Once you discover you can lighten up an emotion with the stroke of a brush, an idea, a smile, a teardrop or shake someone up. You can change the brush, the canvas and the instrument, but once you start this course, it is impossible to understand life without walking it down.
 
-Art is plastic thought. A swing between ideas and aesthetics. The beauty of a piece is a chasm in the walls of the cavern. If while creating it vibrates, the wave would find its chords and it will shake the world.
+Art is plastic thought. A swing between ideas and aesthetics. The beauty of a piece is a orifice in the walls of the cavern. If while creating it vibrates, the wave would find its chords and it will shake the world.
 
 The signature and date are an accident that might only help us understand how that people were able to be in tune, vibrate and sing in their tongues, ages and places. If they did, their waves would not have date.
 
