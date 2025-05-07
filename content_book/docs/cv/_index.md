@@ -40,7 +40,7 @@ healing and the expansion of consciousness through art.
 
 <--->
 
-{{< figure src="fran_simo.jpg" alt="Fran Simó" class="text-right" >}}
+{{< figure src="fran_simo_v2.jpg" alt="Fran Simó by Marcelo Aurelio 2025" class="text-right" >}}
 
 {{% /columns %}}
 
