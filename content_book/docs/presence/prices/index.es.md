@@ -13,10 +13,6 @@ técnica combina sutileza, tacto, escucha y relajación.
 
 Si no podemos coincidir en el espacio-tiempo, te recomiendo una sesión de Tameana.
 
-Si has llegado aquí por el Tantra, antes del masaje haríamos una sesión previa para conocernos y ver qué es lo más
-adecuado en tu caso. También podríamos realizar algunas sesiones de acompañamiento. No dejes de consultar
-los [recursos para explorar el Tantra en el blog](../../posts/2024/07/recursos_aprendizaje.md).
-
 Las sesiones están ordenadas de lo más sutil a lo más físico:
 
 ## Tameana
@@ -51,44 +47,6 @@ situación. [Puedes leer más aquí](masaje_holistico.md).
 - **En:** silla, camilla o tatami.
 - **Precio:** 60€
 - **Lugar:** remoto, espacios públicos, desplazamiento a tu lugar o sala contratada.
-
-## Masaje relajante
-
-A través de diversas técnicas de masaje, busco relajar tu cuerpo y mente sin ninguna otra intención energética o
-terapéutica más allá de la relajación en sí misma.
-
-- **Duración:** 30 minutos.
-- **En:** camilla o tatami.
-- **Precio:** 40€
-- **Lugar:** desplazamiento a tu lugar o sala contratada.
-
-## Acompañamiento en el camino tántrico
-
-No soy un maestro tántrico, pero he recorrido parte del camino y, si no te sientes cómoda o cómodo en un retiro, podemos
-explorar juntos algunas prácticas para acercarte al Tantra. Trabajaremos con meditaciones y algo, muy poco, de teoría.
-
-- **Duración:** 60 minutos.
-- **En:** camilla o tatami.
-- **Precio:** 40€
-- **Lugar:** remoto, desplazamiento a tu lugar o sala contratada.
-
-## Masaje tántrico
-
-Antes de empezar, es importante que estemos de acuerdo en un marco de trabajo para evitar confusiones.  
-En [este enlace](masaje_tantrico.md) puedes leer mi visión sobre el masaje tántrico.
-
-- **Duración:** 3 horas.
-- **En:** tatami.
-- **Precio:** 180€
-- **Lugar:** desplazamiento a tu lugar o sala contratada.
-
-El texto ya es claro y cubre los aspectos esenciales, pero podrías agregar lo siguiente si quieres mayor precisión:  
-
-1. **Expectativas realistas**: Puedes incluir una frase sobre la naturaleza complementaria de estas prácticas, dejando claro que no garantizan resultados específicos y que la experiencia puede variar en cada persona.  
-
-2. **Consentimiento y responsabilidad**: Una breve mención de que la persona que recibe la sesión asume la responsabilidad sobre su propio bienestar y el uso que haga del servicio.  
-
-3. **Contraindicaciones**: Si hay casos en los que no recomendarías las sesiones (por ejemplo, embarazo, ciertas enfermedades o trastornos), podrías mencionarlo.  
 
 
 # Límites del servicio  

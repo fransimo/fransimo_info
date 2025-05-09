@@ -11,8 +11,6 @@ If you’re not looking for a specific technique and we can have an in-person se
 
 If we can't meet in the same space-time, I recommend a Tameana session.  
 
-If you’re here for Tantra, before the massage, we would have a preliminary session to get to know each other and determine what suits you best. We could also do a few guidance sessions. Don’t forget to check out the [Tantra exploration resources on the blog](../../posts/2024/07/recursos_aprendizaje.md).  
-
 The sessions are arranged from the most subtle to the most physical:  
 
 ## Tameana  
@@ -44,33 +42,6 @@ These sessions combine various massage and energy techniques, adapting them to e
 - **Price:** €60  
 - **Location:** remote, public spaces, at your place, or a rented space.  
 
-## Relaxing Massage  
-
-Using different massage techniques, I aim to relax your body and mind with no other energetic or therapeutic intention beyond relaxation itself.  
-
-- **Duration:** 30 minutes.  
-- **Setting:** massage table or tatami.  
-- **Price:** €40  
-- **Location:** at your place or a rented space.  
-
-## Tantra Guidance  
-
-I am not a Tantra master, but I have walked part of the path. If you don’t feel comfortable attending a retreat, we can explore some practices together to help you approach Tantra through meditation and a little, very little, theory.  
-
-- **Duration:** 60 minutes.  
-- **Setting:** massage table or tatami.  
-- **Price:** €40  
-- **Location:** remote, at your place, or a rented space.  
-
-## Tantric Massage  
-
-Before starting, it’s important that we agree on a framework to avoid misunderstandings.  
-In [this link](masaje_tantrico/), you can read about my approach to Tantric massage.  
-
-- **Duration:** 3 hours.  
-- **Setting:** tatami.  
-- **Price:** €180  
-- **Location:** at your place or a rented space.  
 
 # Service Limitations  
 

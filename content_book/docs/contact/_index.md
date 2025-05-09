@@ -15,7 +15,12 @@ bookToc: false
 - Instagram:[@fransimo](https://www.instagram.com/fransimo)
 - Facebook: [@fransimo](https://www.facebook.com/fransimo)
 - Linkedin: [@fransimo](https://www.linkedin.com/in/fransimo/)
-- Mobile: [+34 655 384 230](tel:+34655384230)
+- Mobile (Spain): 
+  - [+34 655 384 230](tel:+34655384230)
+  - [WhatsApp](https://wa.me/+34655384230)
+- Mobile (Turkey):
+  - [+90 (545) 556 43 93](tel:+905455564393)
+  - [WhatsApp](https://wa.me/+905455564393)
 
 ## Newsletter
 

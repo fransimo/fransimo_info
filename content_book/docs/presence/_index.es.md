@@ -22,7 +22,7 @@ Durante el masaje, mi trabajo es abrirme y convertirme en un canal para que la v
 {{% /columns %}}
 
 Desde lo más sutil, como la [tameana](tameana/) y la [biodinámica craneosacral](biodinamica_craneosacral/), hasta
-el [masaje tántrico](masaje_tantrico/), podemos explorar caminos para expandir tu conciencia, recordarle a tu cuerpo 
+el [masaje holistico](masaje_holistico/), podemos explorar caminos para expandir tu conciencia, recordarle a tu cuerpo 
 cómo restaurar su salud inherente o encontrar un momento de paz.
 
 Si sientes el llamado, puedes ver los [servicios y precios](prices/) y [llamarme](../contact).

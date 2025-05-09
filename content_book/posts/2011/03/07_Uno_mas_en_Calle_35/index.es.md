@@ -6,7 +6,7 @@ aliases:
   - /es/blog/2011/03/07/calle-35/
   - /blog/2011/03/07/calle-35/the-end-2/
 images:
-  - 13_fran_simo_0039_HSC_4074_dxo_New-York-_-Places-store-front-Store-Fronts-Street-photography-Travelbook_v3-Travelbook_v4.jpg
+  - 13_fran_simo_0039_HSC_4074_dxo_New-York.jpg
 categories:
   - photography
   - 'Calle 35'
