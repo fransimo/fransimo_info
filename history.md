@@ -8,6 +8,11 @@
 hugo import jekyll /Users/fran/Downloads/export fransimo_info_v3
 ```
 
+# clone
+
+git clone git@github.com:fransimo/fransimo_info.git
+git submodule update --init --recursive
+
 
 # rendering with docker
 
