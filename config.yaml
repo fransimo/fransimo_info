@@ -1,6 +1,7 @@
 title: Fran Simó
 baseURL: https://fransimo.info/
-paginate: 100
+pagination:
+  pagerSize: 100
 enableRobotsTXT: true
 timeout: 120
 

@@ -1,7 +1,7 @@
 ---
 title: "Precios"
 description: "Tipos de masajes, precios y contexto"
-date: "2024-01-5"
+date: 2024-01-05
 author: "Fran Simó"
 aliases: /servicios/
 ---

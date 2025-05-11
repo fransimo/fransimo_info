@@ -1,7 +1,7 @@
 ---
 title: "Prices"
 description: "Types of Sessions and Prices"
-date: "2024-01-5"
+date: 2024-01-05
 author: "Fran Simó"
 BookToC: true
 ---
