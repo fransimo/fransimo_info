@@ -15,7 +15,7 @@ tags:
 - ready made
 - software
 title: CODE by R.Mutt
-lang: es
+
 aliases: /es/blog/2019/05/29/code-by-r-mutt/
 ---
 ![](X1V16639.jpg)

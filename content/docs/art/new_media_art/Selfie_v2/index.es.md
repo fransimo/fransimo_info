@@ -18,7 +18,6 @@ tags:
 - spirituality
 - video sculpture
 title: '#Selfie_v2'
-lang: es
 aliases: /es/blog/2021/10/26/selfie_v2/
 ---
 ![](XT238820.jpg)

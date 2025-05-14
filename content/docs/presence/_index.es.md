@@ -4,14 +4,14 @@ date: "2017-01-10"
 author: "Fran Simó"
 bookFlatSection: false
 bookCollapseSection: true
-title: "Presence"
+title: "Presencia"
 aliases:
   - /post/el_masaje/
 ---
 
 {{% columns %}}
 
-![PauLluc.png](PauLluc.png)
+![PauLluc.png](/docs/presence/PauLluc.png)
 
 <--->
 He dado masajes desde niño. He aprendido, y sigo aprendiendo técnicas, pero **la esencia es tocar con neutralidad

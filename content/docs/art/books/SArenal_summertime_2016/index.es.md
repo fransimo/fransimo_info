@@ -15,7 +15,7 @@ images:
 dateCreated: 2017
 creativeWork: Book
 title: S'Arenal Summertime 2016
-lang: es
+
 aliases: /es/blog/2017/04/02/sarenal-summertime-2016/
 ---
 {{% columns %}}

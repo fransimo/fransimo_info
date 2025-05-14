@@ -2,7 +2,7 @@
 title: 'flickrGrama 3030122090'
 date: '2008-11-23'
 author: "Fran Simó"
-lang: en
+
 aliases:  /blog/2008/11/23/flickrgrama-3030122090/
 images:
   - flickrGrama_3049300655_461362df67_b.jpg

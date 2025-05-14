@@ -3,7 +3,7 @@ id: 7658
 title: 'Un viaje personal, segunda parte'
 date: '2013-07-30T09:03:09+02:00'
 author: "Fran Simó"
-lang: es
+
 guid: 'http://fransimo.info/?p=7658'
 aliases: /es/blog/2013/07/30/un-viaje-personal-segunda-parte/
 images:

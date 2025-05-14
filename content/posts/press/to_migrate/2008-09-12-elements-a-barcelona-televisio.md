@@ -3,7 +3,7 @@ id: 1903
 title: '"elements" a Barcelona Televisió'
 date: '2008-09-12T10:32:37+02:00'
 author: 'Barcelona Photobloggers'
-lang: es
+
 guid: 'http://barcelonaphotobloggers.org/?p=1481'
 aliases:  /es/blog/2008/09/12/elements-a-barcelona-televisio/
 sociallikes:

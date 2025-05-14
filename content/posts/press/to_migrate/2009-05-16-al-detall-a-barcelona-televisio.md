@@ -3,7 +3,7 @@ id: 2041
 title: '"Al Detall" a Barcelona Televisió'
 date: '2009-05-16T14:12:43+02:00'
 author: 'Barcelona Photobloggers'
-lang: es
+
 guid: 'http://barcelonaphotobloggers.org/?p=2041'
 aliases:  /es/blog/2009/05/16/al-detall-a-barcelona-televisio/
 sociallikes:

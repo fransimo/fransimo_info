@@ -3,7 +3,7 @@ id: 5627
 title: 'Ubiquography a Barcelona Visió'
 date: '2012-03-02T18:00:53+01:00'
 author: 'Barcelona Photobloggers'
-lang: es
+
 guid: 'http://barcelonaphotobloggers.org/?p=5627'
 aliases:  /es/blog/2012/03/02/ubiquography-a-barcelona-visio/
 sociallikes:

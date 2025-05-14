@@ -3,7 +3,7 @@ id: 477
 title: 'San Sebastián, Barceloneta'
 date: '2010-03-29T13:31:43+02:00'
 author: "Fran Simó"
-lang: es
+
 guid: 'http://fransimo.info/?p=477'
 aliases:  /es/blog/2010/03/29/san-sebastian-barceloneta/
 images:
