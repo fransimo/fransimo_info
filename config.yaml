@@ -27,6 +27,7 @@ permalinks:
 
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: false
+
 languages:
     en:
         languageName: English
@@ -36,6 +37,7 @@ languages:
         weight: 1
         contentDir: content
         languageCode: en-US
+
     es:
         languageName: Español
         title: Fran Simó
@@ -44,6 +46,7 @@ languages:
         weight: 2
         contentDir: content
         languageCode: es-ES
+
 
 # Book configuration
 disablePathToLower: true
@@ -54,8 +57,11 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    # https://gohugo.io/content-management/page-resources/#multilingual
+    duplicateResourceFiles: true
   tableOfContents:
     startLevel: 1
+
 
 # Multi-lingual mode config
 # There are different options to translate files
