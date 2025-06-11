@@ -16,7 +16,7 @@ tags:
   - tantra
 ---
 
-![El susurro de las ninfas](docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg "El susurro de las ninfas" )
+![El susurro de las ninfas](/docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg "El susurro de las ninfas" )
 
 # Arte, presencia y código para recorrer juntos el camino.
 {{% columns %}}
