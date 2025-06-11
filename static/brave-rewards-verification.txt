@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: fransimo.info
+Token: 81137951bb356402c8a1af5dbd38a6d8bbd1d81b1d8babb01e67be09b55f62b6
