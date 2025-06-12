@@ -8,7 +8,7 @@ categories:
 ---
 ![El equipo de extraradi y Barcelona Photobloggers (foto Marcelo Aurelio)](IMG_4778-crop-500-cross-sat.jpg "El equipo de extraradi y Barcelona Photobloggers (foto Marcelo Aurelio)")
 
-<audio class="player" controls preload="none" src="Extraradi_03_09_2009_barcelonaphotobloggers.mp3" type="audio/mp3"></audio>
+<audio class="player" controls preload="none" src="Extraradi_03_09_2009_barcelonaphotobloggers.es.mp3" type="audio/mp3"></audio>
 
 Ahir ens van convidar a l'<a href="http://blocs.lamalla.cat/bloc/extraradi/">Extraradi</a>, el programa de les tardes de <a href="http://www.comradio.com/">COM Ràdio</a>. Vam ser entrevistats per l'Olga, la Montse i el Toni.
 

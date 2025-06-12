@@ -10,7 +10,7 @@ categories:
 
 ![Extrarradi ComRadio Arrinconado](29102010-IMG_2384.jpg "Extrarradi ComRadio Arrinconado")
 
-<audio class="player" controls preload="none" src="P_extraradi_comradio_um_bcn_photobloggers_291010.mp3" type="audio/mp3"></audio>
+<audio class="player" controls preload="none" src="P_extraradi_comradio_um_bcn_photobloggers_291010.es.mp3" type="audio/mp3"></audio>
 
 Hoy los amigos de <a href="http://comradioblocs.com/extraradi/">Extraradi</a> han pasado por Maremagnum
 a <a href="http://comradioblocs.com/extraradi/2010/10/29/arrinconado-de-photobloggers-barcelona-al-maremagnum/">
