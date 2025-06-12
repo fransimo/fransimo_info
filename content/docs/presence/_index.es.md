@@ -3,7 +3,7 @@ weight: 20
 date: "2017-01-10"
 author: "Fran Simó"
 bookFlatSection: false
-bookCollapseSection: true
+bookCollapseSection: false
 title: "Presencia"
 aliases:
   - /post/el_masaje/
