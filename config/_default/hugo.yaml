@@ -58,7 +58,7 @@ markup:
     renderer:
       unsafe: true
     # https://gohugo.io/content-management/page-resources/#multilingual
-    duplicateResourceFiles: true
+
   tableOfContents:
     startLevel: 1
 
