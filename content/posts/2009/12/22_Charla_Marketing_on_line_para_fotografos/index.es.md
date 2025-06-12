@@ -13,11 +13,11 @@ categories:
 
 En el taller [Vivir de la fotografía en el siglo XXI](http://barcelonaphotobloggers.org/2009/11/02/vivir-de-la-fotografia-en-el-siglo-xxi-tecnica-estilo-personal-y-estrategias-de-marketing/) se respiraba la necesidad de ampliar las ponencias relacionadas con marketing on-line y redes sociales. Se nos ocurrió que podíamos continuar el tema con una charla informal reuniendo fotógrafos profesionales por un lado y expertos de marketing y redes sociales por otro.
 
-Preparé un [guión](Script_Marketing_on_line_para_fotografos.pdf) muy básico para que todos los ponentes supiéramos por dónde ir. A diferencia de un curso no habría ejemplos, ni recetas de cómo hacer un perfil en la red social «a» o «b». La intención era transmitir una serie de ideas básicas de marketing.
+Preparé un [guión](Script_Marketing_on_line_para_fotografos.es.pdf) muy básico para que todos los ponentes supiéramos por dónde ir. A diferencia de un curso no habría ejemplos, ni recetas de cómo hacer un perfil en la red social «a» o «b». La intención era transmitir una serie de ideas básicas de marketing.
 
-La charla se puede [descargar](DS300041.mp3) como fichero o escuchar aquí.
+La charla se puede [descargar](DS300041.es.mp3) como fichero o escuchar aquí.
 
-<audio class="player" controls preload="none" src="DS300041.mp3" type="audio/mp3"></audio>
+<audio class="player" controls preload="none" src="DS300041.es.mp3" type="audio/mp3"></audio>
 
 Las ideas principales que queríamos transmitir eran
 
@@ -70,7 +70,7 @@ Hemos tenido la suerte de contar con el apoyo de [Francesc Muntada](http://www.s
 Al final, de recuerdo, las fotos de Marcelo:
 
 <video controls autoplay loop>
-<source src="mkt_on_line-Mediano.m4v" type="video/mp4" />
+<source src="mkt_on_line-Mediano.es.m4v" type="video/mp4" />
 </video>
 
 Originalmente publicada en [Barcelona Photobloggers](http://barcelonaphotobloggers.org/?p=2598).
