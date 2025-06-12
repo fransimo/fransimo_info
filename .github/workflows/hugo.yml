@@ -7,16 +7,18 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
+    outputs: # This exposes the CID output of the action to the rest of the workflow
+      cid: ${{ steps.deploy.outputs.cid }}
     env:
       HUGO_VERSION: "0.147.2"
     steps:
-      - name: Install Hugo CLI
+      - name: Install Hugo and w3cli
+        id: setup
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb \
-          && npm install -g @web3-storage/w3cli \
-          && npm install node-sass --force
+          && npm install -g @web3-storage/w3cli 
 
       - name: Checkout
         uses: actions/checkout@v4
