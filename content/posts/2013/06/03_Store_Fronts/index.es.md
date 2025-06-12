@@ -11,6 +11,8 @@ categories:
 
 2008-2012
 
+![20120925_0095__DXO-_estambul-_Istambul-_store_front_fran_simo__A003445_DxO.jpg](20120925_0095__DXO-_estambul-_Istambul-_store_front_fran_simo__A003445_DxO.jpg)
+
 En mi rutina de derivas siempre quedo atrapado por las "store fronts". Ya no publico las imágenes pero sigo
 capturándolas.
 

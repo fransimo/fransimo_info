@@ -12,6 +12,8 @@ categories:
 
 2008-2012
 
+![20120925_0095__DXO-_estambul-_Istambul-_store_front_fran_simo__A003445_DxO.jpg](20120925_0095__DXO-_estambul-_Istambul-_store_front_fran_simo__A003445_DxO.jpg)
+
 In my routine drifts, I always get caught by store fronts, even though I no longer publish my project, I still capture
 images.
 
