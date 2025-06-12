@@ -10,8 +10,9 @@ categories:
 
 Los diarios El Periódico, La Vanguardia y El País han escrito artículos sobre el <a href="http://circuitfotobarcelona.org/">Circuit 2013</a> y todos ellos incluyen menciones al proyecto <a href="http://fotometro.org/">fotometro.org</a>, con el que Barcelona Photobloggers participa en este festival dedicado a la fotografía documental y el fotoperiodismo.
 
-<a href="http://www.elperiodico.com/es/noticias/ocio-y-cultura/barcelona-recupera-gran-cita-fotografica-2416000"><img src="elperiodico.es.jpg" alt="El Periódico" width="500" height="664" class="alignnone size-full wp-image-7564"></a>
+[![elperiodico.es.jpg](elperiodico.es.jpg)](http://www.elperiodico.com/es/noticias/ocio-y-cultura/barcelona-recupera-gran-cita-fotografica-2416000)
 
-<a href="http://www.lavanguardia.com/cultura/20130612/54375914539/fotografia-documental-barcelona.html"><img src="lavanguardia.es.jpg" alt="La Vanguardia" width="500" height="1064" class="alignnone size-full wp-image-7568"></a>
+[![lavanguardia.es.jpg](lavanguardia.es.jpg)](http://www.lavanguardia.com/cultura/20130612/54375914539/fotografia-documental-barcelona.html)
 
-<a href="http://ccaa.elpais.com/ccaa/2013/06/12/quadern/1371071875_828052.html"><img src="elpais.es.jpg" alt="El País" width="500" height="1364" class="alignnone size-full wp-image-7567"></a>
+[![elpais.es.jpg](elpais.es.jpg)](http://ccaa.elpais.com/ccaa/2013/06/12/quadern/1371071875_828052.html)
+
