@@ -20,7 +20,7 @@ Las fotografías de [inside Out](http://i-o-p.es/) desnudan dos mundos interiore
 **Reacciones:** [Quintin Lake](http://blog.quintinlake.com/2009/11/11/inside-out-website-explores-photographic-diptych-as-a-means-of-representing-architecture/)
 
 **Música:**  
-<audio class="player" controls preload="none" src="01-insideOut.mp3" type="audio/mp3"></audio>
+<audio class="player" controls preload="none" src="01-insideOut.es.mp3" type="audio/mp3"></audio>
 
 
 {{< load-photoswipe >}}

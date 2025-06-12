@@ -13,12 +13,12 @@ categories:
   - charlas
 ---
 
-![fotografia_intuitiva_dsc_2104.jpg](/es/var/log/2009/01/01/Fotografia-intuitiva/fotografia_intuitiva_dsc_2104.jpg)
+![fotografia_intuitiva_dsc_2104.jpg](/es/var/log/2009/01/01/Fotografia-intuitiva/fotografia_intuitiva_dsc_2104.es.jpg)
 
 Los organizadores de la [CampusMac](http://www.campusmac.info/) invitaron a Barcelona Photobloggers a participar, y ahí
 estuve explicando las cuatro cosas que sé de fotografía.
 
-[Aquí podéis bajar el pequeño guión (9M)](CampusMac2007_pdf.pdf "Ponencia CampusMac 2007")
+[Aquí podéis bajar el pequeño guión (9M)](CampusMac2007_pdf.es.pdf "Ponencia CampusMac 2007")
 que utilice en la ponencia: “Principios de la fotografía”. Os puede ayudar para recordar la clase o como guía para
 buscar más información en la web. 
 

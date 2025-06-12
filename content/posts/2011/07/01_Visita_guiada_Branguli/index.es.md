@@ -15,7 +15,7 @@ Ayer pudimos disfrutar de una visita guiada a <a href="http://barcelonaphotoblog
 
 La visita es una actividad del proyecto participativo <a href="http://www.brangulivaseraqui.com/" target="_blank" rel="noopener noreferrer">Brangulí va ser aquí, i tu?</a> para acercarnos a la visión de Brangulí e inspirarnos para enviar fotos.
 
-Queríamos agradecer a todos los que nos habéis acompañado y, para los que no habéis podido venir, dejaros el audio de la charla ( [descarga](2011-06-30-cccb-bcnph-2.mp3) )
+Queríamos agradecer a todos los que nos habéis acompañado y, para los que no habéis podido venir, dejaros el audio de la charla ( [descarga](2011-06-30-cccb-bcnph-2.es.mp3) )
 
 ![CCCB Barcelona Photobloggers Visita guiada para Brangulí. Barcelona 1909-1945 para Brangulí va ser aquí, i tu? / Alfonso Simó](0006_fon_simo_IMGP2455.jpg "CCCB Barcelona Photobloggers Visita guiada para Brangulí. Barcelona 1909-1945 para Brangulí va ser aquí, i tu? / Alfonso Simó")
 
