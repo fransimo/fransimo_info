@@ -18,4 +18,4 @@ implementar en un entorno empresarial con servidores SQL estándar.
 
 Durante mucho tiempo estuvo disponible on-line y he me ha apetecido rescatarlo.
 
-{{< embedpdf url="TESIS07_ed2011.pdf" >}}
+{{< embedpdf url="TESIS07_ed2011.es.pdf" >}}

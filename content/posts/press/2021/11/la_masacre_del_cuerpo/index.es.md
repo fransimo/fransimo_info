@@ -44,6 +44,6 @@ Exposición del 3 al 29 noviembre 2021.
 ### Galería de imágenes de la inauguración 
 
 {{< load-photoswipe >}}
-{{< gallery match="48*" caption-position="none" />}}
+{{< gallery match="48*" />}}
 © [Marcelo Aurelio](https://www.marceloaurelio.com/)
 

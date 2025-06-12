@@ -39,5 +39,5 @@ Exhibition from November 3 to 29, 2021.
 ### Image gallery from the opening
 
 {{< load-photoswipe >}}
-{{< gallery match="48*" caption-position="none" />}}
+{{< gallery match="48*"/>}}
 © [Marcelo Aurelio](https://www.marceloaurelio.com/)
