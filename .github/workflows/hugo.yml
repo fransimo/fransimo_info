@@ -1,9 +1,15 @@
-name: Hugo
+name: Hugo publish
+
+permissions:
+  contents: read
+  pull-requests: write
+  statuses: write
 
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches:
+      - main
+  pull_request:
 
 jobs:
   build:
