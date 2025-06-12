@@ -13,7 +13,7 @@ categories:
   - charlas
 ---
 
-![fotografia_intuitiva_dsc_2104.jpg](/es/var/log/2009/01/01/Fotografia-intuitiva/fotografia_intuitiva_dsc_2104.es.jpg)
+![fotografia_intuitiva_dsc_2104.jpg](/var/log/2009/01/01/Intuitive-Photography/fotografia_intuitiva_dsc_2104.jpg)
 
 Los organizadores de la [CampusMac](http://www.campusmac.info/) invitaron a Barcelona Photobloggers a participar, y ahí
 estuve explicando las cuatro cosas que sé de fotografía.
