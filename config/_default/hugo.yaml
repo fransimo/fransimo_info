@@ -5,7 +5,7 @@ pagination:
 enableRobotsTXT: true
 timeout: 120
 
-theme: ["hugo-book", "hugo-photoswipe5-gallery"]
+theme: ["hugo-book-render-images", "hugo-photoswipe5-gallery"]
 
 module:
   # uncomment line below for temporary local development of module
