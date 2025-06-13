@@ -74,3 +74,4 @@ jobs:
           storacha-key: ${{ secrets.STORACHA_KEY }}
           storacha-proof: ${{ secrets.STORACHA_PROOF }}
           github-token: ${{ github.token }}
+          set-github-status: true
