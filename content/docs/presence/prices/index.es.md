@@ -36,7 +36,7 @@ sanación. [Puedes leer más aquí](biodinamica_craneosacral.md).
 
 - **Duración:** 1 hora.
 - **En:** camilla.
-- **Precio:** 60€
+- **Precio:** ~~60€~~ las primeras tres sesiones gratuitas como parte de mis prácticas de estudiante.
 - **Lugar:** desplazamiento a tu lugar o sala contratada.
 
 ## Sesión holística

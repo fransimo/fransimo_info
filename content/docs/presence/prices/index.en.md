@@ -31,7 +31,7 @@ Craniosacral Biodynamics aims to restore the body's inherent health by awakening
 
 - **Duration:** 1 hour.  
 - **Setting:** massage table.  
-- **Price:** €60  
+- **Price:** ~~€60~~  first 3 session free as student practices.
 - **Location:** at your place or a rented space.  
 
 ## Holistic Session  
