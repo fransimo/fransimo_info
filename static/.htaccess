@@ -11,3 +11,4 @@ RewriteCond %{QUERY_STRING} ^p=9279$
 RewriteRule ^$ https://fransimo.info/docs/art/new_media_art/Shared_folder_v21/? [R=301,L]
 
 ErrorDocument 404 /404.html
+
