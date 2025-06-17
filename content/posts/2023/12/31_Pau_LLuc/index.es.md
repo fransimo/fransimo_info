@@ -4,6 +4,7 @@ description: "Sobre Pau Lluc"
 date: "2023-12-31"
 author: "Fran Simó"
 bookToc: false
+draft: true
 aliases:
   - /acerca_de/
   - /quien_soy/
