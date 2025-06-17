@@ -2,6 +2,7 @@
 author: "Fran Simó"
 bookFlatSection: false
 title: "Acerca del autor"
+weight: 30
 bookHidden: false
 bookToc: false
 aliases: 
