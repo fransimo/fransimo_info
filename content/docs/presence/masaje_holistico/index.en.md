@@ -1,6 +1,7 @@
 ---
 author: "Fran Simó"
 title: "Holistic Massage"
+weight: 50
 date: 2024-01-01
 categories:
   - massage

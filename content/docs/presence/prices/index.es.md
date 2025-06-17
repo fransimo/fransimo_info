@@ -4,6 +4,7 @@ description: "Tipos de masajes, precios y contexto"
 date: 2024-01-05
 author: "Fran Simó"
 aliases: /servicios/
+weight: 100
 ---
 
 # Tipos de sesiones y precios

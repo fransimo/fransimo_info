@@ -4,6 +4,7 @@ description: "Types of Sessions and Prices"
 date: 2024-01-05
 author: "Fran Simó"
 BookToC: true
+weight: 100
 ---
 # Types of Sessions and Prices  
 

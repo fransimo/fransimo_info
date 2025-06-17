@@ -11,7 +11,7 @@ aliases:
 
 {{% columns %}}
 
-![PauLluc.png](/docs/presence/PauLluc.png)
+![fransimo_therapies.png](/docs/presence/fransimo_therapies.png)
 
 <--->
 He dado masajes desde niño. He aprendido, y sigo aprendiendo técnicas, pero **la esencia es tocar con neutralidad

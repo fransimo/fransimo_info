@@ -163,7 +163,7 @@ params:
 
   # https://gohugo.io/templates/embedded/#configuration-open-graph
   images:
-  - https://fransimo.info/docs/presence/PauLluc.png
+  - https://fransimo.info/docs/presence/fransimo_therapies.png
 
   schema_org:
     name: Fran Simó

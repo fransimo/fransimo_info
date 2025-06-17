@@ -9,7 +9,7 @@ title: "Presence"
 
 {{% columns %}}
 
-![PauLluc.png](PauLluc.png)
+![fransimo_therapies.png](fransimo_therapies.png)
 
 <--->
 I have been giving massages since childhood. I have learned and continue to learn techniques, but **the essence is to touch with neutrality from the heart** and surrender to that _something_ we cannot comprehend, yet which guides us at all times.
