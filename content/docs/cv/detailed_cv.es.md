@@ -5,9 +5,6 @@ title: "Detailed CV"
 description: "Fran Simó's Curriculum Vitae (Education, Books, Exhibitions, Prizes, Press, Work experience)"
 bookHidden: false
 bookToc: true
-aliases:
-  - /post/formacion/ 
-  - /cv/
 ---
 
 # Fran Simó
@@ -30,41 +27,42 @@ Residence: drifting between Istanbul, Palma and Barcelona.
 
 ## Non-Formal - Massage and Art
 
-| Years     | Subject                                                                                                                                                                                                                   |
-|-----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024-...  | Craniosacral Biodynamics Therapy, Spanish Institute of Craniosacral Biodynamics (ongoing training) [+](https://biodinamicacraneosacral.org/)                                                                              |
-| 2022-2023 | Tantric Massage and Sexual Healing.Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                                        |
+| Years     | Subject                                                                                                                                                                                                                    |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2024-...  | Craniosacral Biodynamics Therapy, Spanish Institute of Craniosacral Biodynamics (ongoing training) [+](https://biodinamicacraneosacral.org/)                                                                               |
+| 2022-2023 | Tantric Massage and Sexual Healing.Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                                         |
 | 2015-2016 | [Les Clíniques d’Es Baluard](http://www.esbaluard.org/es/activitats/622/les-cliniques-des-baluard-201516/) by Javier Duero, Ignacio Cabrero, Rosa Pera, Joan Morey (Es Baluard Museu d’Art Modern i Contemporani de Palma) |
-| 2013      | Workshop “Explorar la creatividad” by [Javier Vallhonrat](http://es.wikipedia.org/wiki/Javier_Vallhonrat) (La Magistral).                                                                                                 |
-| 2012      | Workshop “Las confesiones de la mirada” by [Alberto García-Alix](http://es.wikipedia.org/wiki/Alberto_Garc%C3%ADa-Alix) (La Magistral).                                                                                   |
-| 2011      | Seminar on cultural management and contemporary creation by [Marta Gili](http://fr.wikipedia.org/wiki/Marta_Gili) (La Magistral).                                                                                         |
-| 2010      | Basic Arduino by [Alex Posada](http://alexposada.net/?lang=en) (Hangar/AAVC).                                                                                                                                        |
-| 2010      | Introduction to Interactive systems by [Alex Posada](http://alexposada.net/?lang=en) (Hangar/AAVC).                                                                                                                       |
-| 2009      | Workshop: Living from Photography in the 21st Century, by [Tino Soriano](http://es.wikipedia.org/wiki/Tino_Soriano).                                                                                                          |
-|           | Workshop: Reporting on Conflict Zones, by RUIDO Photo, by [Alfons Rodríguez](http://www.armphoto.com/).                                                                                                                      |
-| 2006      | Home studio music production, Centro Cívico Convento Sant Agustí by [Pau Guillamet](http://ca.wikipedia.org/wiki/Guillamino).                                                                                             |
-| 2003      | Introduction to black and white laboratory techniques Pati Llimona, by [Rocío Rodríguez Salceda](http://rociosalceda.wordpress.com/about/).                                                                               |
+| 2013      | Workshop “Explorar la creatividad” by [Javier Vallhonrat](http://es.wikipedia.org/wiki/Javier_Vallhonrat) (La Magistral).                                                                                                  |
+| 2012      | Workshop “Las confesiones de la mirada” by [Alberto García-Alix](http://es.wikipedia.org/wiki/Alberto_Garc%C3%ADa-Alix) (La Magistral).                                                                                    |
+| 2011      | Seminar on cultural management and contemporary creation by [Marta Gili](http://fr.wikipedia.org/wiki/Marta_Gili) (La Magistral).                                                                                          |
+| 2010      | Basic Arduino by [Alex Posada](http://alexposada.net/?lang=en) (Hangar/AAVC).                                                                                                                                              |
+| 2010      | Introduction to Interactive systems by [Alex Posada](http://alexposada.net/?lang=en) (Hangar/AAVC).                                                                                                                        |
+| 2009      | Workshop: Living from Photography in the 21st Century, by [Tino Soriano](http://es.wikipedia.org/wiki/Tino_Soriano).                                                                                                       |
+|           | Workshop: Reporting on Conflict Zones, by RUIDO Photo, by [Alfons Rodríguez](http://www.armphoto.com/).                                                                                                                    |
+| 2006      | Home studio music production, Centro Cívico Convento Sant Agustí by [Pau Guillamet](http://ca.wikipedia.org/wiki/Guillamino).                                                                                              |
+| 2003      | Introduction to black and white laboratory techniques Pati Llimona, by [Rocío Rodríguez Salceda](http://rociosalceda.wordpress.com/about/).                                                                                |
 
 ## Retreats
 
-| Year      | Subject                                                                                                                                                                                      |
-|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2024      | Tameana (Pleiadian Healing): Salugh paki, Ma'at, Puja, H'ama, and children. Angelica Alercia [+](https://www.instagram.com/angelica.alercia.ser/)                                            |
-|           | Men Discovering their Inner Space and Life Purpose.Krishnananda (Learning Love Institute [+](https://www.learningloveinstitute.com/about/?lang=es)) and Premamui [+](https://premamui.com/)  |
-|           | Sex in Meditation: Nurturing and Elevating Sexuality. Astiko [+](https://tantrawithastiko.com/)                                                                                                   |
-|           | The Essence of Touch. Muditosan [+](https://www.laesenciadeltacto.com/muditosan/)                                                                                                            |
-| 2023-2024 | Montserrat: Oct. 23, Abril and June 24. Juan Manuel Giordano [+](https://www.juanmanuelgiordano.com/)                                                                                        |
-| 2023      | Tantra Festival Mallorca.                                                                                                                                                                    |
-|           | The Body in its Natural State. Muditosan [+](https://www.laesenciadeltacto.com/muditosan/)                                                                                                   |
-|           | First Level Reiki (Usui Tibetan) Jesús Orellanoz [+](https://www.yogadva.com/)                                                                                                         |
-| 2022      | Tantra Festival Mallorca.                                                                                                                                                                    |
-|           | Intermediate Tantric Massage. Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                |
-| 2021-2023 | Channeling with Glòria and Miquel, Mallorca.                                                                                                                                                 |
-| 2021      | New Year's Retreat. Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                          |                                                                                                                                                                                      |
-| 2020      | Tantric Massage Level 1. Alicia Amezcua [+](https://aliciaamezcua.com/)                                                                                                                      |
-|           | Tantra for Couples. Adrià Tebé [+](https://www.instagram.com/adriatebe/)                                                                                                                     |
-| 2019      | Healing the inner child. Sarani Vilionyte [+](https://saranivilionyte.com/)                                                                                                                  |
-|           | Healing our Sexuality. Intimate Encounter. Tantric Massage. Sonia (Kala) Sellés [+](https://sexologiasensorial.com/) and Adrià Tebé (Superior Lover)                                         |
+| Year      | Subject                                                                                                                                                                                         |
+|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2025      | Lecce: March. Juan Manuel Giordano [+](https://www.juanmanuelgiordano.com/)                                                                                                                     |
+| 2024      | Tameana (Pleiadian Healing): Salugh paki, Ma'at, Puja, H'ama, and children. Angelica Alercia [+](https://www.instagram.com/angelica.alercia.ser/)                                               |
+|           | Men Discovering their Inner Space and Life Purpose.Krishnananda (Learning Love Institute [+](https://www.learningloveinstitute.com/about/?lang=es)) and Premamui [+](https://premamui.com/)     |
+|           | Sex in Meditation: Nurturing and Elevating Sexuality. Astiko [+](https://tantrawithastiko.com/)                                                                                                 |
+|           | The Essence of Touch. Muditosan [+](https://www.laesenciadeltacto.com/muditosan/)                                                                                                               |
+| 2023-2024 | Montserrat: Oct. 2023, Abril and June 2024. Juan Manuel Giordano [+](https://www.juanmanuelgiordano.com/)                                                                                       |
+| 2023      | Tantra Festival Mallorca.                                                                                                                                                                       |
+|           | The Body in its Natural State. Muditosan [+](https://www.laesenciadeltacto.com/muditosan/)                                                                                                      |
+|           | First Level Reiki (Usui Tibetan) Jesús Orellanoz [+](https://www.yogadva.com/)                                                                                                                  |
+| 2022      | Tantra Festival Mallorca.                                                                                                                                                                       |
+|           | Intermediate Tantric Massage. Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                   |
+| 2021-2023 | Channeling with Glòria and Miquel, Mallorca.                                                                                                                                                    |
+| 2021      | New Year's Retreat. Verma Rodriguez [+](https://vermakalavati.com/)                                                                                                                             |                                                                                                                                                                                      |
+| 2020      | Tantric Massage Level 1. Alicia Amezcua [+](https://aliciaamezcua.com/)                                                                                                                         |
+|           | Tantra for Couples. Adrià Tebé [+](https://www.instagram.com/adriatebe/)                                                                                                                        |
+| 2019      | Healing the inner child. Sarani Vilionyte [+](https://saranivilionyte.com/)                                                                                                                     |
+|           | Healing our Sexuality. Intimate Encounter. Tantric Massage. Sonia (Kala) Sellés [+](https://sexologiasensorial.com/) and Adrià Tebé (Superior Lover)                                            |
 |           | Embodying Shakti. Embodying Shiva. Authentic Love. Ecstasy Energy. Introduction to Tantric Massage. Tantra for Singles. Feminine Masculine. Adrià Tebé[+](https://www.instagram.com/adriatebe/) 
 
 # Group Exhibitions
@@ -106,12 +104,12 @@ My self-published books are listed [here](http://fransimo.info/books/).
 
 # Prizes
 
-| Year | Prize                                                                                                                                                                                                                                                                                                                                                                      |
-|------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 2017 | Finalist with Heaven at DOCfield Dummy Award Fundació Banc Sabadell                                                                                                                                                                                                                                                                                                        |
+| Year | Prize                                                                                                                                                                                                                                                                                                                                                                       |
+|------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2017 | Finalist with Heaven at DOCfield Dummy Award Fundació Banc Sabadell                                                                                                                                                                                                                                                                                                         |
 | 2017 | [Lumen Prize](https://lumenprize.com/) [Long list](https://www.evernote.com/shard/s11/client/snv?noteGuid=be7408bc-a2c4-4415-ad48-711e5300f240&noteKey=fe7aed069548d5545769e4ef6ecdbd2f&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs11%2Fsh%2Fbe7408bc-a2c4-4415-ad48-711e5300f240%2Ffe7aed069548d5545769e4ef6ecdbd2f&title=Longlist%2B2017%2B%257C%2BThe%2BLumen%2BPrize) |
-| 2015 | Finalist with [Traces](http://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/) at [DOCfield Dummy Award Fundació Banc Sabadell](https://docfieldbarcelona.org/en/entrega-del-docfield-dummy-award-fundacio-banc-sabadell/)                                                                                                                                      |
-| 2015 | [Lumen Prize](https://lumenprize.com/) Longlist                                                                                                                                                                                                                                                                                                                            |
+| 2015 | Finalist with [Traces](http://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/) at [DOCfield Dummy Award Fundació Banc Sabadell](https://docfieldbarcelona.org/en/entrega-del-docfield-dummy-award-fundacio-banc-sabadell/)                                                                                                                                       |
+| 2015 | [Lumen Prize](https://lumenprize.com/) Longlist                                                                                                                                                                                                                                                                                                                             |
 
 # Press
 
@@ -132,8 +130,8 @@ My self-published books are listed [here](http://fransimo.info/books/).
 
 # Residencies
 
-| Year      | Residency                                                              |
-|-----------|------------------------------------------------------------------------|
+| Year      | Residency                                                                 |
+|-----------|---------------------------------------------------------------------------|
 | 2024-2025 | Residency supported by Culture Moves Europe, Civitella di Licenza, Italy. |
 
 # Workshops, lectures, debates
@@ -146,10 +144,10 @@ My self-published books are listed [here](http://fransimo.info/books/).
 - Photography principles for CampusMac 2008, Barcelona, 2008.
 - Photography principles for CampusMac 2007, Barcelona, 2007.
 
-
 # Cultural management experience
 
-From 2006 to 2014, my main artistic activity involved creating, organizing, curating, and promoting participatory and collaborative projects
+From 2006 to 2014, my main artistic activity involved creating, organizing, curating, and promoting participatory and
+collaborative projects
 for  [Barcelona Photobloggers](http://barcelonaphotobloggers.org/), an on-line social network of amateur and
 professional photographers of Barcelona Area.
 
@@ -158,7 +156,8 @@ professional photographers of Barcelona Area.
   books, video and exhibit:[Tagomago Gallery](http://tagomago.com/).
   Within [DocField>14](http://docfieldbarcelona.org/en/) Barcelona. 2014
 - Exhibit: “La imagen de la semana II” Centre Civic Pati Llimona, Barcelona, 2014.
-- Mobile, real-time exhibit in Barcelona: fotometro.org, an initiative inviting participants to share their views on the crisis. It was shown simultaneously at 28 venues within the [Circuit 2013](http://circuitfotobarcelona.org/en/),
+- Mobile, real-time exhibit in Barcelona: fotometro.org, an initiative inviting participants to share their views on the
+  crisis. It was shown simultaneously at 28 venues within the [Circuit 2013](http://circuitfotobarcelona.org/en/),
   Documental Photography in Barcelona. 131 authors and 870 photos. 2013
 - Book: [Passengers 2012](http://passengers-streetphotography.com/eds), 2013
 - **Real time, world wide exhibit: [Ubiquography](http://ubiquography.com/) “capture, edit, publish, exhibit” in 35
@@ -171,7 +170,9 @@ professional photographers of Barcelona Area.
   video([es](https://vimeo.com/22812002),[en](https://vimeo.com/31446721)): “Arrinconado” Maremagnum, Barcelona, 2010**
 - Exhibit: “Tan cerca, tan lejos” Centre Cultural Calisay, Arenys de Mar, and Centre Civic Pati Llimona, Barcelona, 21
   photographers, 40 pictures, 2010.
-- Exhibit: “[Al Detall](http://barcelonaphotobloggers.org/2009/04/07/al-detall-tercera-exposicion-colectiva-de-barcelona-photobloggers/)” Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
+-
+Exhibit: “[Al Detall](http://barcelonaphotobloggers.org/2009/04/07/al-detall-tercera-exposicion-colectiva-de-barcelona-photobloggers/)”
+Maremagnum, Barcelona, 22 photographers, 72 pictures, 2009.
 - **Exhibit: “[elements](http://www.elements-barcelona.com/)” Maremagnum, Barcelona, 279 photographers, 1584 pictures,
   2008.**
 - Exhibit: “10è Fòrum Fotogràfic Can Basté”, Centre Civic Can Baste, Barcelona, 2008.
@@ -241,14 +242,11 @@ professional photographers of Barcelona Area.
   promotion for open participation. Exhibition: Centre Cultural Caja Madrid, Barcelona, 198 photographers, 1049
   pictures, May and June 2010.
 
-
-
 # Software engineering experience
-
 
 ## Hotelbeds
 
-### Lead Solution Architect 
+### Lead Solution Architect
 
 > 01/12/2023 – 30/08/2024 – Palma, Spain
 
@@ -271,7 +269,7 @@ Key Responsibilities:
 - Continuous Improvement: Optimize the architecture for performance, scalability, and cost-effectiveness while staying
   current with industry trends.
 
-### Enterprise Architect 
+### Enterprise Architect
 
 > 16/03/2021 – 01/12/2023 – Palma, Spain
 
@@ -280,7 +278,7 @@ data-driven business. I leverage tools such as Airflow, Kafka Connect, Snowflake
 infrastructure. Our goal is to lay the foundation for advanced analytics, with plans to integrate MLOps in the near
 future.
 
-### Applied Science Solution Architect 
+### Applied Science Solution Architect
 
 > 31/12/2018 – 16/03/2021 – Palma, Spain
 
@@ -289,7 +287,8 @@ Nationality: Spanish, Argentinian
 implement the solutions that helps the company to be take more data oriented decisions using from standard statistics to
 machine learning.
 
-Developed internal Python standards, created training material for development teams, and defined Airflow implementation.
+Developed internal Python standards, created training material for development teams, and defined Airflow
+implementation.
 
 ### QA Manager
 
@@ -313,8 +312,7 @@ Manage a team of Change, Release and Deploy analyst.
 Support the Continuous Deployment initiative by given the organization new process to facilitate the transformation to a
 product oriented methodology.
 
-
-### Release and Deployment Manager 
+### Release and Deployment Manager
 
 > 22/06/2014 – 30/11/2016
 
@@ -338,7 +336,8 @@ Stash, Bamboo, JIRA integration.
 * (linux/weblogic)
 * Design, develop and implement life cycles for software development from change requests to
 * deployments using subversion, hudson/jenkins, ant, maven and scripting. (Implementing SCM patterns)
-* Configure Continuous Integration tools and testing environments: Linux, hudson (servers and slaves), subversion, apache,
+* Configure Continuous Integration tools and testing environments: Linux, hudson (servers and slaves), subversion,
+  apache,
 * sonar servers.
 * Also design, manage and implement JIRA workflows.
 
@@ -355,13 +354,12 @@ Stash, Bamboo, JIRA integration.
 
 ## Cruïlla Informática SCCL
 
-### Computer systems analyst 
+### Computer systems analyst
 
 > 31/01/1999 – 30/12/2000
 
 * Visual Basic programming and testing.
 * Novell network administration.
-
 
 ## Freelance IT consulting
 
@@ -371,8 +369,3 @@ Stash, Bamboo, JIRA integration.
 * Environments: Novell 3.12, DOS, Win 3.1/95/98, LANtastic, Linux.
 * Software: Paradox para Windows, MS FoxPro 2.5, Delphi, C++., RM-Cobol 74, 8x y 85.Borland Turbo.
 * Basic. Borland Pascal. CA-Clipper 87, 5.1.
-
-
-
-
-
