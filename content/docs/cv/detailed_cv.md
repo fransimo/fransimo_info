@@ -103,7 +103,7 @@ Some of my works have been included in the following books:
 - _Barcelona_, La Fábrica, [ISBN 978-8415691679](http://amzn.to/1IcRaSl).
 - _Central Park NYC: An Architectural View_, Universe Books, [ISBN 978-0847840793](http://amzn.to/1faEjJz).
 
-My self-published books are listed [here](http://fransimo.info/books/).
+My self-published books are listed [here](/docs/art/books/).
 
 # Prizes
 
