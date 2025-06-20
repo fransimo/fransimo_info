@@ -39,3 +39,18 @@ AUDIENCE=$(jq -r .did ci-key.json)
 w3 delegation create $AUDIENCE -c space/blob/add -c space/index/add -c filecoin/offer -c upload/add --base64 > proof.key
 W3_PROOF=$(cat proof.key )
 w3 space add $W3_PROOF
+
+# ipns
+
+docker exec ipfs_host ipfs key gen fransimo_info
+docker exec ipfs_host ipfs key export fransimo_info  --output=/export/fransimo_info.ipfs.key
+
+# Key import
+docker exec ipfs_host ipfs key import fransimo_info fransimo_info.ipfs.key
+
+$ cp fransimo_info.ipfs.key ~/ipfs/staging/
+$ docker exec ipfs_host ipfs key import fransimo_info /export/fransimo_info.ipfs.key
+
+# ipns update
+
+docker exec ipfs_host ipfs name publish --key=k51qzi5uqu5dhiu7v9v01yb6i69yu4luny793hwl19knqbqdgv97x7s949h0h1 --lifetime 48h --ttl 48h /ipfs/bafybeihqhzaiuxsgqtinuueuiqdhnvfixsfqiv3s72eecvb5zmcjxdkksq

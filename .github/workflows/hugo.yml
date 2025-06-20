@@ -82,11 +82,11 @@ jobs:
           echo "${{secrets.DEPLOY_KEY}}" > deploy_key
           ls -la deploy_key
           chmod 600 ./deploy_key
-          echo Header set x-ipfs-path "/ipfs/${{ steps.deploy.outputs.cid }}%{REQUEST_URI}s" >> ./public/.htaccess
+          echo "/ipfs/${{ steps.deploy.outputs.cid }}" >> ./public/cid.txt
           rsync -chav \
             -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no' \
             --exclude /deploy_key \
             --exclude /.git/ \
             --exclude /.github/ \
-            ./public/.htaccess "${{secrets.DEST}}"
+            ./public/cid.txt "${{secrets.DEST}}"
           rm deploy_key          

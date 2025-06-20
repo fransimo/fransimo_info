@@ -12,3 +12,4 @@ RewriteRule ^$ https://fransimo.info/docs/art/new_media_art/Shared_folder_v21/? 
 
 ErrorDocument 404 /404.html
 
+Header set x-ipfs-path "/ipns/k51qzi5uqu5dhiu7v9v01yb6i69yu4luny793hwl19knqbqdgv97x7s949h0h1%{REQUEST_URI}s"
