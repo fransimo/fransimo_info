@@ -76,7 +76,7 @@ jobs:
           github-token: ${{ github.token }}
           set-github-status: true
 
-      - name: Add IPFS header
+      - name: Add IPFS cid.txt file
         # https://stackoverflow.com/questions/54503807/how-to-access-the-value-of-secrets-in-github-actions
         run: |
           echo "${{secrets.DEPLOY_KEY}}" > deploy_key
