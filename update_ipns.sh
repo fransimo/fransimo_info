@@ -10,7 +10,7 @@ if ! cmp -s "$new_cid" "$old_cid"; then
     echo "CID has changed."
     echo $new_cid
     docker exec ipfs_host ipfs name publish --key=k51qzi5uqu5dhiu7v9v01yb6i69yu4luny793hwl19knqbqdgv97x7s949h0h1 --lifetime 48h --ttl 48h $new_cid
-    cp "$NEW_FILE" "$OLD_FILE"
+    cp new_cid.txt old_cid.txt
 else
     echo "CID has not changed."
 fi
