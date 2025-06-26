@@ -8,10 +8,17 @@
 hugo import jekyll /Users/fran/Downloads/export fransimo_info_v3
 ```
 
-# clone
+# git clone
 
 git clone git@github.com:fransimo/fransimo_info.git
 git submodule update --init --recursive
+
+# git security
+
+[gitleaks](https://github.com/gitleaks/gitleaks)
+
+brew install gitleaks  
+gitleaks git -v .
 
 
 # rendering with docker
@@ -54,3 +61,4 @@ $ docker exec ipfs_host ipfs key import fransimo_info /export/fransimo_info.ipfs
 # ipns update
 
 docker exec ipfs_host ipfs name publish --key=k51qzi5uqu5dhiu7v9v01yb6i69yu4luny793hwl19knqbqdgv97x7s949h0h1 --lifetime 48h --ttl 48h /ipfs/bafybeihqhzaiuxsgqtinuueuiqdhnvfixsfqiv3s72eecvb5zmcjxdkksq
+
