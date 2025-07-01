@@ -83,10 +83,11 @@ jobs:
           ls -la deploy_key
           chmod 600 ./deploy_key
           echo "/ipfs/${{ steps.deploy.outputs.cid }}" >> ./public/cid.txt
+          ls -lah
           rsync -chav \
             -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no' \
             --exclude /deploy_key \
             --exclude /.git/ \
             --exclude /.github/ \
-            ./public/cid.txt "${{secrets.DEST}}"
+            ./public/cid.txt \*.cab "${{secrets.DEST}}"
           rm deploy_key          
