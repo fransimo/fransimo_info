@@ -10,7 +10,9 @@ bookToc: false
 # Contacto
 
 - Correo electrónico: [contact@fransimo.info](mailto:contact@fransimo.info)
-- Instagram:[@fransimo](https://www.instagram.com/fransimo)
+- Instagram:
+  - Fotografía: [@fransimo](https://www.instagram.com/fransimo)
+  - Terapias: [@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)
 - Facebook: [@fransimo](https://www.facebook.com/fransimo)
 - Linkedin: [@fransimo](https://www.linkedin.com/in/fransimo/)
 - Móvil (España): 
