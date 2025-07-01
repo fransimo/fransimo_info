@@ -89,5 +89,5 @@ jobs:
             --exclude /deploy_key \
             --exclude /.git/ \
             --exclude /.github/ \
-            ./public/cid.txt \*.cab "${{secrets.DEST}}"
+            ./public/cid.txt build.car "${{secrets.DEST}}"
           rm deploy_key          
