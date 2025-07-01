@@ -1,7 +1,8 @@
 ---
 author: "Fran Simó"
 bookFlatSection: false
-title: "Acerca del autor"
+title: "Acerca de ..."
+description: "Acerca de Fran Simó"
 weight: 30
 bookHidden: false
 bookToc: false
@@ -26,7 +27,7 @@ sanación sexual, construyendo una base sólida para mi práctica como sanador.
 
 En el arte, mis proyectos abarcan temas de vida, identidad, memoria y privacidad, utilizando la fotografía, el video,
 los libros, los fanzines y el transmedia. _El arte es pensamiento plástico. Un vaivén entre ideas y estética. La belleza
-de una obra es un abismo en los muros de la caverna. Si al crearse vibra, la onda encontrará sus acordes y sacudirá el
+de una obra es un orificio en las paredes de la caverna. Si al crearse vibra, la onda encontrará sus acordes y sacudirá el
 mundo._
 
 También aporto 26 años de experiencia como ingeniero de software en multinacionales, implementando soluciones

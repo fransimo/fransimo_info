@@ -1,6 +1,7 @@
 ---
 author: "Fran Simó"
 title: 'About'
+description: 'About Fran Simó'
 weight: 30
 bookFlatSection: false
 bookCollapseSection: true
