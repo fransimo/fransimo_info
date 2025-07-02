@@ -1,6 +1,7 @@
 ---
 author: "Fran Simó"
 title: 'Contacto'
+description: 'Contacto'
 weight: 40
 bookFlatSection: false
 bookCollapseSection: false

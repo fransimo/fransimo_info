@@ -5,6 +5,7 @@ author: "Fran Simó"
 bookFlatSection: false
 bookCollapseSection: false
 title: "Code"
+description: 'Code'
 ---
 
 # Code

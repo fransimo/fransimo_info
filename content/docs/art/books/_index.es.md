@@ -3,6 +3,7 @@ author: "Fran Simó"
 categories:
 - books, zines and so
 title: Books & zines
+description: 'Books & zines de Fran Simó'
 images:
   - /docs/art/books/Passengers_2013_2017/Passengers_Vol_III.jpg
 bookFlatSection: false
