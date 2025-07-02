@@ -6,6 +6,7 @@ bookFlatSection: false
 bookCollapseSection: false
 bookToc: false
 title: "Statement"
+description: "Artist Statement de Fran Simo"
 aliases: 
   - /es/statement/
 ---

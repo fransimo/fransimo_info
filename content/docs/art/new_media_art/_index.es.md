@@ -1,6 +1,7 @@
 ---
 author: "Fran Simó"
 title: New media art
+description: 'New media art por Fran Simó'
 images:
   - IMG_5027-Editar-2.jpg
 categories:
