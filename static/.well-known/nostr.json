@@ -1,0 +1,10 @@
+{
+  "names": {
+    "fransimo": "npub103xe87eadsz4cqhn5jf7l6gt46l9pnqulvl2343ejv6fx4p7a3assg4mg0"
+  },
+  "relays": {
+    "npub103xe87eadsz4cqhn5jf7l6gt46l9pnqulvl2343ejv6fx4p7a3assg4mg0": [
+      "wss://iris.to"
+    ]
+  }
+}
