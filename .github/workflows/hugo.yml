@@ -83,11 +83,12 @@ jobs:
           ls -la deploy_key
           chmod 600 ./deploy_key
           echo "/ipfs/${{ steps.deploy.outputs.cid }}" >> ./public/cid.txt
+          echo Header set x-ipfs-path "/ipfs/${{ steps.deploy.outputs.cid }}%{REQUEST_URI}s" >> ./public/.htaccess
           ls -lah
           rsync -chav \
             -e 'ssh -i ./deploy_key -o StrictHostKeyChecking=no' \
             --exclude /deploy_key \
             --exclude /.git/ \
             --exclude /.github/ \
-            ./public/cid.txt build.car "${{secrets.DEST}}"
+            ./public/cid.txt ./public/.htaccess ./build.car "${{secrets.DEST}}"
           rm deploy_key          
