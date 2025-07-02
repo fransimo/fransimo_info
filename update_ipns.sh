@@ -13,6 +13,7 @@ if [ "$new_cid" != "$old_cid" ] ; then
     echo $new_cid
     curl -s https://fransimo.info/build.car -o /tmp/build.car
     rm ~/ipfs/staging/build.car
+    /usr/local/bin/docker exec ipfs_host ipfs pin ls --type recursive | cut -d' ' -f1 | xargs -n1 /usr/local/bin/docker exec ipfs_host ipfs pin rm
     mv /tmp/build.car ~/ipfs/staging/
     /usr/local/bin/docker exec ipfs_host ipfs dag import /export/build.car
     /usr/local/bin/docker exec ipfs_host ipfs name publish --key=k51qzi5uqu5dhiu7v9v01yb6i69yu4luny793hwl19knqbqdgv97x7s949h0h1 --lifetime 48h --ttl 48h $new_cid
