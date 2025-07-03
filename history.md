@@ -1,6 +1,6 @@
 # Hisorty
 
-- Use wordpress pligin to export site
+- Use wordpress plugin to export site
   - https://github.com/benbalter/wordpress-to-jekyll-exporter  ( <= this works! )
   - https://github.com/SchumacherFM/wordpress-to-hugo-exporter ( <= this FAILS! )
 - import https://gohugo.io/commands/hugo_import/
