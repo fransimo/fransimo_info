@@ -61,4 +61,47 @@ a:active {
     padding: 2px 4px;
 }
 
+/* horizontal-scroll-container for home  */
 
+.horizontal-scroll-container {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  gap: 1rem;
+  padding-bottom: 1rem;
+}
+
+.horizontal-scroll-container::-webkit-scrollbar {
+  height: 8px;
+}
+
+.horizontal-scroll-container::-webkit-scrollbar-thumb {
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 4px;
+}
+
+.scroll-item {
+  scroll-snap-align: start;
+  flex: 0 0 auto;
+  max-width: 100%;
+}
+
+figure {
+  margin: 0;
+  text-align: center;
+}
+
+figure img {
+  max-height: 300px;
+  height: auto;
+  width: auto;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  font-size: 0.9rem;
+  color: #555;
+  margin-top: 0.5rem;
+}
