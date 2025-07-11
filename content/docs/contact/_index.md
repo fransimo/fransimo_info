@@ -11,6 +11,7 @@ bookToc: false
 # Contact
 
 - Mail: [contact@fransimo.info](mailto:contact@fransimo.info)
+  - [PGP_Public_Key](/pgp/PGP_Public_Key_Fran_Simo.asc)
 - Instagram:
   - Photo [@fransimo](https://www.instagram.com/fransimo)
   - Therapies: [@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)

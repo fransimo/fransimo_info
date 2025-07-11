@@ -11,6 +11,7 @@ bookToc: false
 # Contacto
 
 - Correo electrónico: [contact@fransimo.info](mailto:contact@fransimo.info)
+  - [PGP_Public_Key](/pgp/PGP_Public_Key_Fran_Simo.asc)
 - Instagram:
   - Fotografía: [@fransimo](https://www.instagram.com/fransimo)
   - Terapias: [@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)
