@@ -102,5 +102,5 @@ La biblioteca contiene 17934 fotografías, después de haber borrado la pedofili
 
 # Contenido completo
 
-{{< embedpdf url="Shared_folder_with_photos_and_scan.pdf" >}}
-[PDF Download](Shared_folder_with_photos_and_scan.pdf)
+{{< embedpdf url="/docs/art/new_media_art/Shared_folder_red_box/Shared_folder_with_photos_and_scan.pdf" >}}
+[PDF Download](/docs/art/new_media_art/Shared_folder_red_box/Shared_folder_with_photos_and_scan.pdf)
