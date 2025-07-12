@@ -28,7 +28,7 @@ Residence: drifting between Istanbul, Palma and Barcelona.
 | 1992-1998 | Information systems engineer - Universidad Tecnológica Nacional, Córdoba, Argentina.           |
 | 1986-1991 | Computer technician - Colegio Nacional Villa Carlos Paz, Villa Carlos Paz, Argentina.          |
 
-## Non-Formal - Massage and Art
+## Non-Formal - Therapies and Art
 
 | Years     | Subject                                                                                                                                                                                                                    |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -103,7 +103,22 @@ Some of my works have been included in the following books:
 - _Barcelona_, La Fábrica, [ISBN 978-8415691679](http://amzn.to/1IcRaSl).
 - _Central Park NYC: An Architectural View_, Universe Books, [ISBN 978-0847840793](http://amzn.to/1faEjJz).
 
-My self-published books are listed [here](/docs/art/books/).
+## Self published books
+
+| Año | Detalles                                                                                |
+| :---- |:----------------------------------------------------------------------------------------|
+| 2019 | Fanzine: [Susurros](/docs/art/books/Susurros/)                                          |
+| 2019 | Book: [CODE by R. Mutt](/docs/art/books/Code_by_r_mutt/)                                |
+| 2017 | Book: [Passengers Vol. III](/docs/art/books/Passengers_Vol_III/)                        |
+| 2017 | Artist book: [Heaven](/docs/art/books/Heaven/)                                          |
+| 2017 | Magazine: [S’Arenal Summertime 2016](/docs/art/books/SArenal_summertime_2016/)          |
+| 2016 | Artist book: [Shared Folder (Red box)](/docs/art/new_media_art/Shared_folder_red_box/)  |
+| 2014 | Fanzine: [22.2](/docs/art/books/22.2/)                                                  |
+| 2013 | Book collection: [Traces \- 2013.12.07 \- Barcelona](/docs/art/books/Traces_barcelona/) |
+| 2012 | Book: [Passengers 2012](/docs/art/books/Passengers_2012/)                               |
+| 2011 | Book: [Passengers](/docs/art/books/Passengers/)                                         |
+| 2011 | Book: [Arrinconado](/docs/art/books/Arrinconado/)                                       |
+| 2009 | Artist book and site-specific installation: [22](/docs/art/books/22/)                   |
 
 # Prizes
 

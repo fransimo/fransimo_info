@@ -100,7 +100,23 @@ Algunas de mis obras se han incluido en los siguientes libros:
 - *Barcelona*, La Fábrica, [ISBN 978-](http://amzn.to/1IcRaSl)8415691679\.  
 - *Central Park NYC: An Architectural* View, Universe Books, [ISBN 978-](http://amzn.to/1faEjJz)0847840793\.
 
-Mis libros autopublicados figuran [aquí](/docs/art/books/).
+## Libros autopublicados
+
+| Año | Detalles                                                                                    |
+| :---- |:--------------------------------------------------------------------------------------------|
+| 2019 | Fanzine: [Susurros](/docs/art/books/Susurros/)                                              |
+| 2019 | Libro: [CODE by R. Mutt](/docs/art/books/Code_by_r_mutt/)                                   |
+| 2017 | Libro: [Passengers Vol. III](/docs/art/books/Passengers_Vol_III/)                           |
+| 2017 | Libro de artista: [Heaven](/docs/art/books/Heaven/)                                         |
+| 2017 | Revista: [S’Arenal Summertime 2016](/docs/art/books/SArenal_summertime_2016/)               |
+| 2016 | Libro de artista: [Shared Folder (Red box)](/docs/art/new_media_art/Shared_folder_red_box/) |
+| 2014 | Fanzine: [22.2](/docs/art/books/22.2/)                                                      |
+| 2013 | Serie de libros: [Traces \- 2013.12.07 \- Barcelona](/docs/art/books/Traces_barcelona/)     |
+| 2012 | Libro: [Passengers 2012](/docs/art/books/Passengers_2012/)                                  |
+| 2011 | Libro: [Passengers](/docs/art/books/Passengers/)                                            |
+| 2011 | Libro: [Arrinconado](/docs/art/books/Arrinconado/)                                          |
+| 2009 | Libro de artista e instalación site-specific: [22](/docs/art/books/22/)                     |
+
 
 # Premios
 
