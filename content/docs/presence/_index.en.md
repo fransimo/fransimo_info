@@ -5,7 +5,6 @@ author: "Fran Simó"
 bookFlatSection: false
 bookCollapseSection: false
 title: "Presence"
-aliases: /therapies
 ---
 
 {{% columns %}}
