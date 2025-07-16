@@ -7,6 +7,7 @@ bookCollapseSection: false
 title: "Presencia"
 aliases:
   - /post/el_masaje/
+  - /terapias/
 ---
 
 {{% columns %}}

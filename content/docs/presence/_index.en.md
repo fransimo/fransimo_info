@@ -5,6 +5,7 @@ author: "Fran Simó"
 bookFlatSection: false
 bookCollapseSection: false
 title: "Presence"
+aliases: /therapies
 ---
 
 {{% columns %}}
@@ -22,5 +23,3 @@ If you feel the calling, you can check out the [services and prices](prices/) an
 **May our hearts illuminate the path!**
 
 {{% /columns %}}
-
-
