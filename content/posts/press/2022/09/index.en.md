@@ -7,7 +7,7 @@ created: 2025-03-08T14:49:24 (UTC +03:00)
 tags: [Alicante, Casa Planas, open art, festival, Las Cigarreras, Exhibition, Residencies, Talks, Workshops, Casa Bardín, Contemporary Art, Museum Consortium]
 source: https://www.informacion.es/cultura/2022/09/29/open-art-festival-quince-nuevas-76058431.html
 author: Cristina Martínez
-description: hola
+description: "New Festival in Alicante. Open Art Festival, Fifteen New Perspectives on Contemporary Art"
 ---
 
 ![Lot Amoros drones](LotAmoros_drones.webp)
