@@ -25,6 +25,14 @@ Primary Respiration," the manifestation of life itself from conception.
 Training in this discipline allows practitioners to perceive primary respiration, or the "Tides," and use them as a
 basis for evaluation and treatment.
 
+Sessions are usually 1 hour long and consist of 4 parts, a short talk and three body contact positions where practitioner
+hands are not moving.
+
+The practitioner doesn't manipulate or channel any energy to the client. The objetive is to maintain a safe and
+non-judgment space where the forces that organize the client system can express and through that expression find a way
+to re-organize itself. It empowers self-healing. Pain and trauma left a inprint in the energy flows in our bodies. This
+inprint can be eased, even when the client doesn't remember the event that caused the inprint.
+
 I'm studying at [Spanish Institute of Craniosacral Biodynamics](https://biodinamicacraneosacral.org/es/que-es-2/). My
 teachers approach combines the views of Andrew Taylor Still, William G. Sutherland, Rollin Becker, James S. Jealous,
 John Upledger, Franklyn Sills and Ray Castelino.
@@ -34,3 +42,4 @@ You can check prices and service limitations [here](../prices/).
 More information at:
 - [International Institute for Craniosacral Balancing](https://www.icsb.ch/en/biodynamik/)
 - [Biodynamic Craniosacral Therapy Association of North America](https://www.craniosacraltherapy.org/what-is-bcst-)
+- [Selected YouTube videos](https://www.youtube.com/playlist?list=PLDtuqx9znDF8dJ0VCmarHeYGpuNALTYeP)
