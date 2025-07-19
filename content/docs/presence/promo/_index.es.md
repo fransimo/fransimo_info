@@ -68,32 +68,22 @@ cristales de cuarzo.
 
 # ¿Qué me conviene Biodinámica o Tameana?
 
-He elegido estas dos técnicas porque comparten algunas características:
+En esta tabla puedes ver algunos aspectos clave de ambas terapias. 
 
-- son no intrusivas,
-- el cliente no tiene que explicar con palabras detalles íntimos o privados, en biodinámica se pueden explicar las
-  sensaciones o dolencias corporales
-- el practicante ayuda a un proceso pero no lo dirige
-- ambas formas de terapias han tenido un gran impacto en mi vida al recibirlas como cliente
+| Aspecto                              | Biodinámica Craneosacral                                      | Tameana                                                        |
+|--------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
+| Origen                               | Basada en estudios científicos y linaje académico              | Canalizada por Juan Manuel Giordano                            |
+| Raíces culturales                    | Medicina osteopática, Europa y EE.UU.                          | Sabiduría espiritual Cheroquí                                  |
+| Naturaleza de la técnica             | Terapia corporal basada en la escucha del cuerpo               | Terapia energética vibracional con cristales de cuarzo         |
+| Contacto físico                      | Sí, muy sutil, sin movimiento                                  | No requiere contacto; puede hacerse a distancia                |
+| Papel del practicante                | Acompaña sin dirigir el proceso del cuerpo                     | Sostiene el espacio para el flujo energético                   |
+| Participación del cliente            | Puede expresar sensaciones corporales si lo desea              | No necesita hablar ni compartir nada personal                  |
+| Enfoque terapéutico                  | Facilita la autorregulación del cuerpo                         | Alinea al receptor con su propósito del alma                   |
+| Duración del entrenamiento           | 3 años, con supervisión continua                               | Formación breve y directa                                      |
+| Base teórica y bibliografía          | Amplia, con estudios y publicaciones                           | No académica, basada en experiencia directa y canalización     |
+| Impacto esperado                     | Reorganización interna, liberación de tensiones y traumas      | Transformación energética en todos los niveles                 |
 
-Diferencias:
-
-Biodinamica craneosacral está basada en un desarrollo científico con un linaje de profesores que han presentado estudios
-y cuenta con una bibliografía que avala un proceso de investigación y practica. El entrenamiento básico en casi todas
-las escuelas es de tres años y es supervisado por profesores en cada paso.
-
-Tameana es una forma de terapia basada en estados vibracionales que se consiguen activando cristales de cuarzo. Ha sido
-canalizada por Juan Manuel Giordano. Tiene sus raíces y fuerte conexiones con la sabiduría Cheroquí.
-
-Biodinamica craneosacral es una técnica que ayuda al cuerpo a sanarse por si mismo, en la forma que el cuerpo considera importante en el presente.
-
-Tameana es un flujo de energía que causa un efecto en todos los niveles (físico, energético y espiritual) que transforma
-a la persona que lo recibe alineándola con un proposito almico.
-
-Biodinamica craneosacral implica un contacto físico, muy sutil y casi sin moviemiento.
-
-Tamena no requiere ningún contacto e incluso puede hacerse a distancia.
-
+Utilizo estas técnicas porque ambas han causado un gran impacto en mi vida al recibirlas como cliente.
 
 # ¡Contáctame!
 
