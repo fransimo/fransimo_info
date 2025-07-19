@@ -25,13 +25,15 @@ Primary Respiration," the manifestation of life itself from conception.
 Training in this discipline allows practitioners to perceive primary respiration, or the "Tides," and use them as a
 basis for evaluation and treatment.
 
-Sessions are usually 1 hour long and consist of 4 parts, a short talk and three body contact positions where practitioner
-hands are not moving.
+Sessions usually last about 1 hour and consist of four parts: a short talk and three still contact phases where the
+practitioner's hands remain in fixed positions.
 
-The practitioner doesn't manipulate or channel any energy to the client. The objetive is to maintain a safe and
-non-judgment space where the forces that organize the client system can express and through that expression find a way
-to re-organize itself. It empowers self-healing. Pain and trauma left a inprint in the energy flows in our bodies. This
-inprint can be eased, even when the client doesn't remember the event that caused the inprint.
+The practitioner does not manipulate or channel energy to the client. The objective is to maintain a safe,
+non-judgmental space where the forces that organize the client’s system can express themselves and, through that
+expression, find a way to reorganize. It empowers self-healing.
+
+Pain and trauma often leave an imprint on the body’s energy flows. This imprint can be eased—even when the client
+doesn’t consciously remember the event that caused it.
 
 I'm studying at [Spanish Institute of Craniosacral Biodynamics](https://biodinamicacraneosacral.org/es/que-es-2/). My
 teachers approach combines the views of Andrew Taylor Still, William G. Sutherland, Rollin Becker, James S. Jealous,
