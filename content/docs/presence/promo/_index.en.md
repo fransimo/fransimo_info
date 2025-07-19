@@ -1,7 +1,7 @@
 ---
 author: "Fran Simó"
-title: "Istanbul promotion"
-description: "Craniosacral Biodynamics and Tameana Istanbul promotion"
+title: "Istanbul Promotion"
+description: "Craniosacral Biodynamics and Tameana promotion in Istanbul"
 date: 2025-07-16
 weight: 120
 categories:
@@ -15,61 +15,59 @@ aliases:
   - /therapies/
 ---
 
-Hi I’m Fran. I was born in Argentina and have lived in Spain for the past 26 years. Last year, I decided to leave my
-corporate life behind and focus on art and healing. I'm living in Istanbul since March 2025.
+Hi, I’m Fran. I was born in Argentina and have lived in Spain for the past 26 years. Last year, I decided to leave my
+corporate life behind and focus on art and healing. I’ve been living in Istanbul since March 2025.
 
 # Craniosacral Biodynamics
 
-I’m currently studying Craniosacral Biodynamics and I’m offering free sessions as part of my training. Would you like to
+I’m currently studying Craniosacral Biodynamics and offering free sessions as part of my training. Would you like to
 give it a try?
 
 [Craniosacral Biodynamic](../biodinamica_craneosacral) sessions are done fully clothed on a massage table. The touch is
-super gentle, non-invasive, with minimal movement. The idea is to **help the body reconnect with its natural healing
-abilities**.
+super gentle, non-invasive, and involves minimal movement. The purpose is to **help the body reconnect with its natural
+healing abilities**.
 
-Sessions are usually 1 hour long and consist of 4 parts, a short talk and three body contact positions where practitioner
-hands are not moving.
+Sessions usually last about 1 hour and consist of four parts: a short talk and three still contact phases where the
+practitioner's hands remain in fixed positions.
 
-The practitioner doesn't manipulate or channel any energy to the client. The objetive is to maintain a safe and
-non-judgment space where the forces that organize the client system can express and through that expression find a way
-to re-organize itself. It empowers self-healing. Pain and trauma left a inprint in the energy flows in our bodies. This
-inprint can be eased, even when the client doesn't remember the event that caused the inprint.
+The practitioner does not manipulate or channel energy to the client. The objective is to maintain a safe,
+non-judgmental space where the forces that organize the client’s system can express themselves and, through that
+expression, find a way to reorganize. It empowers self-healing.
 
-**The promotion gives you three sessions for free**, which is the most common treatment. Session are usually scheduled
+Pain and trauma often leave an imprint on the body’s energy flows. This imprint can be eased—even when the client
+doesn’t consciously remember the event that caused it.
+
+**This promotion includes three free sessions**, which is the most common treatment plan. Sessions are usually scheduled
 every three weeks.
 
-Session can be done at your house or in a rented space. If we're working at your place I need to know if I need to cary
+They can be done at your home or in a rented space. If we’re working at your place, I’ll need to know if I should bring
 the massage table.
 
-Please note that if we need to rent a space, you will be responsible for the cost. I found a place to work
-which charges 750 TRY per hour. You'll pay to the place in cash to them. I’m open to working in another space if you
-know of one.
+Please note: if we need to rent a space, you will be responsible for the cost. I currently use a space that charges 750
+TRY per hour. You’ll pay them directly in cash. I’m also open to working in other locations if you have one in mind.
 
 # Tameana
 
 I also offer a technique called [Tameana](../tameana). It uses quartz crystals to raise the vibrational frequency of the
-physical and
-energetic bodies, which can help the soul navigate the physical world more easily.
+physical and energetic bodies, which can help the soul navigate the material world more easily.
 
-Tameana can be used:
+Tameana can be used for:
 
 - _Salush Nahí_: to elevate the vibration of people (align you with your higher purpose)
-- _H’ama_: situations (like getting clarity on a subject) or places (to clean a house energy).
+- _H’ama_: for situations (e.g., gaining clarity on a topic) or spaces (e.g., cleansing a house’s energy)
 
-**You can have one personal session for free**, the usual treatment take 3 weeks, one session per week. **This offer is
-limited in time and it's special for people living in Istanbul** that may not know this kind of work.
+**You can receive one free personal session.** The usual treatment consists of three weekly sessions over three weeks. *
+*This offer is for a limited time and is especially for people living in Istanbul** who may not be familiar with this
+kind of work.
 
-H’ama (situational and places) works are not for free.
+H’ama sessions for spaces or situations are not included in the free offer.
 
-The session can be in person or remotely. If it's done in person you'll be laying on the floor surrounded by quartz
-crystals.
+The session can be done in person or remotely. In person, you’ll lie on the floor surrounded by quartz crystals.
 
-# Get in touch!
+# Get in Touch!
 
-If you feel it, you can reach me here:
+If you feel called, you can reach me here:
 
-- Instagram:[@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)
-- Mobile (Spain): [WhatsApp](https://wa.me/+34655384230)
-- Mobile (Turkey): [WhatsApp](https://wa.me/+905455564393)
-
-
+- Instagram: [@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)
+- WhatsApp (Spain): [+34 655 384 230](https://wa.me/+34655384230)
+- WhatsApp (Turkey): [+90 545 556 4393](https://wa.me/+905455564393)
