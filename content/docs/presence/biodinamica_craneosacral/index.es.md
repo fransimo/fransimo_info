@@ -30,6 +30,16 @@ evaluación y el tratamiento.
 Una sesión de biodinámica se realiza en camilla de masaje, con ropa, hay un contacto con las manos muy suave, casi sin
 movimiento.
 
+Las sesiones duran aproximadamente una hora y constan de cuatro partes: una pequeña conversación inicial y tres fases de
+contacto inmóvil donde las manos del practicante permanecen en una posición fija.
+
+El practicante no manipula ni canaliza energía al cliente. El objetivo es mantener un espacio seguro y sin juicios,
+donde las fuerzas que organizan el sistema del cliente puedan expresarse y, a través de esa expresión, encontrar una
+nueva forma de reorganizarse. Esto potencia la autocuración.
+
+El dolor y el trauma suelen dejar una huella en los flujos energéticos del cuerpo. Esta huella puede aliviarse, incluso
+si el cliente no recuerda conscientemente el evento que la causó.
+
 Soy estudiante del [Instituto Español de Biodinámica Craneosacral](https://biodinamicacraneosacral.org/es/que-es-2/). El
 enfoque de mis profesores combina las visiones de Andrew Taylor Still, William G. Sutherland, Rollin Becker, James S.
 Jealous, John Upledger, Franklyn Sills y Ray Castelino.
