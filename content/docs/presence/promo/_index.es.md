@@ -68,22 +68,27 @@ cristales de cuarzo.
 
 # ¿Qué me conviene Biodinámica o Tameana?
 
-En esta tabla puedes ver algunos aspectos clave de ambas terapias. 
+En esta tabla puedes ver algunos aspectos clave de ambas terapias.
 
-| Aspecto                              | Biodinámica Craneosacral                                      | Tameana                                                        |
-|--------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
-| Origen                               | Basada en estudios científicos y linaje académico              | Canalizada por Juan Manuel Giordano                            |
-| Raíces culturales                    | Medicina osteopática, Europa y EE.UU.                          | Sabiduría espiritual Cheroquí                                  |
-| Naturaleza de la técnica             | Terapia corporal basada en la escucha del cuerpo               | Terapia energética vibracional con cristales de cuarzo         |
-| Contacto físico                      | Sí, muy sutil, sin movimiento                                  | No requiere contacto; puede hacerse a distancia                |
-| Papel del practicante                | Acompaña sin dirigir el proceso del cuerpo                     | Sostiene el espacio para el flujo energético                   |
-| Participación del cliente            | Puede expresar sensaciones corporales si lo desea              | No necesita hablar ni compartir nada personal                  |
-| Enfoque terapéutico                  | Facilita la autorregulación del cuerpo                         | Alinea al receptor con su propósito del alma                   |
-| Duración del entrenamiento           | 3 años, con supervisión continua                               | Formación breve y directa                                      |
-| Base teórica y bibliografía          | Amplia, con estudios y publicaciones                           | No académica, basada en experiencia directa y canalización     |
-| Impacto esperado                     | Reorganización interna, liberación de tensiones y traumas      | Transformación energética en todos los niveles                 |
+| Aspecto                     | Biodinámica Craneosacral                                  | Tameana                                                    |
+|-----------------------------|-----------------------------------------------------------|------------------------------------------------------------|
+| Origen                      | Basada en estudios científicos y linaje académico         | Canalizada por Juan Manuel Giordano                        |
+| Raíces culturales           | Medicina osteopática, Europa y EE.UU.                     | Sabiduría espiritual Cheroquí                              |
+| Naturaleza de la técnica    | Terapia corporal basada en la escucha del cuerpo          | Terapia energética vibracional con cristales de cuarzo     |
+| Contacto físico             | Sí, muy sutil, sin movimiento                             | No requiere contacto; puede hacerse a distancia            |
+| Papel del practicante       | Acompaña sin dirigir el proceso del cuerpo                | Sostiene el espacio para el flujo energético               |
+| Participación del cliente   | Puede expresar sensaciones corporales si lo desea         | No necesita hablar ni compartir nada personal              |
+| Enfoque terapéutico         | Facilita la autorregulación del cuerpo                    | Alinea al receptor con su propósito del alma               |
+| Duración del entrenamiento  | 3 años, con supervisión continua                          | Formación breve y directa                                  |
+| Base teórica y bibliografía | Amplia, con estudios y publicaciones                      | No académica, basada en experiencia directa y canalización |
+| Impacto esperado            | Reorganización interna, liberación de tensiones y traumas | Transformación energética en todos los niveles             |
 
-Utilizo estas técnicas porque ambas han causado un gran impacto en mi vida al recibirlas como cliente.
+Utilizo estas técnicas porque ambas han causado un gran impacto en mi vida al recibirlas como cliente. Son no-invasivas, 
+y muy sutiles. No necesitan que el cliente explique o conozca el origen del _problema_. El rol del terapeuta es facilitar 
+un espacio, no dirige el proceso, no juzga, ni recomienda comportamientos.
+
+Como guía podríamos decir que si tu interés está en el cuerpo y podemos vernos en persona la mejor opción es
+biodinamica. Si tu motivación está en el plano más espiritual o no podemos vernos entonces recomendaría Tameana.
 
 # ¡Contáctame!
 

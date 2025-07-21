@@ -68,20 +68,25 @@ The session can be done in person or remotely. In person, you’ll lie on the fl
 
 In this table you can see some key aspects of both therapies.
 
-| Aspect                              | Craniosacral Biodynamics                                      | Tameana                                                        |
-|-------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
-| Origin                              | Based on scientific research and academic lineage              | Channeled by Juan Manuel Giordano                              |
-| Cultural roots                      | Osteopathic medicine, Europe and USA                           | Cherokee spiritual knowledge                                   |
-| Nature of the technique             | Body-based therapy focused on listening to the body            | Vibrational energy therapy using quartz crystals               |
-| Physical contact                    | Yes, very subtle, with no movement                             | No contact required; can be done remotely                      |
-| Practitioner’s role                 | Supports but does not direct the body’s process                | Holds space for energy flow                                    |
-| Client involvement                  | May express bodily sensations if they wish                     | No need to talk or share personal information                  |
-| Therapeutic approach                | Facilitates the body’s natural self-healing                    | Aligns the receiver with their soul’s purpose                  |
-| Training duration                   | 3 years, with ongoing supervision                              | Short, direct training                                         |
-| Theoretical foundation              | Strong bibliography and research studies                       | Non-academic, based on direct experience and channeling        |
-| Expected impact                     | Inner reorganization, release of tension and trauma            | Energetic transformation on all levels                         |
+| Aspect                  | Craniosacral Biodynamics                            | Tameana                                                 |
+|-------------------------|-----------------------------------------------------|---------------------------------------------------------|
+| Origin                  | Based on scientific research and academic lineage   | Channeled by Juan Manuel Giordano                       |
+| Cultural roots          | Osteopathic medicine, Europe and USA                | Cherokee spiritual knowledge                            |
+| Nature of the technique | Body-based therapy focused on listening to the body | Vibrational energy therapy using quartz crystals        |
+| Physical contact        | Yes, very subtle, with no movement                  | No contact required; can be done remotely               |
+| Practitioner’s role     | Supports but does not direct the body’s process     | Holds space for energy flow                             |
+| Client involvement      | May express bodily sensations if they wish          | No need to talk or share personal information           |
+| Therapeutic approach    | Facilitates the body’s natural self-healing         | Aligns the receiver with their soul’s purpose           |
+| Training duration       | 3 years, with ongoing supervision                   | Short, direct training                                  |
+| Theoretical foundation  | Strong bibliography and research studies            | Non-academic, based on direct experience and channeling |
+| Expected impact         | Inner reorganization, release of tension and trauma | Energetic transformation on all levels                  |
 
-I use these techniques because both have had a great impact on my life when I received them as a client.
+I use these techniques because both have made a huge impact on my life when I received them as a client. They are
+non-invasive, and very subtle. They do not require the client to explain or know the origin of the _problem_. The
+therapist's role is to facilitate a space, does not direct the process, does not judge, nor recommend behaviors.
+
+As a guide we could say that if your interest is in the body and we can meet in person the best option is
+biodynamic. If your motivation is on a more spiritual level or we cannot meet then I would recommend Tameana.
 
 # Get in Touch!
 
