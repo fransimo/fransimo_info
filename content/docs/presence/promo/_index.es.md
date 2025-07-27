@@ -40,12 +40,8 @@ si el cliente no recuerda conscientemente el evento que la causó.
 **Esta promoción incluye tres sesiones gratuitas**, que es el tratamiento más habitual. Las sesiones suelen programarse
 con una frecuencia de tres semanas.
 
-Pueden realizarse en tu casa o en un espacio alquilado. Si trabajamos en tu casa, necesito saber si debo llevar la
-camilla.
-
-Ten en cuenta que si necesitamos alquilar un espacio, el coste corre por tu cuenta. Actualmente uso un espacio que cobra
-750 TRY por hora. El pago se hace directamente en efectivo al lugar. También estoy abierto a trabajar en otros espacios
-si conoces alguno.
+Las sesiones las realizo en Beşiktaş, cerca de la estación de metro Fulya. Si tienes una camilla de masaje en casa,
+puedo desplazarme a tu domicilio.
 
 # Tameana
 
@@ -83,8 +79,9 @@ En esta tabla puedes ver algunos aspectos clave de ambas terapias.
 | Base teórica y bibliografía | Amplia, con estudios y publicaciones                      | No académica, basada en experiencia directa y canalización |
 | Impacto esperado            | Reorganización interna, liberación de tensiones y traumas | Transformación energética en todos los niveles             |
 
-Utilizo estas técnicas porque ambas han causado un gran impacto en mi vida al recibirlas como cliente. Son no-invasivas, 
-y muy sutiles. No necesitan que el cliente explique o conozca el origen del _problema_. El rol del terapeuta es facilitar 
+Utilizo estas técnicas porque ambas han causado un gran impacto en mi vida al recibirlas como cliente. Son no-invasivas,
+y muy sutiles. No necesitan que el cliente explique o conozca el origen del _problema_. El rol del terapeuta es
+facilitar
 un espacio, no dirige el proceso, no juzga, ni recomienda comportamientos.
 
 Como guía podríamos decir que si tu interés está en el cuerpo y podemos vernos en persona la mejor opción es
