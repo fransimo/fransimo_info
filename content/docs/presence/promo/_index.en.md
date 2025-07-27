@@ -40,11 +40,7 @@ doesn’t consciously remember the event that caused it.
 **This promotion includes three free sessions**, which is the most common treatment plan. Sessions are usually scheduled
 every three weeks.
 
-They can be done at your home or in a rented space. If we’re working at your place, I’ll need to know if I should bring
-the massage table.
-
-Please note: if we need to rent a space, you will be responsible for the cost. I currently use a space that charges 750
-TRY per hour. You’ll pay them directly in cash. I’m also open to working in other locations if you have one in mind.
+I'm doing the sessions in Beşiktaş near Fulya metro station. If you have a massage table at home I may go to your place.
 
 # Tameana
 
