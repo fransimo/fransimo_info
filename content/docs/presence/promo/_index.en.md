@@ -40,7 +40,7 @@ doesn’t consciously remember the event that caused it.
 **This promotion includes three free sessions**, which is the most common treatment plan. Sessions are usually scheduled
 every three weeks.
 
-I'm doing the sessions in Beşiktaş near Fulya metro station. If you have a massage table at home I may go to your place.
+I'm doing the sessions in Beşiktaş, near the Fulya metro station. If you have a massage table at home, I can come to your place.
 
 # Tameana
 
