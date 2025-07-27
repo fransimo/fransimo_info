@@ -54,8 +54,8 @@ Tameana se puede utilizar para:
 - _H’ama_: armonizar situaciones (como ganar claridad sobre un tema) o espacios (como limpiar la energía de una casa)
 
 **Puedes recibir una sesión personal gratuita.** El tratamiento habitual consiste en tres sesiones, una por semana
-durante tres semanas. **Esta oferta es por tiempo limitado y está pensada especialmente para personas que viven en
-Estambul** y que tal vez no conocen este tipo de trabajo.
+durante tres semanas. Esta oferta es por tiempo limitado y está pensada especialmente para personas que viven en
+Estambul y que tal vez no conocen este tipo de trabajo.
 
 Los trabajos H’ama (para espacios o situaciones) no están incluidos en la promoción gratuita.
 

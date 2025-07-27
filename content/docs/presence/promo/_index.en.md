@@ -52,9 +52,8 @@ Tameana can be used for:
 - _Salush Nahí_: to elevate the vibration of people (align you with your higher purpose)
 - _H’ama_: for situations (e.g., gaining clarity on a topic) or spaces (e.g., cleansing a house’s energy)
 
-**You can receive one free personal session.** The usual treatment consists of three weekly sessions over three weeks. *
-*This offer is for a limited time and is especially for people living in Istanbul** who may not be familiar with this
-kind of work.
+**You can receive one free personal session.** The usual treatment consists of three weekly sessions over three weeks.
+This offer is for a limited time and is especially for people living in Istanbul** who may not be familiar with this kind of work.
 
 H’ama sessions for spaces or situations are not included in the free offer.
 
