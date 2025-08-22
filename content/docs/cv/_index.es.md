@@ -45,7 +45,7 @@ sanación y la expansión de la conciencia a través del arte.
 
 [CV detallado](detailed_cv.md)
 
-
+[PDF](detailed_cv/detailed_cv.es.pdf)
 
 
 

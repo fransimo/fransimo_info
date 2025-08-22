@@ -19,6 +19,6 @@ function convert_2_pdf() {
   rm tmp.md
 }
 
-convert_2_pdf "detailed_cv.es.md" "detailed_cv.es.pdf"
+convert_2_pdf "_index.es.md" "detailed_cv.es.pdf"
 
-convert_2_pdf "detailed_cv.en.md" "detailed_cv.en.pdf"
+convert_2_pdf "_index.md" "detailed_cv.pdf"

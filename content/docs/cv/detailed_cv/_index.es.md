@@ -13,7 +13,8 @@ Nació en 1973 en Villa Carlos Paz, Córdoba, Argentina.
 
 Residencia: entre Estambul, Palma y Barcelona.
 
-[Página web](https://fransimo.info) |  [Correo electrónico](mailto:contact@fransimo.info)
+[Página web](https://fransimo.info) |  [Correo electrónico](mailto:contact@fransimo.info) | [PDF Download](detailed_cv.es.pdf)
+
 
 # Educación
 

@@ -47,5 +47,7 @@ healing and the expansion of consciousness through art.
 
 [Full CV](detailed_cv.md)
 
+[PDF](detailed_cv/detailed_cv.pdf)
+
 
 
