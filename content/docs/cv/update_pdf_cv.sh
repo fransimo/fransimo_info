@@ -2,8 +2,6 @@ function convert_2_pdf() {
 
   sed '1{/^---$/!q;};1,/^---$/d' $1 > tmp.md
 
-  pandoc tmp.md -t docx -o tmp.docx
-
   rm $2
 
   pandoc tmp.md  -f gfm -t pdf -o $2  \
@@ -22,3 +20,5 @@ function convert_2_pdf() {
 }
 
 convert_2_pdf "detailed_cv.es.md" "detailed_cv.es.pdf"
+
+convert_2_pdf "detailed_cv.en.md" "detailed_cv.en.pdf"
