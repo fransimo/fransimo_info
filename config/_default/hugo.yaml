@@ -52,12 +52,21 @@ languages:
 disablePathToLower: true
 enableGitInfo: true
 
+# Images
+imaging:
+  quality: 78
+  resampleFilter: Lanczos
+  hint: photo
+
 # Needed for mermaid/katex shortcodes
 markup:
   goldmark:
     renderer:
       unsafe: true
     # https://gohugo.io/content-management/page-resources/#multilingual
+    wrapStandAloneImageWithinParagraph: false
+    attribute:
+      block: true
 
   tableOfContents:
     startLevel: 1

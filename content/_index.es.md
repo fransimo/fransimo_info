@@ -19,7 +19,7 @@ tags:
 
 <div class="scroll-item">
     {{< figure
-      src="/docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg"
+      src="/webp/X1V45282-Enhanced-SR_hu_f87e8f9bdf00f663.webp"
       alt="Está en todos nosotros"
       link="/es/docs/art/photography/It_is_in_all_of_us/"
       caption="Está en todos nosotros"
@@ -29,7 +29,7 @@ tags:
 
 <div class="scroll-item">
     {{< figure
-      src="/docs/art/new_media_art/Selfie_v2/XT238744.jpg"
+      src="/webp/XT238820_hu_8b7261a517e39dbb.webp"
       alt="#Selfie_v2"
       link="/es/docs/art/new_media_art/Selfie_v2/"
       caption="#Selfie_v2"
@@ -49,7 +49,7 @@ tags:
 
 <div class="scroll-item">
     {{< figure
-      src="/docs/art/books/Passengers_Vol_III/Passengers_Vol_III.jpg"
+      src="/webp/Passengers_Vol_III_hu_934bc0d7326d4c71.webp"
       alt="Passengers Vol. III"
       link="/es/docs/art/books/Passengers_Vol_III/"
       caption="Book: Passengers Vol. III"
@@ -59,7 +59,7 @@ tags:
 
 <div class="scroll-item">
     {{< figure
-      src="/docs/art/books/SArenal_summertime_2016/SArenal-Summertime-COVER.jpg"
+      src="/webp/SArenal-Summertime-COVER_hu_982ee11cedd4966d.webp"
       alt="S’Arenal Summertime 2016"
       link="/es/docs/art/books/SArenal_summertime_2016/"
       caption="S’Arenal Summertime 2016"
@@ -69,7 +69,7 @@ tags:
 
 <div class="scroll-item">
     {{< figure
-      src="/docs/art/photography/Traces_personal_drifts/fran_simo_traces_1_02__A009704_DxO.jpg"
+      src="/webp/fran_simo_traces_1_02__A009704_DxO_hu_8abe68828b3d0786.webp"
       alt="Traces (personal drifts)"
       link="/es/docs/art/photography/Traces_personal_drifts/"
       caption="Traces (personal drifts)"
@@ -79,7 +79,7 @@ tags:
 
 <div class="scroll-item">
     {{< figure
-      src="/docs/art/photography/Es_Lloga/es_lloga_fran_simo_01__ISC1838_DxO.jpg"
+      src="/webp/es_lloga_fran_simo_01__ISC1838_DxO_hu_411dcb55cdf8d3f0.webp"
       alt="Es lloga (For Rent) "
       link="/es/docs/art/photography/Es_Lloga/"
       caption="Es lloga (For Rent)"

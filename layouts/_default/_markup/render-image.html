@@ -1,0 +1,36 @@
+{{- /* Resolve the image as a page or global resource */ -}}
+{{- $dest := .Destination -}}
+{{- $p := .PageInner -}}
+{{- $img := $p.Resources.GetMatch $dest | default (resources.Get $dest) -}}
+
+{{- /* Allow per-image sizes override via Markdown attributes */ -}}
+{{- $sizes := or (.Attributes.sizes) "(min-width: 60rem) 60rem, 100vw" -}}
+{{- $alt := .PlainText -}}
+{{- $title := .Title -}}
+
+{{- /* If we can't resolve it or it's an SVG or remote URL, fall back */ -}}
+{{- if or (not $img) (eq $img.MediaType.SubType "svg") (strings.HasPrefix $dest "http") -}}
+  <img src="{{ .Destination | safeURL }}" {{ with $alt }}alt="{{ . }}"{{ end }} {{ with $title }}title="{{ . }}"{{ end }} loading="lazy" decoding="async">
+{{- else -}}
+  {{- $widths := slice 480 768 1024 1440 1920 -}}
+  {{- $srcsetWebp := slice -}}
+  {{- $srcsetDefault := slice -}}
+  {{- range $w := $widths -}}
+    {{- $r := $img.Resize (printf "%dx" $w) -}}
+    {{- $rw := $img.Resize (printf "%dx webp" $w) -}}
+    {{- $srcsetDefault = $srcsetDefault | append (printf "%s %dw" $r.RelPermalink $w) -}}
+    {{- $srcsetWebp   = $srcsetWebp   | append (printf "%s %dw" $rw.RelPermalink $w) -}}
+  {{- end -}}
+  {{- $fallback := $img.Resize "1200x" -}}
+  <picture>
+    <source type="image/webp" srcset="{{ delimit $srcsetWebp ", " }}" sizes="{{ $sizes }}">
+    <img
+      src="{{ $fallback.RelPermalink }}"
+      srcset="{{ delimit $srcsetDefault ", " }}"
+      sizes="{{ $sizes }}"
+      width="{{ $fallback.Width }}" height="{{ $fallback.Height }}"
+      {{ with $alt }}alt="{{ . }}"{{ end }} {{ with $title }}title="{{ . }}"{{ end }}
+      loading="lazy" decoding="async" fetchpriority="low"
+      style="max-width:100%;height:auto">
+  </picture>
+{{- end -}}
