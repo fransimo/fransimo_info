@@ -7,7 +7,7 @@ images:
   - DSCF3138.jpg
 dateCreated: 2016
 artForm: Artist Book
-creativeWork: VisualArtwork
+schemaOrgType: VisualArtwork
 BookToC: true
 categories:
 - new media art

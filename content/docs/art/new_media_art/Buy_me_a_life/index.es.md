@@ -8,7 +8,7 @@ images:
   - buy_me_a.jpg
 dateCreated: 2021
 artForm: NFT
-creativeWork: VisualArtwork
+schemaOrgType: VisualArtwork
 tags:
 - "2501"
 - cryptoart

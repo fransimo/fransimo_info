@@ -12,7 +12,7 @@ tags:
 images:
   - susurros3.png
 dateCreated: 2019
-creativeWork: Book
+schemaOrgType: Book
 title: Susurros
 bookCollapseSection: false
 ---

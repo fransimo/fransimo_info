@@ -10,7 +10,7 @@ tags:
 images:
   - passengers.jpg
 dateCreated: 2011
-creativeWork: Book
+schemaOrgType: Book
 isbn: 9781471005312
 title: Passengers
 bookToc: false

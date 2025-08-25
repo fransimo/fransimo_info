@@ -9,7 +9,7 @@ images:
   - fran_simo_0002_Untitled1_mean_.jpg
 dateCreated: 2012
 artForm: Photograph
-creativeWork: VisualArtwork
+schemaOrgType: VisualArtwork
 BookToC: true
 categories:
 - new media art

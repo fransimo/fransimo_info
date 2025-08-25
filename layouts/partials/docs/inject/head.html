@@ -15,6 +15,13 @@
     {{ $icon_url =  index .Site.Params.images 0 }}
 {{ end }}
 
+{{ $schema_name := "" }}
+{{ if isset .Params "schemaorgname" }}
+  {{ $schema_name = .Params.schemaOrgName  }}
+{{ else }}
+  {{ $schema_name = .Title }}
+{{ end }}
+
 {{ if eq .Section "posts" }}
 {
   "@context": "https://schema.org",
@@ -36,12 +43,12 @@
 {{ if eq .Section "docs" }}
 {
   "@context": "https://schema.org",
-  {{ if isset .Params "creativework" }}
-  "@type": {{ .Params.creativeWork }},
+  {{ if isset .Params "schemaorgtype" }}
+  "@type": {{ .Params.schemaOrgType }},
   {{ else }}
   "@type": "VisualArtwork",
   {{ end }}
-  "name": {{ .Title }},
+  "name": {{ $schema_name }},
   "image": {{ $icon_url | absURL }},
   {{ if isset .Params "dateCreated" }}
   "dateCreated": {{ .Params.dateCreated }},
@@ -52,11 +59,27 @@
   {{ if isset .Params "isbn" }}
   "isbn": {{ .Params.isbn }},
   {{end}}
-  "author": {
-    "@type": "Person",
-    "name": {{ .Site.Params.schema_org.name }},
-    "sameAs": {{ .Site.BaseURL }}
-  },
+
+
+  {{ if isset .Params "schemaorgtype" }}
+        {{ if eq .Params.schemaOrgType "Person" }}
+          {{ if isset .Params "schemaorgjobtitle" }}
+            "jobTitle": {{ .Params.schemaOrgJobTitle }},
+          {{end}}
+          {{ if isset .Params "schemaorgknowslanguage" }}
+            "knowsLanguage": {{ .Params.schemaOrgKnowsLanguage }},
+          {{end}}
+          {{ if isset .Params "schemaorgsameas" }}
+            "sameAs": {{ .Params.schemaOrgSameAs }},
+          {{end}}
+        {{ else }}
+              "author": {
+                "@type": "Person",
+                "name": {{ .Site.Params.schema_org.name }},
+                "sameAs": {{ .Site.BaseURL }}
+              },
+          {{end}}
+  {{end}}
   "description": {{ $description_text | plainify | safeHTML }}
 }
 {{ end }}

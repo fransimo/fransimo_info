@@ -4,7 +4,7 @@ images:
   - X1V45282-Enhanced-SR.jpg
 dateCreated: 2025
 artForm: Photograph
-creativeWork: VisualArtwork
+schemaOrgType: VisualArtwork
 title: It is in all of us
 date: 2025-02-06
 bookToc: false

@@ -8,7 +8,7 @@ date: 2011-04-25
 images:
   - arrinconado.jpg
 dateCreated: 2011
-creativeWork: Book
+schemaOrgType: Book
 tags:
   - Barcelona Photobloggers
 title: “Arrinconado” (Cornered)

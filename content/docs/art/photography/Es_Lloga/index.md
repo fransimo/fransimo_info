@@ -7,7 +7,7 @@ images:
   - es_lloga_fran_simo_01__ISC1838_DxO.jpg
 dateCreated: 2010
 artForm: Photograph
-creativeWork: VisualArtwork
+schemaOrgType: VisualArtwork
 categories:
 - photography
 ---

@@ -5,7 +5,7 @@ images:
   - IMG_4934-Editar-2.jpg
 dateCreated: 2021
 artForm: NFT
-creativeWork: VisualArtwork
+schemaOrgType: VisualArtwork
 BookToC: true
 categories:
 - new media art

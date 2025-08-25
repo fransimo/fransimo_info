@@ -5,7 +5,7 @@ images:
   - fran_simo_traces_1_02__A009704_DxO.jpg
 dateCreated: 2015
 artForm: Photograph
-creativeWork: VisualArtwork
+schemaOrgType: VisualArtwork
 title: Traces (derivas personales)
 bookToc: false
 aliases: /blog/2015/03/15/traces-personal-drifts/

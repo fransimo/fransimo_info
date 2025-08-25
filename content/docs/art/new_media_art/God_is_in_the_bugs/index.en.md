@@ -8,7 +8,7 @@ images:
   - 20210617_r049_3_700px.png
 dateCreated: 2021
 artForm: NFT
-creativeWork: VisualArtwork
+schemaOrgType: VisualArtwork
 tags:
 - artificial intelligence
 - bug

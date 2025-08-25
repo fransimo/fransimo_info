@@ -13,7 +13,7 @@ date: "2017-04-02T18:52:55Z"
 images:
   - SArenal-Summertime-COVER.jpg
 dateCreated: 2017
-creativeWork: Book
+schemaOrgType: Book
 title: S'Arenal Summertime 2016
 
 aliases: /es/blog/2017/04/02/sarenal-summertime-2016/

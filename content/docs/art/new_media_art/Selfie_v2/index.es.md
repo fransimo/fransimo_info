@@ -5,7 +5,7 @@ images:
   - XT238794.jpg
 dateCreated: 2021
 artForm: Sculpture
-creativeWork: VisualArtwork
+schemaOrgType: VisualArtwork
 categories:
 - new media art
 - NFT
