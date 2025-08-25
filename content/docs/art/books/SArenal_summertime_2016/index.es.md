@@ -28,7 +28,7 @@ Revista, 36 páginas, 22×28 cm (Letter)
 
 -   Edición limitada de 50 ejemplares, numeradas y firmadas con motivo de la exposición [Ciutat de Vacances](http://www.esbaluard.org/es/exposicions/159/ciutat-de-vacances-stand-de-turismo-en-el-palacio-grimani-venecia). Papel de 130 gramos y portada de 170 gramos encuadernación grapada. Disponible en la tienda del [Museo Es Baluard](http://www.esbaluard.org/) o a petición en [contact@fransimo.info](mailto:contact@fransimo.info).
 -   Edición de impresión bajo demanda. Papel mate 118 gramos y portada semibrillante de 216 gramos, encuadernación rústica. [Disponible para compra on line](http://www.blurb.com/b/7844486-s-arenal-summertime-2016).
--   Edición digital está disponible para: [Apple iBooks](http://itunes.apple.com/us/book/id1223132726), [Amazon Kindle](http://amzn.to/2o2O2JN) [(free)](S_Arenal_Summertime_2016_v2.mobi), [Issue](https://issuu.com/fransimo/docs/s_arenal_summertime_pdf_on_line) y [PDF](S_Arenal_Summertime_2016.pdf)
+-   Edición digital está disponible para: [Apple iBooks](http://itunes.apple.com/us/book/id1223132726), [Amazon Kindle](http://amzn.to/2o2O2JN) [(free)](/SArenal/S_Arenal_Summertime_2016_v2.mobi), [Issue](https://issuu.com/fransimo/docs/s_arenal_summertime_pdf_on_line) y [PDF](/SArenal/S_Arenal_Summertime_2016.pdf)
 
 {{% /columns %}}
 
@@ -48,7 +48,7 @@ Los que estamos, nos mezclamos con los turistas en el mito del destino en algún
 
 La industria turística crea un mito pero no solo para el consumidor. Casi toda mi vida me he ganado el sustento directa o indirectamente con el turismo. Creo que el turismo es esencialmente algo bueno, me encanta recibir turistas y ser turista. Pero muchos habitantes de destinos no acaban de integrarse y más que disfrutar del intercambio sufren una invasión. Esta diferencia es consecuencia de la falta de sensibilidad de los agentes de la industria y todos los que estamos involucrados deberíamos tenerla en cuenta para garantizar la sostenibilidad.
 
-{{< embedpdf url="S_Arenal_Summertime_2016.pdf" >}}
+{{< embedpdf url="/SArenal/S_Arenal_Summertime_2016.pdf" >}}
 
 ## Proceso
 

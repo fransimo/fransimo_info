@@ -42,4 +42,4 @@ recontextualization of the writings is a powerful way of generating new meanings
 
 (Goldsmith, K. (2015))
 
-{{< embedpdf url="Susurros-v3.2.pdf" >}}
+{{< embedpdf url="/Susurros/Susurros-v3.2.pdf" >}}

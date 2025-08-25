@@ -71,8 +71,8 @@ CODE was part of [function(“innocence”, 2019)](https://fransimo.info/blog/20
 
 The motivation was also to question the artist’s relationship with the open source community. Almost all artists are using open source but few are sharing back their code.
 
-{{< embedpdf url="CODE_by_Mutt.pdf" >}}
+{{< embedpdf url="/Code/CODE_by_Mutt.pdf" >}}
 
 
-Browse the code [on](https://issue.com/fransimo/docs/code_by_mutt) [issuu](https://issuu.com/fransimo/docs/code_by_mutt) or [download it](CODE_by_Mutt.pdf).
+Browse the code [on](https://issue.com/fransimo/docs/code_by_mutt) [issuu](https://issuu.com/fransimo/docs/code_by_mutt) or [download it](/Code/CODE_by_Mutt.pdf).
 

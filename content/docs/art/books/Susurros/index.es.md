@@ -39,4 +39,4 @@ técnicas de la reproducción y el plagio, aprovechando la hiperabundancia de le
 La paradoja que justifica este accionar es que la supresión de la expresividad es imposible.
 (Goldsmith, K. (2015))
 
-{{< embedpdf url="Susurros-v3.2.pdf" >}}
+{{< embedpdf url="/Susurros/Susurros-v3.2.pdf" >}}

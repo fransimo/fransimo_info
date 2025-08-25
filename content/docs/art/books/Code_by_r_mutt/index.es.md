@@ -71,6 +71,6 @@ La motivación fue también cuestionar la actitud de la mayoria de artistas que 
 
 Puedes verlo [en issue](https://issuu.com/fransimo/docs/code_by_mutt).
 
-{{< embedpdf url="CODE_by_Mutt.pdf" >}}
+{{< embedpdf url="/Code/CODE_by_Mutt.pdf" >}}
 
 

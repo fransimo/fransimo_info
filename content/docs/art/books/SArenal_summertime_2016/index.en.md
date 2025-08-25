@@ -27,7 +27,7 @@ Magazine, 36 pages, 22×28 cm (Letter format)
 ````
 -   A 50 copy limited edition, numbered and signed for the [“Ciutat de Vacances” (Vacation City)](http://www.esbaluard.org/es/exposicions/159/ciutat-de-vacances-stand-de-turismo-en-el-palacio-grimani-venecia) exhibition. Printed on 130g paper and 170g paper for the cover, stapled. Available at the [Es Baluard Museum Shop](http://www.esbaluard.org/) or by request at [contact@fransimo.info](mailto:contact@fransimo.info)
 -   Print-on-demand edition. Printed on 118g matte paper, semi-glossy 216 g paper for the cover, rustic binding. [Available for on-line purchase](http://www.blurb.com/b/7844486-s-arenal-summertime-2016).
--   Digital edition available through: [Apple iBooks](http://itunes.apple.com/us/book/id1223132726), [Amazon Kindle](http://amzn.to/2o2O2JN) [(free)](S_Arenal_Summertime_2016_v2.mobi), [Issue](https://issuu.com/fransimo/docs/s_arenal_summertime_pdf_on_line) and in [PDF](S_Arenal_Summertime_2016.pdf).
+-   Digital edition available through: [Apple iBooks](http://itunes.apple.com/us/book/id1223132726), [Amazon Kindle](http://amzn.to/2o2O2JN) [(free)](/SArenal/S_Arenal_Summertime_2016_v2.mobi), [Issue](https://issuu.com/fransimo/docs/s_arenal_summertime_pdf_on_line) and in [PDF](/SArenal/S_Arenal_Summertime_2016.pdf).
 
 {{% /columns %}}
 
@@ -49,7 +49,7 @@ Those of us who live there mix with the tourists inside the myth of the destinat
 
 The tourism industry creates a myth but not just for the consumer. Almost all my life I have made a living directly or indirectly through tourism. I think that tourism is essentially a good thing, I love receiving tourists and being a tourist. But many inhabitants of destinations do not manage to integrate and rather than enjoy the exchange suffer from the invasion. This difference is a consequence of the lack of sensitivity on the part of the industry’s agents and all of us who are involved should take it into account to guarantee sustainability.
 
-{{< embedpdf url="S_Arenal_Summertime_2016.pdf" >}}
+{{< embedpdf url="/SArenal/S_Arenal_Summertime_2016.pdf" >}}
 
 ## The Process
 
