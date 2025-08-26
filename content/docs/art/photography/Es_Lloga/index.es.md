@@ -36,5 +36,4 @@ Cada vez que pienso en la crisis y sus responsables recuerdo aquella línea de B
 {{< load-photoswipe >}}
 {{< gallery />}}
 
-{{< embedpdf url="PicturingAnEthicalEconomy_PressRelease.pdf" >}}
-[Picturing An Ethical Economy Press Release](PicturingAnEthicalEconomy_PressRelease.pdf)
+{{< embedpdf url="/EsLloga/PicturingAnEthicalEconomy_PressRelease.pdf" >}}

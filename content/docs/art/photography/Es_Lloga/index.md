@@ -35,5 +35,4 @@ Every time I though about the crisis and its responsible I remember that Bruce S
 {{< gallery />}}
 
 
-{{< embedpdf url="PicturingAnEthicalEconomy_PressRelease.pdf" >}}
-[Picturing An Ethical Economy Press Release](PicturingAnEthicalEconomy_PressRelease.pdf)
+{{< embedpdf url="/EsLloga/PicturingAnEthicalEconomy_PressRelease.pdf" >}}
