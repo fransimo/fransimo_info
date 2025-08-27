@@ -4,11 +4,14 @@ date: "2024-06-29"
 author: "Fran Simó"
 weight: 10
 description: "What is Tameana and how a session works?"
+schemaOrgType: Service
+schemaOrgName: "Tameana Energy Healing"
 categories:
   - presence
 tags: 
   - Tameana
 ---
+
 # Tameana  
 
 Tameana is a vibrational healing practice that **uses quartz crystals and channeled symbols to work on both the energetic and physical bodies, facilitating their integration with the Whole**. It is based on the idea of raising a person's vibrational frequency to unblock emotions, release stagnant energies, and promote inner transformation processes.  

@@ -4,7 +4,7 @@ title: 'About'
 description: 'New media artist and holistic therapist exploring art, magic, technology, and healing.'
 schemaOrgType: Person
 schemaOrgName: Fran Simó
-schemaOrgJobTitle: ["New Media Artist","Holistic Therapist"]
+schemaOrgJobTitle: ["New Media Artist","Photographer", "Holistic Therapist"]
 schemaOrgKnowsLanguage: ["Spanish","English"]
 schemaOrgSameAs:
   - "https://www.facebook.com/fransimo"
