@@ -63,10 +63,10 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-    # https://gohugo.io/content-management/page-resources/#multilingual
-    wrapStandAloneImageWithinParagraph: false
-    attribute:
-      block: true
+    parser:
+      wrapStandAloneImageWithinParagraph: false
+      attribute:
+        block: true
 
   tableOfContents:
     startLevel: 1
