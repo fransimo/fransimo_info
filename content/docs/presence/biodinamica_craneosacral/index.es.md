@@ -14,7 +14,9 @@ draft: false
 images:
   - biodinamica.png
 ---
-
+{{% columns %}}
+![biodinamica.png](biodinamica.png)
+<--->
 # Biodinámica Craneosacral
 
 Es un trabajo corporal extremadamente sutil, no intrusivo, suave y eficaz, que combina técnicas científicas con
@@ -28,7 +30,7 @@ El Aliento de Vida es una fuerza ordenadora que se expresa en un movimiento lent
 
 El entrenamiento en esta disciplina permite percibir la respiración primaria, o las «Mareas», y basarse en ellas para la
 evaluación y el tratamiento.
-
+{{% /columns %}}
 Una sesión de biodinámica se realiza en camilla de masaje, con ropa, hay un contacto con las manos muy suave, casi sin
 movimiento.
 

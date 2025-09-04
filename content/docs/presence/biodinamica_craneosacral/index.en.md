@@ -12,7 +12,10 @@ draft: false
 images:
   - biodinamica.png
 ---
+
+{{% columns %}}
 ![biodinamica.png](biodinamica.png)
+<--->
 
 # Craniosacral Biodynamics
 
@@ -27,6 +30,8 @@ Primary Respiration," the manifestation of life itself from conception.
 
 Training in this discipline allows practitioners to perceive primary respiration, or the "Tides," and use them as a
 basis for evaluation and treatment.
+
+{{% /columns %}}
 
 Sessions usually last about 1 hour and consist of four parts: a short talk and three still contact phases where the
 practitioner's hands remain in fixed positions.
