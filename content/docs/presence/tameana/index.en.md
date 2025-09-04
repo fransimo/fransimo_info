@@ -6,12 +6,16 @@ weight: 10
 description: "What is Tameana and how a session works?"
 schemaOrgType: Service
 schemaOrgName: "Tameana Energy Healing"
+images: 
+  - tameana.png
 categories:
   - presence
 tags: 
   - Tameana
 ---
-
+{{% columns %}}
+![tameana.png](tameana.png)
+<--->
 # Tameana  
 
 Tameana is a vibrational healing practice that **uses quartz crystals and channeled symbols to work on both the energetic and physical bodies, facilitating their integration with the Whole**. It is based on the idea of raising a person's vibrational frequency to unblock emotions, release stagnant energies, and promote inner transformation processes.  
@@ -19,7 +23,7 @@ Tameana is a vibrational healing practice that **uses quartz crystals and channe
 It has roots in the Pleiadian tradition and was spread by [Juan Manuel Giordano](https://www.juanmanuelgiordano.com/).  
 
 The practice consists of placing quartz crystals in specific positions around the body, which are then activated with Pleiadian symbols. It can also be performed remotely.  
-
+{{% /columns %}}
 During a Tameana session, energy centers are stimulated and harmonized, aligning the person with higher vibrational fields and restoring their magnetic field. This induces a process of cleansing and purification of physical, mental, emotional, and spiritual blockages.  
 
 A session typically lasts a little over half an hour. The person receiving the vibration can be lying down. In an in-person session, the crystals are placed around the body and moved geometrically at intervals. In a remote session, the person can be in bed or on a couch while the "activator" uses their crystals, following the same geometric patterns and directing the energy from a distance.  
