@@ -9,7 +9,10 @@ categories:
 tags:
   - Biodynamics
 draft: false
+images:
+  - biodinamica.png
 ---
+![biodinamica.png](biodinamica.png)
 
 # Craniosacral Biodynamics
 

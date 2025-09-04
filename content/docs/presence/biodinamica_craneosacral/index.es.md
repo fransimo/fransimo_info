@@ -11,6 +11,8 @@ tags:
 aliases:
   - /masaje/biodinamica_craneosacral
 draft: false
+images:
+  - biodinamica.png
 ---
 
 # Biodinámica Craneosacral
