@@ -1,6 +1,6 @@
 ---
 author: "Fran Simó"
-title: "Craniosacral Biodynamics"
+title: "Biodynamic Craniosacral"
 date: 2024-04-13
 weight: 20
 categories:
@@ -9,15 +9,18 @@ categories:
 tags:
   - Biodynamics
 draft: false
-images:
+images: 
   - biodinamica.png
+description: "What is Biodynamic Craniosacral Therapy and how a session works?"
+schemaOrgType: Service
+schemaOrgName: "Biodynamic Craniosacral Therapy"
 ---
 
 {{% columns %}}
 ![biodinamica.png](biodinamica.png)
 <--->
 
-# Craniosacral Biodynamics
+# Biodynamic Craniosacral Therapy
 
 It is an extremely subtle, non-intrusive, gentle, and effective bodywork approach that combines scientific techniques
 with intuition and sensitivity, within a space of meditative awareness.
