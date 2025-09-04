@@ -11,9 +11,13 @@ tags:
 draft: false
 images: 
   - biodinamica.png
-description: "What is Biodynamic Craniosacral Therapy and how a session works?"
+description2: "What is Biodynamic Craniosacral Therapy and how a session works?"
 schemaOrgType: Service
 schemaOrgName: "Biodynamic Craniosacral Therapy"
+
+schemaType: Service
+areaServed: ["Palma", "Barcelona"]
+description: "Gentle hands-on therapy supporting the body's natural rhythms."
 ---
 
 {{% columns %}}

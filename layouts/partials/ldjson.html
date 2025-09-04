@@ -1,7 +1,95 @@
+{{/* Page-level JSON-LD:
+     1) If a bundle has schema.json, render it (templated).
+     2) Else, auto-build JSON-LD based on page kind/type or .Params.schemaType. */}}
+
 {{ $pg := . }}
 {{ with $pg.Resources.Get "schema.json" }}
   {{ $rendered := . | resources.ExecuteAsTemplate .Name $pg }}
   <script type="application/ld+json">
     {{- $rendered.Content | safeJS -}}
   </script>
+
+{{ else }}
+  {{/* Decide a default @type:
+      - explicit front matter: schemaType
+      - blog posts: BlogPosting (section=blog or type=post)
+      - home: WebSite
+      - section list pages: CollectionPage (falls back to WebPage here)
+  */}}
+  {{ $isBlog := or (eq $pg.Section "blog") (eq $pg.Type "post") }}
+  {{ $type := or $pg.Params.schemaType (cond $isBlog "BlogPosting" (cond (eq $pg.Kind "home") "WebSite" "WebPage")) }}
+
+  {{/* Site-wide helpers (set these in config params if you like) */}}
+  {{ $siteAuthor :=  or .Site.Params.author.name .Site.Author.name .Site.Title }}
+  {{ $orgName    :=  or .Site.Params.organization.name .Site.Title }}
+  {{ $orgLogo    :=  .Site.Params.organization.logo }}
+  {{ $lang       :=  or $pg.Language.Lang $pg.Lang }}
+
+  {{/* Try to find a representative image */}}
+  {{ $img := "" }}
+  {{ with $pg.Params.images }}{{ $img = index . 0 }}{{ end }}
+  {{ with (first 1 ($pg.Resources.ByType "image")) }}{{ $img = (index . 0).Permalink }}{{ end }}
+
+  {{/* Base */}}
+  {{ $base := dict
+      "@context" "https://schema.org"
+      "@type"    $type
+      "inLanguage" $lang
+  }}
+
+  {{ if eq $type "BlogPosting" }}
+    {{ $bp := dict
+        "mainEntityOfPage" (dict "@type" "WebPage" "@id" $pg.Permalink)
+        "headline"         $pg.Title
+        "description"      (or $pg.Params.description $pg.Summary)
+        "datePublished"    ($pg.PublishDate | time.Format "2006-01-02T15:04:05Z07:00")
+        "dateModified"     ($pg.Lastmod     | time.Format "2006-01-02T15:04:05Z07:00")
+        "author"           (dict "@type" "Person" "name" (or $pg.Params.author $siteAuthor))
+        "image"            (cond (ne $img "") (slice $img) (slice))
+        "publisher"        (dict
+                              "@type" "Organization"
+                              "name"  $orgName
+                              "logo"  (cond (ne $orgLogo "") (dict "@type" "ImageObject" "url" $orgLogo) nil)
+                            )
+    }}
+    {{ $out := merge $base $bp }}
+    <script type="application/ld+json">{{ $out | jsonify | safeJS }}</script>
+
+  {{ else if eq $type "Service" }}
+    {{/* Generic Service page; customize with front matter fields if you have them */}}
+    {{ $svc := dict
+        "name"        (or $pg.Params.name $pg.Title)
+        "description" (or $pg.Params.description $pg.Summary)
+        "provider"    (dict "@type" "Person" "name" $siteAuthor)
+        "areaServed"  (or $pg.Params.areaServed .Site.Params.defaultArea)
+        "url"         $pg.Permalink
+    }}
+    {{ $out := merge $base $svc }}
+    <script type="application/ld+json">{{ $out | jsonify | safeJS }}</script>
+
+  {{ else if eq $type "WebSite" }}
+    {{ $ws := dict
+        "name"           .Site.Title
+        "url"            .Site.BaseURL
+        "publisher"      (dict "@type" "Organization" "name" $orgName)
+        "potentialAction" (dict
+                             "@type" "SearchAction"
+                             "target" (printf "%ssearch/?q={search_term_string}" .Site.BaseURL)
+                             "query-input" "required name=search_term_string"
+                           )
+    }}
+    {{ $out := merge $base $ws }}
+    <script type="application/ld+json">{{ $out | jsonify | safeJS }}</script>
+
+  {{ else }}
+    {{/* Generic WebPage fallback */}}
+    {{ $wp := dict
+        "name"        $pg.Title
+        "url"         $pg.Permalink
+        "description" (or $pg.Params.description $pg.Summary)
+        "isPartOf"    (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
+    }}
+    {{ $out := merge $base $wp }}
+    <script type="application/ld+json">{{ $out | jsonify | safeJS }}</script>
+  {{ end }}
 {{ end }}

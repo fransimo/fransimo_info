@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "{{ .Site.Params.schema_org.type }}",
+  "name": {{ .Site.Params.schema_org.name }},
+  "url": {{ .Site.BaseURL }},
+  "logo": {{ .Site.Params.schema_org.image }},
+  "sameAs": {{ .Site.Params.schema_org.sameAs }},
+  "department": [
+    {
+      "@type": "ArtGallery",
+      "name": "Fran Simó – Palma",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Avinguda de Sant Ferran, 21",
+        "addressLocality": "Palma",
+        "addressRegion": "Balearic Islands",
+        "postalCode": "07011",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 39.5796537,
+        "longitude": 2.6373815
+      },
+      "url": "https://fransimo.info/",
+      "telephone": "+34 655 384 230",
+      "openingHours": "Mo-Fr 09:00-15:00"
+    },
+    {
+      "@type": ["ArtGallery","HealthAndBeautyBusiness"],
+      "name": "Fran Simó – Barcelona",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ptge. de Jordi Ferran, 26",
+        "addressLocality": "Barcelona",
+        "addressRegion": "Catalonia",
+        "postalCode": "08028",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 41.3767713,
+        "longitude": 2.1157828
+      },
+      "url": "https://fransimo.info/docs/presence/",
+      "telephone": "+34 655 384 230",
+      "openingHours": "Mo-Fr 10:00-18:00"
+    },
+    {
+      "@type": "HealthAndBeautyBusiness",
+      "name": "Fran Simó – Istanbul",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Yeniyol Sokağı No:3",
+        "addressLocality": "Istanbul",
+        "addressRegion": "Istanbul",
+        "postalCode": "34357",
+        "addressCountry": "TR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 41.0453921,
+        "longitude": 29.0000543
+      },
+      "url": "https://fransimo.info/docs/presence/promo/",
+      "telephone": "+90 545 556 4393",
+      "openingHours": "By appointment"
+    }
+  ]
+}

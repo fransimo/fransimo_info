@@ -1,0 +1,164 @@
+<script type="application/ld+json">
+
+{{ $description_text := "" }}
+{{ if isset .Params "description" }}
+  {{ $description_text = .Description }}
+{{ else }}
+  {{ $description_text = .Summary }}
+{{ end }}
+
+{{ $icon_url := "" }}
+{{ range first 1 (.Resources.ByType "image") }}
+    {{ $icon_url = .Permalink }}
+{{ end }}
+{{ if eq $icon_url "" }}
+    {{ $icon_url =  index .Site.Params.images 0 }}
+{{ end }}
+
+{{ $schema_name := "" }}
+{{ if isset .Params "schemaorgname" }}
+  {{ $schema_name = .Params.schemaOrgName  }}
+{{ else }}
+  {{ $schema_name = .Title }}
+{{ end }}
+
+{{ if eq .Section "posts" }}
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": {{ .Title }},
+  "image": {{ $icon_url }},
+  "datePublished": {{ .PublishDate }},
+  "dateModified": {{ .Lastmod }},
+  "author": {
+    "@type": "Person",
+    "name": {{ .Site.Params.schema_org.name }},
+    "sameAs": {{ .Site.BaseURL }}
+  },
+  "description": {{ $description_text | plainify | safeHTML }},
+  "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
+}
+{{ end }}
+
+{{ if eq .Section "docs" }}
+{
+  "@context": "https://schema.org",
+  {{ if isset .Params "schemaorgtype" }}
+    "@type": {{ .Params.schemaOrgType }},
+  {{ else }}
+    "@type": "VisualArtwork",
+  {{ end }}
+
+  "name": {{ $schema_name }},
+  "image": {{ $icon_url | absURL }},
+
+  {{ if isset .Params "dateCreated" }}
+    "dateCreated": {{ .Params.dateCreated }},
+  {{end}}
+
+  {{ if isset .Params "artform" }}
+    "artform": {{ .Params.artForm }},
+  {{end}}
+
+  {{ if isset .Params "isbn" }}
+    "isbn": {{ .Params.isbn }},
+  {{end}}
+
+  {{ if isset .Params "schemaorgtype" }}
+        {{ if eq .Params.schemaOrgType "Person" }}
+          {{ if isset .Params "schemaorgjobtitle" }}
+            "jobTitle": {{ .Params.schemaOrgJobTitle }},
+          {{end}}
+          {{ if isset .Params "schemaorgknowslanguage" }}
+            "knowsLanguage": {{ .Params.schemaOrgKnowsLanguage }},
+          {{end}}
+          {{ if isset .Params "schemaorgsameas" }}
+            "sameAs": {{ .Params.schemaOrgSameAs }},
+          {{end}}
+        {{ else }}
+              "author": {
+                "@type": "Person",
+                "name": {{ .Site.Params.schema_org.name }},
+                "sameAs": {{ .Site.BaseURL }}
+              },
+          {{end}}
+  {{end}}
+  "description": {{ $description_text | plainify | safeHTML }}
+}
+{{ end }}
+
+{{ if eq .Section "" }}
+{
+  "@context": "https://schema.org",
+  "@type": "{{ .Site.Params.schema_org.type }}",
+  "name": {{ .Site.Params.schema_org.name }},
+  "url": {{ .Site.BaseURL }},
+  "logo": {{ .Site.Params.schema_org.image }},
+  "sameAs": {{ .Site.Params.schema_org.sameAs }},
+  "department": [
+    {
+      "@type": "ArtGallery",
+      "name": "Fran Simó – Palma",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Avinguda de Sant Ferran, 21",
+        "addressLocality": "Palma",
+        "addressRegion": "Balearic Islands",
+        "postalCode": "07011",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 39.5796537,
+        "longitude": 2.6373815
+      },
+      "url": "https://fransimo.info/",
+      "telephone": "+34 655 384 230",
+      "openingHours": "Mo-Fr 09:00-15:00"
+    },
+    {
+      "@type": ["ArtGallery","HealthAndBeautyBusiness"],
+      "name": "Fran Simó – Barcelona",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Ptge. de Jordi Ferran, 26",
+        "addressLocality": "Barcelona",
+        "addressRegion": "Catalonia",
+        "postalCode": "08028",
+        "addressCountry": "ES"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 41.3767713,
+        "longitude": 2.1157828
+      },
+      "url": "https://fransimo.info/docs/presence/",
+      "telephone": "+34 655 384 230",
+      "openingHours": "Mo-Fr 10:00-18:00"
+    },
+    {
+      "@type": "HealthAndBeautyBusiness",
+      "name": "Fran Simó – Istanbul",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Yeniyol Sokağı No:3",
+        "addressLocality": "Istanbul",
+        "addressRegion": "Istanbul",
+        "postalCode": "34357",
+        "addressCountry": "TR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 41.0453921,
+        "longitude": 29.0000543
+      },
+      "url": "https://fransimo.info/docs/presence/promo/",
+      "telephone": "+90 545 556 4393",
+      "openingHours": "By appointment"
+    }
+  ]
+}
+{{ end }}
+</script>
+
+{{ partial "ldjson.html" . }}
