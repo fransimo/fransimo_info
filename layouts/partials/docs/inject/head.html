@@ -44,22 +44,25 @@
 {
   "@context": "https://schema.org",
   {{ if isset .Params "schemaorgtype" }}
-  "@type": {{ .Params.schemaOrgType }},
+    "@type": {{ .Params.schemaOrgType }},
   {{ else }}
-  "@type": "VisualArtwork",
+    "@type": "VisualArtwork",
   {{ end }}
+
   "name": {{ $schema_name }},
   "image": {{ $icon_url | absURL }},
+
   {{ if isset .Params "dateCreated" }}
-  "dateCreated": {{ .Params.dateCreated }},
-  {{end}}
-  {{ if isset .Params "artform" }}
-  "artform": {{ .Params.artForm }},
-  {{end}}
-  {{ if isset .Params "isbn" }}
-  "isbn": {{ .Params.isbn }},
+    "dateCreated": {{ .Params.dateCreated }},
   {{end}}
 
+  {{ if isset .Params "artform" }}
+    "artform": {{ .Params.artForm }},
+  {{end}}
+
+  {{ if isset .Params "isbn" }}
+    "isbn": {{ .Params.isbn }},
+  {{end}}
 
   {{ if isset .Params "schemaorgtype" }}
         {{ if eq .Params.schemaOrgType "Person" }}
@@ -157,3 +160,5 @@
 }
 {{ end }}
 </script>
+
+{{ partial "ldjson.html" . }}

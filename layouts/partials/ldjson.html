@@ -1,0 +1,7 @@
+{{ $pg := . }}
+{{ with $pg.Resources.Get "schema.json" }}
+  {{ $rendered := . | resources.ExecuteAsTemplate .Name $pg }}
+  <script type="application/ld+json">
+    {{- $rendered.Content | safeJS -}}
+  </script>
+{{ end }}
