@@ -8,6 +8,19 @@ categories:
   - presence
 tags:
   - Tameana
+schemaType: Service
+serviceType: "Sanación vibracional con cristales de cuarzo (Tameana)"
+description: "Tameana es una práctica de sanación vibracional que utiliza cristales de cuarzo y símbolos canalizados para elevar la frecuencia vibratoria de una persona, desbloquear emociones y promover la transformación interior. Las sesiones duran aproximadamente una hora y pueden realizarse en persona o a distancia."
+areaServed: ["Palma","Barcelona","Istanbul","Remote"]
+serviceAudience:
+  "@type": Audience
+  audienceType: "Adultos interesados en la sanación con energía vibracional no médica (Tameana)"
+hoursAvailable:
+  "@type": OpeningHoursSpecification
+  dayOfWeek: ["Monday","Wednesday","Friday"]
+  opens: "10:00"
+  closes: "18:00"
+sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 
 # Tameana
