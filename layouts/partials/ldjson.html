@@ -1,6 +1,8 @@
 {{/* Page-level JSON-LD:
      1) If a bundle has schema.json, render it (templated).
-     2) Else, auto-build JSON-LD based on page kind/type or .Params.schemaType. */}}
+     2) Else, auto-build JSON-LD based on page kind/type or .Params.schemaType.
+     Supports: BlogPosting, Service, VisualArtwork, Book, WebSite, WebPage.
+*/}}
 
 {{ $pg := . }}
 {{ with $pg.Resources.Get "schema.json" }}
@@ -8,33 +10,38 @@
   <script type="application/ld+json">
     {{- $rendered.Content | safeJS -}}
   </script>
-
 {{ else }}
-  {{/* Decide a default @type:
-      - explicit front matter: schemaType
-      - blog posts: BlogPosting (section=blog or type=post)
-      - home: WebSite
-      - section list pages: CollectionPage (falls back to WebPage here)
-  */}}
+  {{/* Decide a default @type */}}
   {{ $isBlog := or (eq $pg.Section "blog") (eq $pg.Type "posts") }}
   {{ $type := or $pg.Params.schemaType (cond $isBlog "BlogPosting" (cond (eq $pg.Kind "home") "WebSite" "WebPage")) }}
 
-  {{/* Site-wide helpers (set these in config params if you like) */}}
+  {{/* Site helpers */}}
   {{ $siteAuthor :=  or .Site.Params.author.name .Site.Author.name .Site.Title }}
   {{ $orgName    :=  or .Site.Params.organization.name .Site.Title }}
   {{ $orgLogo    :=  .Site.Params.organization.logo }}
   {{ $lang       :=  or $pg.Language.Lang $pg.Lang }}
+  {{ $hasOrg     :=  .Site.Params.organization.name }}
+  {{ $provider   :=  dict "@type" (cond $hasOrg "Organization" "Person") "name" (cond $hasOrg $orgName $siteAuthor) }}
 
-  {{/* Try to find a representative image */}}
+  {{/* Representative image */}}
   {{ $img := "" }}
   {{ with $pg.Params.images }}{{ $img = index . 0 }}{{ end }}
   {{ with (first 1 ($pg.Resources.ByType "image")) }}{{ $img = (index . 0).Permalink }}{{ end }}
+
+  {{/* Offers helper assembled from front matter */}}
+  {{ $offers := dict }}
+  {{ with $pg.Params.price }}          {{ $offers = merge $offers (dict "@type" "Offer" "price" .) }} {{ end }}
+  {{ with $pg.Params.priceCurrency }}  {{ $offers = merge $offers (dict "priceCurrency" .) }} {{ end }}
+  {{ with $pg.Params.availability }}   {{ $offers = merge $offers (dict "availability" .) }} {{ end }}
+  {{ if gt (len $offers) 0 }}
+    {{ $offers = merge $offers (dict "url" $pg.Permalink) }}
+  {{ end }}
 
   {{/* Base */}}
   {{ $base := dict
       "@context" "https://schema.org"
       "@type"    $type
-      "image"       (cond (ne $img "") (slice $img) (slice))
+      "inLanguage" $lang
   }}
 
   {{ if eq $type "BlogPosting" }}
@@ -46,7 +53,6 @@
         "dateModified"     ($pg.Lastmod     | time.Format "2006-01-02T15:04:05Z07:00")
         "author"           (dict "@type" "Person" "name" (or $pg.Params.author $siteAuthor))
         "image"            (cond (ne $img "") (slice $img) (slice))
-        "inLanguage"       $lang
         "publisher"        (dict
                               "@type" "Organization"
                               "name"  $orgName
@@ -57,22 +63,80 @@
     <script type="application/ld+json">{{ $out | jsonify | safeJS }}</script>
 
   {{ else if eq $type "Service" }}
-    {{/* Generic Service page; customize with front matter fields if you have them */}}
+    {{/* More complete Service */}}
     {{ $svc := dict
-        "name"        (or $pg.Params.name $pg.Title)
-        "description" (or $pg.Params.description $pg.Summary)
-        "provider"    (dict "@type" "Person" "name" $siteAuthor)
-        "areaServed"  (or $pg.Params.areaServed .Site.Params.defaultArea)
-        "url"         $pg.Permalink
+        "name"            (or $pg.Params.name $pg.Title)
+        "description"     (or $pg.Params.description $pg.Summary)
+        "serviceType"     (or $pg.Params.serviceType $pg.Title)
+        "provider"        $provider
+        "areaServed"      (or $pg.Params.areaServed .Site.Params.defaultArea)
+        "serviceAudience"  $pg.Params.serviceAudience
+        "hoursAvailable"   $pg.Params.hoursAvailable
+        "brand"            (or $pg.Params.brand $orgName)
+        "sameAs"           $pg.Params.sameAs
+        "url"              $pg.Permalink
+        "image"            (cond (ne $img "") (slice $img) (slice))
     }}
+    {{ if gt (len $offers) 0 }} {{ $svc = merge $svc (dict "offers" $offers) }} {{ end }}
+    {{ with $pg.Params.hasOfferCatalog }} {{ $svc = merge $svc (dict "hasOfferCatalog" .) }} {{ end }}
+    {{ with $pg.Params.availableChannel }} {{ $svc = merge $svc (dict "availableChannel" .) }} {{ end }}
     {{ $out := merge $base $svc }}
+    <script type="application/ld+json">{{ $out | jsonify | safeJS }}</script>
+
+  {{ else if eq $type "VisualArtwork" }}
+    {{/* VisualArtwork (artist/creator, medium, size, etc.) */}}
+    {{ $va := dict
+        "name"           (or $pg.Params.name $pg.Title)
+        "description"    (or $pg.Params.description $pg.Summary)
+        "creator"        (or $pg.Params.creator (dict "@type" "Person" "name" (or $pg.Params.artist $siteAuthor)))
+        "artist"         (or $pg.Params.artist  $siteAuthor)
+        "artMedium"      $pg.Params.artMedium
+        "artform"        $pg.Params.artform
+        "artworkSurface" $pg.Params.artworkSurface
+        "material"       $pg.Params.material
+        "genre"          $pg.Params.genre
+        "keywords"       $pg.Params.keywords
+        "dateCreated"    $pg.Params.dateCreated
+        "image"          (cond (ne $img "") (slice $img) (slice))
+        "url"            $pg.Permalink
+        "isPartOf"       (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
+    }}
+    {{/* Optional simple size fields; accept strings like "30 cm" or numbers in front matter */}}
+    {{ with $pg.Params.width }}  {{ $va = merge $va (dict "width"  .) }} {{ end }}
+    {{ with $pg.Params.height }} {{ $va = merge $va (dict "height" .) }} {{ end }}
+    {{ with $pg.Params.depth }}  {{ $va = merge $va (dict "depth"  .) }} {{ end }}
+    {{ if gt (len $offers) 0 }} {{ $va = merge $va (dict "offers" $offers) }} {{ end }}
+    {{ with $pg.Params.aggregateRating }} {{ $va = merge $va (dict "aggregateRating" .) }} {{ end }}
+    {{ with $pg.Params.review }}          {{ $va = merge $va (dict "review" .) }} {{ end }}
+    {{ $out := merge $base $va }}
+    <script type="application/ld+json">{{ $out | jsonify | safeJS }}</script>
+
+  {{ else if eq $type "Book" }}
+    {{/* Book (author, publisher, isbn, pages, etc.) */}}
+    {{ $bk := dict
+        "name"           (or $pg.Params.name $pg.Title)
+        "alternateName"  $pg.Params.alternateName
+        "author"         (or $pg.Params.author (dict "@type" "Person" "name" $siteAuthor))
+        "publisher"      (or $pg.Params.publisher (dict "@type" "Organization" "name" $orgName))
+        "isbn"           $pg.Params.isbn
+        "bookEdition"    $pg.Params.bookEdition
+        "numberOfPages"  $pg.Params.numberOfPages
+        "datePublished"  (or $pg.Params.datePublished ($pg.PublishDate | time.Format "2006-01-02"))
+        "description"    (or $pg.Params.description $pg.Summary)
+        "image"          (cond (ne $img "") (slice $img) (slice))
+        "sameAs"         $pg.Params.sameAs
+        "url"            $pg.Permalink
+    }}
+    {{ if gt (len $offers) 0 }} {{ $bk = merge $bk (dict "offers" $offers) }} {{ end }}
+    {{ with $pg.Params.aggregateRating }} {{ $bk = merge $bk (dict "aggregateRating" .) }} {{ end }}
+    {{ with $pg.Params.review }}          {{ $bk = merge $bk (dict "review" .) }} {{ end }}
+    {{ $out := merge $base $bk }}
     <script type="application/ld+json">{{ $out | jsonify | safeJS }}</script>
 
   {{ else if eq $type "WebSite" }}
     {{ $ws := dict
         "name"           .Site.Title
         "url"            .Site.BaseURL
-        "inLanguage"      $lang
         "publisher"      (dict "@type" "Organization" "name" $orgName)
         "potentialAction" (dict
                              "@type" "SearchAction"
@@ -90,7 +154,7 @@
         "url"         $pg.Permalink
         "description" (or $pg.Params.description $pg.Summary)
         "isPartOf"    (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
-        "inLanguage"  $lang
+        "image"       (cond (ne $img "") (slice $img) (slice))
     }}
     {{ $out := merge $base $wp }}
     <script type="application/ld+json">{{ $out | jsonify | safeJS }}</script>
