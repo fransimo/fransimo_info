@@ -3,15 +3,14 @@ title: "Tameana"
 date: "2024-06-29"
 author: "Fran Simó"
 weight: 10
-description: "What is Tameana and how a session works?"
-schemaOrgType: Service
-schemaOrgName: "Tameana Energy Healing"
 images: 
   - tameana.png
 categories:
   - presence
 tags: 
   - Tameana
+
+
 ---
 {{% columns %}}
 ![tameana.png](tameana.png)

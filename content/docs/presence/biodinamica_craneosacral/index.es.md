@@ -13,6 +13,19 @@ aliases:
 draft: false
 images:
   - biodinamica.png
+schemaType: Service
+serviceType: "Sesión de terapia de biodinámica creaneosacral"
+description: "Terapia manual suave que favorece los ritmos naturales del cuerpo."
+serviceAudience:
+  "@type": Audience
+  audienceType: "Adultos que buscan terapia somática"
+hoursAvailable:
+  "@type": OpeningHoursSpecification
+  dayOfWeek: ["Monday","Wednesday","Friday"]
+  opens: "10:00"
+  closes: "18:00"
+# brand: "Fran Simo Studio"
+sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 {{% columns %}}
 ![biodinamica.png](biodinamica.png)
