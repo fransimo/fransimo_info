@@ -50,8 +50,8 @@
       {{/* already a slice */}}
       {{ $userActs = . }}
     {{ else if gt (len .) 0 }}
-      {{/* single map/object -> wrap into slice */}}
-      {{ $userActs = $userActs | append . }}
+      {{/* single map/object -> wrap into slice (correct append usage) */}}
+      {{ $userActs = append $userActs . }}
     {{ end }}
   {{ end }}
 
