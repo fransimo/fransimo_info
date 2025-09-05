@@ -16,7 +16,7 @@
       - home: WebSite
       - section list pages: CollectionPage (falls back to WebPage here)
   */}}
-  {{ $isBlog := or (eq $pg.Section "blog") (eq $pg.Type "post") }}
+  {{ $isBlog := or (eq $pg.Section "blog") (eq $pg.Type "posts") }}
   {{ $type := or $pg.Params.schemaType (cond $isBlog "BlogPosting" (cond (eq $pg.Kind "home") "WebSite" "WebPage")) }}
 
   {{/* Site-wide helpers (set these in config params if you like) */}}
@@ -34,7 +34,7 @@
   {{ $base := dict
       "@context" "https://schema.org"
       "@type"    $type
-      "inLanguage" $lang
+      "image"       (cond (ne $img "") (slice $img) (slice))
   }}
 
   {{ if eq $type "BlogPosting" }}
@@ -46,6 +46,7 @@
         "dateModified"     ($pg.Lastmod     | time.Format "2006-01-02T15:04:05Z07:00")
         "author"           (dict "@type" "Person" "name" (or $pg.Params.author $siteAuthor))
         "image"            (cond (ne $img "") (slice $img) (slice))
+        "inLanguage"       $lang
         "publisher"        (dict
                               "@type" "Organization"
                               "name"  $orgName
@@ -71,6 +72,7 @@
     {{ $ws := dict
         "name"           .Site.Title
         "url"            .Site.BaseURL
+        "inLanguage"      $lang
         "publisher"      (dict "@type" "Organization" "name" $orgName)
         "potentialAction" (dict
                              "@type" "SearchAction"
@@ -88,6 +90,7 @@
         "url"         $pg.Permalink
         "description" (or $pg.Params.description $pg.Summary)
         "isPartOf"    (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
+        "inLanguage"  $lang
     }}
     {{ $out := merge $base $wp }}
     <script type="application/ld+json">{{ $out | jsonify | safeJS }}</script>
