@@ -1,7 +1,13 @@
-{{/* Page-level JSON-LD with robust optional potentialAction handling.
-     1) If bundle has schema.json, render it (templated).
-     2) Else, build JSON-LD for BlogPosting, Service, VisualArtwork, Book, WebSite, WebPage.
-     - potentialAction is OPTIONAL; user-supplied value can be a single map or a slice.
+{{/* JSON-LD partial with safe, optional potentialAction handling.
+
+  Order:
+  1) If bundle has schema.json, render it (templated).
+  2) Else, auto-build for BlogPosting, Service, VisualArtwork, Book, WebSite, WebPage.
+
+  Key details:
+  - potentialAction is OPTIONAL.
+  - If user supplies a single object -> wrapped into a slice.
+  - Each type block re-coerces $actions to a slice before appending.
 */}}
 
 {{ $pg := . }}
@@ -11,7 +17,7 @@
 
 {{ else }}
   {{/* type picking */}}
-  {{ $isBlog := or (eq $pg.Section "blog") (eq $pg.Type "posts") }}
+  {{ $isBlog := or (eq $pg.Section "blog") (eq $pg.Type "post") }}
   {{ $type := or $pg.Params.schemaType (cond $isBlog "BlogPosting" (cond (eq $pg.Kind "home") "WebSite" "WebPage")) }}
 
   {{/* site helpers */}}
@@ -35,12 +41,12 @@
   {{ with $pg.Params.sku }}           {{ $offers = merge $offers (dict "sku" .) }}                          {{ end }}
   {{ if gt (len $offers) 0 }}         {{ $offers = merge $offers (dict "url" $pg.Permalink) }}              {{ end }}
 
-  {{/* platforms + convenience URLs (all optional) */}}
+  {{/* platforms + convenience URLs (all optional; no default #anchors) */}}
   {{ $platforms := or $pg.Params.actionPlatform .Site.Params.ldjson.actionPlatform (slice "http://schema.org/DesktopWebPlatform" "http://schema.org/MobileWebPlatform") }}
-  {{ $buyURL     := or $pg.Params.buyURL     (printf "%s#buy" $pg.Permalink) }}
-  {{ $bookingURL := or $pg.Params.bookingURL (printf "%s#book" $pg.Permalink) }}
-  {{ $readURL    := or $pg.Params.readURL    (printf "%s#read" $pg.Permalink) }}
-  {{ $viewURL    := or $pg.Params.viewURL    (printf "%s#view" $pg.Permalink) }}
+  {{ $buyURL     := $pg.Params.buyURL }}      {{/* if absent, we won't add BuyAction unless offers exist, and then we'll target Permalink */}}
+  {{ $bookingURL := $pg.Params.bookingURL }}
+  {{ $readURL    := $pg.Params.readURL }}
+  {{ $viewURL    := $pg.Params.viewURL }}
 
   {{/* normalize user-provided potentialAction to a slice (handles map, slice, or empty) */}}
   {{ $userActs := slice }}
@@ -86,20 +92,28 @@
     }}
     {{ if gt (len $offers) 0 }}{{ $svc = merge $svc (dict "offers" $offers) }}{{ end }}
 
-    {{/* actions: use user-provided if any; else build defaults (all optional) */}}
+    {{/* actions: start from userActs and COERCE to slice */}}
     {{ $actions := $userActs }}
+    {{ $tact := printf "%T" $actions }}
+    {{ if not (hasPrefix $tact "[]") }}
+      {{ if gt (len $actions) 0 }}
+        {{ $actions = slice $actions }}
+      {{ else }}
+        {{ $actions = slice }}
+      {{ end }}
+    {{ end }}
     {{ if eq (len $actions) 0 }}
-      {{ $actions = slice }}
       {{ with $bookingURL }}
         {{ $actions = append $actions (dict
           "@type" "ReserveAction"
           "target" (dict "@type" "EntryPoint" "urlTemplate" . "inLanguage" $lang "actionPlatform" $platforms)
         ) }}
       {{ end }}
-      {{ if or (gt (len $offers) 0) $pg.Params.buyURL }}
+      {{ if or (gt (len $offers) 0) $buyURL }}
+        {{ $target := or $buyURL $pg.Permalink }}
         {{ $actions = append $actions (dict
           "@type" "BuyAction"
-          "target" (dict "@type" "EntryPoint" "urlTemplate" $buyURL "inLanguage" $lang "actionPlatform" $platforms)
+          "target" (dict "@type" "EntryPoint" "urlTemplate" $target "inLanguage" $lang "actionPlatform" $platforms)
           "expectsAcceptanceOf" (cond (gt (len $offers) 0) $offers nil)
         ) }}
       {{ end }}
@@ -130,18 +144,26 @@
     {{ if gt (len $offers) 0 }}{{ $va = merge $va (dict "offers" $offers) }}{{ end }}
 
     {{ $actions := $userActs }}
+    {{ $tact := printf "%T" $actions }}
+    {{ if not (hasPrefix $tact "[]") }}
+      {{ if gt (len $actions) 0 }}
+        {{ $actions = slice $actions }}
+      {{ else }}
+        {{ $actions = slice }}
+      {{ end }}
+    {{ end }}
     {{ if eq (len $actions) 0 }}
-      {{ $actions = slice }}
       {{ with $viewURL }}
         {{ $actions = append $actions (dict
           "@type" "ViewAction"
           "target" (dict "@type" "EntryPoint" "urlTemplate" . "inLanguage" $lang "actionPlatform" $platforms)
         ) }}
       {{ end }}
-      {{ if or (gt (len $offers) 0) $pg.Params.buyURL }}
+      {{ if or (gt (len $offers) 0) $buyURL }}
+        {{ $target := or $buyURL $pg.Permalink }}
         {{ $actions = append $actions (dict
           "@type" "BuyAction"
-          "target" (dict "@type" "EntryPoint" "urlTemplate" $buyURL "inLanguage" $lang "actionPlatform" $platforms)
+          "target" (dict "@type" "EntryPoint" "urlTemplate" $target "inLanguage" $lang "actionPlatform" $platforms)
           "expectsAcceptanceOf" (cond (gt (len $offers) 0) $offers nil)
         ) }}
       {{ end }}
@@ -167,18 +189,26 @@
     {{ if gt (len $offers) 0 }}{{ $bk = merge $bk (dict "offers" $offers) }}{{ end }}
 
     {{ $actions := $userActs }}
+    {{ $tact := printf "%T" $actions }}
+    {{ if not (hasPrefix $tact "[]") }}
+      {{ if gt (len $actions) 0 }}
+        {{ $actions = slice $actions }}
+      {{ else }}
+        {{ $actions = slice }}
+      {{ end }}
+    {{ end }}
     {{ if eq (len $actions) 0 }}
-      {{ $actions = slice }}
       {{ with $readURL }}
         {{ $actions = append $actions (dict
           "@type" "ReadAction"
           "target" (dict "@type" "EntryPoint" "urlTemplate" . "inLanguage" $lang "actionPlatform" $platforms)
         ) }}
       {{ end }}
-      {{ if or (gt (len $offers) 0) $pg.Params.buyURL }}
+      {{ if or (gt (len $offers) 0) $buyURL }}
+        {{ $target := or $buyURL $pg.Permalink }}
         {{ $actions = append $actions (dict
           "@type" "BuyAction"
-          "target" (dict "@type" "EntryPoint" "urlTemplate" $buyURL "inLanguage" $lang "actionPlatform" $platforms)
+          "target" (dict "@type" "EntryPoint" "urlTemplate" $target "inLanguage" $lang "actionPlatform" $platforms)
           "expectsAcceptanceOf" (cond (gt (len $offers) 0) $offers nil)
         ) }}
       {{ end }}
