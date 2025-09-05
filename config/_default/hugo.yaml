@@ -200,3 +200,23 @@ params:
 
 
 
+
+  # Default service area (used when a Service page has no areaServed)
+  defaultArea:
+    - "Palma"
+    - "Barcelona"
+    - "Istanbul"
+
+  # Optional: knobs specifically for the ldjson partial
+  ldjson:
+    # Default platforms for potentialAction EntryPoints (if page omits actionPlatform)
+    actionPlatform:
+      - "http://schema.org/DesktopWebPlatform"
+      - "http://schema.org/MobileWebPlatform"
+
+    # Path used by WebSite.SearchAction (joined to baseURL).
+    # Keep it RELATIVE (no leading slash) to avoid double slashes.
+    searchPath: "search/?q={search_term_string}"
+
+
+

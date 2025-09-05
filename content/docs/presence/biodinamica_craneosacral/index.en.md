@@ -12,7 +12,7 @@ draft: false
 images: 
   - biodinamica.png
 schemaType: Service
-serviceType: "Craniosacral therapy session"
+serviceType: "Biodynamic Craniosacral therapy session"
 description: "Gentle hands-on therapy supporting the body's natural rhythms."
 areaServed: ["Palma", "Barcelona", "Istanbul"]
 serviceAudience:
@@ -23,39 +23,10 @@ hoursAvailable:
   dayOfWeek: ["Monday","Wednesday","Friday"]
   opens: "10:00"
   closes: "18:00"
-brand: "Fran Simo Studio"
-sameAs: ["https://instagram.com/yourhandle"]
-images: ["/services/cranio/cover.jpg"]
+# brand: "Fran Simo Studio"
+sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 
-# Offers / convenience fields
-price: "70"
-priceCurrency: "EUR"
-availability: "https://schema.org/InStock"
-sku: "CRANIO-60"
-bookingURL: "/book/craniosacral"
-buyURL: "/shop/craniosacral-60"
-actionPlatform: ["http://schema.org/DesktopWebPlatform","http://schema.org/MobileWebPlatform"]
 
-# Explicit actions (optional — overrides auto)
-potentialAction:
-  - "@type": ReserveAction
-    target:
-      "@type": EntryPoint
-      urlTemplate: "/book/craniosacral"
-      inLanguage: "en"
-      actionPlatform: ["http://schema.org/DesktopWebPlatform","http://schema.org/MobileWebPlatform"]
-  - "@type": BuyAction
-    target:
-      "@type": EntryPoint
-      urlTemplate: "/shop/craniosacral-60"
-      inLanguage: "en"
-      actionPlatform: ["http://schema.org/DesktopWebPlatform","http://schema.org/MobileWebPlatform"]
-    expectsAcceptanceOf:
-      "@type": Offer
-      price: "70"
-      priceCurrency: "EUR"
-      availability: "https://schema.org/InStock"
-      url: "/services/craniosacral/"
 
 ---
 

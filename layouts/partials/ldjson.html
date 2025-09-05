@@ -1,4 +1,9 @@
-{{/* 1) page-bundle schema.json (templated) */}}
+{{/* Page-level JSON-LD with robust optional potentialAction handling.
+     1) If bundle has schema.json, render it (templated).
+     2) Else, build JSON-LD for BlogPosting, Service, VisualArtwork, Book, WebSite, WebPage.
+     - potentialAction is OPTIONAL; user-supplied value can be a single map or a slice.
+*/}}
+
 {{ $pg := . }}
 {{ with $pg.Resources.Get "schema.json" }}
   {{ $rendered := . | resources.ExecuteAsTemplate .Name $pg }}
@@ -17,11 +22,12 @@
   {{ $hasOrg     :=  .Site.Params.organization.name }}
   {{ $provider   :=  dict "@type" (cond $hasOrg "Organization" "Person") "name" (cond $hasOrg $orgName $siteAuthor) }}
 
-  {{/* image + offers */}}
+  {{/* image */}}
   {{ $img := "" }}
   {{ with $pg.Params.images }}{{ $img = index . 0 }}{{ end }}
   {{ with (first 1 ($pg.Resources.ByType "image")) }}{{ $img = (index . 0).Permalink }}{{ end }}
 
+  {{/* offers (optional) */}}
   {{ $offers := dict }}
   {{ with $pg.Params.price }}         {{ $offers = merge $offers (dict "@type" "Offer" "price" .) }}        {{ end }}
   {{ with $pg.Params.priceCurrency }} {{ $offers = merge $offers (dict "priceCurrency" .) }}                {{ end }}
@@ -29,13 +35,25 @@
   {{ with $pg.Params.sku }}           {{ $offers = merge $offers (dict "sku" .) }}                          {{ end }}
   {{ if gt (len $offers) 0 }}         {{ $offers = merge $offers (dict "url" $pg.Permalink) }}              {{ end }}
 
-  {{/* platforms + helpers for actions */}}
-  {{ $platforms := $pg.Params.actionPlatform }}
-  {{ if not $platforms }}{{ $platforms = slice "http://schema.org/DesktopWebPlatform" "http://schema.org/MobileWebPlatform" }}{{ end }}
+  {{/* platforms + convenience URLs (all optional) */}}
+  {{ $platforms := or $pg.Params.actionPlatform .Site.Params.ldjson.actionPlatform (slice "http://schema.org/DesktopWebPlatform" "http://schema.org/MobileWebPlatform") }}
   {{ $buyURL     := or $pg.Params.buyURL     (printf "%s#buy" $pg.Permalink) }}
   {{ $bookingURL := or $pg.Params.bookingURL (printf "%s#book" $pg.Permalink) }}
   {{ $readURL    := or $pg.Params.readURL    (printf "%s#read" $pg.Permalink) }}
   {{ $viewURL    := or $pg.Params.viewURL    (printf "%s#view" $pg.Permalink) }}
+
+  {{/* normalize user-provided potentialAction to a slice (handles map, slice, or empty) */}}
+  {{ $userActs := slice }}
+  {{ with $pg.Params.potentialAction }}
+    {{ $t := printf "%T" . }}
+    {{ if hasPrefix $t "[]" }}
+      {{/* already a slice */}}
+      {{ $userActs = . }}
+    {{ else if gt (len .) 0 }}
+      {{/* single map/object -> wrap into slice */}}
+      {{ $userActs = $userActs | append . }}
+    {{ end }}
+  {{ end }}
 
   {{ $base := dict "@context" "https://schema.org" "@type" $type "inLanguage" $lang }}
 
@@ -68,9 +86,9 @@
     }}
     {{ if gt (len $offers) 0 }}{{ $svc = merge $svc (dict "offers" $offers) }}{{ end }}
 
-    {{/* potentialAction: allow override; else build Reserve/Buy */}}
-    {{ $actions := $pg.Params.potentialAction }}
-    {{ if not $actions }}
+    {{/* actions: use user-provided if any; else build defaults (all optional) */}}
+    {{ $actions := $userActs }}
+    {{ if eq (len $actions) 0 }}
       {{ $actions = slice }}
       {{ with $bookingURL }}
         {{ $actions = append $actions (dict
@@ -86,7 +104,7 @@
         ) }}
       {{ end }}
     {{ end }}
-    {{ if $actions }}{{ $svc = merge $svc (dict "potentialAction" $actions) }}{{ end }}
+    {{ if gt (len $actions) 0 }}{{ $svc = merge $svc (dict "potentialAction" $actions) }}{{ end }}
     <script type="application/ld+json">{{ merge $base $svc | jsonify | safeJS }}</script>
 
   {{ else if eq $type "VisualArtwork" }}
@@ -111,9 +129,8 @@
     {{ with $pg.Params.depth  }}{{ $va = merge $va (dict "depth"  .) }}{{ end }}
     {{ if gt (len $offers) 0 }}{{ $va = merge $va (dict "offers" $offers) }}{{ end }}
 
-    {{/* potentialAction: override or View/Buy */}}
-    {{ $actions := $pg.Params.potentialAction }}
-    {{ if not $actions }}
+    {{ $actions := $userActs }}
+    {{ if eq (len $actions) 0 }}
       {{ $actions = slice }}
       {{ with $viewURL }}
         {{ $actions = append $actions (dict
@@ -129,7 +146,7 @@
         ) }}
       {{ end }}
     {{ end }}
-    {{ if $actions }}{{ $va = merge $va (dict "potentialAction" $actions) }}{{ end }}
+    {{ if gt (len $actions) 0 }}{{ $va = merge $va (dict "potentialAction" $actions) }}{{ end }}
     <script type="application/ld+json">{{ merge $base $va | jsonify | safeJS }}</script>
 
   {{ else if eq $type "Book" }}
@@ -149,9 +166,8 @@
     }}
     {{ if gt (len $offers) 0 }}{{ $bk = merge $bk (dict "offers" $offers) }}{{ end }}
 
-    {{/* potentialAction: override or Read/Buy */}}
-    {{ $actions := $pg.Params.potentialAction }}
-    {{ if not $actions }}
+    {{ $actions := $userActs }}
+    {{ if eq (len $actions) 0 }}
       {{ $actions = slice }}
       {{ with $readURL }}
         {{ $actions = append $actions (dict
@@ -167,21 +183,8 @@
         ) }}
       {{ end }}
     {{ end }}
-    {{ if $actions }}{{ $bk = merge $bk (dict "potentialAction" $actions) }}{{ end }}
+    {{ if gt (len $actions) 0 }}{{ $bk = merge $bk (dict "potentialAction" $actions) }}{{ end }}
     <script type="application/ld+json">{{ merge $base $bk | jsonify | safeJS }}</script>
-
-  {{ else if eq $type "WebSite" }}
-    {{ $ws := dict
-      "name" .Site.Title
-      "url"  .Site.BaseURL
-      "publisher" (dict "@type" "Organization" "name" $orgName)
-      "potentialAction" (dict
-        "@type" "SearchAction"
-        "target" (printf "%ssearch/?q={search_term_string}" .Site.BaseURL)
-        "query-input" "required name=search_term_string"
-      )
-    }}
-    <script type="application/ld+json">{{ merge $base $ws | jsonify | safeJS }}</script>
 
   {{ else }}
     {{ $wp := dict
