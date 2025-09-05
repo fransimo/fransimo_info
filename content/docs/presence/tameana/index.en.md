@@ -9,8 +9,19 @@ categories:
   - presence
 tags: 
   - Tameana
-
-
+schemaType: Service
+serviceType: "Vibrational healing with quartz crystals (Tameana)"
+description: "Tameana is a vibrational healing practice that uses quartz crystals and channeled symbols to raise a person’s vibrational frequency, unblock emotions and promote inner transformation. Sessions last about an hour and can be done in person or remotely"
+areaServed: ["Palma","Barcelona","Istanbul","Remote"]
+serviceAudience:
+  "@type": Audience
+  audienceType: "Adults interested in non-medical vibrational energy healing (Tameana)"
+hoursAvailable:
+  "@type": OpeningHoursSpecification
+  dayOfWeek: ["Monday","Wednesday","Friday"]
+  opens: "10:00"
+  closes: "18:00"
+sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 {{% columns %}}
 ![tameana.png](tameana.png)
