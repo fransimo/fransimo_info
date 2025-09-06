@@ -22,7 +22,9 @@ hoursAvailable:
   closes: "18:00"
 sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
-
+{{% columns %}}
+![tameana.png](tameana.png)
+<--->
 # Tameana
 
 Tameana es una práctica de sanación vibracional que **utiliza cristales de cuarzo y símbolos canalizados para trabajar
@@ -34,6 +36,8 @@ Tiene raíces en la tradición pleyadiana y fue difundida por [Juan Manuel Giord
 
 La práctica consiste en colocar cuarzos en posiciones específicas alrededor del cuerpo, que luego son activados con
 símbolos pleyadianos. También puede realizarse a distancia.
+
+{{% /columns %}}
 
 Durante una sesión de Tameana, se estimulan y armonizan los centros energéticos, sintonizando a la persona con campos
 vibratorios más elevados y restableciendo su campo magnético. Esto induce un proceso de limpieza y purificación de

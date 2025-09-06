@@ -2,46 +2,91 @@
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Tameana Energy Healing",
-  "description": "Tameana is a vibrational healing practice that uses quartz crystals and channeled symbols to raise a person’s vibrational frequency, unblock emotions and promote inner transformation. Sessions last about an hour and can be done in person or remotely:contentReference[oaicite:2]{index=2}.",
-  "serviceType": "Vibrational healing with quartz crystals (Tameana)",
-  "image": "{{ index .Params.images 0 }}",
+  "serviceType": "Vibrational energy healing with quartz crystals (Tameana)",
+  "url": "https://fransimo.info/docs/presence/tameana/",
+  "description": "Tameana is a vibrational healing practice using quartz crystals and channeled symbols to raise vibrational frequency, unblock emotions and support inner transformation. Sessions can be in-person or remote.",
+  "inLanguage": ["en","es"],
   "provider": {
-    "@type": "Person",
+    "@type": "Organization",
     "name": "Fran Simó"
   },
-  "areaServed": ["Palma","Barcelona","Istanbul","Remote"],
-  "hasOfferCatalog": {
-    "@type": "OfferCatalog",
-    "name": "Tameana Session Options",
-    "itemListElement": [
-      {
-        "@type": "Offer",
-        "name": "Salush Nahí session",
-        "price": 60,
-        "priceCurrency": "EUR",
-        "availability": "InStock",
-        "url": "https://fransimo.info/docs/presence/tameana/#book-salush-nahi"
-      },
-      {
-        "@type": "Offer",
-        "name": "H’ama session",
-        "price": 30,
-        "priceCurrency": "EUR",
-        "availability": "InStock",
-        "url": "https://fransimo.info/docs/presence/tameana/#book-h-ama"
-      }
-    ]
-  },
+
+  /* Where you offer the service */
+  "areaServed": [
+    { "@type": "City", "name": "Barcelona" },
+    { "@type": "City", "name": "Istanbul" },
+    "Remote"
+  ],
+  "serviceLocation": [
+    { "@type": "Place", "name": "Barcelona" },
+    { "@type": "Place", "name": "Istanbul" }
+  ],
+
+  /* Optional channels (nice-to-have) */
+  "availableChannel": [
+    {
+      "@type": "ServiceChannel",
+      "name": "In-person sessions",
+      "serviceLocation": [
+        { "@type": "Place", "name": "Barcelona" },
+        { "@type": "Place", "name": "Istanbul" }
+      ]
+    },
+    {
+      "@type": "ServiceChannel",
+      "name": "Remote sessions",
+      "serviceUrl": "https://fransimo.info/docs/contact/"
+    }
+  ],
+
+  /* Audience */
+  "audience": [
+    {
+      "@type": "PeopleAudience",
+      "name": "Adults seeking energy healing",
+      "audienceType": "Adults interested in non-medical vibrational healing (Tameana)",
+      "suggestedMinAge": 18,
+      "suggestedGender": "unisex"
+    },
+    {
+      "@type": "Audience",
+      "name": "Home or business owners",
+      "audienceType": "People booking energetic space harmonization (H’ama)"
+    }
+  ],
+
+  /* Separate offers for Salush Nahí and H’ama */
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "Salush Nahí (personal session)",
+      "price": 60,
+      "priceCurrency": "EUR",
+      "availability": "InStock",
+      "url": "https://fransimo.info/docs/presence/tameana/#book-salush-nahi",
+      "category": "personal-session"
+    },
+    {
+      "@type": "Offer",
+      "name": "H’ama (space/situation harmonization)",
+      "price": 30,
+      "priceCurrency": "EUR",
+      "availability": "InStock",
+      "url": "https://fransimo.info/docs/presence/tameana/#book-h-ama",
+      "category": "space-session"
+    }
+  ],
+
+  /* Booking intent (optional but helpful) */
   "potentialAction": {
     "@type": "ReserveAction",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "https://fransimo.info/book/tameana",
-      "actionPlatform": "https://schema.org/DesktopWebPlatform"
-    },
-    "result": {
-      "@type": "Reservation",
-      "name": "Tameana session reservation"
+      "urlTemplate": "https://fransimo.info/docs/contact/",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
     }
   }
 }
