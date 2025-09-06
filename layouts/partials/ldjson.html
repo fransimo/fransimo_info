@@ -10,11 +10,21 @@
   - Each type block re-coerces $actions to a slice before appending.
 */}}
 
+{{/* Try language-specific JSON first (schema_<lang>.json), then generic schema.json */}}
+
 {{ $pg := . }}
-{{ with $pg.Resources.Get "schema.json" }}
+{{ $lang := lower (or $pg.Language.Lang $pg.Lang) }}           {{/* e.g., "en", "es-es" */}}
+{{ $langShort := index (split $lang "-") 0 }}                   {{/* e.g., "en", "es"    */}}
+
+{{ $schemaRes := or
+  ($pg.Resources.Get (printf "schema_%s.json" $lang))
+  ($pg.Resources.Get (printf "schema_%s.json" $langShort))
+  ($pg.Resources.Get "schema.json")
+}}
+
+{{ with $schemaRes }}
   {{ $rendered := . | resources.ExecuteAsTemplate .Name $pg }}
   <script type="application/ld+json">{{- $rendered.Content | safeJS -}}</script>
-
 {{ else }}
   {{/* type picking */}}
   {{ $isBlog := or (eq $pg.Section "blog") (eq $pg.Type "post") }}
