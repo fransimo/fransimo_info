@@ -1,0 +1,98 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Sanación energética Tameana",
+  "serviceType": "Sanación vibracional con cristales de cuarzo (Tameana)",
+  "url": "https://fransimo.info/es/docs/presence/tameana/",
+  "description": "Tameana utiliza cristales de cuarzo y símbolos canalizados para elevar la frecuencia vibratoria, desbloquear emociones y apoyar procesos de transformación interior. Las sesiones pueden ser presenciales o a distancia.",
+  "inLanguage": ["es","en"],
+  "provider": {
+    "@type": "Organization",
+    "name": "Fran Simó"
+  },
+  "areaServed": [
+    { "@type": "City", "name": "Barcelona" },
+    { "@type": "City", "name": "Estambul" },
+    "A distancia"
+  ],
+  "serviceLocation": [
+    { "@type": "Place", "name": "Barcelona" },
+    { "@type": "Place", "name": "Estambul" }
+  ],
+  "availableChannel": [
+    {
+      "@type": "ServiceChannel",
+      "name": "Sesiones presenciales",
+      "serviceLocation": [
+        { "@type": "Place", "name": "Barcelona" },
+        { "@type": "Place", "name": "Estambul" }
+      ]
+    },
+    {
+      "@type": "ServiceChannel",
+      "name": "Sesiones a distancia",
+      "serviceUrl": "https://fransimo.info/es/docs/contact/"
+    }
+  ],
+  "audience": [
+    {
+      "@type": "PeopleAudience",
+      "name": "Adultos que buscan sanación energética",
+      "audienceType": "Adultos interesados en sanación vibracional no médica (Tameana)",
+      "suggestedMinAge": 18,
+      "suggestedGender": "unisex"
+    },
+    {
+      "@type": "Audience",
+      "name": "Propietarios de viviendas o negocios",
+      "audienceType": "Personas que solicitan armonización energética de espacios (H’ama)"
+    }
+  ],
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "Salush Nahí (sesión personal)",
+      "price": 60,
+      "priceCurrency": "EUR",
+      "availability": "InStock",
+      "url": "https://fransimo.info/es/docs/presence/tameana/#reservar-salush-nahi",
+      "category": "sesion-personal"
+    },
+    {
+      "@type": "Offer",
+      "name": "H’ama (armonización de espacios/situaciones)",
+      "price": 30,
+      "priceCurrency": "EUR",
+      "availability": "InStock",
+      "url": "https://fransimo.info/es/docs/presence/tameana/#reservar-h-ama",
+      "category": "sesion-espacio"
+    },
+    {
+      "@type": "Offer",
+      "name": "Promoción Estambul — Salush Nahí (una sesión personal gratuita)",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "InStock",
+      "priceValidUntil": "2026-06-30",
+      "eligibleRegion": {
+        "@type": "AdministrativeArea",
+        "name": "Estambul",
+        "addressCountry": "TR"
+      },
+      "eligibleQuantity": { "@type": "QuantitativeValue", "value": 1 },
+      "category": "promocion",
+      "url": "https://fransimo.info/es/docs/presence/promo/"
+    }
+  ],
+  "potentialAction": {
+    "@type": "ReserveAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://fransimo.info/es/docs/contact/",
+      "actionPlatform": [
+        "https://schema.org/DesktopWebPlatform",
+        "https://schema.org/MobileWebPlatform"
+      ]
+    }
+  }
+}

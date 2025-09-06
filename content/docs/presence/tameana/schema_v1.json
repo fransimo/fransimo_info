@@ -2,44 +2,24 @@
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Tameana Energy Healing",
-  "serviceType": "Vibrational energy healing with quartz crystals (Tameana)",
   "url": "https://fransimo.info/docs/presence/tameana/",
-  "description": "Tameana is a vibrational healing practice using quartz crystals and channeled symbols to raise vibrational frequency, unblock emotions and support inner transformation. Sessions can be in-person or remote.",
+  "serviceType": "Vibrational energy healing with quartz crystals (Tameana)",
+  "description": "Tameana uses quartz crystals and channeled symbols to raise vibrational frequency, unblock emotions and support inner transformation. Sessions may be in-person or remote.",
   "inLanguage": ["en","es"],
-  "provider": {
-    "@type": "Organization",
-    "name": "Fran Simó"
-  },
 
-  /* Where you offer the service */
+  "provider": { "@type": "Organization", "name": "Fran Simó" },
+
   "areaServed": [
     { "@type": "City", "name": "Barcelona" },
     { "@type": "City", "name": "Istanbul" },
     "Remote"
   ],
+
   "serviceLocation": [
     { "@type": "Place", "name": "Barcelona" },
     { "@type": "Place", "name": "Istanbul" }
   ],
 
-  /* Optional channels (nice-to-have) */
-  "availableChannel": [
-    {
-      "@type": "ServiceChannel",
-      "name": "In-person sessions",
-      "serviceLocation": [
-        { "@type": "Place", "name": "Barcelona" },
-        { "@type": "Place", "name": "Istanbul" }
-      ]
-    },
-    {
-      "@type": "ServiceChannel",
-      "name": "Remote sessions",
-      "serviceUrl": "https://fransimo.info/docs/contact/"
-    }
-  ],
-
-  /* Audience */
   "audience": [
     {
       "@type": "PeopleAudience",
@@ -55,7 +35,6 @@
     }
   ],
 
-  /* Separate offers for Salush Nahí and H’ama */
   "offers": [
     {
       "@type": "Offer",
@@ -74,10 +53,43 @@
       "availability": "InStock",
       "url": "https://fransimo.info/docs/presence/tameana/#book-h-ama",
       "category": "space-session"
+    },
+
+    /* --- ISTANBUL PROMOTION --- */
+    {
+      "@type": "Offer",
+      "name": "Istanbul Promotion — Salush Nahí (one free personal session)",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "InStock",
+      "priceValidUntil": "2026-06-30",
+      "eligibleRegion": {
+        "@type": "AdministrativeArea",
+        "name": "Istanbul",
+        "addressCountry": "TR"
+      },
+      "eligibleQuantity": { "@type": "QuantitativeValue", "value": 1 },
+      "category": "promotion",
+      "url": "https://fransimo.info/docs/presence/promo/"
     }
   ],
 
-  /* Booking intent (optional but helpful) */
+  "availableChannel": [
+    {
+      "@type": "ServiceChannel",
+      "name": "In-person sessions",
+      "serviceLocation": [
+        { "@type": "Place", "name": "Barcelona" },
+        { "@type": "Place", "name": "Istanbul" }
+      ]
+    },
+    {
+      "@type": "ServiceChannel",
+      "name": "Remote sessions",
+      "serviceUrl": "https://fransimo.info/docs/contact/"
+    }
+  ],
+
   "potentialAction": {
     "@type": "ReserveAction",
     "target": {
