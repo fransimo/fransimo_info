@@ -1,12 +1,9 @@
 ---
 title: '22'
 date: '2010-01-22'
-author: "Fran Simó"
 aliases: /es/blog/2010/01/14/22/
 images:
   - 0013_018_GSC_2765_cover.jpg
-dateCreated: 2009
-schemaOrgType: Book
 bookToc: false
 categories:
   - photography
@@ -14,6 +11,17 @@ categories:
 tags:
 - Barcelona
 - art book
+schemaType: Book
+description: "Las fotografías de 22 son fragmentos del remanso entre dos épocas, entre dos modelos de desarrollo, el primero industrial y el segundo del conocimiento."
+author:
+  "@type": Person
+  name: "Fran Simó"
+publisher:
+  "@type": Person
+  name: "Fran Simó"
+bookEdition: "First"
+numberOfPages: 26
+datePublished: "2010-01-22"
 ---
 
 ![22_fran_simo_05.jpg](22_fran_simo_05.jpg)
