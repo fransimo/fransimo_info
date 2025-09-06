@@ -1,20 +1,36 @@
 ---
-author: "Fran Simó"
 categories:
 - new media art
 date: 2019-05-29
 images:
   - X1V16641_v2.jpg
-dateCreated: 2019
-schemaOrgType: Book
-isbn: 9780244481964
 tags:
 - non creative writing
 - open source
 - ready made
 - software
 title: CODE by R.Mutt
+description: "An artist’s book that turns the open-source dcraw code into a color, 164-page A5 volume—treating software itself as a Duchampian readymade. It reflects on open-source poetics, authorship and intellectual property, and invites readers to remix and co-author the work."
 aliases: /blog/2019/05/29/code-by-r-mutt/
+schemaType: Book
+author:
+  "@type": Person
+  name: "Fran Simó"
+publisher:
+  "@type": Person
+  name: "Fran Simó"
+isbn: "978-0-2444-8196-4"
+bookEdition: "First"
+numberOfPages: 164
+datePublished: "2019-05-02"
+# Opcional (venta)
+price: "44.60"
+priceCurrency: "EUR"
+availability: "https://schema.org/InStock"
+buyURL: "https://www.lulu.com/shop/fran-sim%C3%B3/code-by-rmutt/paperback/product-1wk5j69d.html?page=1&pageSize=4"
+
+# Opcional (muestra de lectura)
+readURL: "/Code/CODE_by_Mutt.pdf"
 ---
 ![](X1V16639.jpg)
 # CODE by R.Mutt
@@ -65,7 +81,7 @@ Florian Cramer and Ulrike Gabriel.
 
 ## Motivation
 
-I was always fascinated by this piece of code that literally was responsible of _developing_ all digital pictures in the open source space. Being a software developer, its simplicity was very attractive to me. Just one file holds everything. It is beauty in code. For me, it was already art but [I wanted to transform it into an object, an artwork](https://www.lulu.com/en/shop/fran-sim%C3%B3/code-by-rmutt/paperback/product-1wk5j69d.html?page=1&pageSize=4).
+I was always fascinated by this piece of code that literally was responsible of _developing_ all digital pictures in the open source space. Being a software developer, its simplicity was very attractive to me. Just one file holds everything. It is beauty in code. For me, it was already art but [I wanted to transform it into an object, an artwork](https://www.lulu.com/en/shop/fran-sim%C3%B3/code-by-rmutt/paperback/product-1wk5j69d.html?page=1&pageSize=4).
 
 CODE was part of [function(“innocence”, 2019)](https://fransimo.info/blog/2019/05/26/functioninnocence-2019/) festival. It [is open source too](https://github.com/r-mutt-1917/CODE).
 

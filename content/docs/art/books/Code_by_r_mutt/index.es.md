@@ -1,22 +1,37 @@
 ---
-author: "Fran Simó"
 categories:
 - new media art
 - books, zines and so
 date: 2019-05-29
 images:
   - X1V16641_v2.jpg
-dateCreated: 2019
-schemaOrgType: Book
-isbn: 9780244481964
 tags:
 - non creative writing
 - open source
 - ready made
 - software
-title: CODE by R.Mutt
-
+title: "CODE by R.Mutt"
+description: "Un libro de artista que convierte el código abierto dcraw en un volumen A5 a color de 164 páginas, tratando el software en sí mismo como un ready-made duchampiano. Reflexiona sobre la poética del código abierto, la autoría y la propiedad intelectual, e invita a los lectores a remezclar y coescribir la obra."
 aliases: /es/blog/2019/05/29/code-by-r-mutt/
+schemaType: Book
+author:
+  "@type": Person
+  name: "Fran Simó"
+publisher:
+  "@type": Person
+  name: "Fran Simó"
+isbn: "978-0-2444-8196-4"
+bookEdition: "First"
+numberOfPages: 164
+datePublished: "2019-05-02"
+# Opcional (venta)
+price: "44.60"
+priceCurrency: "EUR"
+availability: "https://schema.org/InStock"
+buyURL: "https://www.lulu.com/shop/fran-sim%C3%B3/code-by-rmutt/paperback/product-1wk5j69d.html?page=1&pageSize=4"
+
+# Opcional (muestra de lectura)
+readURL: "/Code/CODE_by_Mutt.pdf"
 ---
 ![](X1V16639.jpg)
 # CODE by R.Mutt
