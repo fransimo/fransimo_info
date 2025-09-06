@@ -9,25 +9,28 @@ tags:
 images:
   - Passengers_Vol_III.jpg
 title: Passengers Vol. III
-description: "A collection of minimalist sumi-e works and notes."
+description: "Tercer libro de la serie Passengers."
 bookToc: false
 bookCollapseSection: true
 schemaType: Book
 author:
   "@type": Person
-  name: "Fran Simó"
+  name: ["Fran Simó","Marcelo Aurelio", "Godo Chillida","Benjamín Julve"] 
 publisher:
   "@type": Organization
-  name: "Barcelona Photobloggers"
+  name: "Associació Barcelona Photobloggers"
 isbn: "978-0-2443-3654-7"
 bookEdition: "First"
 numberOfPages: 64
 datePublished: "2017-10-01"
-#price: "24.75"
-#priceCurrency: "EUR"
-#availability: "https://schema.org/InStock"
-#buyURL: "/shop/passengers-vol-3"
-#readURL: "/books/passengers-vol-3/sample"
+# Opcional (venta)
+price: "24.75"
+priceCurrency: "EUR"
+availability: "https://schema.org/InStock"
+buyURL: "https://www.lulu.com/es/shop/fran-sim%C3%B3-and-benjam%C3%ADn-julve-and-godo-chillida-and-marcelo-aurelio/passengers-vol-iii/paperback/product-1y884p24.html?page=1&pageSize=4"
+
+# Opcional (muestra de lectura)
+# readURL: "/es/docs/art/books/Passengers_Vol_III/muestra"
 ---
 
 {{% columns %}}
