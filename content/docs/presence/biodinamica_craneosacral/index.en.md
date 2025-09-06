@@ -91,9 +91,18 @@ I'm studying at [Spanish Institute of Craniosacral Biodynamics](https://biodinam
 teachers approach combines the views of Andrew Taylor Still, William G. Sutherland, Rollin Becker, James S. Jealous,
 John Upledger, Franklyn Sills and Ray Castelino.
 
-You can check prices and service limitations [here](../prices/). 
+
 
 More information at:
 - [International Institute for Craniosacral Balancing](https://www.icsb.ch/en/biodynamik/)
 - [Biodynamic Craniosacral Therapy Association of North America](https://www.craniosacraltherapy.org/what-is-bcst-)
 - [Selected YouTube videos](https://www.youtube.com/playlist?list=PLDtuqx9znDF8dJ0VCmarHeYGpuNALTYeP)
+
+## Price information
+
+- **Duration:** 1 hour.  
+- **Setting:** massage table.  
+- **Price:** ~~€60~~  first 3 session free as student practices.
+- **Location:** at your place or a rented space.  
+
+You can check all prices and service limitations [here](../prices/). 

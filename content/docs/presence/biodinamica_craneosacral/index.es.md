@@ -61,4 +61,11 @@ Soy estudiante del [Instituto Español de Biodinámica Craneosacral](https://bio
 enfoque de mis profesores combina las visiones de Andrew Taylor Still, William G. Sutherland, Rollin Becker, James S.
 Jealous, John Upledger, Franklyn Sills y Ray Castelino.
 
-Puedes consultar los precios y los límites del servicio [aquí](../prices/). 
+## Precios 
+
+- **Duración:** 1 hora.
+- **En:** camilla.
+- **Precio:** ~~60€~~ las primeras tres sesiones gratuitas como parte de mis prácticas de estudiante.
+- **Lugar:** desplazamiento a tu lugar o sala contratada.
+
+Puedes consultar todos los precios y los límites del servicio [aquí](../prices/). 
