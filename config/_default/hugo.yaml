@@ -52,6 +52,18 @@ languages:
 disablePathToLower: true
 enableGitInfo: true
 
+outputFormats:
+  PublishDataJSON:
+    mediaType: application/json
+    baseName: publish_data
+    isPlainText: true
+    notAlternative: true
+
+outputs:
+  home:
+    - HTML
+    - PublishDataJSON
+
 # Images
 imaging:
   quality: 78

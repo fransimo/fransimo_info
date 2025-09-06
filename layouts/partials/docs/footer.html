@@ -1,8 +1,0 @@
-<footer class="footer">
-  {{- $build := now | time.Format "2006-01-02 15:04 MST" -}}
-  {{- with site.Home.GitInfo }}
-    <small>Built {{ $build }} • commit {{ .AbbreviatedHash }}</small>
-  {{ else }}
-    <small>Built {{ $build }}</small>
-  {{ end -}}
-</footer>
