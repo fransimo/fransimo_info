@@ -7,4 +7,4 @@ docker run --rm -it \
   -p 1313:1313 \
   -e HUGO_ENVIRONMENT=production \
   hugomods/hugo:latest \
-  server
+  server # --ignoreCache
