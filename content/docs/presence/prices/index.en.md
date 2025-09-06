@@ -36,7 +36,7 @@ Craniosacral Biodynamics aims to restore the body's inherent health by awakening
 
 ## Holistic Session  
 
-These sessions combine various massage and energy techniques, adapting them to each person and situation. [Read more here](masaje_holistico/).  
+These sessions combine various massage and energy techniques, adapting them to each person and situation. [Read more here](holistic_session/).  
 
 - **Duration:** 1 hour.  
 - **Setting:** chair, massage table, or tatami.  

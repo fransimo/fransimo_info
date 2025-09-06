@@ -42,7 +42,7 @@ sanación. [Puedes leer más aquí](biodinamica_craneosacral.md).
 ## Sesión holística
 
 Sesiones en las que combino diferentes técnicas de masaje y energía, adaptándolas a cada persona y
-situación. [Puedes leer más aquí](masaje_holistico.md).
+situación. [Puedes leer más aquí](holistic_session).
 
 - **Duración:** 1 hora.
 - **En:** silla, camilla o tatami.
