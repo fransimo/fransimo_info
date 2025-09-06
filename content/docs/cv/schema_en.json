@@ -23,7 +23,6 @@
       "https://casaplanas.org/fran-simo/",
       "https://fundacionpsv.org/en/pt_socios/fran-simo/"
     ]
-    /* optional fields: identifier, agentInteractionStatistic, interactionStatistic */
   },
   "dateModified": "{{ $dateModifiedISO }}"
 }
