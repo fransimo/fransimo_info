@@ -174,32 +174,11 @@ params:
   images:
   - https://fransimo.info/docs/presence/fransimo_therapies.png
 
-  schema_org:
-    name: Fran Simó
-    type: Organization
-    email: contact@fransimo.info
-    image: https://fransimo.info/docs/cv/fran_simo_v2.jpg
-    sameAs:
-      - "https://www.facebook.com/fransimo"
-      - "https://www.instagram.com/fransimo"
-      - "https://www.instagram.com/fransimo_therapies/"
-      - "https://www.instagram.com/fransimo_nft/"
-      - "https://x.com/fransimo"
-      - "https://github.com/fransimo"
-      - "https://www.lensculture.com/fran-simo"
-      - "https://soundcloud.com/fransimo"
-      - "https://casaplanas.org/fran-simo/"
-      - "https://fundacionpsv.org/en/pt_socios/fran-simo/"
-      - "https://www.amazon.com/stores/author/B06XVR2JLG"
-      - "https://foundation.app/@fransimo"
-      - "https://open.spotify.com/user/fsimo"
-      - "https://barcelonaphotobloggers.org/author/fran/"
-      - "https://www.youtube.com/c/FranSim%C3%B3"
-      - "https://opensea.io/fransimo"
-      - "https://vimeo.com/fransimo"
-
-
-
+  # Organization info used for publisher/provider + logo
+  organization:
+    name: "Fran Simó"
+    # Use an absolute URL for best results
+    logo: "https://fransimo.info/docs/presence/fransimo_therapies.png"
 
   # Default service area (used when a Service page has no areaServed)
   defaultArea:
