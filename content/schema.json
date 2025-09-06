@@ -1,10 +1,28 @@
 {
   "@context": "https://schema.org",
-  "@type": "{{ .Site.Params.schema_org.type }}",
-  "name": {{ .Site.Params.schema_org.name }},
-  "url": {{ .Site.BaseURL }},
-  "logo": {{ .Site.Params.schema_org.image }},
-  "sameAs": {{ .Site.Params.schema_org.sameAs }},
+  "@type": "{{ .Site.Params.organization.type }}",
+  "name": "{{ .Site.Params.organization.name }}",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.Params.organization.logo }}",
+  "sameAs": [
+    "https://www.facebook.com/fransimo",
+    "https://www.instagram.com/fransimo",
+    "https://www.instagram.com/fransimo_therapies/",
+    "https://x.com/fransimo",
+    "https://github.com/fransimo",
+    "https://www.lensculture.com/fran-simo",
+    "https://www.instagram.com/fransimo_nft/",
+    "https://soundcloud.com/fransimo",
+    "https://casaplanas.org/fran-simo/",
+    "https://fundacionpsv.org/en/pt_socios/fran-simo/",
+    "https://www.amazon.com/stores/author/B06XVR2JLG",
+    "https://foundation.app/@fransimo",
+    "https://open.spotify.com/user/fsimo",
+    "https://barcelonaphotobloggers.org/author/fran/",
+    "https://www.youtube.com/c/FranSim%C3%B3",
+    "https://opensea.io/fransimo",
+    "https://vimeo.com/fransimo"
+  ],
   "department": [
     {
       "@type": "ArtGallery",

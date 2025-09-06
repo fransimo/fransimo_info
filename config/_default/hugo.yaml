@@ -177,6 +177,7 @@ params:
   # Organization info used for publisher/provider + logo
   organization:
     name: "Fran Simó"
+    type: "Organization"
     # Use an absolute URL for best results
     logo: "https://fransimo.info/docs/presence/fransimo_therapies.png"
 
