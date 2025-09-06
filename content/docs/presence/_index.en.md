@@ -14,7 +14,7 @@ title: "Presence"
 <--->
 
 From the most subtle, like [tameana](tameana/) or [craniosacral biodynamics](biodinamica_craneosacral/), to 
-[holistic massage](masaje_holistico/), we can explore paths to remind your body 
+[holistic bodywork & energy session](holistic_session/), we can explore paths to remind your body 
 how to restore its inherent health, or simply find a moment of peace.
 
 If you feel the calling, you can check out the [services and prices](prices/) and [contact me](../contact).
