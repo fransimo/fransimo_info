@@ -53,4 +53,13 @@ I practice two techniques:
 - **Salush Nahí**: Sessions for complete system harmonization and physical, emotional, and mental healing. It awakens and connects the intelligence of the entire Being, balancing the chakras.  
 - **H’ama**: Energetic cleansing of spaces. It releases imprinted energies that may be densifying and blocking homes, businesses, etc. Instead, it raises the vibration to optimize the space’s energy flow.  
 
-You can check prices and service limitations [here](../prices/).  
+## Price information
+
+- **Duration:** 1 hour.  
+- **Setting:** chair, massage table, or tatami.  
+- **Price:**  
+    - Salush Nahí: €60  
+    - H’ama: €30  
+- **Location:** remote, at your place, or a rented space.  
+
+You can all check prices and service limitations [here](../prices/).  

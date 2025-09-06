@@ -68,5 +68,14 @@ Practico dos de las técnicas:
 - **H’ama**: limpieza energética de ambientes o situaciones. Libera las energías impregnadas que pueden estar densificando y
   bloqueando casas, negocios, etc. En su lugar, eleva la vibración para optimizar el funcionamiento del espacio.
 
-Puedes consultar los precios y los límites del servicio [aquí](../prices/).  
+## Precios
+
+- **Duración:** 1 hora.
+- **En:** silla, camilla o tatami.
+- **Precio:**
+    - Salush Nahí: 60€
+    - H’ama: 30€
+- **Lugar:** remoto, desplazamiento a tu lugar o sala contratada.
+
+Puedes consultar todos los precios y los límites del servicio [aquí](../prices/).  
 
