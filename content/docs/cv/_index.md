@@ -2,27 +2,6 @@
 author: "Fran Simó"
 title: 'About'
 description: 'New media artist and holistic therapist exploring art, magic, technology, and healing.'
-schemaOrgType: Person
-schemaOrgName: Fran Simó
-schemaOrgJobTitle: ["New Media Artist","Photographer", "Holistic Therapist"]
-schemaOrgKnowsLanguage: ["Spanish","English"]
-schemaOrgSameAs:
-  - "https://www.facebook.com/fransimo"
-  - "https://www.instagram.com/fransimo"
-  - "https://x.com/fransimo"
-  - "https://github.com/fransimo"
-  - "https://www.lensculture.com/fran-simo"
-  - "https://www.instagram.com/fransimo_nft/"
-  - "https://soundcloud.com/fransimo"
-  - "https://casaplanas.org/fran-simo/"
-  - "https://fundacionpsv.org/en/pt_socios/fran-simo/"
-  - "https://www.amazon.com/stores/author/B06XVR2JLG"
-  - "https://foundation.app/@fransimo"
-  - "https://open.spotify.com/user/fsimo"
-  - "https://barcelonaphotobloggers.org/author/fran/"
-  - "https://www.youtube.com/c/FranSim%C3%B3"
-  - "https://opensea.io/fransimo"
-  - "https://vimeo.com/fransimo"
 weight: 30
 bookFlatSection: false
 bookCollapseSection: true
@@ -32,7 +11,6 @@ aliases:
   - /en/cv/
   - /cv/
 ---
-
 
 # Fran Simó
 
