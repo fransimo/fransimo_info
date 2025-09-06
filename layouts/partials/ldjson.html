@@ -84,7 +84,7 @@
   {{- else if eq $type "Service" -}}
     {{- $__ld_svc := dict
       "name"            (or $pg.Params.name $pg.Title)
-      "description"     (or $pg.Params.description $pg.Summary)
+      "description"     (or $pg.Params.serviceDescription $pg.Params.description $pg.Summary)
       "serviceType"     (or $pg.Params.serviceType $pg.Title)
       "provider"        $__ld_provider
       "areaServed"      (or $pg.Params.areaServed .Site.Params.defaultArea)
