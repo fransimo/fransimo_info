@@ -1,131 +1,142 @@
-{{/* layouts/partials/ldjson.html */}}
+{{/* layouts/partials/ldjson.html — robust + no-append defaults */}}
 
-{{/* ---------- Try language-specific schema from the page bundle ---------- */}}
-{{ $pg := . }}
-{{ $langCode := lower (or $pg.Language.Lang $pg.Lang) }}     {{/* e.g. "en", "es-ES" */}}
-{{ $langShort := index (split $langCode "-") 0 }}             {{/* e.g. "en", "es"    */}}
+{{- $pg := . -}}
 
-{{ $schemaRes := or
+{{/* ---------- Language-aware schema override from bundle ---------- */}}
+{{- $langCode := lower (or $pg.Language.Lang $pg.Lang) -}}       {{/* e.g. "en", "es-ES" */}}
+{{- $langShort := index (split $langCode "-") 0 -}}               {{/* e.g. "en", "es"    */}}
+
+{{- $schemaRes := or
   ($pg.Resources.Get (printf "schema_%s.json" $langCode))
   ($pg.Resources.Get (printf "schema_%s.json" $langShort))
   ($pg.Resources.Get "schema.json")
-}}
+-}}
 
-{{ with $schemaRes }}
-  {{ $rendered := . | resources.ExecuteAsTemplate .Name $pg }}
+{{- with $schemaRes -}}
+  {{- $rendered := . | resources.ExecuteAsTemplate .Name $pg -}}
   <script type="application/ld+json">{{- $rendered.Content | safeJS -}}</script>
-{{ else }}
+{{- else -}}
 
   {{/* ---------- Type selection ---------- */}}
-  {{ $isBlog := or (eq $pg.Section "blog") (eq $pg.Type "posts") }}
-  {{ $type := or $pg.Params.schemaType (cond $isBlog "BlogPosting" (cond (eq $pg.Kind "home") "WebSite" "WebPage")) }}
+  {{- $isBlog := or (eq $pg.Section "blog") (eq $pg.Type "post") -}}
+  {{- $type := or $pg.Params.schemaType (cond $isBlog "BlogPosting" (cond (eq $pg.Kind "home") "WebSite" "WebPage")) -}}
 
   {{/* ---------- Site helpers ---------- */}}
-  {{ $siteAuthor :=  or .Site.Params.author.name .Site.Author.name .Site.Title }}
-  {{ $orgName    :=  or .Site.Params.organization.name .Site.Title }}
-  {{ $orgLogo    :=  .Site.Params.organization.logo }}
-  {{ $hasOrg     :=  .Site.Params.organization.name }}
-  {{ $provider   :=  dict "@type" (cond $hasOrg "Organization" "Person") "name" (cond $hasOrg $orgName $siteAuthor) }}
+  {{- $siteAuthor :=  or .Site.Params.author.name .Site.Author.name .Site.Title -}}
+  {{- $orgName    :=  or .Site.Params.organization.name .Site.Title -}}
+  {{- $orgLogo    :=  .Site.Params.organization.logo -}}
+  {{- $hasOrg     :=  .Site.Params.organization.name -}}
+  {{- $__ld_provider := dict "@type" (cond $hasOrg "Organization" "Person") "name" (cond $hasOrg $orgName $siteAuthor) -}}
 
   {{/* ---------- Language / platforms / search config ---------- */}}
-  {{ $lang       := $langCode }}
-  {{ $platforms  := or $pg.Params.actionPlatform .Site.Params.ldjson.actionPlatform (slice "http://schema.org/DesktopWebPlatform" "http://schema.org/MobileWebPlatform") }}
-  {{ $searchPath := or .Site.Params.ldjson.searchPath "search/?q={search_term_string}" }}
+  {{- $__ld_lang := $langCode -}}
+  {{- $__ld_platforms := or $pg.Params.actionPlatform .Site.Params.ldjson.actionPlatform (slice "http://schema.org/DesktopWebPlatform" "http://schema.org/MobileWebPlatform") -}}
+  {{- $__ld_searchPath := or .Site.Params.ldjson.searchPath "search/?q={search_term_string}" -}}
 
   {{/* ---------- Representative image ---------- */}}
-  {{ $img := "" }}
-  {{ with $pg.Params.images }}{{ $img = index . 0 }}{{ end }}
-  {{ with (first 1 ($pg.Resources.ByType "image")) }}{{ $img = (index . 0).Permalink }}{{ end }}
+  {{- $__ld_img := "" -}}
+  {{- with $pg.Params.images -}}{{ $__ld_img = index . 0 }}{{- end -}}
+  {{- with (first 1 ($pg.Resources.ByType "image")) -}}{{ $__ld_img = (index . 0).Permalink }}{{- end -}}
 
   {{/* ---------- Offers (optional) ---------- */}}
-  {{ $offers := dict }}
-  {{ with $pg.Params.price }}         {{ $offers = merge $offers (dict "@type" "Offer" "price" .) }}        {{ end }}
-  {{ with $pg.Params.priceCurrency }} {{ $offers = merge $offers (dict "priceCurrency" .) }}                {{ end }}
-  {{ with $pg.Params.availability }}  {{ $offers = merge $offers (dict "availability" .) }}                 {{ end }}
-  {{ with $pg.Params.sku }}           {{ $offers = merge $offers (dict "sku" .) }}                          {{ end }}
-  {{ if gt (len $offers) 0 }}         {{ $offers = merge $offers (dict "url" $pg.Permalink) }}              {{ end }}
+  {{- $__ld_offers := dict -}}
+  {{- with $pg.Params.price }}         {{ $__ld_offers = merge $__ld_offers (dict "@type" "Offer" "price" .) }}         {{- end -}}
+  {{- with $pg.Params.priceCurrency }} {{ $__ld_offers = merge $__ld_offers (dict "priceCurrency" .) }}                 {{- end -}}
+  {{- with $pg.Params.availability }}  {{ $__ld_offers = merge $__ld_offers (dict "availability" .) }}                  {{- end -}}
+  {{- with $pg.Params.sku }}           {{ $__ld_offers = merge $__ld_offers (dict "sku" .) }}                           {{- end -}}
+  {{- if gt (len $__ld_offers) 0 }}    {{ $__ld_offers = merge $__ld_offers (dict "url" $pg.Permalink) }}               {{- end -}}
 
-  {{/* ---------- Convenience URLs (all optional; we do NOT invent anchors) ---------- */}}
-  {{ $buyURL     := $pg.Params.buyURL }}
-  {{ $bookingURL := $pg.Params.bookingURL }}
-  {{ $readURL    := $pg.Params.readURL }}
-  {{ $viewURL    := $pg.Params.viewURL }}
+  {{/* ---------- Convenience URLs (optional; we do NOT invent anchors) ---------- */}}
+  {{- $__ld_buyURL     := $pg.Params.buyURL -}}
+  {{- $__ld_bookingURL := $pg.Params.bookingURL -}}
+  {{- $__ld_readURL    := $pg.Params.readURL -}}
+  {{- $__ld_viewURL    := $pg.Params.viewURL -}}
 
   {{/* ---------- Normalize user-provided potentialAction to a slice ---------- */}}
-  {{ $userActs := slice }}
-  {{ with $pg.Params.potentialAction }}
-    {{ $t := printf "%T" . }}
-    {{ if hasPrefix $t "[]" }}
-      {{ $userActs = . }}          {{/* already a slice */}}
-    {{ else if gt (len .) 0 }}
-      {{ $userActs = slice . }}    {{/* single map/object -> one-element slice */}}
-    {{ end }}
-  {{ end }}
+  {{- $__ld_userActs := slice -}}
+  {{- with $pg.Params.potentialAction -}}
+    {{- $t := printf "%T" . -}}
+    {{- if hasPrefix $t "[]" -}}
+      {{- $__ld_userActs = . -}}        {{/* already a slice */}}
+    {{- else if gt (len .) 0 -}}
+      {{- $__ld_userActs = slice . -}}  {{/* single object -> one-element slice */}}
+    {{- end -}}
+  {{- end -}}
 
   {{/* ---------- Base object ---------- */}}
-  {{ $base := dict "@context" "https://schema.org" "@type" $type "inLanguage" $lang }}
+  {{- $__ld_base := dict "@context" "https://schema.org" "@type" $type "inLanguage" $__ld_lang -}}
 
   {{/* ========================== TYPE: BlogPosting ========================== */}}
-  {{ if eq $type "BlogPosting" }}
-    {{ $bp := dict
+  {{- if eq $type "BlogPosting" -}}
+    {{- $__ld_bp := dict
       "mainEntityOfPage" (dict "@type" "WebPage" "@id" $pg.Permalink)
       "headline" $pg.Title
       "description" (or $pg.Params.description $pg.Summary)
       "datePublished" ($pg.PublishDate | time.Format "2006-01-02T15:04:05Z07:00")
       "dateModified"  ($pg.Lastmod     | time.Format "2006-01-02T15:04:05Z07:00")
       "author" (dict "@type" "Person" "name" (or $pg.Params.author $siteAuthor))
-      "image" (cond (ne $img "") (slice $img) (slice))
+      "image" (cond (ne $__ld_img "") (slice $__ld_img) (slice))
       "publisher" (dict "@type" "Organization" "name" $orgName "logo" (cond (ne $orgLogo "") (dict "@type" "ImageObject" "url" $orgLogo) nil))
-    }}
-    <script type="application/ld+json">{{ merge $base $bp | jsonify | safeJS }}</script>
+    -}}
+    <script type="application/ld+json">{{ merge $__ld_base $__ld_bp | jsonify | safeJS }}</script>
 
   {{/* ============================ TYPE: Service ============================ */}}
-  {{ else if eq $type "Service" }}
-    {{ $svc := dict
+  {{- else if eq $type "Service" -}}
+    {{- $__ld_svc := dict
       "name"            (or $pg.Params.name $pg.Title)
       "description"     (or $pg.Params.description $pg.Summary)
       "serviceType"     (or $pg.Params.serviceType $pg.Title)
-      "provider"        $provider
+      "provider"        $__ld_provider
       "areaServed"      (or $pg.Params.areaServed .Site.Params.defaultArea)
       "serviceAudience"  $pg.Params.serviceAudience
       "hoursAvailable"   $pg.Params.hoursAvailable
       "brand"            (or $pg.Params.brand $orgName)
       "sameAs"           $pg.Params.sameAs
       "url"              $pg.Permalink
-      "image"            (cond (ne $img "") (slice $img) (slice))
-    }}
-    {{ with $pg.Params.hasOfferCatalog }}  {{ $svc = merge $svc (dict "hasOfferCatalog" .) }}   {{ end }}
-    {{ with $pg.Params.availableChannel }} {{ $svc = merge $svc (dict "availableChannel" .) }}  {{ end }}
-    {{ if gt (len $offers) 0 }}            {{ $svc = merge $svc (dict "offers" $offers) }}      {{ end }}
+      "image"            (cond (ne $__ld_img "") (slice $__ld_img) (slice))
+    -}}
+    {{- with $pg.Params.hasOfferCatalog }}  {{ $__ld_svc = merge $__ld_svc (dict "hasOfferCatalog" .) }}   {{- end -}}
+    {{- with $pg.Params.availableChannel }} {{ $__ld_svc = merge $__ld_svc (dict "availableChannel" .) }}  {{- end -}}
+    {{- if gt (len $__ld_offers) 0 }}       {{ $__ld_svc = merge $__ld_svc (dict "offers" $__ld_offers) }} {{- end -}}
 
-    {{/* Default actions (SAFE append) */}}
-    {{ $defActs := slice }}
-    {{ with $bookingURL }}
-      {{ $defActs = append $defActs (dict
+    {{/* Default actions WITHOUT append() */}}
+    {{- $__ld_svcReserve := false -}}
+    {{- with $__ld_bookingURL -}}
+      {{- $__ld_svcReserve = dict
         "@type" "ReserveAction"
-        "target" (dict "@type" "EntryPoint" "urlTemplate" . "inLanguage" $lang "actionPlatform" $platforms)
-      ) }}
-    {{ end }}
-    {{ if or (gt (len $offers) 0) $buyURL }}
-      {{ $target := or $buyURL $pg.Permalink }}
-      {{ $defActs = append $defActs (dict
+        "target" (dict "@type" "EntryPoint" "urlTemplate" . "inLanguage" $__ld_lang "actionPlatform" $__ld_platforms)
+      -}}
+    {{- end -}}
+
+    {{- $__ld_svcBuy := false -}}
+    {{- if or (gt (len $__ld_offers) 0) $__ld_buyURL -}}
+      {{- $__ld_svcBuy = dict
         "@type" "BuyAction"
-        "target" (dict "@type" "EntryPoint" "urlTemplate" $target "inLanguage" $lang "actionPlatform" $platforms)
-        "expectsAcceptanceOf" (cond (gt (len $offers) 0) $offers nil)
-      ) }}
-    {{ end }}
+        "target" (dict "@type" "EntryPoint" "urlTemplate" (or $__ld_buyURL $pg.Permalink) "inLanguage" $__ld_lang "actionPlatform" $__ld_platforms)
+        "expectsAcceptanceOf" (cond (gt (len $__ld_offers) 0) $__ld_offers nil)
+      -}}
+    {{- end -}}
 
-    {{ if gt (len $userActs) 0 }}
-      {{ $svc = merge $svc (dict "potentialAction" $userActs) }}
-    {{ else if gt (len $defActs) 0 }}
-      {{ $svc = merge $svc (dict "potentialAction" $defActs) }}
-    {{ end }}
+    {{- $__ld_svcDefActs := slice -}}
+    {{- if and $__ld_svcReserve $__ld_svcBuy -}}
+      {{- $__ld_svcDefActs = slice $__ld_svcReserve $__ld_svcBuy -}}
+    {{- else if $__ld_svcReserve -}}
+      {{- $__ld_svcDefActs = slice $__ld_svcReserve -}}
+    {{- else if $__ld_svcBuy -}}
+      {{- $__ld_svcDefActs = slice $__ld_svcBuy -}}
+    {{- end -}}
 
-    <script type="application/ld+json">{{ merge $base $svc | jsonify | safeJS }}</script>
+    {{- if gt (len $__ld_userActs) 0 -}}
+      {{- $__ld_svc = merge $__ld_svc (dict "potentialAction" $__ld_userActs) -}}
+    {{- else if gt (len $__ld_svcDefActs) 0 -}}
+      {{- $__ld_svc = merge $__ld_svc (dict "potentialAction" $__ld_svcDefActs) -}}
+    {{- end -}}
+
+    <script type="application/ld+json">{{ merge $__ld_base $__ld_svc | jsonify | safeJS }}</script>
 
   {{/* ======================= TYPE: VisualArtwork ========================== */}}
-  {{ else if eq $type "VisualArtwork" }}
-    {{ $va := dict
+  {{- else if eq $type "VisualArtwork" -}}
+    {{- $__ld_va := dict
       "name"           (or $pg.Params.name $pg.Title)
       "description"    (or $pg.Params.description $pg.Summary)
       "creator"        (or $pg.Params.creator (dict "@type" "Person" "name" (or $pg.Params.artist $siteAuthor)))
@@ -137,44 +148,54 @@
       "genre"          $pg.Params.genre
       "keywords"       $pg.Params.keywords
       "dateCreated"    $pg.Params.dateCreated
-      "image"          (cond (ne $img "") (slice $img) (slice))
+      "image"          (cond (ne $__ld_img "") (slice $__ld_img) (slice))
       "url"            $pg.Permalink
       "isPartOf"       (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
-    }}
-    {{ with $pg.Params.width  }} {{ $va = merge $va (dict "width"  .) }} {{ end }}
-    {{ with $pg.Params.height }} {{ $va = merge $va (dict "height" .) }} {{ end }}
-    {{ with $pg.Params.depth  }} {{ $va = merge $va (dict "depth"  .) }} {{ end }}
-    {{ if gt (len $offers) 0 }} {{ $va = merge $va (dict "offers" $offers) }} {{ end }}
-    {{ with $pg.Params.aggregateRating }} {{ $va = merge $va (dict "aggregateRating" .) }} {{ end }}
-    {{ with $pg.Params.review }}          {{ $va = merge $va (dict "review" .) }}          {{ end }}
+    -}}
+    {{- with $pg.Params.width  }} {{ $__ld_va = merge $__ld_va (dict "width"  .) }} {{- end -}}
+    {{- with $pg.Params.height }} {{ $__ld_va = merge $__ld_va (dict "height" .) }} {{- end -}}
+    {{- with $pg.Params.depth  }} {{ $__ld_va = merge $__ld_va (dict "depth"  .) }} {{- end -}}
+    {{- if gt (len $__ld_offers) 0 }} {{ $__ld_va = merge $__ld_va (dict "offers" $__ld_offers) }} {{- end -}}
+    {{- with $pg.Params.aggregateRating }} {{ $__ld_va = merge $__ld_va (dict "aggregateRating" .) }} {{- end -}}
+    {{- with $pg.Params.review }}          {{ $__ld_va = merge $__ld_va (dict "review" .) }}          {{- end -}}
 
-    {{ $defActs := slice }}
-    {{ with $viewURL }}
-      {{ $defActs = append $defActs (dict
+    {{- $__ld_vaView := false -}}
+    {{- with $__ld_viewURL -}}
+      {{- $__ld_vaView = dict
         "@type" "ViewAction"
-        "target" (dict "@type" "EntryPoint" "urlTemplate" . "inLanguage" $lang "actionPlatform" $platforms)
-      ) }}
-    {{ end }}
-    {{ if or (gt (len $offers) 0) $buyURL }}
-      {{ $target := or $buyURL $pg.Permalink }}
-      {{ $defActs = append $defActs (dict
+        "target" (dict "@type" "EntryPoint" "urlTemplate" . "inLanguage" $__ld_lang "actionPlatform" $__ld_platforms)
+      -}}
+    {{- end -}}
+
+    {{- $__ld_vaBuy := false -}}
+    {{- if or (gt (len $__ld_offers) 0) $__ld_buyURL -}}
+      {{- $__ld_vaBuy = dict
         "@type" "BuyAction"
-        "target" (dict "@type" "EntryPoint" "urlTemplate" $target "inLanguage" $lang "actionPlatform" $platforms)
-        "expectsAcceptanceOf" (cond (gt (len $offers) 0) $offers nil)
-      ) }}
-    {{ end }}
+        "target" (dict "@type" "EntryPoint" "urlTemplate" (or $__ld_buyURL $pg.Permalink) "inLanguage" $__ld_lang "actionPlatform" $__ld_platforms)
+        "expectsAcceptanceOf" (cond (gt (len $__ld_offers) 0) $__ld_offers nil)
+      -}}
+    {{- end -}}
 
-    {{ if gt (len $userActs) 0 }}
-      {{ $va = merge $va (dict "potentialAction" $userActs) }}
-    {{ else if gt (len $defActs) 0 }}
-      {{ $va = merge $va (dict "potentialAction" $defActs) }}
-    {{ end }}
+    {{- $__ld_vaDefActs := slice -}}
+    {{- if and $__ld_vaView $__ld_vaBuy -}}
+      {{- $__ld_vaDefActs = slice $__ld_vaView $__ld_vaBuy -}}
+    {{- else if $__ld_vaView -}}
+      {{- $__ld_vaDefActs = slice $__ld_vaView -}}
+    {{- else if $__ld_vaBuy -}}
+      {{- $__ld_vaDefActs = slice $__ld_vaBuy -}}
+    {{- end -}}
 
-    <script type="application/ld+json">{{ merge $base $va | jsonify | safeJS }}</script>
+    {{- if gt (len $__ld_userActs) 0 -}}
+      {{- $__ld_va = merge $__ld_va (dict "potentialAction" $__ld_userActs) -}}
+    {{- else if gt (len $__ld_vaDefActs) 0 -}}
+      {{- $__ld_va = merge $__ld_va (dict "potentialAction" $__ld_vaDefActs) -}}
+    {{- end -}}
+
+    <script type="application/ld+json">{{ merge $__ld_base $__ld_va | jsonify | safeJS }}</script>
 
   {{/* ============================== TYPE: Book ============================ */}}
-  {{ else if eq $type "Book" }}
-    {{ $bk := dict
+  {{- else if eq $type "Book" -}}
+    {{- $__ld_bk := dict
       "name"          (or $pg.Params.name $pg.Title)
       "alternateName"  $pg.Params.alternateName
       "author"        (or $pg.Params.author (dict "@type" "Person" "name" $siteAuthor))
@@ -184,62 +205,72 @@
       "numberOfPages"  $pg.Params.numberOfPages
       "datePublished" (or $pg.Params.datePublished ($pg.PublishDate | time.Format "2006-01-02"))
       "description"   (or $pg.Params.description $pg.Summary)
-      "image"         (cond (ne $img "") (slice $img) (slice))
+      "image"         (cond (ne $__ld_img "") (slice $__ld_img) (slice))
       "sameAs"         $pg.Params.sameAs
       "url"            $pg.Permalink
-    }}
-    {{ if gt (len $offers) 0 }} {{ $bk = merge $bk (dict "offers" $offers) }} {{ end }}
-    {{ with $pg.Params.aggregateRating }} {{ $bk = merge $bk (dict "aggregateRating" .) }} {{ end }}
-    {{ with $pg.Params.review }}          {{ $bk = merge $bk (dict "review" .) }}          {{ end }}
+    -}}
+    {{- if gt (len $__ld_offers) 0 }} {{ $__ld_bk = merge $__ld_bk (dict "offers" $__ld_offers) }} {{- end -}}
+    {{- with $pg.Params.aggregateRating }} {{ $__ld_bk = merge $__ld_bk (dict "aggregateRating" .) }} {{- end -}}
+    {{- with $pg.Params.review }}          {{ $__ld_bk = merge $__ld_bk (dict "review" .) }}          {{- end -}}
 
-    {{ $defActs := slice }}
-    {{ with $readURL }}
-      {{ $defActs = append $defActs (dict
+    {{- $__ld_bkRead := false -}}
+    {{- with $__ld_readURL -}}
+      {{- $__ld_bkRead = dict
         "@type" "ReadAction"
-        "target" (dict "@type" "EntryPoint" "urlTemplate" . "inLanguage" $lang "actionPlatform" $platforms)
-      ) }}
-    {{ end }}
-    {{ if or (gt (len $offers) 0) $buyURL }}
-      {{ $target := or $buyURL $pg.Permalink }}
-      {{ $defActs = append $defActs (dict
+        "target" (dict "@type" "EntryPoint" "urlTemplate" . "inLanguage" $__ld_lang "actionPlatform" $__ld_platforms)
+      -}}
+    {{- end -}}
+
+    {{- $__ld_bkBuy := false -}}
+    {{- if or (gt (len $__ld_offers) 0) $__ld_buyURL -}}
+      {{- $__ld_bkBuy = dict
         "@type" "BuyAction"
-        "target" (dict "@type" "EntryPoint" "urlTemplate" $target "inLanguage" $lang "actionPlatform" $platforms)
-        "expectsAcceptanceOf" (cond (gt (len $offers) 0) $offers nil)
-      ) }}
-    {{ end }}
+        "target" (dict "@type" "EntryPoint" "urlTemplate" (or $__ld_buyURL $pg.Permalink) "inLanguage" $__ld_lang "actionPlatform" $__ld_platforms)
+        "expectsAcceptanceOf" (cond (gt (len $__ld_offers) 0) $__ld_offers nil)
+      -}}
+    {{- end -}}
 
-    {{ if gt (len $userActs) 0 }}
-      {{ $bk = merge $bk (dict "potentialAction" $userActs) }}
-    {{ else if gt (len $defActs) 0 }}
-      {{ $bk = merge $bk (dict "potentialAction" $defActs) }}
-    {{ end }}
+    {{- $__ld_bkDefActs := slice -}}
+    {{- if and $__ld_bkRead $__ld_bkBuy -}}
+      {{- $__ld_bkDefActs = slice $__ld_bkRead $__ld_bkBuy -}}
+    {{- else if $__ld_bkRead -}}
+      {{- $__ld_bkDefActs = slice $__ld_bkRead -}}
+    {{- else if $__ld_bkBuy -}}
+      {{- $__ld_bkDefActs = slice $__ld_bkBuy -}}
+    {{- end -}}
 
-    <script type="application/ld+json">{{ merge $base $bk | jsonify | safeJS }}</script>
+    {{- if gt (len $__ld_userActs) 0 -}}
+      {{- $__ld_bk = merge $__ld_bk (dict "potentialAction" $__ld_userActs) -}}
+    {{- else if gt (len $__ld_bkDefActs) 0 -}}
+      {{- $__ld_bk = merge $__ld_bk (dict "potentialAction" $__ld_bkDefActs) -}}
+    {{- end -}}
+
+    <script type="application/ld+json">{{ merge $__ld_base $__ld_bk | jsonify | safeJS }}</script>
 
   {{/* ============================== TYPE: WebSite ========================= */}}
-  {{ else if eq $type "WebSite" }}
-    {{ $ws := dict
+  {{- else if eq $type "WebSite" -}}
+    {{- $__ld_ws := dict
       "name" .Site.Title
       "url"  .Site.BaseURL
       "publisher" (dict "@type" "Organization" "name" $orgName)
       "potentialAction" (dict
         "@type" "SearchAction"
-        "target" (printf "%s%s" .Site.BaseURL $searchPath)
+        "target" (printf "%s%s" .Site.BaseURL $__ld_searchPath)
         "query-input" "required name=search_term_string"
       )
-    }}
-    <script type="application/ld+json">{{ merge $base $ws | jsonify | safeJS }}</script>
+    -}}
+    <script type="application/ld+json">{{ merge $__ld_base $__ld_ws | jsonify | safeJS }}</script>
 
   {{/* =============================== Fallback: WebPage ==================== */}}
-  {{ else }}
-    {{ $wp := dict
+  {{- else -}}
+    {{- $__ld_wp := dict
       "name"        $pg.Title
       "url"         $pg.Permalink
       "description" (or $pg.Params.description $pg.Summary)
       "isPartOf"    (dict "@type" "WebSite" "name" .Site.Title "url" .Site.BaseURL)
-      "image"       (cond (ne $img "") (slice $img) (slice))
-    }}
-    <script type="application/ld+json">{{ merge $base $wp | jsonify | safeJS }}</script>
-  {{ end }}
+      "image"       (cond (ne $__ld_img "") (slice $__ld_img) (slice))
+    -}}
+    <script type="application/ld+json">{{ merge $__ld_base $__ld_wp | jsonify | safeJS }}</script>
+  {{- end -}}
 
-{{ end }}
+{{- end -}}
