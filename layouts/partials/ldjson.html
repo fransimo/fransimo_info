@@ -58,18 +58,17 @@
   {{ $readURL    := $pg.Params.readURL }}
   {{ $viewURL    := $pg.Params.viewURL }}
 
-  {{/* normalize user-provided potentialAction to a slice (handles map, slice, or empty) */}}
-  {{ $userActs := slice }}
-  {{ with $pg.Params.potentialAction }}
-    {{ $t := printf "%T" . }}
-    {{ if hasPrefix $t "[]" }}
-      {{/* already a slice */}}
-      {{ $userActs = . }}
-    {{ else if gt (len .) 0 }}
-      {{/* single map/object -> wrap into slice (correct append usage) */}}
-      {{ $userActs = append $userActs . }}
-    {{ end }}
+{{/* Normalize user-provided potentialAction to a slice (handles map, slice, or empty) */}}
+{{ $userActs := slice }}
+{{ with $pg.Params.potentialAction }}
+  {{ $t := printf "%T" . }}
+  {{ if hasPrefix $t "[]" }}
+    {{ $userActs = . }}                 {{/* already a slice */}}
+  {{ else if gt (len .) 0 }}
+    {{ $userActs = slice . }}           {{/* single map -> one-element slice */}}
   {{ end }}
+{{ end }}
+
 
   {{ $base := dict "@context" "https://schema.org" "@type" $type "inLanguage" $lang }}
 
@@ -198,33 +197,32 @@
     }}
     {{ if gt (len $offers) 0 }}{{ $bk = merge $bk (dict "offers" $offers) }}{{ end }}
 
-    {{ $actions := $userActs }}
-    {{ $tact := printf "%T" $actions }}
-    {{ if not (hasPrefix $tact "[]") }}
-      {{ if gt (len $actions) 0 }}
-        {{ $actions = slice $actions }}
-      {{ else }}
-        {{ $actions = slice }}
-      {{ end }}
+    {{/* Build DEFAULT actions in a separate slice to avoid type issues */}}
+    {{ $defActs := slice }}
+    {{ with $readURL }}
+      {{ $defActs = append $defActs (dict
+        "@type" "ReadAction"
+        "target" (dict "@type" "EntryPoint" "urlTemplate" . "inLanguage" $lang "actionPlatform" $platforms)
+      ) }}
     {{ end }}
-    {{ if eq (len $actions) 0 }}
-      {{ with $readURL }}
-        {{ $actions = append $actions (dict
-          "@type" "ReadAction"
-          "target" (dict "@type" "EntryPoint" "urlTemplate" . "inLanguage" $lang "actionPlatform" $platforms)
-        ) }}
-      {{ end }}
-      {{ if or (gt (len $offers) 0) $buyURL }}
-        {{ $target := or $buyURL $pg.Permalink }}
-        {{ $actions = append $actions (dict
-          "@type" "BuyAction"
-          "target" (dict "@type" "EntryPoint" "urlTemplate" $target "inLanguage" $lang "actionPlatform" $platforms)
-          "expectsAcceptanceOf" (cond (gt (len $offers) 0) $offers nil)
-        ) }}
-      {{ end }}
+    {{ if or (gt (len $offers) 0) $buyURL }}
+      {{ $target := or $buyURL $pg.Permalink }}
+      {{ $defActs = append $defActs (dict
+        "@type" "BuyAction"
+        "target" (dict "@type" "EntryPoint" "urlTemplate" $target "inLanguage" $lang "actionPlatform" $platforms)
+        "expectsAcceptanceOf" (cond (gt (len $offers) 0) $offers nil)
+      ) }}
     {{ end }}
-    {{ if gt (len $actions) 0 }}{{ $bk = merge $bk (dict "potentialAction" $actions) }}{{ end }}
+
+    {{/* Prefer user-provided actions if any, else defaults; both are optional */}}
+    {{ if gt (len $userActs) 0 }}
+      {{ $bk = merge $bk (dict "potentialAction" $userActs) }}
+    {{ else if gt (len $defActs) 0 }}
+      {{ $bk = merge $bk (dict "potentialAction" $defActs) }}
+    {{ end }}
+
     <script type="application/ld+json">{{ merge $base $bk | jsonify | safeJS }}</script>
+
 
   {{ else }}
     {{ $wp := dict

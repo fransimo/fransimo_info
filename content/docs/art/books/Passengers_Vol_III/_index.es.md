@@ -1,5 +1,4 @@
 ---
-author: "Fran Simó"
 date: "2019-12-07"
 categories:
 - photography
@@ -9,12 +8,26 @@ tags:
 - street photography
 images:
   - Passengers_Vol_III.jpg
-dateCreated: 2019
-schemaOrgType: Book
-isbn: 9780244336547
 title: Passengers Vol. III
+description: "A collection of minimalist sumi-e works and notes."
 bookToc: false
 bookCollapseSection: true
+schemaType: Book
+author:
+  "@type": Person
+  name: "Fran Simó"
+publisher:
+  "@type": Organization
+  name: "Barcelona Photobloggers"
+isbn: "978-0-2443-3654-7"
+bookEdition: "First"
+numberOfPages: 64
+datePublished: "2017-10-01"
+#price: "24.75"
+#priceCurrency: "EUR"
+#availability: "https://schema.org/InStock"
+#buyURL: "/shop/passengers-vol-3"
+#readURL: "/books/passengers-vol-3/sample"
 ---
 
 {{% columns %}}
