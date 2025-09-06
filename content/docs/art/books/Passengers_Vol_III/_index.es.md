@@ -9,7 +9,7 @@ tags:
 images:
   - Passengers_Vol_III.jpg
 title: Passengers Vol. III
-description: "Tercer libro de la serie Passengers."
+description: "Tercer y último libro de fotografía de la serie Passengers sobre los pasajeros del transporte público."
 bookToc: false
 bookCollapseSection: true
 schemaType: Book
