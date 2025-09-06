@@ -18,7 +18,7 @@
 {{- else -}}
 
   {{/* ---------- Type selection ---------- */}}
-  {{- $isBlog := or (eq $pg.Section "blog") (eq $pg.Type "post") -}}
+  {{- $isBlog := or (eq $pg.Section "blog") (eq $pg.Type "posts") -}}
   {{- $type := or $pg.Params.schemaType (cond $isBlog "BlogPosting" (cond (eq $pg.Kind "home") "WebSite" "WebPage")) -}}
 
   {{/* ---------- Site helpers ---------- */}}
