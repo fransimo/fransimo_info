@@ -21,7 +21,7 @@ serviceAudience:
   audienceType: "Adultos que buscan terapia somática"
 hoursAvailable:
   "@type": OpeningHoursSpecification
-  dayOfWeek: ["Monday","Wednesday","Friday"]
+  dayOfWeek: ["Wednesday","Thursday"]
   opens: "10:00"
   closes: "18:00"
 # brand: "Fran Simo Studio"
