@@ -11,6 +11,7 @@ tags:
   - functionfest
   - mallorca
 title: function("innocence", 2019)
+description: "Introduces the digital art festival function(“innocence”, 2019) in Palma, showcasing interactive works by eight artists and inviting participation in performances, talks and installations."
 aliases: /blog/2019/05/26/functioninnocence-2019/
 ---
 ![function_2019_innocence.png](function_2019_innocence.png)

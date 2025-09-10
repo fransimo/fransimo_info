@@ -1,5 +1,6 @@
 ---
 title: 'Fotografies: Street Photography'
+description: 'Recounts the author’s appearance on the TV programme “Fotografies” with Tino Soriano and Oliver Wilkins, discussing street photography and inviting viewers to watch the episode and see related work.'
 date: '2012-02-24'
 author: "Fran Simó"
 aliases:  /blog/2012/02/24/fotografies-street-photography/

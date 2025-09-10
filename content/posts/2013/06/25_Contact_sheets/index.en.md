@@ -1,5 +1,6 @@
 ---
 title: 'Contact Sheets'
+description: "Describes an AI project that creates large contact sheets of human faces from millions of online images, offering an open archive for exploration and reuse while reflecting on privacy."
 date: '2013-06-25'
 author: "Fran Simó"
 aliases: /blog/2013/06/25/contact-sheets/

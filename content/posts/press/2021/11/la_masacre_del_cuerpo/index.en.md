@@ -1,5 +1,6 @@
 ---
 title: 'Exhibition: The Massacre of the Body'
+description: "Reviews a video art exhibition where Fran Simó, Rita Rodrigues and Teia Titi reflect on post‑capitalist bodies and deconstruct phallocentric norms to imagine liberated, poetic embodiments."
 date: '2021-10-03'
 author: 'Fran Simó'
 categories:

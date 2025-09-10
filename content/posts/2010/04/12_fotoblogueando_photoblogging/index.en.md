@@ -1,5 +1,6 @@
 ---
 title: 'Photoblogging'
+description: "Discusses the author’s move to photoblogging with a custom gallery that displays images full‑screen, allows comments and encourages others to share their visual diaries."
 date: '2010-04-12'
 author: "Fran Simó"
 aliases: /blog/2010/04/12/fotoblogueando-photoblogging/

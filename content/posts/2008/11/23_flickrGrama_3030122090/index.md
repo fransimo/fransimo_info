@@ -1,8 +1,8 @@
 ---
 title: 'flickrGrama 3030122090'
+description: "Introduces flickrGrama 3030122090, a project creating digital mosaics from Creative Commons Flickr images, explaining algorithmic improvements and inviting participation."
 date: '2008-11-23'
 author: "Fran Simó"
-
 aliases:  /blog/2008/11/23/flickrgrama-3030122090/
 images:
   - flickrGrama_3049300655_461362df67_b.jpg
