@@ -16,7 +16,7 @@ aliases:
 ---
 
 Hola, soy Fran. Nací en Argentina y he vivido en España los últimos 26 años. El año pasado decidí dejar atrás mi vida
-corporativa para enfocarme en el arte y la sanación. Vivo en Estambul desde marzo de 2025.
+corporativa para enfocarme en el arte y la sanación. 
 
 # Biodinámica Craneosacral
 

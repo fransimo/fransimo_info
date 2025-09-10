@@ -16,7 +16,7 @@ aliases:
 ---
 
 Hi, I’m Fran. I was born in Argentina and have lived in Spain for the past 26 years. Last year, I decided to leave my
-corporate life behind and focus on art and healing. I’ve been living in Istanbul since March 2025.
+corporate life behind and focus on art and healing. 
 
 # Craniosacral Biodynamics
 
