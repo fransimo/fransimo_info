@@ -25,9 +25,9 @@ Prefer to talk first? [Contact me](../contact/).
 
 A vibrational healing practice with quartz crystals and channeled symbols to raise frequency, release blocks, and support inner transformation.
 
-**Where:** Barcelona • Istanbul • Remote
-**Price:** Salush Nahí €60 · H’ama (space harmonization) €30
-**Promo:** Istanbul — one free Salush Nahí session (limited)
+- **Where:** Barcelona • Istanbul • Remote
+- **Price:** Salush Nahí €60 · H’ama (space harmonization) €30
+- **Promo:** Istanbul — one free Salush Nahí session (limited)
 
 **Book now**
 
@@ -90,8 +90,8 @@ Cal("init", "tameana-hama", {origin:"https://app.cal.com"});
 
 Gentle, hands-on work to support the body’s self-regulating rhythms.
 
-**Where:** Barcelona • Istanbul (in-person)  
-**Price:** Student practice — first **3 sessions free**
+- **Where:** Barcelona • Istanbul (in-person)  
+- **Price:** Student practice — first **3 sessions free**
 
 **Book now**
 
@@ -120,8 +120,8 @@ Cal.ns["biodynamic-craniosacral-therapy"]("ui", {"theme":"light","hideEventTypeD
 
 A tailored blend of bodywork and energy techniques.
 
-**Where:** Barcelona • Istanbul • Public spaces • Remote  
-**Price:** €60
+- **Where:** Barcelona • Istanbul • Public spaces • Remote  
+- **Price:** €60
 
 **Book now**
 
