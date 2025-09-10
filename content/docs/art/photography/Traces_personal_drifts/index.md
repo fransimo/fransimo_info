@@ -7,6 +7,7 @@ dateCreated: 2015
 artForm: Photograph
 schemaOrgType: VisualArtwork
 title: Traces (personal drifts)
+description: "Describes an intuitive photography practice where one wanders without a set route, inspired by Guy Debord’s dérive, capturing spontaneous images to explore subconscious landscapes."
 bookToc: false
 aliases: /blog/2015/03/15/traces-personal-drifts/
 categories:

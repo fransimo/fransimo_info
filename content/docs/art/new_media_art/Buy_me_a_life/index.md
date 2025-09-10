@@ -19,6 +19,7 @@ tags:
 - opensea
 - selfie
 title: Buy me a life!
+description: "Explains Buy me a life!, a glitch video NFT and performance where the artist offers a day of his life for sale, using cyberpunk references to probe the value and privacy of digital existence."
 aliases: /blog/2021/04/17/buy-me-a-life/
 ---
 

@@ -18,6 +18,7 @@ tags:
 - spirituality
 - video sculpture
 title: '#Selfie_v2'
+description: "Presents #Selfie_v2, an interactive installation that blends participants’ faces with skeletal scans to critique social media identity and explore oneness and commodification of the self."
 aliases: /blog/2021/10/26/selfie_v2/
 ---
 ![](XT238820.jpg)

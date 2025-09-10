@@ -1,9 +1,9 @@
 ---
 id: 1100
 title: 'I dreamed about a human being'
+description: "Presents I dreamed about a human being, an artistic investigation where deep learning trained on millions of images generates human faces and invites reflection on AI creativity and identity."
 date: '2012-09-13'
 author: "Fran Simó"
-
 aliases: 
 - /blog/2012/09/13/i-dreamed-about-a-human-being/
 images:
