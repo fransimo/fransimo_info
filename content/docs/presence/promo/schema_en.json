@@ -4,7 +4,7 @@
   "@id":"https://fransimo.info/docs/presence/promo/#webpage",
   "url":"https://fransimo.info/docs/presence/promo/",
   "name":"Promotion — Free Sessions",
-  "inLanguage":["en","es"],
+  "inLanguage": "en",
   "description":"Current promotions for Tameana and Craniosacral Biodynamics sessions. Eligible in Barcelona and Istanbul.",
   "mainEntity":{
     "@type":"ItemList",
