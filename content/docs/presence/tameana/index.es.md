@@ -77,5 +77,5 @@ Practico dos de las técnicas:
     - H’ama: 30€
 - **Lugar:** remoto, desplazamiento a tu lugar o sala contratada.
 
-Puedes consultar todos los precios y los límites del servicio [aquí](../book/).  
+¡Haz tu reserva [aquí](../book/)!
 

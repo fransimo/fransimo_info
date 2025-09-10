@@ -68,4 +68,4 @@ Jealous, John Upledger, Franklyn Sills y Ray Castelino.
 - **Precio:** ~~60€~~ las primeras tres sesiones gratuitas como parte de mis prácticas de estudiante.
 - **Lugar:** desplazamiento a tu lugar o sala contratada.
 
-Puedes consultar todos los precios y los límites del servicio [aquí](../book/). 
+¡Haz tu reserva [aquí](../book/)!

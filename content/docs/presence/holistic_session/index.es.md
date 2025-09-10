@@ -52,4 +52,4 @@ El contacto con la piel y el uso de aceites suelen mejorar la experiencia.
 - **Precio:** 60€
 - **Lugar:** remoto, espacios públicos, desplazamiento a tu lugar o sala contratada.
 
-Puedes consultar todos los precios y los límites del servicio [aquí](../book/). 
+¡Haz tu reserva [aquí](../book/)!
