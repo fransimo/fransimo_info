@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://fransimo.info/docs/presence/promo/#webpage",
+  "url": "https://fransimo.info/docs/presence/promo/",
+  "name": "Promotion — Free Sessions",
+  "inLanguage": ["en","es"],
+  "description": "Current promotions for Tameana and Craniosacral Biodynamics sessions. Eligible in Barcelona and Istanbul.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Promotional Offers",
+    "itemListElement": [
+
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "Service",
+          "@id": "https://fransimo.info/docs/presence/tameana/#service",
+          "name": "Tameana Energy Healing",
+          "serviceType": "Tameana — Salush Nahí personal session",
+          "areaServed": [
+            { "@type": "City", "name": "Barcelona" },
+            { "@type": "City", "name": "Istanbul" }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "name": "One free Salush Nahí personal session",
+            "price": 0,
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock",
+            "eligibleRegion": ["Barcelona, ES", "Istanbul, TR"],
+            "eligibleQuantity": { "@type": "QuantitativeValue", "value": 1 },
+            "priceValidUntil": "2026-06-30",
+            "url": "https://fransimo.info/docs/presence/promo/#book-tameana"
+          }
+        }
+      },
+
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "Service",
+          "@id": "https://fransimo.info/docs/presence/biodynamic_craniosacral/#service",
+          "name": "Craniosacral Biodynamics",
+          "serviceType": "Craniosacral Biodynamics session",
+          "areaServed": [
+            { "@type": "City", "name": "Barcelona" },
+            { "@type": "City", "name": "Istanbul" }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "name": "Student practice — first 3 sessions free",
+            "price": 0,
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock",
+            "eligibleRegion": ["Barcelona, ES", "Istanbul, TR"],
+            "eligibleQuantity": { "@type": "QuantitativeValue", "value": 3 },
+            "priceValidUntil": "2026-06-30",
+            "url": "https://fransimo.info/docs/presence/promo/#book-craniosacral"
+          }
+        }
+      }
+
+    ]
+  }
+}
