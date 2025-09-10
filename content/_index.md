@@ -107,7 +107,7 @@ tags:
 > - [Tameana](docs/presence/tameana)
 > - [Craniosacral Biodynamics](docs/presence/biodinamica_craneosacral)
 > - [Holistic Massage](docs/presence/masaje_holistico)
-> - [Prices](docs/presence/prices)
+> - [Prices](docs/presence/drafts/prices)
 
 <--->
 

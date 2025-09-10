@@ -105,4 +105,4 @@ More information at:
 - **Price:** ~~€60~~  first 3 session free as student practices.
 - **Location:** at your place or a rented space.  
 
-You can check all prices and service limitations [here](../prices/). 
+You can check all prices and service limitations [here](../book/). 
