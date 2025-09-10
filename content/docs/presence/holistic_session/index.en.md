@@ -28,7 +28,7 @@ description: >
 areaServed: ["Palma", "Barcelona", "Istanbul", "Remote"]
 ---
 {{% columns %}}
-![holistic.png](holistic.png)
+![holistic.png](holistic.png "Holistic Bodywork & Energy Session")
 <--->
 # Holistic Bodywork & Energy Session (In-Person or Remote)
 
