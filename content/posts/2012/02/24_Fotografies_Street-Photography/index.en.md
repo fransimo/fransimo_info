@@ -1,6 +1,6 @@
 ---
 title: 'Fotografies: Street Photography'
-description: 'Recounts the author’s appearance on the TV programme “Fotografies” with Tino Soriano and Oliver Wilkins, discussing street photography and inviting viewers to watch the episode and see related work.'
+description: 'Recounts the author’s appearance on the TV programme “Fotografies” with Tino Soriano, Eugeni Forcano, Paco Elvira and Rafa Perez discussing street photography.'
 date: '2012-02-24'
 author: "Fran Simó"
 aliases:  /blog/2012/02/24/fotografies-street-photography/
@@ -11,7 +11,8 @@ categories:
     - tv
 ---
 
-On February 24 at 21:45, Fotografies program on ‘channel 33’ showed a special on street photography for which I had the luck of getting interviewed. My adventure companions were incredible: [Eugeni Forcano](http://www.eugeniforcano.info/), [Paco Elvira](http://pacoelvirafoto.blogspot.com.es/) and [Rafa Perez](http://elfotografoviajero.com/).
+On February 24 at 21:45, Fotografies program on ‘channel 33’ showed a special on street photography for which I had the luck of getting interviewed. 
+My adventure companions were incredible: [Eugeni Forcano](http://www.eugeniforcano.info/), [Paco Elvira](http://pacoelvirafoto.blogspot.com.es/) and [Rafa Perez](http://elfotografoviajero.com/).
 
 The 25 minute program can be seen here: [http://www.ccma.cat/tv3/alacarta/fotografies/street-photography/video/3966610/](http://www.ccma.cat/tv3/alacarta/fotografies/street-photography/video/3966610/)
 
