@@ -51,4 +51,4 @@ Skin contact and the use of oils often enhance the experience.
 - **Price:** €60  
 - **Location:** remote, public spaces, at your place, or a rented space.  
 
-You can check all prices and service limitations [here](../book/). 
+Book [here](../book/)!

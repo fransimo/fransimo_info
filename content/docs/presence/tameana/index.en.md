@@ -63,4 +63,4 @@ I practice two techniques:
     - H’ama: €30  
 - **Location:** remote, at your place, or a rented space.  
 
-You can all check prices and service limitations [here](../book/).  
+Book [here](../book/)!  
