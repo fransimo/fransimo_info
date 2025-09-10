@@ -18,12 +18,12 @@ aliases:
 Hi, I’m Fran. I was born in Argentina and have lived in Spain for the past 26 years. Last year, I decided to leave my
 corporate life behind and focus on art and healing. 
 
-# Craniosacral Biodynamics
+# Biodynamic Craniosacral Therapy
 
-I’m currently studying Craniosacral Biodynamics and offering free sessions as part of my training. Would you like to
+I’m currently studying Biodynamic Craniosacral Therapys and offering free sessions as part of my training. Would you like to
 give it a try?
 
-[Craniosacral Biodynamic](../biodinamica_craneosacral) sessions are done fully clothed on a massage table. The touch is
+[Biodynamic Craniosacral Therapy](../biodinamica_craneosacral) sessions are done fully clothed on a massage table. The touch is
 super gentle, non-invasive, and involves minimal movement. The purpose is to **help the body reconnect with its natural
 healing abilities**.
 
