@@ -1,7 +1,7 @@
 ---
 author: "Fran Simó"
 title: "Promoción Estambul y Barcelona"
-description: "Promoción de Biodinámica Craneosacral y Tameana en Estambul"
+description: "Promoción de Biodinámica Craneosacral y Tameana en Estambul y Barcelona"
 date: 2025-07-16
 weight: 120
 categories:
@@ -15,8 +15,8 @@ aliases:
   - /terapias/
 ---
 
-Hola, soy Fran. Nací en Argentina y he vivido en España los últimos 26 años. El año pasado decidí dejar atrás mi vida
-corporativa para enfocarme en el arte y la sanación.    
+Hola, soy Fran. Nací en Argentina y he vivido en España los últimos 26 años. En septiembre del 2024 decidí dejar 
+atrás mi vida corporativa para enfocarme en el arte y la sanación. Desde entonces he viajado mucho pero paso períodos largos en Estambul y Barcelona.
 
 # Biodinámica Craneosacral
 
@@ -96,7 +96,7 @@ biodinamica. Si tu motivación está en el plano más espiritual o no podemos ve
 
 # ¡Contáctame!
 
-Si lo sientes, puedes escribirme aquí:
+Si lo sientes, puedes hacer tu reserva [aquí](../book/) o escribirme aquí:
 
 - Instagram: [@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)
 - WhatsApp (España): [+34 655 384 230](https://wa.me/+34655384230)

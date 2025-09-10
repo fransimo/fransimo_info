@@ -1,7 +1,7 @@
 ---
 author: "Fran Simó"
 title: "Istanbul and Barcelona Promotion"
-description: "Craniosacral Biodynamics and Tameana promotion in Istanbul"
+description: "Biodynamic Craniosacral Therapy and Tameana promotion in Istanbul and Barcelona"
 date: 2025-07-16
 weight: 120
 categories:
@@ -15,8 +15,8 @@ aliases:
   - /therapies/
 ---
 
-Hi, I’m Fran. I was born in Argentina and have lived in Spain for the past 26 years. Last year, I decided to leave my
-corporate life behind and focus on art and healing. 
+Hello, I'm Fran. I was born in Argentina and have lived in Spain for the last 26 years. In September 2024, I decided to leave 
+my corporate life behind to focus on art and healing. Since then, I have travelled extensively but spend long periods in Istanbul and Barcelona.
 
 # Biodynamic Craniosacral Therapy
 
@@ -93,7 +93,7 @@ biodynamic. If your motivation is on a more spiritual level or we cannot meet th
 
 # Get in Touch!
 
-If you feel called, you can reach me here:
+If you feel called, you can book a session [here](../book/) or you can reach me here:
 
 - Instagram: [@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)
 - WhatsApp (Spain): [+34 655 384 230](https://wa.me/+34655384230)
