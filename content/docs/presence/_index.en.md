@@ -17,7 +17,7 @@ From the most subtle, like [tameana](tameana/) or [craniosacral biodynamics](bio
 [holistic bodywork & energy session](holistic_session/), we can explore paths to remind your body 
 how to restore its inherent health, or simply find a moment of peace.
 
-If you feel the calling, you can check out the [services and prices](prices/) and [contact me](../contact).
+If you feel the calling, you can check out the [services and prices](book/) and [contact me](../contact).
 
 **May our hearts illuminate the path!**
 
