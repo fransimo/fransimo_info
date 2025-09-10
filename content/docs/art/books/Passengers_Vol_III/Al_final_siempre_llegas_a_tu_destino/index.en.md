@@ -9,6 +9,7 @@ categories:
 tags: 
   - street photography
 title: "In the End, You Always Reach Your Destination"
+description: "Presents “Al final siempre llegas a tu destino”, documenting passengers on public transport and exploring the discomfort of watching and being watched through a collaborative selection of images."
 bookToc: false
 ---
 

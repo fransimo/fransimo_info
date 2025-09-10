@@ -10,7 +10,7 @@ tags:
 - ready made
 - software
 title: CODE by R.Mutt
-description: "An artist’s book that turns the open-source dcraw code into a color, 164-page A5 volume—treating software itself as a Duchampian readymade. It reflects on open-source poetics, authorship and intellectual property, and invites readers to remix and co-author the work."
+description: "Presents CODE by R. Mutt, an artist’s book that turns the dcraw source code into coloured pages, echoing Duchamp’s readymades and encouraging reflection on authorship and open‑source culture."
 aliases: /blog/2019/05/29/code-by-r-mutt/
 schemaType: Book
 author:

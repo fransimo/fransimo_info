@@ -15,6 +15,7 @@ images:
 dateCreated: 2017
 schemaOrgType: Book
 title: S'Arenal Summertime 2016 
+description: "Presents S’Arenal Summertime 2016, a limited‑edition magazine that documents Mallorca’s resort S’Arenal through photography and writing, contrasting its mythology with everyday life."
 bookToc: false
 aliases: /blog/2017/04/02/sarenal-summertime-2016/
 ---

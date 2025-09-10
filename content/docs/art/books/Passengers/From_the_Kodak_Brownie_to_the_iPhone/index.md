@@ -9,6 +9,7 @@ categories:
 tags: 
   - street photography
 title: From the Kodak Brownie to the iPhone
+description: "Reflects on how iPhoneography extends the snapshot tradition begun by the Kodak Brownie and on how accessible cameras empower people to document everyday life."
 bookToc: false
 aliases: /blog/2011/12/20/passengers-de-la-kodak-brownie-al-iphone-libro/
 ---

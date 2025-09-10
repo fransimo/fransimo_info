@@ -12,6 +12,7 @@ schemaOrgType: Book
 tags:
   - Barcelona Photobloggers
 title: “Arrinconado” (Cornered)
+description: "Presents Arrinconado, a collaborative photo‑book by Barcelona Photobloggers using a horizontal process to showcase multiple perspectives on overlooked corners of the city."
 ---
 ![arrinconado.jpg](arrinconado.jpg)
 

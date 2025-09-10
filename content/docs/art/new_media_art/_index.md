@@ -1,7 +1,7 @@
 ---
 author: "Fran Simó"
 title: New media art
-description: 'New media art by Fran Simó'
+description: 'Overview of Fran Simó’s new media art portfolio, featuring interactive installations and projects that examine identity, surveillance and digital intimacy through technology.'
 images:
   - IMG_5027-Editar-2.jpg
 categories:

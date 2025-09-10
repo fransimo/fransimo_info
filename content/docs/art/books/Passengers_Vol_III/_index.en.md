@@ -9,6 +9,7 @@ tags:
 images:
   - Passengers_Vol_III.jpg
 title: Passengers Vol. III
+description: "Presents Passengers Vol. III, the final volume of a collaborative street photography trilogy, showcasing 12 authors selected from thousands of passenger images taken between 2013 and 2015."
 bookToc: false
 bookCollapseSection: true
 schemaType: Book

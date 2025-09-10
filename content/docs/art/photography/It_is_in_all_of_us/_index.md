@@ -6,6 +6,7 @@ dateCreated: 2025
 artForm: Photograph
 schemaOrgType: VisualArtwork
 title: It is in all of us
+description: "Explores the ancient connection between art and magic through research on oracles, Maenads and intuitive practices, reflecting on how art evokes mystery and altered states."
 date: 2025-02-06
 bookToc: false
 aliases: /blog/2025/02/06/it-is-in-all-of-us/

@@ -6,6 +6,7 @@ bookFlatSection: false
 bookCollapseSection: false
 bookToc: false
 title: "Art"
+description: "Overview of Fran Simó’s new media art, books and photography portfolio."
 ---
 
 # New media art [+](new_media_art)

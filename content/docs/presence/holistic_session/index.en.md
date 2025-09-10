@@ -20,11 +20,7 @@ serviceType: "Presence-based bodywork and energy session"
 alternateName:
   - "Holistic Bodywork (Touch-Optional)"
   - "Integrative Massage & Energy Session"
-description: >
-  Sessions blending massage with energy-based techniques (e.g., meditation,
-  Shiatsu, or Reiki), adapted to each person. They can focus on relaxation,
-  healing, or a sensory experience. Nudity is not required; touch can be
-  avoided, and sessions can also be done remotely.
+description: "Describes personalised sessions blending massage, meditation and energy techniques such as Shiatsu or Reiki to foster relaxation and healing, offered in person or online."
 areaServed: ["Palma", "Barcelona", "Istanbul", "Remote"]
 ---
 {{% columns %}}

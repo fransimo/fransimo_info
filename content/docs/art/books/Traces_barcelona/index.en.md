@@ -1,6 +1,7 @@
 ---
 author: "Fran Simó"
 title: "Traces - 2013.12.07 - Barcelona"
+description: "Presents Traces 2013.12.07 – Barcelona, a participatory project where seven photographers drift through the city using Guy Debord’s dérive to capture images and sounds that map its psychogeography."
 date: "2014-05-02"
 bookToc: false
 dateCreated: 2014

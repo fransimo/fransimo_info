@@ -13,6 +13,7 @@ dateCreated: 2011
 schemaOrgType: Book
 isbn: 9781471013713
 title: Passengers
+description: "Introduces Passengers, a collaborative street photography project where mobile photographers capture and share real‑time portraits of passengers on public transport, depicting contemplative moments of travel."
 bookToc: false
 bookCollapseSection: true
 ---

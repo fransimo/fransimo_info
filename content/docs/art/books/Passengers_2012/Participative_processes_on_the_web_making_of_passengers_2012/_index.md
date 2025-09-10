@@ -9,6 +9,7 @@ categories:
 tags: 
   - street photography
 title: "Participative Processes on the Web: Making of Passengers 2012"
+description: "Describes how Passengers 2012 was created: mobile photographers submitted thousands of images via web platforms, and editors distinguished participatory from collaborative processes to assemble a cohesive book."
 bookToc: false
 ---
 
