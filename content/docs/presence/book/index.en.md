@@ -1,10 +1,11 @@
 ---
 title: "Book a session"
-description: "Types of Sessions and Prices"
+description: "Types of sessions, prices and booking page."
 date: 2024-01-05
 author: "Fran Simó"
 BookToC: true
 weight: 100
+aliases: /docs/presence/prices/
 ---
 
 # Book a Session
