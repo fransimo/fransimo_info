@@ -7,7 +7,7 @@
   "serviceType": "Sanación vibracional con cristales de cuarzo (Tameana)",
   "description": "Tameana utiliza cristales de cuarzo y símbolos canalizados para elevar la frecuencia vibratoria, desbloquear emociones y apoyar procesos de transformación interior. Las sesiones pueden ser presenciales o a distancia.",
 
-  "provider": { "@type": "Organization", "name": "Fran Simó", "url": "https://fransimo.info/" },
+  "provider":{"@id":"https://fransimo.info/#org"},
 
   "areaServed": [
     { "@type": "City", "name": "Barcelona" },

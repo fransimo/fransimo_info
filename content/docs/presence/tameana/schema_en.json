@@ -7,7 +7,7 @@
   "serviceType": "Vibrational energy healing with quartz crystals (Tameana)",
   "description": "Tameana uses quartz crystals and channeled symbols to raise vibrational frequency, unblock emotions and support inner transformation. Sessions may be in-person or remote.",
 
-  "provider": { "@type": "Organization", "name": "Fran Simó", "url": "https://fransimo.info/" },
+  "provider":{"@id":"https://fransimo.info/#org"},
 
   "areaServed": [
     { "@type": "City", "name": "Barcelona" },
