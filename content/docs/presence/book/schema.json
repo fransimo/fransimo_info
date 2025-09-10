@@ -37,7 +37,7 @@
             },
             {
               "@type": "Offer",
-              "name": "Istanbul Promotion — one free Salush Nahí session",
+              "name": "Istanbul and Barcelona Promotion — one free Salush Nahí session",
               "price": 0,
               "priceCurrency": "EUR",
               "availability": "InStock",
@@ -50,7 +50,7 @@
             "@type": "ReserveAction",
             "target": {
               "@type": "EntryPoint",
-              "urlTemplate": "https://cal.com/fransimo/tameana-salush-nahI",
+              "urlTemplate": "https://cal.com/fransimo/tameana-salush-nahi",
               "actionPlatform": ["https://schema.org/DesktopWebPlatform","https://schema.org/MobileWebPlatform"]
             }
           }
@@ -63,7 +63,7 @@
           "@type": "Service",
           "name": "Craniosacral Biodynamics",
           "serviceType": "Craniosacral Biodynamics session",
-          "areaServed": ["Barcelona"],
+          "areaServed": ["Barcelona","Istanbul"],
           "offers": {
             "@type": "Offer",
             "name": "Student practice — first 3 sessions free",
@@ -85,7 +85,7 @@
           "@type": "Service",
           "name": "Holistic Session",
           "serviceType": "Bodywork & energy session",
-          "areaServed": ["Barcelona","Public spaces","Remote"],
+          "areaServed": ["Barcelona","Istanbul","Remote"],
           "offers": {
             "@type": "Offer",
             "name": "Holistic Session (1 hour)",
