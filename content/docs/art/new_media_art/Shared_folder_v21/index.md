@@ -23,7 +23,9 @@ tags:
 - opensea
 - art book
 title: Shared Folder (Red box) v'21
-description: "Highlights Shared Folder v.21, a participatory project using found photographs from peer‑to‑peer networks to expose how private images circulate online and to provoke dialogue about digital privacy."
+description: >
+  Highlights Shared Folder v.21, a project using found photographs from peer‑to‑peer 
+  networks to expose how private images circulate online and to provoke dialogue about digital privacy.
 aliases: /blog/2021/05/21/shared-folder-red-box-v21/
 ---
 ![](IMG_4934-Editar-2.jpg) 

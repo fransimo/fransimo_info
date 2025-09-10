@@ -13,7 +13,9 @@ dateCreated: 2013
 schemaOrgType: Book
 isbn: 9781291592085
 title: Passengers 2012
-description: "Presents Passengers 2012, the inaugural volume of a collaborative street photography project with thousands of images from multiple countries, illustrating how mobile photography documents our time."
+description: >
+  Presents Passengers 2012, the second volume of a collaborative street photography project with thousands 
+  of images from multiple countries, illustrating how mobile photography documents our time.
 aliases: /blog/2013/11/16/passengers-2012/
 bookToc: false
 bookCollapseSection: true
