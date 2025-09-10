@@ -28,7 +28,7 @@ description: >
 areaServed: ["Palma", "Barcelona", "Istanbul", "Remote"]
 ---
 {{% columns %}}
-![holistic.png](holistic.png)
+![holistic.png](holistic.png "Holistic Bodywork & Energy Session")
 <--->
 # Holistic Bodywork & Energy Session (In-Person or Remote)
 
@@ -51,4 +51,4 @@ Skin contact and the use of oils often enhance the experience.
 - **Price:** €60  
 - **Location:** remote, public spaces, at your place, or a rented space.  
 
-You can check all prices and service limitations [here](../prices/). 
+Book [here](../book/)!

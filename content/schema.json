@@ -1,6 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "{{ .Site.Params.organization.type }}",
+  "@id":"{{ .Site.BaseURL }}#org",
   "name": "{{ .Site.Params.organization.name }}",
   "url": "{{ .Site.BaseURL }}",
   "logo": "{{ .Site.Params.organization.logo }}",

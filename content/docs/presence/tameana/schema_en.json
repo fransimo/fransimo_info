@@ -1,23 +1,18 @@
 {
   "@context": "https://schema.org",
   "@type": "Service",
+  "@id": "https://fransimo.info/docs/presence/tameana/#service",
   "name": "Tameana Energy Healing",
   "url": "https://fransimo.info/docs/presence/tameana/",
   "serviceType": "Vibrational energy healing with quartz crystals (Tameana)",
   "description": "Tameana uses quartz crystals and channeled symbols to raise vibrational frequency, unblock emotions and support inner transformation. Sessions may be in-person or remote.",
-  "inLanguage": ["en","es"],
 
-  "provider": { "@type": "Organization", "name": "Fran Simó" },
+  "provider":{"@id":"https://fransimo.info/#org"},
 
   "areaServed": [
     { "@type": "City", "name": "Barcelona" },
     { "@type": "City", "name": "Istanbul" },
     "Remote"
-  ],
-
-  "serviceLocation": [
-    { "@type": "Place", "name": "Barcelona" },
-    { "@type": "Place", "name": "Istanbul" }
   ],
 
   "audience": [
@@ -41,35 +36,26 @@
       "name": "Salush Nahí (personal session)",
       "price": 60,
       "priceCurrency": "EUR",
-      "availability": "InStock",
-      "url": "https://fransimo.info/docs/presence/tameana/#book-salush-nahi",
-      "category": "personal-session"
+      "availability": "https://schema.org/InStock",
+      "url": "https://fransimo.info/docs/presence/book/#book-salush-nahi"
     },
     {
       "@type": "Offer",
       "name": "H’ama (space/situation harmonization)",
       "price": 30,
       "priceCurrency": "EUR",
-      "availability": "InStock",
-      "url": "https://fransimo.info/docs/presence/tameana/#book-h-ama",
-      "category": "space-session"
+      "availability": "https://schema.org/InStock",
+      "url": "https://fransimo.info/docs/presence/book/#book-h-ama"
     },
-
-    /* --- ISTANBUL PROMOTION --- */
     {
       "@type": "Offer",
       "name": "Istanbul Promotion — Salush Nahí (one free personal session)",
       "price": 0,
       "priceCurrency": "EUR",
-      "availability": "InStock",
+      "availability": "https://schema.org/InStock",
       "priceValidUntil": "2026-06-30",
-      "eligibleRegion": {
-        "@type": "AdministrativeArea",
-        "name": "Istanbul",
-        "addressCountry": "TR"
-      },
+      "eligibleRegion": "Istanbul, TR",
       "eligibleQuantity": { "@type": "QuantitativeValue", "value": 1 },
-      "category": "promotion",
       "url": "https://fransimo.info/docs/presence/promo/"
     }
   ],
@@ -88,17 +74,5 @@
       "name": "Remote sessions",
       "serviceUrl": "https://fransimo.info/docs/contact/"
     }
-  ],
-
-  "potentialAction": {
-    "@type": "ReserveAction",
-    "target": {
-      "@type": "EntryPoint",
-      "urlTemplate": "https://fransimo.info/docs/contact/",
-      "actionPlatform": [
-        "https://schema.org/DesktopWebPlatform",
-        "https://schema.org/MobileWebPlatform"
-      ]
-    }
-  }
+  ]
 }

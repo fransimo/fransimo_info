@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": "https://fransimo.info/docs/presence/tameana/#service",
+  "name": "Sanación energética Tameana",
+  "url": "https://fransimo.info/docs/presence/tameana/",
+  "serviceType": "Sanación vibracional con cristales de cuarzo (Tameana)",
+  "description": "Tameana utiliza cristales de cuarzo y símbolos canalizados para elevar la frecuencia vibratoria, desbloquear emociones y apoyar procesos de transformación interior. Las sesiones pueden ser presenciales o a distancia.",
+
+  "provider":{"@id":"https://fransimo.info/#org"},
+
+  "areaServed": [
+    { "@type": "City", "name": "Barcelona" },
+    { "@type": "City", "name": "Istanbul" },
+    "Remote"
+  ],
+
+  "audience": [
+    {
+      "@type": "PeopleAudience",
+      "name": "Adultos que buscan sanación energética",
+      "audienceType": "dultos interesados en sanación vibracional no médica (Tameana)",
+      "suggestedMinAge": 18,
+      "suggestedGender": "unisex"
+    },
+    {
+      "@type": "Audience",
+      "name": "Propietarios de viviendas o negocios",
+      "audienceType": "Personas que solicitan armonización energética de espacios (H’ama)"
+    }
+  ],
+
+  "offers": [
+    {
+      "@type": "Offer",
+      "name": "Salush Nahí (sesión personal)",
+      "price": 60,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://fransimo.info/docs/presence/book/#book-salush-nahi"
+    },
+    {
+      "@type": "Offer",
+      "name": "H’ama (armonización de espacios/situaciones)",
+      "price": 30,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "url": "https://fransimo.info/docs/presence/book/#book-h-ama"
+    },
+    {
+      "@type": "Offer",
+      "name": "Promoción Estambul — Salush Nahí (una sesión personal gratuita)",
+      "price": 0,
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "priceValidUntil": "2026-06-30",
+      "eligibleRegion": "Istanbul, TR",
+      "eligibleQuantity": { "@type": "QuantitativeValue", "value": 1 },
+      "url": "https://fransimo.info/docs/presence/promo/"
+    }
+  ],
+
+  "availableChannel": [
+    {
+      "@type": "ServiceChannel",
+      "name": "In-person sessions",
+      "serviceLocation": [
+        { "@type": "Place", "name": "Barcelona" },
+        { "@type": "Place", "name": "Istanbul" }
+      ]
+    },
+    {
+      "@type": "ServiceChannel",
+      "name": "Remote sessions",
+      "serviceUrl": "https://fransimo.info/docs/contact/"
+    }
+  ]
+}

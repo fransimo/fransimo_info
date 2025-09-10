@@ -19,7 +19,7 @@ serviceAudience:
   audienceType: "Adults seeking somatic therapy"
 hoursAvailable:
   "@type": OpeningHoursSpecification
-  dayOfWeek: ["Monday","Wednesday","Friday"]
+  dayOfWeek: ["Wednesday","Thursday"]
   opens: "10:00"
   closes: "18:00"
 # brand: "Fran Simo Studio"
@@ -58,7 +58,7 @@ sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 
 {{% columns %}}
-![biodinamica.png](biodinamica.png)
+![biodinamica.png](biodinamica.png "Biodynamic Craniosacral Therapy")
 <--->
 
 # Biodynamic Craniosacral Therapy
@@ -105,4 +105,4 @@ More information at:
 - **Price:** ~~€60~~  first 3 session free as student practices.
 - **Location:** at your place or a rented space.  
 
-You can check all prices and service limitations [here](../prices/). 
+Book [here](../book/)! 

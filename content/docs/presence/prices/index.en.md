@@ -5,6 +5,7 @@ date: 2024-01-05
 author: "Fran Simó"
 BookToC: true
 weight: 100
+draft: true
 ---
 # Types of Sessions and Prices  
 

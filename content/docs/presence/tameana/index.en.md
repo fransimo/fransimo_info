@@ -25,7 +25,7 @@ hoursAvailable:
 sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 {{% columns %}}
-![tameana.png](tameana.png)
+![tameana.png](tameana.png "Tameana")
 <--->
 # Tameana  
 
@@ -63,4 +63,4 @@ I practice two techniques:
     - H’ama: €30  
 - **Location:** remote, at your place, or a rented space.  
 
-You can all check prices and service limitations [here](../prices/).  
+Book [here](../book/)!  

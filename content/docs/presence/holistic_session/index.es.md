@@ -29,7 +29,7 @@ description: >
 areaServed: ["Palma", "Barcelona", "Estambul","Remote"]
 ---
 {{% columns %}}
-![holistic.png](holistic.png)
+![holistic.png](holistic.png "Trabajo Corporal Holístico y Energía")
 <--->
 # Trabajo Corporal Holístico y Energía (Presencial o a Distancia)
 
@@ -52,4 +52,4 @@ El contacto con la piel y el uso de aceites suelen mejorar la experiencia.
 - **Precio:** 60€
 - **Lugar:** remoto, espacios públicos, desplazamiento a tu lugar o sala contratada.
 
-Puedes consultar todos los precios y los límites del servicio [aquí](../prices/). 
+¡Haz tu reserva [aquí](../book/)!

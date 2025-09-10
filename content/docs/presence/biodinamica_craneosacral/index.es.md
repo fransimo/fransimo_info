@@ -21,14 +21,14 @@ serviceAudience:
   audienceType: "Adultos que buscan terapia somática"
 hoursAvailable:
   "@type": OpeningHoursSpecification
-  dayOfWeek: ["Monday","Wednesday","Friday"]
+  dayOfWeek: ["Wednesday","Thursday"]
   opens: "10:00"
   closes: "18:00"
 # brand: "Fran Simo Studio"
 sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 {{% columns %}}
-![biodinamica.png](biodinamica.png)
+![biodinamica.png](biodinamica.png "Biodinámica Craneosacral")
 <--->
 # Biodinámica Craneosacral
 
@@ -68,4 +68,4 @@ Jealous, John Upledger, Franklyn Sills y Ray Castelino.
 - **Precio:** ~~60€~~ las primeras tres sesiones gratuitas como parte de mis prácticas de estudiante.
 - **Lugar:** desplazamiento a tu lugar o sala contratada.
 
-Puedes consultar todos los precios y los límites del servicio [aquí](../prices/). 
+¡Haz tu reserva [aquí](../book/)!

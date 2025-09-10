@@ -1,6 +1,6 @@
 ---
 author: "Fran Simó"
-title: "Promoción Estambul"
+title: "Promoción Estambul y Barcelona"
 description: "Promoción de Biodinámica Craneosacral y Tameana en Estambul"
 date: 2025-07-16
 weight: 120
@@ -40,8 +40,11 @@ si el cliente no recuerda conscientemente el evento que la causó.
 **Esta promoción incluye tres sesiones gratuitas**, que es el tratamiento más habitual. Las sesiones suelen programarse
 con una frecuencia de tres semanas.
 
-Las sesiones las realizo en Beşiktaş, cerca de la estación de metro Fulya. Si tienes una camilla de masaje en casa,
-puedo desplazarme a tu domicilio.
+Las sesiones las realizo en:
+- Estambul: Beşiktaş, cerca de la estación de metro Gayrettepe. 
+- Barcelona: a pocos minutos de la estación Plaça de Sants M1 y M5.
+
+Si tienes una camilla de masaje en casa, puedo desplazarme a tu domicilio.
 
 # Tameana
 

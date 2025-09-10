@@ -58,4 +58,4 @@ These levels are:
 
 A level can be agreed upon before starting the session. In any case, progressing from one level to the next requires explicit verbal confirmation.
 
-You can check prices and service limitations [here](../prices/).  
+You can check prices and service limitations [here](../book/).  

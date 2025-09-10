@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": "https://fransimo.info/es/docs/presence/promo/#webpage",
+  "url": "https://fransimo.info/es/docs/presence/promo/",
+  "name": "Promoción — Sesiones gratuitas",
+  "inLanguage": "es",
+  "description": "Promociones vigentes de Tameana y Biodinámica craneosacral. Válidas en Barcelona y Estambul.",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Ofertas promocionales",
+    "itemListElement": [
+
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "Service",
+          "@id": "https://fransimo.info/es/docs/presence/tameana/#service",
+          "name": "Sanación energética Tameana",
+          "serviceType": "Tameana — sesión personal Salush Nahí",
+          "provider": { "@id": "https://fransimo.info/#org" },
+          "areaServed": [
+            { "@type": "City", "name": "Barcelona" },
+            { "@type": "City", "name": "Estambul" }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "name": "Una sesión personal gratuita — Salush Nahí",
+            "price": 0,
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock",
+            "eligibleRegion": ["Barcelona, ES", "Estambul, TR"],
+            "eligibleQuantity": { "@type": "QuantitativeValue", "value": 1 },
+            "priceValidUntil": "2026-06-30",
+            "url": "https://fransimo.info/es/docs/presence/promo/#reservar-tameana"
+          }
+        }
+      },
+
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "Service",
+          "@id": "https://fransimo.info/es/docs/presence/biodinamica_craneosacral/#service",
+          "name": "Biodinámica craneosacral",
+          "serviceType": "Sesión de biodinámica craneosacral",
+          "provider": { "@id": "https://fransimo.info/#org" },
+          "areaServed": [
+            { "@type": "City", "name": "Barcelona" },
+            { "@type": "City", "name": "Estambul" }
+          ],
+          "offers": {
+            "@type": "Offer",
+            "name": "Prácticas de estudiante — primeras 3 sesiones gratuitas",
+            "price": 0,
+            "priceCurrency": "EUR",
+            "availability": "https://schema.org/InStock",
+            "eligibleRegion": ["Barcelona, ES", "Estambul, TR"],
+            "eligibleQuantity": { "@type": "QuantitativeValue", "value": 3 },
+            "priceValidUntil": "2026-06-30",
+            "url": "https://fransimo.info/es/docs/presence/promo/#reservar-craneosacral"
+          }
+        }
+      }
+
+    ]
+  }
+}

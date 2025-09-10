@@ -23,7 +23,7 @@ hoursAvailable:
 sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 {{% columns %}}
-![tameana.png](tameana.png)
+![tameana.png](tameana.png "Tameana")
 <--->
 # Tameana
 
@@ -77,5 +77,5 @@ Practico dos de las técnicas:
     - H’ama: 30€
 - **Lugar:** remoto, desplazamiento a tu lugar o sala contratada.
 
-Puedes consultar todos los precios y los límites del servicio [aquí](../prices/).  
+¡Haz tu reserva [aquí](../book/)!
 

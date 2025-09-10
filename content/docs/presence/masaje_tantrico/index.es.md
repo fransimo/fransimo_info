@@ -84,4 +84,4 @@ Esos niveles serían:
 Se puede acordar un nivel antes de empezar la sesión. En cualquier caso, el paso de cada nivel implica una confirmación
 verbal.
 
-Puedes consultar los precios y los límites del servicio [aquí](../prices/). 
+Puedes consultar los precios y los límites del servicio [aquí](../book/). 
