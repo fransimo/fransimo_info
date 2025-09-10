@@ -46,6 +46,8 @@ I'm doing the sessions in:
 
 If you have a massage table at home, I can come to your place.
 
+**You can book a session [here](../book/)!**
+
 # Tameana
 
 I also offer a technique called [Tameana](../tameana). It uses quartz crystals to raise the vibrational frequency of the
@@ -62,6 +64,8 @@ This offer is for a limited time and is especially for people living in Istanbul
 H’ama sessions for spaces or situations are not included in the free offer.
 
 The session can be done in person or remotely. In person, you’ll lie on the floor surrounded by quartz crystals.
+
+**You can book a session [here](../book/)!**
 
 # Which is better for me Biodynamic or Tameana?
 

@@ -46,6 +46,8 @@ Las sesiones las realizo en:
 
 Si tienes una camilla de masaje en casa, puedo desplazarme a tu domicilio.
 
+**¡Haz tu reserva [aquí](../book/)!**
+
 # Tameana
 
 También ofrezco una técnica llamada [Tameana](../tameana). Utiliza cristales de cuarzo para elevar la frecuencia
@@ -64,6 +66,8 @@ Los trabajos H’ama (para espacios o situaciones) no están incluidos en la pro
 
 La sesión puede hacerse de forma presencial o a distancia. Si es presencial, estarás tumbado/a en el suelo rodeado/a de
 cristales de cuarzo.
+
+**¡Haz tu reserva [aquí](../book/)!**
 
 # ¿Qué me conviene Biodinámica o Tameana?
 
