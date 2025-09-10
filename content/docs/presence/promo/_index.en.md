@@ -41,7 +41,7 @@ doesn’t consciously remember the event that caused it.
 every three weeks.
 
 I'm doing the sessions in:
-- Istanbul Beşiktaş, near the Gayrettepe metro station. 
+- Istanbul at Beşiktaş, near the Gayrettepe metro station. 
 - Barcelona, near Plaça de Sants metro station (M1 and M5)
 
 If you have a massage table at home, I can come to your place.
