@@ -3,25 +3,25 @@
   "@type": "WebPage",
   "@id": "https://fransimo.info/docs/presence/book/#webpage",
   "url": "https://fransimo.info/docs/presence/book/",
-  "name": "Book a Session",
-  "inLanguage": ["en","es"],
-  "description": "Book Tameana energy healing, Craniosacral Biodynamics, or a Holistic Session — in Barcelona, Istanbul, or remotely.",
+  "name": "Reservar una sesión",
+  "inLanguage": ["es","en"],
+  "description": "Reserva Tameana (sanación energética), Biodinámica craneosacral o una Sesión holística — en Barcelona, Estambul o a distancia.",
   "mainEntity": {
     "@type": "ItemList",
-    "name": "Available Services",
+    "name": "Servicios disponibles",
     "itemListElement": [
       {
         "@type": "ListItem",
         "position": 1,
         "item": {
           "@type": "Service",
-          "name": "Tameana Energy Healing",
-          "serviceType": "Vibrational healing with quartz crystals (Tameana)",
-          "areaServed": ["Barcelona","Istanbul","Remote"],
+          "name": "Tameana (Sanación energética)",
+          "serviceType": "Sanación vibracional con cristales de cuarzo (Tameana)",
+          "areaServed": ["Barcelona","Estambul","A distancia"],
           "offers": [
             {
               "@type": "Offer",
-              "name": "Salush Nahí (personal session)",
+              "name": "Salush Nahí (sesión personal)",
               "price": 60,
               "priceCurrency": "EUR",
               "availability": "InStock",
@@ -29,7 +29,7 @@
             },
             {
               "@type": "Offer",
-              "name": "H’ama (space/situation harmonization)",
+              "name": "H’ama (armonización de espacios/situaciones)",
               "price": 30,
               "priceCurrency": "EUR",
               "availability": "InStock",
@@ -37,11 +37,11 @@
             },
             {
               "@type": "Offer",
-              "name": "Istanbul and Barcelona Promotion — one free Salush Nahí session",
+              "name": "Promoción Estambul y Barcelona — una sesión Salush Nahí gratuita",
               "price": 0,
               "priceCurrency": "EUR",
               "availability": "InStock",
-              "eligibleRegion": { "@type": "AdministrativeArea", "name": "Istanbul", "addressCountry": "TR" },
+              "eligibleRegion": { "@type": "AdministrativeArea", "name": "Estambul", "addressCountry": "TR" },
               "priceValidUntil": "2026-06-30",
               "url": "https://cal.com/fransimo/biodynamic-craniosacral-therapy"
             }
@@ -61,12 +61,12 @@
         "position": 2,
         "item": {
           "@type": "Service",
-          "name": "Craniosacral Biodynamics",
-          "serviceType": "Craniosacral Biodynamics session",
-          "areaServed": ["Barcelona","Istanbul"],
+          "name": "Biodinámica craneosacral",
+          "serviceType": "Sesión de Biodinámica craneosacral",
+          "areaServed": ["Barcelona","Estambul"],
           "offers": {
             "@type": "Offer",
-            "name": "Student practice — first 3 sessions free",
+            "name": "Prácticas de estudiante — primeras 3 sesiones gratuitas",
             "price": 0,
             "priceCurrency": "EUR",
             "availability": "InStock",
@@ -83,12 +83,12 @@
         "position": 3,
         "item": {
           "@type": "Service",
-          "name": "Holistic Session",
-          "serviceType": "Bodywork & energy session",
-          "areaServed": ["Barcelona","Istanbul","Remote"],
+          "name": "Sesión holística",
+          "serviceType": "Sesión de trabajo corporal y energía",
+          "areaServed": ["Barcelona","Estambul","A distancia"],
           "offers": {
             "@type": "Offer",
-            "name": "Holistic Session (1 hour)",
+            "name": "Sesión holística (1 hora)",
             "price": 60,
             "priceCurrency": "EUR",
             "availability": "InStock",
@@ -105,8 +105,8 @@
   "breadcrumb": {
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Presence", "item": "https://fransimo.info/docs/presence/" },
-      { "@type": "ListItem", "position": 2, "name": "Book", "item": "https://fransimo.info/docs/presence/book/" }
+      { "@type": "ListItem", "position": 1, "name": "Presencia", "item": "https://fransimo.info/docs/presence/" },
+      { "@type": "ListItem", "position": 2, "name": "Reservar", "item": "https://fransimo.info/docs/presence/book/" }
     ]
   }
 }
