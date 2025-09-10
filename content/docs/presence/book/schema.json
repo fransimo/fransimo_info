@@ -70,11 +70,11 @@
             "price": 0,
             "priceCurrency": "EUR",
             "availability": "InStock",
-            "url": "https://cal.com/fransimo/craniosacral"
+            "url": "https://cal.com/fransimo/biodynamic-craniosacral-therapy"
           },
           "potentialAction": {
             "@type": "ReserveAction",
-            "target": { "@type": "EntryPoint", "urlTemplate": "https://cal.com/fransimo/craniosacral" }
+            "target": { "@type": "EntryPoint", "urlTemplate": "https://cal.com/fransimo/biodynamic-craniosacral-therapy" }
           }
         }
       },

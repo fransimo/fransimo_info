@@ -28,10 +28,25 @@ A vibrational healing practice with quartz crystals and channeled symbols to rai
 
 **Book now**
 
-<div id="cal-tameana"></div>
+<!-- Cal inline embed code begins -->
+<div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-tameana-salush-nahi"></div>
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+Cal("init", "tameana-salush-nahi", {origin:"https://app.cal.com"});
+
+  Cal.ns["tameana-salush-nahi"]("inline", {
+    elementOrSelector:"#my-cal-inline-tameana-salush-nahi",
+    config: {"layout":"month_view","theme":"light"},
+    calLink: "fransimo/tameana-salush-nahi",
+  });
+
+  Cal.ns["tameana-salush-nahi"]("ui", {"theme":"light","hideEventTypeDetails":false,"layout":"month_view"});
+  </script>
+  <!-- Cal inline embed code ends -->
 
 > _If the calendar doesn’t load, use the direct link:_  
 > [Open Tameana booking](https://cal.com/fransimo/tameana-salush-nahi)
+
 
 ---
 
@@ -44,9 +59,24 @@ Gentle, hands-on work to support the body’s self-regulating rhythms.
 
 **Book now**
 
-<div id="cal-craniosacral"></div>
+<!-- Cal inline embed code begins -->
+<div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-biodynamic-craniosacral-therapy"></div>
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+Cal("init", "biodynamic-craniosacral-therapy", {origin:"https://app.cal.com"});
 
-> _Fallback:_ [Open Craniosacral booking](https://cal.com/fransimo/craniosacral)
+  Cal.ns["biodynamic-craniosacral-therapy"]("inline", {
+    elementOrSelector:"#my-cal-inline-biodynamic-craniosacral-therapy",
+    config: {"layout":"month_view","theme":"light"},
+    calLink: "fransimo/biodynamic-craniosacral-therapy",
+  });
+
+  Cal.ns["biodynamic-craniosacral-therapy"]("ui", {"theme":"light","hideEventTypeDetails":false,"layout":"month_view"});
+  </script>
+  <!-- Cal inline embed code ends -->
+
+
+> _Fallback:_ [Open Craniosacral booking](https://cal.com/fransimo/biodynamic-craniosacral-therapy)
 
 ---
 
@@ -59,7 +89,21 @@ A tailored blend of bodywork and energy techniques.
 
 **Book now**
 
-<div id="cal-holistic"></div>
+<!-- Cal inline embed code begins -->
+<div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-holistic-session"></div>
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+Cal("init", "holistic-session", {origin:"https://app.cal.com"});
+
+  Cal.ns["holistic-session"]("inline", {
+    elementOrSelector:"#my-cal-inline-holistic-session",
+    config: {"layout":"month_view","theme":"light"},
+    calLink: "fransimo/holistic-session",
+  });
+
+  Cal.ns["holistic-session"]("ui", {"theme":"light","hideEventTypeDetails":false,"layout":"month_view"});
+  </script>
+  <!-- Cal inline embed code ends -->
 
 > _Fallback:_ [Open Holistic booking](https://cal.com/fransimo/holistic-session)
 
