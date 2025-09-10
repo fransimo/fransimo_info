@@ -1,7 +1,7 @@
 ---
 author: "Fran Simó"
 title: "Istanbul and Barcelona Promotion"
-description: "Craniosacral Biodynamics and Tameana promotion in Istanbul"
+description: "Biodynamic Craniosacral Therapy and Tameana promotion in Istanbul and Barcelona"
 date: 2025-07-16
 weight: 120
 categories:
@@ -15,15 +15,15 @@ aliases:
   - /therapies/
 ---
 
-Hi, I’m Fran. I was born in Argentina and have lived in Spain for the past 26 years. Last year, I decided to leave my
-corporate life behind and focus on art and healing. I’ve been living in Istanbul since March 2025.
+Hello, I'm Fran. I was born in Argentina and have lived in Spain for the last 26 years. In September 2024, I decided to leave 
+my corporate life behind to focus on art and healing. Since then, I have travelled extensively but spend long periods in Istanbul and Barcelona.
 
-# Craniosacral Biodynamics
+# Biodynamic Craniosacral Therapy
 
-I’m currently studying Craniosacral Biodynamics and offering free sessions as part of my training. Would you like to
+I’m currently studying Biodynamic Craniosacral Therapys and offering free sessions as part of my training. Would you like to
 give it a try?
 
-[Craniosacral Biodynamic](../biodinamica_craneosacral) sessions are done fully clothed on a massage table. The touch is
+[Biodynamic Craniosacral Therapy](../biodinamica_craneosacral) sessions are done fully clothed on a massage table. The touch is
 super gentle, non-invasive, and involves minimal movement. The purpose is to **help the body reconnect with its natural
 healing abilities**.
 
@@ -46,6 +46,8 @@ I'm doing the sessions in:
 
 If you have a massage table at home, I can come to your place.
 
+**You can book a session [here](../book/)!**
+
 # Tameana
 
 I also offer a technique called [Tameana](../tameana). It uses quartz crystals to raise the vibrational frequency of the
@@ -62,6 +64,8 @@ This offer is for a limited time and is especially for people living in Istanbul
 H’ama sessions for spaces or situations are not included in the free offer.
 
 The session can be done in person or remotely. In person, you’ll lie on the floor surrounded by quartz crystals.
+
+**You can book a session [here](../book/)!**
 
 # Which is better for me Biodynamic or Tameana?
 
@@ -89,7 +93,7 @@ biodynamic. If your motivation is on a more spiritual level or we cannot meet th
 
 # Get in Touch!
 
-If you feel called, you can reach me here:
+If you feel called, you can book a session [here](../book/) or you can reach me here:
 
 - Instagram: [@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)
 - WhatsApp (Spain): [+34 655 384 230](https://wa.me/+34655384230)
