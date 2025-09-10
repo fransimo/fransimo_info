@@ -5,6 +5,7 @@ date: 2024-01-05
 author: "Fran Simó"
 aliases: /servicios/
 weight: 100
+draft: true
 ---
 
 # Tipos de sesiones y precios
