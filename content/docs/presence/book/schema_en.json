@@ -4,7 +4,7 @@
   "@id": "https://fransimo.info/docs/presence/book/#webpage",
   "url": "https://fransimo.info/docs/presence/book/",
   "name": "Book a Session",
-  "inLanguage": ["en","es"],
+  "inLanguage": ["en"],
   "description": "Book Tameana energy healing, Craniosacral Biodynamics, or a Holistic Session — in Barcelona, Istanbul, or remotely.",
   "mainEntity": {
     "@type": "ItemList",
