@@ -1,41 +1,41 @@
 ---
-title: "Book a session"
-description: "Types of sessions, prices and booking page."
+title: "Reservar una sesión"
+description: "Tipos de sesiones, precios y página de reservas."
 date: 2024-01-05
 author: "Fran Simó"
 BookToC: false
 weight: 100
-aliases: /docs/presence/prices/
+aliases: /es/docs/presence/prices/
 ---
 
-# Book a Session
+# Reservar una sesión
 
-Welcome! Choose a service, pick a time, and book securely. In-person (Barcelona / Istanbul) or remote.
+Bienvenido/a. Elige un servicio, selecciona hora y reserva con pago seguro. Presencial (Barcelona / Estambul) o a distancia.
 
-- **Languages:** English, Español  
-- **Duration:** ~60 minutes (unless noted)  
-- **Policies:** Free reschedule up to 24h before; late arrivals may shorten the session. These services complement, not replace, medical care.
+- **Idiomas:** inglés, español
+- **Duración:** \~60 minutos (salvo indicación contraria)
+- **Políticas:** Cambios gratuitos hasta 24 h antes; los retrasos pueden acortar la sesión. Estos servicios complementan, no sustituyen, la atención médica.
 
-Prefer to talk first? [Contact me](../contact/).
+¿Prefieres hablar antes? [Contáctame](../contact/).
 
 ---
 
+## Tameana (Sanación energética) {#tameana}
 
-## Tameana (Energy Healing) {#tameana}
+Práctica vibracional con cuarzos y símbolos canalizados para elevar la frecuencia, liberar bloqueos y apoyar la transformación interna.
 
-A vibrational healing practice with quartz crystals and channeled symbols to raise frequency, release blocks, and support inner transformation.
+- **Dónde:** Barcelona • Estambul • A distancia
+- **Precio:** Salush Nahí 60 € · H’ama (armonización de espacios) 30 €
+- **Promoción:** Estambul — una sesión Salush Nahí gratuita (plazas limitadas)
 
-**Where:** Barcelona • Istanbul • Remote
-**Price:** Salush Nahí €60 · H’ama (space harmonization) €30
-**Promo:** Istanbul — one free Salush Nahí session (limited)
-
-**Book now**
+**Reservar ahora**
 
 {{< tabs >}}
 
 {{% tab "Tameana Salush Nahí" %}}
 
 <!-- Cal inline embed code begins -->
+
 <div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-tameana-salush-nahi"></div>
 
 <script type="text/javascript">
@@ -51,15 +51,15 @@ calLink: "fransimo/tameana-salush-nahi",
 Cal.ns["tameana-salush-nahi"]("ui", {"theme":"light","hideEventTypeDetails":false,"layout":"month_view"});
 </script><!-- Cal inline embed code ends -->
 
-
-> _If the calendar doesn’t load, use the direct link:_  
-> [Open Tameana booking](https://cal.com/fransimo/tameana-salush-nahi)
+> *Si el calendario no carga, utiliza el enlace directo:*
+> [Abrir reserva de Tameana](https://cal.com/fransimo/tameana-salush-nah)
 
 {{% /tab %}}
 
-{{% tab "Tameana H’ama (space harmonization)" %}}
+{{% tab "Tameana H’ama (armonización de espacios)" %}}
 
 <!-- Cal inline embed code begins -->
+
 <div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-tameana-hama"></div>
 
 <script type="text/javascript">
@@ -74,10 +74,11 @@ Cal("init", "tameana-hama", {origin:"https://app.cal.com"});
 
   Cal.ns["tameana-hama"]("ui", {"theme":"light","hideEventTypeDetails":false,"layout":"month_view"});
   </script>
+
   <!-- Cal inline embed code ends -->
 
-> _If the calendar doesn’t load, use the direct link:_  
-> [Open Tameana booking](https://cal.com/fransimo/tameana-hama)
+> *Si el calendario no carga, utiliza el enlace directo:*
+> [Abrir reserva de Tameana](https://cal.com/fransimo/tameana-hama)
 
 {{% /tab %}}
 
@@ -85,17 +86,17 @@ Cal("init", "tameana-hama", {origin:"https://app.cal.com"});
 
 ---
 
+## Biodinámica Craneosacral {#craniosacral}
 
-## Craniosacral Biodynamics {#craniosacral}
+Trabajo manual suave para apoyar los ritmos autorreguladores del cuerpo.
 
-Gentle, hands-on work to support the body’s self-regulating rhythms.
+- **Dónde:** Barcelona • Estambul (presencial)
+- **Precio:** Prácticas de estudiante — **primeras 3 sesiones gratuitas**
 
-**Where:** Barcelona • Istanbul (in-person)  
-**Price:** Student practice — first **3 sessions free**
-
-**Book now**
+**Reservar ahora**
 
 <!-- Cal inline embed code begins -->
+
 <div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-biodynamic-craniosacral-therapy"></div>
 
 <script type="text/javascript">
@@ -111,21 +112,21 @@ calLink: "fransimo/biodynamic-craniosacral-therapy",
 Cal.ns["biodynamic-craniosacral-therapy"]("ui", {"theme":"light","hideEventTypeDetails":false,"layout":"month_view"});
 </script><!-- Cal inline embed code ends -->
 
-
-> _Fallback:_ [Open Craniosacral booking](https://cal.com/fransimo/biodynamic-craniosacral-therapy)
+> *Alternativa:* [Abrir reserva de Biodinámica Craneosacral](https://cal.com/fransimo/biodynamic-craniosacral-therapy)
 
 ---
 
-## Holistic Session (Bodywork & Energy) {#holistic}
+## Sesión holística (Trabajo corporal y energía) {#holistic}
 
-A tailored blend of bodywork and energy techniques.
+Combinación a medida de trabajo corporal y técnicas energéticas.
 
-**Where:** Barcelona • Istanbul • Public spaces • Remote  
-**Price:** €60
+- **Dónde:** Barcelona • Estambul • Espacios públicos • A distancia
+- **Precio:** 60 €
 
-**Book now**
+**Reservar ahora**
 
 <!-- Cal inline embed code begins -->
+
 <div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-holistic-session"></div>
 
 <script type="text/javascript">
@@ -141,47 +142,42 @@ calLink: "fransimo/holistic-session",
 Cal.ns["holistic-session"]("ui", {"theme":"light","hideEventTypeDetails":false,"layout":"month_view"});
 </script><!-- Cal inline embed code ends -->
 
-> _Fallback:_ [Open Holistic booking](https://cal.com/fransimo/holistic-session)
+> *Alternativa:* [Abrir reserva de Sesión holística](https://cal.com/fransimo/holistic-session)
 
 ---
 
-## What to expect
+## Qué esperar
 
-**Before:** Light meal, hydrate; wear comfy clothes.  
-**During:** Grounding, intention setting, 45–60 min session, brief integration.  
-**After:** Rest, hydrate; gentle movement recommended.
-
----
-
-## FAQ
-
-**Remote sessions?** Yes—video call or audio; you’ll receive prep instructions.  
-**Reschedule/cancel?** Free ≥24h; otherwise the session may be forfeited.  
-**Payments?** Card via secure checkout during booking; receipts emailed.
+- **Antes:** Comida ligera, hidrátate; ropa cómoda.
+- **Durante:** Enraizamiento, establecimiento de intención, sesión de 45–60 min, breve integración.
+- **Después:** Descanso e hidratación; se recomienda movimiento suave.
 
 ---
 
-## Contact
+## Preguntas frecuentes
 
-Prefer to talk first? [Contact me](../contact/).
+- **¿Sesiones a distancia?** Sí: por videollamada o audio; recibirás instrucciones previas.
+- **¿Reprogramar o cancelar?** Gratis ≥ 24 h; fuera de ese plazo la sesión puede darse por realizada.
+- **¿Pagos?** Tarjeta mediante pasarela segura durante la reserva; recibo por correo electrónico.
 
 ---
 
-# Boundaries & ethics
+## Contacto
 
-Fully clothed, consent-led sessions. No sexual services. Confidentiality respected.
+¿Prefieres hablar antes? [Contáctame](../contact/).
 
-In these sessions, we work with energy, but we do not control it. Internal processes (such as trauma release) may be
-activated, requiring emotional support from a professional. If this is your case and you do not have a therapist, I can
-recommend trusted professionals who work in person in Mallorca, as well as others who offer remote sessions in Spanish,
-Catalan, English, and Russian.
+---
 
-It is important to remember that massage and energetic techniques can complement and integrate with other medical
-treatments, but **they should not replace consultation with a healthcare professional**.
+# Límites y ética
 
-**Each person is responsible for their own process.** Healing is an individual journey, and experiences may vary.
-Specific results are not guaranteed, as energy work acts uniquely in each case.
+Sesiones con ropa, basadas en el consentimiento. No se ofrecen servicios sexuales. Se respeta la confidencialidad.
 
-## Contraindications
-If you’re in acute medical distress, pregnant with complications, or under medical investigation, consult your physician first.
+En estas sesiones trabajamos con la energía, pero no la controlamos. Pueden activarse procesos internos (como liberación de trauma) que requieran acompañamiento emocional por un/a profesional. Si es tu caso y no tienes terapeuta, puedo recomendar profesionales de confianza que trabajan presencialmente en Mallorca y otros/as que ofrecen sesiones remotas en español, catalán, inglés y ruso.
 
+Es importante recordar que el masaje y las técnicas energéticas pueden complementar e integrarse con otros tratamientos médicos, pero **no deben sustituir la consulta con un/a profesional sanitario/a**.
+
+**Cada persona es responsable de su propio proceso.** La sanación es un camino individual y las experiencias pueden variar. No se garantizan resultados específicos, ya que el trabajo energético actúa de forma singular en cada caso.
+
+## Contraindicaciones
+
+Si te encuentras en una situación médica aguda, estás embarazada con complicaciones o te están realizando pruebas médicas, consulta primero con tu médico.
