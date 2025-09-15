@@ -5,7 +5,7 @@ author: "Fran Simó"
 bookFlatSection: false
 bookCollapseSection: false
 title: "Code"
-description: 'Code'
+description: Fran Simó's career in software engineering, in which he concludes that software is something profoundly human.
 ---
 
 # Code  

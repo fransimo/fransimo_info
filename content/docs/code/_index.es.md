@@ -1,11 +1,11 @@
 ---
 weight: 30
-date: "2025-02-16"
-author: "Fran Simó"
+date: '2025-02-16'
+author: Fran Simó
 bookFlatSection: false
 bookCollapseSection: false
-title: "Code"
-description: 'Code'
+title: Code
+description: Trayectoria en la ingeniería de software de Fran Simóe n la que concluye que el software es algo profundamente humano.
 ---
 
 # Code
