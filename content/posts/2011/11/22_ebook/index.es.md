@@ -1,12 +1,14 @@
 ---
 id: 950
-title: 'Mi libro "22" como eBook'
+title: Mi libro "22" como eBook
 date: '2011-11-21'
-author: "Fran Simó"
-aliases:  /es/blog/2011/11/21/mi-libro-22-como-ebook/
+author: Fran Simó
+aliases: /es/blog/2011/11/21/mi-libro-22-como-ebook/
 categories:
 - photography
+description: Las exposiciones están bien, pero nos limitan a un espacio/tiempo concreto. La mezcla multimedia, que acaba siempre en un vídeo, es interesante pero fuerza al.
 ---
+
 [![cover.jpg](cover.jpg)](http://www.lulu.com/shop/fran-sim%C3%B3/22/ebook/product-18680983.html)
 
 Me encantan los libros como canal para enseñar fotografía. Las exposiciones están bien, pero nos limitan a un espacio/tiempo concreto. La mezcla multimedia, que acaba siempre en un vídeo, es interesante pero fuerza al espectador a un ritmo y, aunque me interesa mucho, no me acaba de convencer. Por eso, desde que empezamos con el proyecto [Arrinconado](http://arrinconado.barcelonaphotobloggers.org/) en [Barcelona Photobloggers](http://barcelonaphotobloggers.org/ "Barcelona Photobloggers"), estoy investigando y probando sistemas de impresión por demanda y ahora los eBooks.

@@ -1,11 +1,12 @@
 ---
-title: 'Barcelona Photobloggers y Voltants en el Diari de Terrassa'
+title: Barcelona Photobloggers y Voltants en el Diari de Terrassa
 date: '2007-10-18T15:00:37+02:00'
-author: "Fran Simó"
+author: Fran Simó
 aliases: /es/blog/2007/10/18/barcelona-photobloggers-y-voltants-en-el-diari-de-terrassa/
 categories:
-  - 'Barcelona Photobloggers'
-  - press
+- Barcelona Photobloggers
+- press
+description: El pasado sábado 13 de octubre fue publicado en el Diari de Terrassa un artículo sobre "Álbumes de fotos virtuales", donde Marcelo es entrevistado y cuenta.
 ---
 
 El pasado sábado 13 de octubre fue publicado en el Diari de Terrassa un artículo sobre "Álbumes de fotos virtuales",

@@ -2,13 +2,14 @@
 id: 7599
 title: 'Vivir de la fotografía en el siglo XXI: Técnica, estilo personal y estrategias de marketing'
 date: '2009-11-02T19:07:41+01:00'
-author: "Fran Simó"
+author: Fran Simó
 layout: post
-guid: 'http://fransimo.info/?p=7599'
-permalink: '/?p=7599'
+guid: http://fransimo.info/?p=7599
+permalink: /?p=7599
 categories:
-    - press
+- press
 draft: true
+description: Este fin de semana asistimos al taller " Vivir de la fotografía en el siglo XXI " organizado por la Fundació Universitària Martí l'Humà y Tino Soriano .
 ---
 
 <img src="/uploads/2009/11/IMG_3522-posible-para-post-500px.jpg" alt="Isaac Feijo, Sílvia Omedes y Tino Soriano en taller Cómo vivir de la fotografía. Foto: Marcelo Aurelio." title="Isaac Feijo, Sílvia Omedes y Tino Soriano en taller Cómo vivir de la fotografía. Foto: Marcelo Aurelio." width="500" height="275" class="alignnone size-full wp-image-2407" />

@@ -1,18 +1,18 @@
 ---
 title: 'Exposición: La masacre del cuerpo'
-description: 'Reseña una exposición de videoarte en la que Fran Simó, Francisca Trobok y el Colectivo Fantasía Collage reflexionan sobre los cuerpos poscapitalistas y deconstruyen las normas falocéntricas para imaginar encarnaciones liberadas y poéticas.'
+description: 'En el marco del City Screen del Festival Loop de Barcelona, la Fundación Ideograma presenta la **exposición de vídeo-arte: “La masacre del cuerpo”.'
 date: '2021-10-03'
-author: 'Fran Simó'
+author: Fran Simó
 categories:
-  - press
-  - TV
+- press
+- TV
 tags:
-  - Loop Barcelona
-  - City Screen
-  - Gabriela Berti
-  - Francisca Trobok
-  - Colectivo Fantasía Collage
-  - Selfie_v2
+- Loop Barcelona
+- City Screen
+- Gabriela Berti
+- Francisca Trobok
+- Colectivo Fantasía Collage
+- Selfie_v2
 ---
 
 En el marco del City Screen

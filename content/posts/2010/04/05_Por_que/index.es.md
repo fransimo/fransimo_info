@@ -1,13 +1,14 @@
 ---
-title: '¿Por qué?'
+title: ¿Por qué?
 date: '2010-04-05'
-author: "Fran Simó"
+author: Fran Simó
 aliases: /es/blog/2010/04/05/por-que/
 bookTOC: false
 categories:
-  - photography
+- photography
 tags:
-  - phespaña
+- phespaña
+description: Nos arrastra como la corriente de un río que no sabemos a dónde va. Cuando de repente somos una gota desprendida del conjunto y caemos verticalmente, sintiendo.
 ---
 
 {{% columns %}}

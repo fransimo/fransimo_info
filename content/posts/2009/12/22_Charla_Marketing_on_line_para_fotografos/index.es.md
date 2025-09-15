@@ -1,14 +1,15 @@
 ---
 title: 'Charla: Marketing on-line para fotógrafos'
 date: '2009-12-22'
-author: "Fran Simó"
-aliases:  /es/blog/2009/12/22/charla-marketing-on-line-para-fotografos/
+author: Fran Simó
+aliases: /es/blog/2009/12/22/charla-marketing-on-line-para-fotografos/
 images:
-  - mkt_on_line_oscar_ciutat.jpg
+- mkt_on_line_oscar_ciutat.jpg
 categories:
-- 'Barcelona Photobloggers'
+- Barcelona Photobloggers
 - texts
 - charlas
+description: En el taller Vivir de la fotografía en el siglo XXI se respiraba la necesidad de ampliar las ponencias relacionadas con marketing on-line y redes sociales.
 ---
 
 En el taller [Vivir de la fotografía en el siglo XXI](http://barcelonaphotobloggers.org/2009/11/02/vivir-de-la-fotografia-en-el-siglo-xxi-tecnica-estilo-personal-y-estrategias-de-marketing/) se respiraba la necesidad de ampliar las ponencias relacionadas con marketing on-line y redes sociales. Se nos ocurrió que podíamos continuar el tema con una charla informal reuniendo fotógrafos profesionales por un lado y expertos de marketing y redes sociales por otro.

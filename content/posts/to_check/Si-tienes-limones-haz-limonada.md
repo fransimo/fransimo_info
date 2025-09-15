@@ -1,17 +1,18 @@
 ---
 id: 7664
-title: 'Si tienes limones haz limonada'
+title: Si tienes limones haz limonada
 date: '2015-10-15T09:11:28+02:00'
-author: "Fran Simó"
+author: Fran Simó
 layout: post
-guid: 'http://fransimo.info/?p=7664'
-permalink: '/?p=7664'
+guid: http://fransimo.info/?p=7664
+permalink: /?p=7664
 categories:
-    - 'Calle 35'
+- Calle 35
 tags:
-    - lúdico
-    - turistas
+- lúdico
+- turistas
 draft: true
+description: A mediados de septiembre viajé al Encuentro Europeo de Photobloggers en Budapest. En estos encuentros charlamos mucho mientras andábamos y hacíamos fotografías.
 ---
 
 A mediados de septiembre viajé al <a href="http://europephotobloggers.org/">Encuentro Europeo de Photobloggers</a> en Budapest. En estos encuentros charlamos mucho mientras andábamos y hacíamos fotografías de alguna ciudad;  donde el anfitrión nos paseó por los lugares típicos.

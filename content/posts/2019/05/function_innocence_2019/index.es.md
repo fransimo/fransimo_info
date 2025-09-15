@@ -1,19 +1,20 @@
 ---
-author: "Fran Simó"
+author: Fran Simó
 categories:
-  - exhibits
-  - new media art
-date: "2019-05-26"
+- exhibits
+- new media art
+date: '2019-05-26'
 images:
-  - function_2019_innocence.png
+- function_2019_innocence.png
 tags:
-  - festival
-  - functionfest
-  - mallorca
+- festival
+- functionfest
+- mallorca
 title: function("innocence", 2019)
-description: 'Presenta el festival de arte digital («innocence», 2019) en Palma, donde se exponen obras interactivas de ocho artistas y se invita a participar en actuaciones, charlas e instalaciones.'
+description: En enero de 2019, un grupo de artistas digitales se reunió en el Centre Cultural Casa Planas. Como resultado, creamos el primer Festival de Arte Digital y.
 aliases: /es/blog/2019/05/26/functioninocencia-2019/
 ---
+
 ![function_2019_innocence.png](function_2019_innocence.png)
 
 En enero de 2019, un grupo de artistas digitales se reunió en el [Centre Cultural Casa Planas](http://www.casaplanas.org/). Como resultado, creamos el primer Festival de Arte Digital y Electrónico de Mallorca [function("inocencia", 2019)](http://2019.functionfest.com/en/function_home_eng/), que se hizo realidad durante dos días, entre el 24 y el 25 de mayo.

@@ -1,16 +1,17 @@
 ---
-title: 'Street photography con un iPhone'
+title: Street photography con un iPhone
 date: '2015-03-16'
-author: "Fran Simó"
-aliases:  /es/blog/2015/03/16/street-photography-con-un-iphone/
+author: Fran Simó
+aliases: /es/blog/2015/03/16/street-photography-con-un-iphone/
 images:
-  - IMG_2581_DxO-2.jpg
+- IMG_2581_DxO-2.jpg
 categories:
-- 'Calle 35'
+- Calle 35
 - photography
 tags:
-- iPhoneography 
+- iPhoneography
 - street photography
+description: La capacidad más destacable de los smartphones es que son “invisibles” y siempre están con nosotros. Para la mayoría de la gente el hecho de que todo sea.
 ---
 
 Una cámara es un conjunto de capacidades y limitaciones. La capacidad más destacable de los smartphones es que son “invisibles” y siempre están con nosotros. Para la mayoría de la gente el hecho de que todo sea automático también es una ventaja, pero para la fotografía de calle es una limitación.

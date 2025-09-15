@@ -1,12 +1,13 @@
 ---
-title: 'Postales olvidables, recuerdos en clave'
+title: Postales olvidables, recuerdos en clave
 date: '2010-04-07'
-author: "Fran Simó"
-aliases:  /es/blog/2010/04/07/postales-olvidables-recuerdos-en-clave/
+author: Fran Simó
+aliases: /es/blog/2010/04/07/postales-olvidables-recuerdos-en-clave/
 categories:
 - photography
 tags:
-    - phespaña
+- phespaña
+description: Lo curioso es que llevo toda la vida viajando con una cámara y aún no he comprendido muy bien la experiencia en su totalidad, ni emocional, ni fotográficamente.
 ---
 
 A los 6 años pedí para mi cumpleaños una bicicleta. A los 7 una cámara, fue una Kodak Brownie Fiesta. Ahora voy en moto y llevo una reflex digital. El sueño de viajar tampoco cambió. Lo curioso es que llevo toda la vida viajando con una cámara y aún no he comprendido muy bien la experiencia en su totalidad, ni emocional, ni fotográficamente.

@@ -1,15 +1,14 @@
 ---
-title: "Acerca de Pau Lluc"
-description: "Sobre Pau Lluc"
-date: "2023-12-31"
-author: "Fran Simó"
+title: Acerca de Pau Lluc
+description: Pau Lluc fue un seudónimo que utilicé el 2024 para _explorar el desapego, mantener la privacidad on-line y no condicionar la experiencia del masaje con mi.
+date: '2023-12-31'
+author: Fran Simó
 bookToc: false
 draft: true
 aliases:
-  - /acerca_de/
-  - /quien_soy/
+- /acerca_de/
+- /quien_soy/
 ---
-
 
 {{% columns %}}
 Pau Lluc fue un seudónimo que utilicé el 2024 para _explorar el desapego, mantener la privacidad on-line y no

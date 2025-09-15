@@ -1,15 +1,16 @@
 ---
 id: 7656
-title: 'San Sebastián, Barceloneta, 2009-2013'
+title: San Sebastián, Barceloneta, 2009-2013
 date: '2014-06-16T08:59:33+02:00'
-author: "Fran Simó"
+author: Fran Simó
 layout: post
-guid: 'http://fransimo.info/?p=7656'
-permalink: '/?p=7656'
+guid: http://fransimo.info/?p=7656
+permalink: /?p=7656
 categories:
-    - 'Calle 35'
-    - 'street photography'
+- Calle 35
+- street photography
 draft: true
+description: Hace unos días, en la euforia del lanzamiento de Revela-T , alguien me dijo “los nacidos digitales no entendéis nada”. No me lo tomé a mal, pero me dejó una.
 ---
 
 Hace unos días,  en la euforia del lanzamiento de <a href="http://revela-t.cat/">Revela-T</a>,  alguien me dijo “los nacidos digitales no entendéis nada”. No me lo tomé a mal, pero me dejó una luz roja de alerta en el subconsciente. Cuando empecé con la fotografía los transistores recién empezaban a ser reemplazados por los circuitos integrados, un montón de transistores juntos en una cajita negra, que acabarían siendo microprocesadores. Las únicas cámaras digitales de la época las tenía la NASA.

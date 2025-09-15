@@ -1,12 +1,13 @@
 ---
 id: 1835
-title: 'Store fronts'
+title: Store fronts
 date: '2013-06-03'
-author: "Fran Simó"
+author: Fran Simó
 images:
-  - 20101014_fran_simo_0007_Casa-Vega_KSC9003_Madrid-Store-Fronts.jpg
+- 20101014_fran_simo_0007_Casa-Vega_KSC9003_Madrid-Store-Fronts.jpg
 categories:
-  - photography
+- photography
+description: 2008-2012 En mi rutina de derivas siempre quedo atrapado por las "store fronts".
 ---
 
 2008-2012

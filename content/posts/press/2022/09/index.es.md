@@ -1,13 +1,27 @@
 ---
-date: "2022-09-29"
-title: "Nuevo festival en Alicante. Open Art Festival, quince nuevas miradas al arte contemporáneo"
+date: '2022-09-29'
+title: Nuevo festival en Alicante. Open Art Festival, quince nuevas miradas al arte contemporáneo
 categories:
-    - press
+- press
 created: 2025-03-08T14:49:24 (UTC +03:00)
-tags: [Alicante, Casa Planas, open art, festival, Las Cigarreras,Exposición,Residencias,charlas,talleres,Casa Bardín,arte contemporáneo,Consorcio de Museos]
+tags:
+- Alicante
+- Casa Planas
+- open art
+- festival
+- Las Cigarreras
+- Exposición
+- Residencias
+- charlas
+- talleres
+- Casa Bardín
+- arte contemporáneo
+- Consorcio de Museos
 source: https://www.informacion.es/cultura/2022/09/29/open-art-festival-quince-nuevas-76058431.html
 author: Cristina Martínez
+description: Más de **15 profesionales del sector artístico** para **nueve acciones** que se desarrollarán en diferentes centros culturales de la ciudad de Alicante.
 ---
+
 ![Lot Amoros drones](LotAmoros_drones.webp)
 
 Más de **15 profesionales del sector artístico** para **nueve acciones** que se desarrollarán en diferentes centros culturales de la ciudad de Alicante. Ese es el eje central de **ppt Open Art Festival,** primera edición de un encuentro que pretende poner sobre la mesa **nuevas visiones del arte contemporáneo**.

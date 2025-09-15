@@ -1,13 +1,14 @@
 ---
-title: 'Exhibition “De la red a la pared” (From web to wall)'
+title: Exhibition “De la red a la pared” (From web to wall)
 date: '2006-10-16'
-author: "Fran Simó"
-aliases:  /blog/2006/10/16/exposicion-de-la-red-a-la-pared/
+author: Fran Simó
+aliases: /blog/2006/10/16/exposicion-de-la-red-a-la-pared/
 images:
-  - DSC_1245_DxO.jpg
+- DSC_1245_DxO.jpg
 categories:
-- 'Barcelona Photobloggers'
+- Barcelona Photobloggers
 - exhibits
+description: In recent years, the phenomenon of photoblogs, an extension of the blog culture where photography is the center of attention, has been acquiring adepts on the.
 ---
 
 In recent years, the phenomenon of photoblogs, an extension of the blog culture where photography is the center of attention, has been acquiring adepts on the internet. Around this phenomenon, online communities in various cities around the world, Barcelona among them, have sprung up as a meeting place for the photobloggers.

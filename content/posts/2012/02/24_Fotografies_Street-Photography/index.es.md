@@ -1,14 +1,14 @@
 ---
 title: 'Fotografies: Street Photography'
-description: 'Relata la aparición del autor en el programa de televisión «Fotografies» junto a Tino Soriano, Eugeni Forcano, Paco Elvira y Rafa Pérez, en el que se habló sobre la fotografía callejera.'
+description: El 24 de febrero a las 21:45 el programa Fotografies del canal 33 emitió un especial de street photography para el que tuve la suerte de ser entrevistado.
 date: '2012-02-24'
-author: "Fran Simó"
-aliases:  /es/blog/2012/02/24/fotografies-street-photography/
+author: Fran Simó
+aliases: /es/blog/2012/02/24/fotografies-street-photography/
 images:
-  - 03_fotografies_fran_simo.png
+- 03_fotografies_fran_simo.png
 categories:
-    - press
-    - tv
+- press
+- tv
 ---
 
 El 24 de febrero a las 21:45 el programa Fotografies del canal 33 emitió un especial de street photography para el que tuve la suerte de ser entrevistado. Los compañeros de aventura son increíbles: 

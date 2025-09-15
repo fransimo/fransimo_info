@@ -1,10 +1,11 @@
 ---
-title: 'Fotografía intuitiva'
+title: Fotografía intuitiva
 date: '2009-01-01'
-author: "Fran Simó"
-aliases:  /es/blog/2009/01/01/fotografia-intuitiva/
+author: Fran Simó
+aliases: /es/blog/2009/01/01/fotografia-intuitiva/
 images:
-  - fotografia_intuitiva_dsc_2104.jpg
+- fotografia_intuitiva_dsc_2104.jpg
+description: _"El meramente curioso no tiene derecho… El Zen, como toda mística, será comprendido únicamente por un místico que… no sucumbirá a la tentación de obtener en.
 ---
 
 ![fotografia_intuitiva_dsc_2104.jpg](fotografia_intuitiva_dsc_2104.jpg)

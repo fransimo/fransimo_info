@@ -1,14 +1,15 @@
 ---
 title: 'Ciutat de vacances - Metrópolis - RTVE '
 date: '2017-09-27'
-author: "Fran Simó"
+author: Fran Simó
 draft: false
-tags: 
-  - Casa Planas
-  - Es Baluard
+tags:
+- Casa Planas
+- Es Baluard
 categories:
-    - press
-    - TV
+- press
+- TV
+description: 'A lo largo del capítulo, y de la mano de su comisaria, recorremos los proyectos de los artistas: Juan Aizpitarte, Ángela Bonadies, Domènech, Idensitat (Ramon.'
 ---
 
 > A lo largo del capítulo, y de la mano de su comisaria, recorremos los proyectos de los artistas: Juan Aizpitarte, Ángela Bonadies, Domènech, Idensitat (Ramon Parramon y Gaspar Maza), Left Hand Rotation, Ángel Marcos, Neus Marroig, Marc Morell, Ana A. Ochoa, Irene Pittatore, Marina Planas i Arxiu Planas y Miguel Trillo, a los que sumamos las valoraciones del antropólogo Marc Morel.

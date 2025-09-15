@@ -1,11 +1,12 @@
 ---
-title: 'fotometro.org en los medios'
+title: fotometro.org en los medios
 date: '2013-06-13T14:00:11+02:00'
-author: 'Barcelona Photobloggers'
-aliases:  /es/blog/2013/06/13/fotometro-org-en-los-medios/
+author: Barcelona Photobloggers
+aliases: /es/blog/2013/06/13/fotometro-org-en-los-medios/
 categories:
-    - 'Barcelona Photobloggers'
-    - press
+- Barcelona Photobloggers
+- press
+description: Los diarios El Periódico, La Vanguardia y El País han escrito artículos sobre el Circuit 2013 y todos ellos incluyen menciones al proyecto fotometro.
 ---
 
 Los diarios El Periódico, La Vanguardia y El País han escrito artículos sobre el <a href="http://circuitfotobarcelona.org/">Circuit 2013</a> y todos ellos incluyen menciones al proyecto <a href="http://fotometro.org/">fotometro.org</a>, con el que Barcelona Photobloggers participa en este festival dedicado a la fotografía documental y el fotoperiodismo.

@@ -1,17 +1,18 @@
 ---
-title: 'Uno más en "Calle 35"'
+title: Uno más en "Calle 35"
 date: '2011-03-07T10:23:57+01:00'
-author: "Fran Simó"
-aliases:  
-  - /es/blog/2011/03/07/calle-35/
-  - /blog/2011/03/07/calle-35/the-end-2/
+author: Fran Simó
+aliases:
+- /es/blog/2011/03/07/calle-35/
+- /blog/2011/03/07/calle-35/the-end-2/
 images:
-  - 13_fran_simo_0039_HSC_4074_dxo_New-York.jpg
+- 13_fran_simo_0039_HSC_4074_dxo_New-York.jpg
 categories:
-  - photography
-  - 'Calle 35'
+- photography
+- Calle 35
 tags:
-  - street photography
+- street photography
+description: Calle 35 es un colectivo cuya finalidad es divulgar y disfrutar la fotografía de calle. Formado inicialmente por Marcelo Caballero, Carlos Prieto, Rafa Pérez.
 ---
 
 Hoy [se hace oficial](http://calle35.com/nueva-incorporacion-a-calle-35-fran-simo/) mi incorporación al colectivo [Calle 35](http://calle35.com/).

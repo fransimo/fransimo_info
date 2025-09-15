@@ -1,16 +1,16 @@
 ---
 id: 8065
-title: 'Principios de Fotografía en la CampusMac 2007'
+title: Principios de Fotografía en la CampusMac 2007
 date: '2007-08-08T12:05:00+02:00'
-author: "Fran Simó"
-
-guid: 'https://fransimo.info/?p=8065'
+author: Fran Simó
+guid: https://fransimo.info/?p=8065
 aliases: /es/blog/2007/08/08/principios-de-fotografia-en-la-campusmac-2007/
 images:
-  - /es/var/log/2009/01/01/Fotografia-intuitiva/fotografia_intuitiva_dsc_2104.jpg
+- /es/var/log/2009/01/01/Fotografia-intuitiva/fotografia_intuitiva_dsc_2104.jpg
 categories:
-  - press
-  - charlas
+- press
+- charlas
+description: Los organizadores de la CampusMac invitaron a Barcelona Photobloggers a participar, y ahí estuve explicando las cuatro cosas que sé de fotografía.
 ---
 
 ![fotografia_intuitiva_dsc_2104.jpg](/var/log/2009/01/01/Intuitive-Photography/fotografia_intuitiva_dsc_2104.jpg)

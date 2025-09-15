@@ -1,11 +1,12 @@
 ---
 id: 1639
-title: 'Privacy policy'
+title: Privacy policy
 date: '2014-03-01T19:06:16+01:00'
-author: "Fran Simó"
+author: Fran Simó
 layout: page
-guid: 'http://fransimo.info/?page_id=1639'
+guid: http://fransimo.info/?page_id=1639
 draft: true
+description: The Personal Data may be freely provided by the User, or collected automatically when using this Application. Failure to provide certain Personal Data may make.
 ---
 
 <h2>Data Controller and Owner</h2>

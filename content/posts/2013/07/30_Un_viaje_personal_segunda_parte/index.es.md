@@ -1,19 +1,19 @@
 ---
 id: 7658
-title: 'Un viaje personal, segunda parte'
+title: Un viaje personal, segunda parte
 date: '2013-07-30T09:03:09+02:00'
-author: "Fran Simó"
-
-guid: 'http://fransimo.info/?p=7658'
+author: Fran Simó
+guid: http://fransimo.info/?p=7658
 aliases: /es/blog/2013/07/30/un-viaje-personal-segunda-parte/
 images:
-  - Untitled_Crowd_1_1992.jpg
+- Untitled_Crowd_1_1992.jpg
 categories:
-  - 'Calle 35'
-  - photography
+- Calle 35
+- photography
 tags:
-  - street photography
-  - Alexey Titarenko
+- street photography
+- Alexey Titarenko
+description: Desde que tuve en mis manos el libro Street Photography Now me pregunto ¿cómo es posible que convivan en él, bajo el título de street photography, Alexey.
 ---
 
 {{% columns %}}

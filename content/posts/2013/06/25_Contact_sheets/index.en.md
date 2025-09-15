@@ -1,11 +1,11 @@
 ---
-title: 'Contact Sheets'
-description: "Describes an AI project that creates large contact sheets of human faces from millions of online images, offering an open archive for exploration and reuse while reflecting on privacy."
+title: Contact Sheets
+description: You can also view the full contact sheets archive on contacts or Flickr. The archive is updated every time the system finds a sufficient number of new faces.
 date: '2013-06-25'
-author: "Fran Simó"
+author: Fran Simó
 aliases: /blog/2013/06/25/contact-sheets/
 images:
-  - i_dreamed_contacts_fran_simo_02_8e9b80952408ba7c47a32dcce7c04c0e.jpg
+- i_dreamed_contacts_fran_simo_02_8e9b80952408ba7c47a32dcce7c04c0e.jpg
 categories:
 - new media art
 tags:

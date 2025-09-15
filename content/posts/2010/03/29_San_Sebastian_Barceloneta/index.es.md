@@ -1,18 +1,18 @@
 ---
 id: 477
-title: 'San Sebastián, Barceloneta'
+title: San Sebastián, Barceloneta
 date: '2010-03-29T13:31:43+02:00'
-author: "Fran Simó"
-
-guid: 'http://fransimo.info/?p=477'
-aliases:  /es/blog/2010/03/29/san-sebastian-barceloneta/
+author: Fran Simó
+guid: http://fransimo.info/?p=477
+aliases: /es/blog/2010/03/29/san-sebastian-barceloneta/
 images:
-  - barceloneta_0001_000016.jpg
+- barceloneta_0001_000016.jpg
 bookTOC: false
 categories:
-  - photography
+- photography
 tags:
-  - phespaña
+- phespaña
+description: Dentro de las repetitivas actividades poco glamourosas, a diferencia de los viajes pasados por agua, estaban las actividades de Barcelona Photobloggers, entre.
 ---
 
 El verano pasado viajamos a New York. Pensé "¡Verano! ¡New York! ¡Coney Island!". Llevaba en la cabeza grabada una foto de Bruce Gilden. Pero no pudo ser, no hubo ni un día sin diluvio... y volvimos a casa, a la rutina. Dentro de las repetitivas actividades poco glamourosas, a diferencia de los viajes pasados por agua, estaban las actividades de Barcelona Photobloggers, entre ellas, impartir un curso de laboratorio blanco y negro; ordenar la casa y preguntarme qué hacer con los carretes caducados de blanco y negro; ir a trabajar, ir a la playa...

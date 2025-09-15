@@ -1,19 +1,20 @@
 ---
 id: 745
-title: 'Henri Cartier-Bresson marca registrada'
+title: Henri Cartier-Bresson marca registrada
 date: '2009-01-01T10:00:20+01:00'
-author: "Fran Simó"
-
-guid: 'http://fransimo.info/?p=745'
-aliases:  /es/blog/2009/01/01/henri-cartier-bresson-marca-registrada/
+author: Fran Simó
+guid: http://fransimo.info/?p=745
+aliases: /es/blog/2009/01/01/henri-cartier-bresson-marca-registrada/
 images:
-  - pepe_baeza.jpg
+- pepe_baeza.jpg
 categories:
-- 'Barcelona Photobloggers'
+- Barcelona Photobloggers
 - texts
 tags:
 - Henri Cartier-Bresson
+description: De camino a la charla pensaba «el pesado de Cartier-Bresson otra vez ¿no hay otro de quién hablar?» pero como el ponente era Pepe Baeza me anime a ir y valió.
 ---
+
 ![Ciclo de charlas "Iconos, maestros de la fotografía en imágenes": Pepe Baeza habla de Henri Cartier-Bresson](pepe_baeza.jpg)
 
 De camino a la [charla](http://barcelonaphotobloggers.org/2008/10/17/ciclo-de-charlas-iconos-maestros-de-la-fotografia-en-imagenes/) pensaba «el pesado de Cartier-Bresson otra vez ¿no hay otro de quién hablar?» pero como el ponente era Pepe Baeza me anime a ir y valió la pena, la ponencia fue amena y el tema me ha hecho revisar todo lo que pienso sobre fotografía.La fascinación que todo el mundo parece tener por Henri Cartier-Bresson me tiene harto. ¿La fotografía solo es un instante? [William Klein](http://www.masters-of-photography.com/K/klein/klein_boy_pointing_gun.html) decía la vida de un fotógrafo son unos segundos, la suma de cientos de instantes a 1/125s. ¿Cuántas fotografías llegas a conocer de un fotógrafo? Se preguntaba ¿Cuanto conoces de su vida 1 segundo, 2…?

@@ -1,18 +1,20 @@
 ---
 title: 'Influencias: Alexey Titarenko'
 date: '2012-05-07'
-author: "Fran Simó"
+author: Fran Simó
 aliases: /es/blog/2012/05/07/influencias-alexey-titarenko/
 images:
-  - 0026758.jpg
+- 0026758.jpg
 categories:
-  - 'Calle 35'
-  - photography
+- Calle 35
+- photography
 tags:
-  - street photography
-  - Krzysztof Kieślowski
-  - Alexey Titarenko
+- street photography
+- Krzysztof Kieślowski
+- Alexey Titarenko
+description: Tarde o temprano a todos los que amamos la street photography nos acaba llegando una copia de Street photography Now. El regalo me sacó una sonrisa y las.
 ---
+
 ![0026758.jpg](0026758.jpg)
 
 Tarde o temprano a todos los que amamos la street photography nos acaba llegando una copia
