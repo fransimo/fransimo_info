@@ -7,6 +7,7 @@ dateCreated: 2015
 artForm: Photograph
 schemaOrgType: VisualArtwork
 title: Traces (derivas personales)
+description: 'Describe una práctica de fotografía intuitiva en la que se deambula sin ruta fija, inspirada en la deriva de Guy Debord, capturando imágenes espontáneas para explorar paisajes subconscientes.'
 bookToc: false
 aliases: /blog/2015/03/15/traces-personal-drifts/
 categories:

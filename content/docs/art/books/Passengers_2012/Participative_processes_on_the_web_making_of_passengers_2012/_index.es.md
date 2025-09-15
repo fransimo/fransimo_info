@@ -9,6 +9,7 @@ categories:
 tags: 
   - street photography
 title: "Procesos participativos en red, cómo se hizo Passengers 2012"
+description: 'Describe cómo se creó Passengers 2012: fotógrafos móviles enviaron miles de imágenes a través de plataformas web, y los editores distinguieron entre procesos participativos y colaborativos para crear un libro cohesivo.'
 bookToc: false
 ---
 

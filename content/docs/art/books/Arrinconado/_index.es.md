@@ -10,6 +10,8 @@ schemaOrgType: Book
 tags:
   - Barcelona Photobloggers
 title: Arrinconado
+description: 'Presentamos Arrinconado, un fotolibro colaborativo de Barcelona Photobloggers que utiliza un proceso horizontal  
+basado en el cuento de Santiago Ambao.'
 ---
 # Arrinconado
 

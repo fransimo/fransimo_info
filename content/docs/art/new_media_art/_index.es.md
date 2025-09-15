@@ -1,7 +1,7 @@
 ---
 author: "Fran Simó"
 title: New media art
-description: 'New media art por Fran Simó'
+description: 'Descripción general del portafolio de arte de nuevos medios de Fran Simó, con instalaciones interactivas y proyectos que examinan la identidad, la vigilancia y la intimidad digital mediante la tecnología.'
 images:
   - IMG_5027-Editar-2.jpg
 categories:

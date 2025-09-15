@@ -6,6 +6,9 @@ dateCreated: 2025
 artForm: Photograph
 schemaOrgType: VisualArtwork
 title: Está en todos nosotros
+description: >
+    Explora la antigua conexión entre el arte y la magia a través de la investigación sobre las sibilas, las ninfas, 
+  las ménades y las prácticas intuitivas, reflexionando sobre cómo el arte evoca el misterio y los estados alterados.
 date: 2025-02-06
 bookToc: false
 aliases: /es/blog/2025/02/06/esta-en-todos-nosotros/

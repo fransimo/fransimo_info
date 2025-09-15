@@ -12,6 +12,9 @@ dateCreated: 2013
 schemaOrgType: Book
 isbn: 9781291576733
 title: Passengers 2012
+description: >
+  Presentamos Passengers 2012, el segundo volumen de un proyecto colaborativo de fotografía callejera con miles 
+  de imágenes de varios países, que ilustra cómo la fotografía móvil documenta nuestro tiempo.
 aliases: /es/blog/2013/11/16/passengers-2012/
 bookToc: false
 bookCollapseSection: true

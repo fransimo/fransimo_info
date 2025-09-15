@@ -1,6 +1,7 @@
 ---
 author: "Fran Simó"
 title: "Traces - 2013.12.07 - Barcelona"
+description: 'Presenta Traces 2013.12.07 – Barcelona, un proyecto participativo en el que siete fotógrafos deambulan por la ciudad siguiendo la deriva de Guy Debord para captar imágenes y sonidos que cartografían su psicogeografía.'
 date: "2014-05-02"
 bookToc: false
 dateCreated: 2014
@@ -21,8 +22,6 @@ tags:
 - Psychogeography
 - Stephen Shore
 - transmedia
-guid: https://fransimo.info/blog/2014/05/02/traces-2013-12-07-barcelona/
-id: 8978
 images:
   - all.png
 aliases: /es/blog/2014/05/02/traces-2013-12-07-barcelona/

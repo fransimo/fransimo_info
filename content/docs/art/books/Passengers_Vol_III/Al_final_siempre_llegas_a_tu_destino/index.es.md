@@ -9,6 +9,7 @@ categories:
 tags: 
   - street photography
 title: "Al final, siempre llegas a tu destino"
+description: 'Presenta «Al final siempre llegas a tu destino», que documenta a los pasajeros del transporte público y explora la incomodidad de mirar y ser mirado a través de una selección colaborativa de imágenes.'
 bookToc: false
 ---
 # Al final, siempre llegas a tu destino

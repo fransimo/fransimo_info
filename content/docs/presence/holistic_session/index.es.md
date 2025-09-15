@@ -1,6 +1,9 @@
 ---
 author: "Fran Simó"
 title: "Trabajo Corporal Holístico y Energía (Presencial o a Distancia)"
+description: >
+    Describe sesiones personalizadas que combinan masajes, meditación y técnicas energéticas 
+  para fomentar la relajación y la curación, ofrecidas en persona o en línea.
 linkTitle: "Trabajo corporal y energía"
 weight: 50
 date: 2024-01-01
@@ -21,11 +24,6 @@ serviceType: "Sesión de trabajo corporal holístico y energía"
 alternateName:
   - "Sesión holística (opción sin contacto)"
   - "Sesión remota de trabajo corporal y energía"
-description: >
-  Sesiones donde combino técnicas de masaje y energía (p. ej., meditación,
-  Shiatsu o Reiki) adaptándolas a cada persona. Pueden orientarse a la
-  relajación, la sanación o a una experiencia sensorial. La desnudez no es
-  necesaria; el contacto puede evitarse y también puede hacerse a distancia.
 areaServed: ["Palma", "Barcelona", "Estambul","Remote"]
 ---
 {{% columns %}}

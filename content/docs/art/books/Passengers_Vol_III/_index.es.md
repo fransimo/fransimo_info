@@ -9,7 +9,7 @@ tags:
 images:
   - Passengers_Vol_III.jpg
 title: Passengers Vol. III
-description: "Tercer y último libro de fotografía de la serie Passengers sobre los pasajeros del transporte público."
+description: Presentamos Passengers Vol. III, el último volumen de una trilogía colaborativa de fotografía callejera, que muestra 12 autores seleccionados entre miles de imágenes de pasajeros tomadas entre 2013 y 2015."
 bookToc: false
 bookCollapseSection: true
 schemaType: Book

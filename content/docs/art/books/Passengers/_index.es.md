@@ -13,6 +13,7 @@ dateCreated: 2011
 schemaOrgType: Book
 isbn: 9781471005312
 title: Passengers
+description: 'Presenta Passengers, un proyecto colaborativo de fotografía callejera en el que fotógrafos móviles capturan y comparten retratos en tiempo real de pasajeros en el transporte público, mostrando momentos contemplativos del viaje.'
 bookToc: false
 bookCollapseSection: true
 ---

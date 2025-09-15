@@ -1,5 +1,6 @@
 ---
 title: 'Shared Folder (Red box)'
+description: 'Describe Shared Folder, una obra que reúne fotografías compartidas inadvertidamente a través de redes peer-to-peer, invitando al público a explorar estas imágenes encontradas y reflexionar sobre la privacidad en la era digital.'
 date: '2016-05-07T19:51:21+02:00'
 author: "Fran Simó"
 aliases: /es/blog/2016/05/07/shared-folder-red-box/
