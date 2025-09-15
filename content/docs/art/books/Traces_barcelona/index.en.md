@@ -1,8 +1,8 @@
 ---
-author: "Fran Simó"
-title: "Traces - 2013.12.07 - Barcelona"
-description: "Presents Traces 2013.12.07 – Barcelona, a participatory project where seven photographers drift through the city using Guy Debord’s dérive to capture images and sounds that map its psychogeography."
-date: "2014-05-02"
+author: Fran Simó
+title: Traces - 2013.12.07 - Barcelona
+description: '2012-2014 Transmedia participative project: app, book collection, video and exhibition. Photobook / artist book; A visual narrative on urban life and anonymous.'
+date: '2014-05-02'
 bookToc: false
 dateCreated: 2014
 schemaOrgType: Book
@@ -12,20 +12,21 @@ categories:
 - photography
 tags:
 - Antoine D’Agata
-- Barcelona 
-- Debord 
-- dérive 
-- Ginsberg 
-- intuition 
-- psicogeográfico 
-- Psychogéographies 
-- Psychogeography 
-- Stephen Shore 
+- Barcelona
+- Debord
+- dérive
+- Ginsberg
+- intuition
+- psicogeográfico
+- Psychogéographies
+- Psychogeography
+- Stephen Shore
 - transmedia
 images:
-  - all.png
+- all.png
 aliases: /blog/2014/05/02/traces-2013-12-07-barcelona/
 ---
+
 ![DSCF1435.jpg](DSCF1435.jpg)
 
 # Traces - 2013.12.07 - Barcelona
