@@ -1,5 +1,6 @@
 ---
 title: 'flickrGrama 3030122090'
+description: 'Presenta flickrGrama 3030122090, un proyecto que crea mosaicos digitales a partir de imágenes de Flickr bajo licencia Creative Commons, explica mejoras algorítmicas e invita a participar.'
 date: '2008-11-23'
 author: "Fran Simó"
 images:

@@ -1,5 +1,6 @@
 ---
 title: 'Software factories'
+description: 'Presenta una serie fotográfica que documenta las “fábricas” de software contemporáneas donde se crean productos digitales, destacando el carácter industrial de los lugares de alta tecnología y sus historias humanas.'
 date: '2013-06-25'
 author: "Fran Simó"
 aliases: /es/blog/2013/06/25/software-factories/

@@ -1,5 +1,6 @@
 ---
 title: 'Fotografies: Street Photography'
+description: 'Relata la aparición del autor en el programa de televisión «Fotografies» junto a Tino Soriano, Eugeni Forcano, Paco Elvira y Rafa Pérez, en el que se habló sobre la fotografía callejera.'
 date: '2012-02-24'
 author: "Fran Simó"
 aliases:  /es/blog/2012/02/24/fotografies-street-photography/

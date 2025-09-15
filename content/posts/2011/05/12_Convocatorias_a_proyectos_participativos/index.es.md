@@ -1,5 +1,6 @@
 ---
 title: 'Convocatorias a proyectos participativos en red para instituciones culturales establecidas: ideas básicas'
+description: 'Reflexiona sobre la organización de proyectos fotográficos participativos para instituciones culturales, ofreciendo pautas para fijar objetivos claros, fomentar la participación comunitaria e integrar plataformas digitales.'
 date: '2011-05-12'
 author: "Fran Simó"
 aliases:  /es/blog/2011/05/12/convocatorias-a-proyectos-participativos-en-red-para-instituciones-culturales-establecidas-ideas-basicas/

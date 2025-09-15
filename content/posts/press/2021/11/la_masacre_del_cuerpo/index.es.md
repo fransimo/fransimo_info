@@ -1,5 +1,6 @@
 ---
 title: 'Exposición: La masacre del cuerpo'
+description: 'Reseña una exposición de videoarte en la que Fran Simó, Francisca Trobok y el Colectivo Fantasía Collage reflexionan sobre los cuerpos poscapitalistas y deconstruyen las normas falocéntricas para imaginar encarnaciones liberadas y poéticas.'
 date: '2021-10-03'
 author: 'Fran Simó'
 categories:
