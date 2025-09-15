@@ -11,8 +11,11 @@ categories:
 tags:
 - Barcelona
 - art book
+- poble nou
 schemaType: Book
-description: "2000–2009 Self-published book, 21×29 cm, 26 pages, colour laser printing on recycled paper, hand-bound. Photobook/artist's book."
+description: >
+  2000–2009 Self-published book, 21×29 cm, 26 pages, colour laser printing on recycled paper, hand-bound. 
+  Photobook/artist's book. Urban transformation Poble nou. 
 author:
   "@type": Person
   name: "Fran Simó"

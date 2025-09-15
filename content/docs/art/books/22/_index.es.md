@@ -11,8 +11,11 @@ categories:
 tags:
 - Barcelona
 - art book
+- poble nou
 schemaType: Book
-description: 2000-2009 Libro Autoedición, 21×29 cm, 26 páginas, impresión laser color sobre papel reciclado, encuadernación manual. Fotolibro / libro de artista.
+description: >
+  2000-2009 Libro Autoedición, 21×29 cm, 26 páginas, impresión laser color sobre papel reciclado, 
+  encuadernación manual. Fotolibro / libro de artista. Transformación urbana Poble nou.
 author:
   '@type': Person
   name: Fran Simó
