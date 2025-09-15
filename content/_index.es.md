@@ -2,7 +2,7 @@
 title: Arte, presencia y código.
 type: docs
 bookToc: false
-description: Explorando arte, magia y tecnología como prácticas transformadoras en un viaje interior y exterior.
+description: La obra de Fran Simó es un viaje espiritual donde el arte de new media se encuentra con la magia y la sanación energética. Instalaciones, libros y fotografía junto a sesiones de Tameana y biodinámica craneosacral en Barcelona, Estambul y online.
 tags:
   - arte contemporaneo
   - new media
