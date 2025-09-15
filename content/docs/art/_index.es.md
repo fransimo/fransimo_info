@@ -1,11 +1,12 @@
 ---
 weight: 1
-date: "2017-04-02T18:52:55Z"
-author: "Fran Simó"
+date: '2017-04-02T18:52:55Z'
+author: Fran Simó
 bookFlatSection: false
 bookCollapseSection: false
 bookToc: false
-title: "Art"
+title: Arte
+description: Resumen del portfolio de arte multimedia, libros y fotografía de Fran Simó.
 ---
 
 # New media art [+](new_media_art)
@@ -33,9 +34,9 @@ title: "Art"
 
 {{% /columns %}}
 
-All [New media art](new_media_art) works.
+Todos los trabajos de [New media art](new_media_art).
 
-# Books & zines [+](books)
+# Libros & fanzines [+](books)
 
 {{% columns %}}
 
@@ -61,9 +62,9 @@ All [New media art](new_media_art) works.
 
 {{% /columns %}}
 
-All [books here](books).
+Todos los [libros aquí](books).
 
-# Photography [+](photography)
+# Fotografía [+](photography)
 
 {{% columns %}}
 
@@ -89,5 +90,5 @@ All [books here](books).
 
 {{% /columns %}}
 
-All [photography](photography) works.
+Todos los trabajos de [fotografía](photography) works.
 
