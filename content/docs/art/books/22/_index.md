@@ -12,7 +12,7 @@ tags:
 - Barcelona
 - art book
 schemaType: Book
-description: "22′s pictures are fragments of calm between two eras, two development models: the industrial model and the knowledge one."
+description: "2000–2009 Self-published book, 21×29 cm, 26 pages, colour laser printing on recycled paper, hand-bound. Photobook/artist's book."
 author:
   "@type": Person
   name: "Fran Simó"
