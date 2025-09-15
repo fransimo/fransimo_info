@@ -1,19 +1,19 @@
 ---
-author: "Fran Simó"
+author: Fran Simó
 date: 2011-12-20
 categories:
 - photography
 - books, zines and so
 - Barcelona Photobloggers
-tags: 
-- street photography 
+tags:
+- street photography
 images:
-  - passengers.jpg
+- passengers.jpg
 dateCreated: 2011
 schemaOrgType: Book
 isbn: 9781471005312
 title: Passengers
-description: 'Presenta Passengers, un proyecto colaborativo de fotografía callejera en el que fotógrafos móviles capturan y comparten retratos en tiempo real de pasajeros en el transporte público, mostrando momentos contemplativos del viaje.'
+description: Presenta Passengers, un proyecto colaborativo de fotografía callejera en el que fotógrafos móviles capturan y comparten retratos en tiempo real de pasajeros en el transporte público, representando momentos contemplativos del viaje.
 bookToc: false
 bookCollapseSection: true
 ---
