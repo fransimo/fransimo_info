@@ -3,7 +3,7 @@ author: "Fran Simó"
 title: "Trabajo Corporal Holístico y Energía (Presencial o a Distancia)"
 description: >
     Describe sesiones personalizadas que combinan masajes, meditación y técnicas energéticas 
-  para fomentar la relajación y la curación, ofrecidas en persona o en línea.
+    para fomentar la relajación y la curación, ofrecidas en persona o en línea.
 linkTitle: "Trabajo corporal y energía"
 weight: 50
 date: 2024-01-01
