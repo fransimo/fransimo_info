@@ -4,7 +4,7 @@ title: 'He soñado con un ser humano'
 date: '2012-09-13'
 author: "Fran Simó"
 description: >
-  Regalos "I dreamed about a human being"I dreamed about a human being, una investigación artística que
+  "I dreamed about a human being" es una investigación artística que
   intenta abordar cuestiones sobre la identidad, la privacidad, el creciente poder computacional 
   y la difusión de algoritmos increíblemente potentes disponibles para su uso gratuito.
 aliases: /es/blog/2012/09/13/i-dreamed-about-a-human-being/
