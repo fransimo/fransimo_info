@@ -1,5 +1,8 @@
 ---
 title: '22.2'
+description: >
+  2000-2014 Fanzine, 24 pages is 19×13,4cm printed en matt coated paper of 170gr.
+  Photobook/artist's book. Urban transformation Poble nou. 
 date: '2015-04-23'
 author: "Fran Simó"
 aliases: /blog/2015/04/23/22-2/
