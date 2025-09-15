@@ -1,14 +1,14 @@
 ---
 title: 'Fotografies: Street Photography'
-description: 'Recounts the author’s appearance on the TV programme “Fotografies” with Tino Soriano, Eugeni Forcano, Paco Elvira and Rafa Perez discussing street photography.'
+description: On February 24 at 21:45, Fotografies program on ‘channel 33’ showed a special on street photography for which I had the luck of getting interviewed.
 date: '2012-02-24'
-author: "Fran Simó"
-aliases:  /blog/2012/02/24/fotografies-street-photography/
+author: Fran Simó
+aliases: /blog/2012/02/24/fotografies-street-photography/
 images:
-  - 03_fotografies_fran_simo.png
+- 03_fotografies_fran_simo.png
 categories:
-    - press
-    - tv
+- press
+- tv
 ---
 
 On February 24 at 21:45, Fotografies program on ‘channel 33’ showed a special on street photography for which I had the luck of getting interviewed. 

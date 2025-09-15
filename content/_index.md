@@ -2,7 +2,7 @@
 title: Art, presence and code.
 type: docs
 bookToc: false
-description: Exploring art, magic, and technology as transformative practices in an inner and outer journey.
+description: Fran Simó’s work is a spiritual journey where new-media art meets magic and energetic healing. Installations, books and photography live alongside Tameana and craniosacral sessions in Barcelona, Istanbul and online.
 tags:
   - contemporary art
   - new media

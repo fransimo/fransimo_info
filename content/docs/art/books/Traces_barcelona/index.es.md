@@ -1,8 +1,8 @@
 ---
-author: "Fran Simó"
-title: "Traces - 2013.12.07 - Barcelona"
-description: 'Presenta Traces 2013.12.07 – Barcelona, un proyecto participativo en el que siete fotógrafos deambulan por la ciudad siguiendo la deriva de Guy Debord para captar imágenes y sonidos que cartografían su psicogeografía.'
-date: "2014-05-02"
+author: Fran Simó
+title: Traces - 2013.12.07 - Barcelona
+description: '2012-2014 Proyecto transmedia participativo: app, libros, video y exposición. Fotolibro / libro de artista; Relato visual sobre la vida urbana y los.'
+date: '2014-05-02'
 bookToc: false
 dateCreated: 2014
 schemaOrgType: Book
@@ -23,9 +23,10 @@ tags:
 - Stephen Shore
 - transmedia
 images:
-  - all.png
+- all.png
 aliases: /es/blog/2014/05/02/traces-2013-12-07-barcelona/
 ---
+
 ![DSCF1435.jpg](DSCF1435.jpg)
 
 # Traces - 2013.12.07 - Barcelona

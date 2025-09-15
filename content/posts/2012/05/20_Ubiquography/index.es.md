@@ -1,17 +1,19 @@
 ---
-title: 'Ubiquography a real-time world-wide mobile photography exhibition'
+title: Ubiquography a real-time world-wide mobile photography exhibition
 date: '2012-05-20'
-author: "Fran Simó"
+author: Fran Simó
 images:
-  - ubiquography.png
+- ubiquography.png
 categories:
-  - photography
-  - press
-  - new media art
-  - Barcelona Photobloggers
+- photography
+- press
+- new media art
+- Barcelona Photobloggers
 tags:
-  - Ubiquography
+- Ubiquography
+description: 'Ubiquography es una exposición que busca hacer reflexionar sobre **los rasgos que definen la fotografía móvil: ubicuidad e inmediatez**.'
 ---
+
 ![ubiquography.png](ubiquography.png)
 
 Ubiquography es una exposición que busca hacer reflexionar sobre **los rasgos que definen la fotografía móvil: ubicuidad e inmediatez**.

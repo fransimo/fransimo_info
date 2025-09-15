@@ -24,7 +24,7 @@ tags:
 - art book
 title: Shared Folder (Red box) v'21
 description: >
-  Highlights Shared Folder v.21, a project using found photographs from peer‑to‑peer 
+  Shared Folder v.21 is a project using found photographs from peer‑to‑peer 
   networks to expose how private images circulate online and to provoke dialogue about digital privacy.
 aliases: /blog/2021/05/21/shared-folder-red-box-v21/
 ---

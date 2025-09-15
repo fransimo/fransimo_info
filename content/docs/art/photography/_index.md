@@ -1,6 +1,7 @@
 ---
 author: "Fran Simó"
 title: Photography
+description: Fran Simó's photographic projects
 images:
   - X1V16641.jpg
 bookFlatSection: false

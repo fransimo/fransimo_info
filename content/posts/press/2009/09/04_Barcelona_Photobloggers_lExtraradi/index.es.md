@@ -1,11 +1,13 @@
 ---
-title: "Barcelona Photobloggers a l'Extraradi de COM Ràdio"
+title: Barcelona Photobloggers a l'Extraradi de COM Ràdio
 date: '2009-09-04T09:36:38+02:00'
-author: "Fran Simó"
-aliases:  /ca/blog/2009/09/04/barcelona-photobloggers-a-lextraradi-de-com-radio/
+author: Fran Simó
+aliases: /ca/blog/2009/09/04/barcelona-photobloggers-a-lextraradi-de-com-radio/
 categories:
-    - press
+- press
+description: '") Ahir ens van convidar a l'' Extraradi , el programa de les tardes de COM Ràdio .'
 ---
+
 ![El equipo de extraradi y Barcelona Photobloggers (foto Marcelo Aurelio)](IMG_4778-crop-500-cross-sat.jpg "El equipo de extraradi y Barcelona Photobloggers (foto Marcelo Aurelio)")
 
 <audio class="player" controls preload="none" src="Extraradi_03_09_2009_barcelonaphotobloggers.es.mp3" type="audio/mp3"></audio>

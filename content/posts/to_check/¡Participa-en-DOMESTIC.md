@@ -1,17 +1,18 @@
 ---
 id: 7597
-title: '¡Participa en DOMESTIC!'
+title: ¡Participa en DOMESTIC!
 date: '2010-04-07T19:01:14+02:00'
-author: "Fran Simó"
+author: Fran Simó
 layout: post
-guid: 'http://fransimo.info/?p=7597'
-permalink: '/?p=7597'
+guid: http://fransimo.info/?p=7597
+permalink: /?p=7597
 categories:
-    - 'Barcelona Photobloggers'
-    - press
+- Barcelona Photobloggers
+- press
 tags:
-    - DOMESTIC
+- DOMESTIC
 draft: true
+description: DOMESTIC es una exposición de fotografía organizada por la Fundación Photographic Social Vision que nos interroga sobre la naturaleza del espacio doméstico.
 ---
 
 <img src="http://fransimo.info/wp-content/uploads/2010/04/domestic.jpg" alt="" title="DOMESTIC 2010" width="500" height="77" class="alignnone size-full wp-image-2954" />

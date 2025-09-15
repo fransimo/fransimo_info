@@ -1,13 +1,15 @@
 ---
 title: '"inside Out" de Fran Simó y Benjamín Julve'
 date: '2007-04-19'
-author: "Fran Simó"
-aliases:  /es/blog/2007/04/19/inside-out-de-fran-simo-y-benjamin-julve/
+author: Fran Simó
+aliases: /es/blog/2007/04/19/inside-out-de-fran-simo-y-benjamin-julve/
 images:
-  - insideout_benjamin_julve_fran_simo_01_untitled-1-copy.jpg
+- insideout_benjamin_julve_fran_simo_01_untitled-1-copy.jpg
 categories:
-    - exhibits
+- exhibits
+description: Las fotografías de inside Out desnudan dos mundos interiores. Los caminos escogidos por los autores se dividen al elegir las formas y los elementos del.
 ---
+
 ![insideout_benjamin_julve_fran_simo_01_untitled-1-copy.jpg](insideout_benjamin_julve_fran_simo_01_untitled-1-copy.jpg)
 
 Las fotografías de [inside Out](http://i-o-p.es/) desnudan dos mundos interiores. Los caminos escogidos por los autores se dividen al elegir las formas y los elementos del lenguaje fotográfico. En el exterior, la búsqueda se hace en las grandes estructuras. En el interior en las pequeñas cosas de cada día. Reuniéndose en líneas de composición semejantes que crean parejas contrapuestas.

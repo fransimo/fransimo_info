@@ -1,15 +1,16 @@
 ---
-title: 'flickrGrama 3030122090'
-description: 'Presenta flickrGrama 3030122090, un proyecto que crea mosaicos digitales a partir de imágenes de Flickr bajo licencia Creative Commons, explica mejoras algorítmicas e invita a participar.'
+title: flickrGrama 3030122090
+description: 'Este es un proyecto en el que estoy trabajando llamado **flickrGramas**. Las mejoras futuras incluyen: 1) Usar solo imágenes permitidas por licencias Creative.'
 date: '2008-11-23'
-author: "Fran Simó"
+author: Fran Simó
 images:
-  - flickrGrama_3049300655_461362df67_b.jpg
+- flickrGrama_3049300655_461362df67_b.jpg
 categories:
 - new media art
 tags:
 - flickrGramas
 ---
+
 ![3049300655_461362df67_b.jpg](3049300655_461362df67_b.jpg)
 
 [Rainy Day](http://www.flickr.com/photos/summerfeelings/3030122090/) como flickrGrama.

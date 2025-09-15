@@ -1,20 +1,21 @@
 ---
-author: "Fran Simó"
+author: Fran Simó
 date: 2019-05-29
 categories:
-  - new media art
-  - books, zines and so
+- new media art
+- books, zines and so
 tags:
-  - non creative writing
-  - open source
-  - ready made
-  - fanzine 
+- non creative writing
+- open source
+- ready made
+- fanzine
 images:
-  - susurros3.png
+- susurros3.png
 dateCreated: 2019
 schemaOrgType: Book
 title: Susurros
 bookCollapseSection: false
+description: 'Edición de los subtítulos con licencia open source de la película Ghost in the Shell: Innocence. Fotolibro / libro de artista.'
 ---
 
 ![susurros3.png](susurros3.png)

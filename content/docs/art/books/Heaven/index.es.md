@@ -1,21 +1,25 @@
 ---
-author: "Fran Simó"
-date: "2017-11-10"
+author: Fran Simó
+date: '2017-11-10'
 images:
-  - 09_03_fransimo_dde82e215088f6430c7a8a5e7a3c4542.jpg
+- 09_03_fransimo_dde82e215088f6430c7a8a5e7a3c4542.jpg
 dateCreated: 2017
 schemaOrgType: Book
 categories:
 - photography
 - books, zines and so
-tags: 
-- street photography 
+tags:
+- street photography
 - art book
 - dummy
 title: Heaven
 aliases: /blog/2017/11/10/heaven/
 bookToc: false
+description: >
+  2010-2017. Fotolibro / libro de artista. 
+  Pasajeros del transporte público.
 ---
+
 {{% columns %}}
 ![](09_03_fransimo_dde82e215088f6430c7a8a5e7a3c4542.jpg)
 <--->

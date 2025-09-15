@@ -1,5 +1,6 @@
 ---
 title: 'Es lloga (Se alquila)'
+description: 'Serie fotográfica sobre escaparates cerrados como mapa humano de la crisis —sueños «en alquiler»— que sopesa el impulso creativo del capitalismo frente a la codicia desenfrenada.'
 date: '2010-02-23'
 author: "Fran Simó"
 images:

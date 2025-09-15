@@ -1,11 +1,11 @@
 ---
-author: "Fran Simó"
+author: Fran Simó
 categories:
 - new media art
 - NFT
-date: "2021-07-31T10:43:05Z"
+date: '2021-07-31T10:43:05Z'
 images:
-  - 20210617_r049_3_700px.png
+- 20210617_r049_3_700px.png
 dateCreated: 2021
 artForm: NFT
 schemaOrgType: VisualArtwork
@@ -24,10 +24,13 @@ tags:
 - software
 - spirituality
 title: God is in the bugs (Dios está en los «bugs»)
-
 aliases: /es/blog/2021/07/31/god-is-in-the-bugs/
 bookToc: false
+description: >
+    God is in the _bugs_: cualquier evolución biológica real es la consecuencia de un error en la copia del ADN. 
+    Proyecto de new media art que trabaja con datos.
 ---
+
 # God is in the bugs (Dios está en los «bugs»)
 {{% details title="Technical details" open=true %}}
 ````

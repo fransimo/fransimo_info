@@ -1,9 +1,9 @@
 ---
 title: 'Calls for participative projects online for established cultural institutions: basic ideas'
-description: "Reflects on organising participative photography projects for cultural institutions, offering guidelines on setting clear objectives, fostering community involvement and integrating digital platforms."
+description: Last week a cultural center in Barcelona contacted me to get ideas regarding a project. We spoke for a few hours and I told them about my experience with.
 date: '2011-05-12'
-author: "Fran Simó"
-aliases:  /blog/2011/05/12/convocatorias-a-proyectos-participativos-en-red-para-instituciones-culturales-establecidas-ideas-basicas/
+author: Fran Simó
+aliases: /blog/2011/05/12/convocatorias-a-proyectos-participativos-en-red-para-instituciones-culturales-establecidas-ideas-basicas/
 ---
 
 Last week a cultural center in Barcelona contacted me to get ideas regarding a project. We spoke for a few hours and I told them about my experience with Barcelona Photobloggers as far as organizing participative photographic projects. At the end, I had the feeling that this talk could help other centers so I decided to publish it, hoping that the quantity of calls for participative projects would increase, and above all, so would the quantity of participants.

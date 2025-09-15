@@ -1,16 +1,16 @@
 ---
-author: "Fran Simó"
-title: "Recursos para explorar el Tantra"
-description: "Recursos para explorar el Tantra, facilitadores, películas y algún libro."
+author: Fran Simó
+title: Recursos para explorar el Tantra
+description: Para quienes están comenzando, me gusta recomendar un "Tantra para todos". Cada facilitador tiene su propio enfoque, pero suelen ser encuentros más cortos e.
 date: 2024-07-05
 categories:
-  - massage
-  - presence
-tags: 
-  - tantra
+- massage
+- presence
+tags:
+- tantra
 draft: false
 aliases:
-  - /post/recursos_aprendizaje/
+- /post/recursos_aprendizaje/
 ---
 
 A menudo me preguntan sobre el Tantra: ¿qué es?, ¿por dónde empezar? El Tantra es una experiencia que debe vivirse en el cuerpo. Para quienes están comenzando, me gusta recomendar un "Tantra para todos". Cada facilitador tiene su propio enfoque, pero suelen ser encuentros más cortos e introductorios.

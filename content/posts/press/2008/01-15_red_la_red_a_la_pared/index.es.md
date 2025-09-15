@@ -1,13 +1,14 @@
 ---
-title: 'Exposición "De la red a la pared II"'
+title: Exposición "De la red a la pared II"
 date: '2008-01-15T08:53:23+01:00'
-author: "Fran Simó"
-aliases:  /es/blog/2008/01/15/exposicion-de-la-red-a-la-pared-ii/
+author: Fran Simó
+aliases: /es/blog/2008/01/15/exposicion-de-la-red-a-la-pared-ii/
 images:
-  - marcelo_aurelio_de_la_red_a_la_pared_ii_20160213_009.jpg
+- marcelo_aurelio_de_la_red_a_la_pared_ii_20160213_009.jpg
 categories:
-    - 'Barcelona Photobloggers'
-    - exhibits
+- Barcelona Photobloggers
+- exhibits
+description: Barcelona Photobloggers sale de nuevo del mundo online para presentar su segunda exposición colectiva bajo el título "De la red a la pared II" el 17 de enero a.
 ---
 
 ![200invitacion-bcn-photobloggers.jpg](200invitacion-bcn-photobloggers.jpg)

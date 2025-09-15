@@ -1,13 +1,14 @@
 ---
 title: 'Exposición: De la red a la pared'
 date: '2006-10-16'
-author: "Fran Simó"
-aliases:  /es/blog/2006/10/16/exposicion-de-la-red-a-la-pared/
+author: Fran Simó
+aliases: /es/blog/2006/10/16/exposicion-de-la-red-a-la-pared/
 images:
-  - DSC_1245_DxO.jpg
+- DSC_1245_DxO.jpg
 categories:
-- 'Barcelona Photobloggers'
+- Barcelona Photobloggers
 - exhibits
+description: El fenómeno de los fotoblogs, una extensión de la cultura blog en la que la fotografía es el centro de interés, ha ido ganando adeptos en internet en los.
 ---
 
 El fenómeno de los fotoblogs, una extensión de la cultura blog en la que la fotografía es el centro de interés, ha ido ganando adeptos en internet en los últimos años. Alrededor de este fenómeno han ido apareciendo comunidades online en varias ciudades del mundo, entre ellas Barcelona, que pretenden ser un lugar de encuentro para los fotobloguers.

@@ -1,13 +1,15 @@
 ---
-title: 'Fotografiar del natural por Henri Cartier-Bresson'
+title: Fotografiar del natural por Henri Cartier-Bresson
 date: '2008-12-31'
-author: "Fran Simó"
-aliases:  /es/blog/2008/12/31/fotografiar-del-natural-por-henri-cartier-bresson/
+author: Fran Simó
+aliases: /es/blog/2008/12/31/fotografiar-del-natural-por-henri-cartier-bresson/
 categories:
-- 'Barcelona Photobloggers'
+- Barcelona Photobloggers
 tags:
 - Henri Cartier-Bresson
+description: Desde sus orígenes la fotografía no ha cambiado salvo en sus aspectos técnicos, lo que, en mi opinión, no tiene mayor importancia.
 ---
+
 Desde sus orígenes la fotografía no ha cambiado salvo en sus aspectos técnicos, lo que, en mi opinión, no tiene mayor importancia.
 
 La fotografía parece una actividad fácil; es una operación diversa y ambigua en la que el único denominador común entre los que la practican es la herramienta que se usa. Lo que sale de esa cámara no es ajeno a la economía de un mundo de despilfarro, donde las tensiones son cada vez más intensas y donde las consecuencias ecológicas son ya desmesuradas.

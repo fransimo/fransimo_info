@@ -1,12 +1,12 @@
 ---
-title: 'Contact Sheets'
-description: 'Describe un proyecto de IA que crea grandes hojas de contacto de rostros humanos a partir de millones de imágenes en línea, ofreciendo un archivo abierto para la exploración y reutilización mientras reflexiona sobre la privacidad.'
+title: Contact Sheets
+description: Como parte de mi investigación en Inteligencia Artificial, creé estas hojas de contacto con los rostros que detecta el algoritmo.
 date: '2013-06-25'
-author: "Fran Simó"
-guid: 'https://fransimo.info/blog/2013/06/25/contact-sheets/'
+author: Fran Simó
+guid: https://fransimo.info/blog/2013/06/25/contact-sheets/
 aliases: /es/blog/2013/06/25/contact-sheets/
 images:
-  - i_dreamed_contacts_fran_simo_02_8e9b80952408ba7c47a32dcce7c04c0e.jpg
+- i_dreamed_contacts_fran_simo_02_8e9b80952408ba7c47a32dcce7c04c0e.jpg
 categories:
 - new media art
 tags:

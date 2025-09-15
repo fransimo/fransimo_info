@@ -1,8 +1,9 @@
 ---
-title: 'Photoblogging'
+title: Photoblogging
 date: '2010-04-12'
-author: "Fran Simó"
+author: Fran Simó
 aliases: /blog/2010/04/12/fotoblogueando-photoblogging/
+description: In 2002, the lab where I used to have my film developed reduced the price of ‘developing to CD’ and I started asking for the digital medium.
 ---
 
 In 2002, the lab where I used to have my film developed reduced the price of ‘developing to CD’ and I started asking for the digital medium. By the beginning of 2003 I’d already decided to give paper up.

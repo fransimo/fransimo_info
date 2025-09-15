@@ -1,15 +1,16 @@
 ---
 weight: 1
-date: "2017-04-02"
-author: "Fran Simó"
+date: '2017-04-02'
+author: Fran Simó
 bookFlatSection: false
 bookCollapseSection: false
 bookToc: false
-title: "Statement"
-description: "Artist Statement de Fran Simo"
-aliases: 
-  - /es/statement/
+title: Statement
+description: "Statement artístico de Fran Simó"
+aliases:
+- /es/statement/
 ---
+
 # Artist's statement
 
 Como artista en el ámbito del [arte new media](https://en.wikipedia.org/wiki/New_media_art) exploro la relación entre hombre y tecnología, poniendo especial atención al área multidisciplinaria de la inteligencia artificial y sus aplicaciones (en lo que se refiere a nuestro sentido de conciencia y vida), las posibilidades del código abierto (open source/hardware), los bancos de datos abiertos o la información que cualquier usuario comparte por error.

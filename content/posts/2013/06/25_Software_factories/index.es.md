@@ -1,11 +1,11 @@
 ---
-title: 'Software factories'
-description: 'Presenta una serie fotográfica que documenta las “fábricas” de software contemporáneas donde se crean productos digitales, destacando el carácter industrial de los lugares de alta tecnología y sus historias humanas.'
+title: Software factories
+description: Puede que te vengan a la mente algunas imágenes icónicas de Lewis W. Yo capturo los espacios donde trabajo como ingeniero de software.
 date: '2013-06-25'
-author: "Fran Simó"
+author: Fran Simó
 aliases: /es/blog/2013/06/25/software-factories/
 images:
-  - software_factories_fran_simo_01_FSC_7246.jpg
+- software_factories_fran_simo_01_FSC_7246.jpg
 categories:
 - photography
 ---

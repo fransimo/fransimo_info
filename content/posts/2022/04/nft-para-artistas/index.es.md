@@ -1,9 +1,11 @@
 ---
-title: 'NFTs para artistas'
+title: NFTs para artistas
 date: '2022-04-06T14:13:05+02:00'
-author: "Fran Simó"
+author: Fran Simó
 draft: false
+description: “NFTs para Artistas” son unas charlas que organizamos en conjunto con Casa Planas y en con la colaboración de varios artistas, comisarios y galerías para poder.
 ---
+
 “NFTs para Artistas” son unas charlas que organizamos en conjunto con [Casa Planas](http://www.casaplanas.org/) y en con la colaboración de varios artistas, comisarios y galerías para poder abrir un debate y crear comunidad para juntos acercarnos a la tecnología de los NFTs. Todos los eventos de la serie serán gratuitos.
 
 El **primer encuentro será el 27 de abril a las 19:00**.

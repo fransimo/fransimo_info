@@ -1,16 +1,18 @@
 ---
-title: 'Un viaje personal'
+title: Un viaje personal
 date: '2013-03-25'
-author: "Fran Simó"
-aliases:  /es/blog/2013/03/25/un-viaje-personal/
+author: Fran Simó
+aliases: /es/blog/2013/03/25/un-viaje-personal/
 images:
-  - fransimo_calle35_que_es_street_640px.jpg
+- fransimo_calle35_que_es_street_640px.jpg
 categories:
-  - 'Calle 35'
-  - photography
+- Calle 35
+- photography
 tags:
-  - street photography
+- street photography
+description: Hace unas semanas, seleccionando fotos para el fotoblog, me encontré con esta pareja de imágenes. Me pareció interesante hacer una serie de entradas con las.
 ---
+
 ![fransimo_calle35_que_es_street_640px.jpg](fransimo_calle35_que_es_street_640px.jpg)
 
 Hace unas semanas, seleccionando fotos para el fotoblog, me encontré con esta pareja de imágenes. Me pareció interesante hacer una serie de entradas con las dudas que tengo durante los procesos de edición. Aunque al final dejo alguna certeza, la mayoría son interrogantes.

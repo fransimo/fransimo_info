@@ -1,11 +1,12 @@
 ---
-title: 'El problema del viajante de comercio, heurística basada georeferencias, 1996-1998'
+title: El problema del viajante de comercio, heurística basada georeferencias, 1996-1998
 date: '2011-11-02'
-author: "Fran Simó"
+author: Fran Simó
 aliases: /es/blog/2011/11/02/el-problema-del-viajante-de-comercio/
 slug: El-problema-del-viajante-de-comercio
 tags:
-  - Software
+- Software
+description: Revisando el cajón de los recuerdos encontré el trabajo final que hice para mi título de «Analista universitario de Sistemas de Información», un título.
 ---
 
 Revisando el cajón de los recuerdos encontré el trabajo final que hice para mi título de «Analista universitario de

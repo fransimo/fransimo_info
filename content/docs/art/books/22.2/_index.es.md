@@ -1,20 +1,24 @@
 ---
 title: '22.2'
 date: '2015-04-23'
-author: "Fran Simó"
+author: Fran Simó
 aliases: /es/blog/2015/04/23/22-2/
 images:
-  - 0013_018_GSC_2765_cover.jpg
+- 0013_018_GSC_2765_cover.jpg
 dateCreated: 2015
 schemaOrgType: Book
 bookToc: false
 categories:
-  - photography
-  - books, zines and so
+- photography
+- books, zines and so
 tags:
-- fanzine 
+- fanzine
 - Barcelona
+description: >
+    2000-2014 Fanzine, 24 páginas, 19 × 13,4 cm, impreso en papel estucado mate de 170 g.
+    Álbum fotográfico/libro de artista. Transformación urbana Poble Nou. 
 ---
+
 ![0013_018_GSC_2765_cover.jpg](0013_018_GSC_2765_cover.jpg)
 # 22.2
 

@@ -3,25 +3,28 @@ title: '22'
 date: '2010-01-22'
 aliases: /es/blog/2010/01/14/22/
 images:
-  - 0013_018_GSC_2765_cover.jpg
+- 0013_018_GSC_2765_cover.jpg
 bookToc: false
 categories:
-  - photography
-  - books, zines and so
+- photography
+- books, zines and so
 tags:
 - Barcelona
 - art book
+- poble nou
 schemaType: Book
-description: "Las fotografías de 22 son fragmentos del remanso entre dos épocas, entre dos modelos de desarrollo, el primero industrial y el segundo del conocimiento."
+description: >
+  2000-2009 Libro Autoedición, 21×29 cm, 26 páginas, impresión laser color sobre papel reciclado, 
+  encuadernación manual. Fotolibro / libro de artista. Transformación urbana Poble nou.
 author:
-  "@type": Person
-  name: "Fran Simó"
+  '@type': Person
+  name: Fran Simó
 publisher:
-  "@type": Person
-  name: "Fran Simó"
-bookEdition: "First"
+  '@type': Person
+  name: Fran Simó
+bookEdition: First
 numberOfPages: 26
-datePublished: "2010-01-22"
+datePublished: '2010-01-22'
 ---
 
 ![22_fran_simo_05.jpg](22_fran_simo_05.jpg)

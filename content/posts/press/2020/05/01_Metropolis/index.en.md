@@ -4,11 +4,12 @@ date: '2017-09-27'
 author: Fran Simó
 draft: false
 tags:
-  - Casa Planas
-  - Es Baluard
+- Casa Planas
+- Es Baluard
 categories:
-  - press
-  - TV
+- press
+- TV
+description: 'Throughout the episode, guided by its curator, we explore the projects of artists: Juan Aizpitarte, Ángela Bonadies, Domènech, Idensitat (Ramon Parramon and.'
 ---
 
 > Throughout the episode, guided by its curator, we explore the projects of artists: Juan Aizpitarte, Ángela Bonadies, Domènech, Idensitat (Ramon Parramon and Gaspar Maza), Left Hand Rotation, Ángel Marcos, Neus Marroig, Marc Morell, Ana A. Ochoa, Irene Pittatore, Marina Planas and Arxiu Planas, and Miguel Trillo, complemented by insights from anthropologist Marc Morell.

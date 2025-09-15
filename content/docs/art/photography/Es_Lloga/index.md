@@ -1,5 +1,6 @@
 ---
 title: 'Es lloga (For Rent)'
+description: 'Photographic series on shuttered storefronts as a human map of the crisis—dreams “for rent”—weighing capitalism’s creative drive against unchecked greed.'
 date: '2010-02-23'
 author: "Fran Simó"
 aliases:  /blog/2010/02/23/es-lloga-for-rent/

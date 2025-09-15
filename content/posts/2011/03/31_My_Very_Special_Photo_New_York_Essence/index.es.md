@@ -1,14 +1,15 @@
 ---
-title: 'My Very Special Photo, New York Essence'
+title: My Very Special Photo, New York Essence
 date: '2011-03-31'
-author: "Fran Simó"
-aliases:  /es/blog/2011/03/31/my-very-special-photo-new-york-essence/
+author: Fran Simó
+aliases: /es/blog/2011/03/31/my-very-special-photo-new-york-essence/
 images:
-  - fran_simo_0122_New-York-Essence_KSC6440_New-York-Street-photography-street-portraits-Umbrella-Wall-Street.jpg
+- fran_simo_0122_New-York-Essence_KSC6440_New-York-Street-photography-street-portraits-Umbrella-Wall-Street.jpg
 categories:
-  - photography
+- photography
 tags:
-  - street photography
+- street photography
+description: Una mujer negra lleva a una niña asiática ambas con paraguas atravesando las barreras de protección anti-terroristas puestas al rededor del edificio de la.
 ---
 
 Una mujer negra lleva a una niña asiática ambas con paraguas atravesando las barreras de protección anti-terroristas puestas al rededor del edificio de la bolsa en Wall Street. Detrás un hombre blanco, vestido de oficina pide un hotdog. Otra mujer lleva un paraguas con la bandera americana. En el fondo la Trinity Church, entidad fundadora de la Universidad de Columbia, la primera universidad del estado de Nueva York. En su cementerio están enterrados algunos de los hombres que declararon la independencia.
