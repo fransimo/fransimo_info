@@ -1,38 +1,37 @@
 ---
-date: "2019-12-07"
+date: '2019-12-07'
 categories:
 - photography
 - books, zines and so
 - Barcelona Photobloggers
 tags:
-- street photography 
+- street photography
 images:
-  - Passengers_Vol_III.jpg
+- Passengers_Vol_III.jpg
 title: Passengers Vol. III
-description: "Presents Passengers Vol. III, the final volume of a collaborative street photography trilogy, showcasing 12 authors selected from thousands of passenger images taken between 2013 and 2015."
+description: III* concludes the trilogy with photographs taken between 2013 and 2015. Photobook / artist book; A visual narrative on urban life and anonymous commuting.
 bookToc: false
 bookCollapseSection: true
 schemaType: Book
 author:
-  "@type": Person
-  name: ["Fran Simó","Marcelo Aurelio", "Godo Chillida","Benjamín Julve"] 
+  '@type': Person
+  name:
+  - Fran Simó
+  - Marcelo Aurelio
+  - Godo Chillida
+  - Benjamín Julve
 publisher:
-  "@type": Organization
-  name: "Associació Barcelona Photobloggers"
-isbn: "978-0-2443-3654-7"
-bookEdition: "First"
+  '@type': Organization
+  name: Associació Barcelona Photobloggers
+isbn: 978-0-2443-3654-7
+bookEdition: First
 numberOfPages: 64
-datePublished: "2017-10-01"
-# Opcional (venta)
-price: "24.75"
-priceCurrency: "EUR"
-availability: "https://schema.org/InStock"
-buyURL: "https://www.lulu.com/es/shop/fran-sim%C3%B3-and-benjam%C3%ADn-julve-and-godo-chillida-and-marcelo-aurelio/passengers-vol-iii/paperback/product-1y884p24.html?page=1&pageSize=4"
-
-# Opcional (muestra de lectura)
-# readURL: "/es/docs/art/books/Passengers_Vol_III/muestra"
+datePublished: '2017-10-01'
+price: '24.75'
+priceCurrency: EUR
+availability: https://schema.org/InStock
+buyURL: https://www.lulu.com/es/shop/fran-sim%C3%B3-and-benjam%C3%ADn-julve-and-godo-chillida-and-marcelo-aurelio/passengers-vol-iii/paperback/product-1y884p24.html?page=1&pageSize=4
 ---
-
 
 {{% columns %}}
 ![Passengers_Vol_III.jpg](Passengers_Vol_III.jpg)
