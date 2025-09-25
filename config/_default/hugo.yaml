@@ -46,6 +46,10 @@ languages:
         weight: 2
         contentDir: content
         languageCode: es-ES
+    it:
+      languageName: Italiano
+      title: È dentro di tutti noi
+      weight: 3
 
 
 # Book configuration
