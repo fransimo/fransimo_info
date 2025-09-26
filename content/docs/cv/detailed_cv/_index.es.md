@@ -130,20 +130,21 @@ Algunas de mis obras se han incluido en los siguientes libros:
 
 # Prensa
 
-| Año | Proyecto y medio |
-| :---- | :---- |
-| 2013 | fotometro.org: [El Periódico, La Vanguardia y El País](about:blank) |
-| 2012 | Ubiquografía: [Noticias Cuatro TV](http://bit.ly/J73rtC), [La Vanguardia](http://bit.ly/J73u8W)[,RNE (26') Radio](http://bit.ly/J73wxG), [BVisio TV](http://bit.ly/J73AgH)() |
-| 2012 | **Entrevista *Fotografies: Street Photography* [TV3](http://www.ccma.cat/tv3/alacarta/fotografies/street-photography/video/3966610/)** |
-| 2012 | SOY CÁMARA \#19 // Más fotoperiodismo hoy: [CCCB & TVE](https://vimeo.com/41416084) |
-| 2011 | Brangulí: [El Periódico](about:blank) |
-| 2010 | Arrinconado: [Extrarradio de COMRàdio](about:blank) |
-| 2009 | Barcelona Photobloggers: [l'Extraradi de COM Ràdio](about:blank) |
-| 2009 | Al Detall: [Barcelona Televisió](about:blank) |
-| 2008 | elementos: [Barcelona Televisió](about:blank) |
-| 2008 | De la red a la pared II: [ADN](about:blank) |
-| 2007 | Voltants: [Diari de Terrassa](about:blank) |
-| 2006 | De la red a la pared [El País](about:blank) |
+| Año | Proyecto y medio                                                                                                                                                                                                                                                                                                     |
+| :---- |:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2021 | [Entrevista en BARCELONAUTES](https://www.youtube.com/watch?list=TLGGke2PZBxwlHkyNjA5MjAyNQ&t=357&v=PYuS09_oijI&embeds_referring_euri=https%3A%2F%2Ffransimo.info%2F&source_ve_path=OTY3MTQ) sobre #[Selfie_v2](../../art/new_media_art/Selfie_v2) en la exposición La Masacre del cuerpo. |
+| 2013 | fotometro.org: [El Periódico, La Vanguardia y El País](about:blank)                                                                                                                                                                                                                                                  |
+| 2012 | Ubiquografía: [Noticias Cuatro TV](http://bit.ly/J73rtC), [La Vanguardia](http://bit.ly/J73u8W)[,RNE (26') Radio](http://bit.ly/J73wxG), [BVisio TV](http://bit.ly/J73AgH)()                                                                                                                                         |
+| 2012 | **Entrevista *Fotografies: Street Photography* [TV3](http://www.ccma.cat/tv3/alacarta/fotografies/street-photography/video/3966610/)**                                                                                                                                                                               |
+| 2012 | SOY CÁMARA \#19 // Más fotoperiodismo hoy: [CCCB & TVE](https://vimeo.com/41416084)                                                                                                                                                                                                                                  |
+| 2011 | Brangulí: [El Periódico](about:blank)                                                                                                                                                                                                                                                                                |
+| 2010 | Arrinconado: [Extrarradio de COMRàdio](about:blank)                                                                                                                                                                                                                                                                  |
+| 2009 | Barcelona Photobloggers: [l'Extraradi de COM Ràdio](about:blank)                                                                                                                                                                                                                                                     |
+| 2009 | Al Detall: [Barcelona Televisió](about:blank)                                                                                                                                                                                                                                                                        |
+| 2008 | elementos: [Barcelona Televisió](about:blank)                                                                                                                                                                                                                                                                        |
+| 2008 | De la red a la pared II: [ADN](about:blank)                                                                                                                                                                                                                                                                          |
+| 2007 | Voltants: [Diari de Terrassa](about:blank)                                                                                                                                                                                                                                                                           |
+| 2006 | De la red a la pared [El País](about:blank)                                                                                                                                                                                                                                                                          |
 
 # Residencias
 
