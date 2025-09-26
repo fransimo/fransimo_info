@@ -8,5 +8,6 @@ bookCollapseSection: true
 bookTOC: false
 weight: 30
 description: Proyectos fotográficos de Fran Simó
+draft: true
 ---
 
