@@ -11,11 +11,11 @@ categories:
 tags:
 - Barcelona
 - art book
-- poble nou
+- Poblenou
 schemaType: Book
 description: >
   2000-2009 Libro Autoedición, 21×29 cm, 26 páginas, impresión laser color sobre papel reciclado, 
-  encuadernación manual. Fotolibro / libro de artista. Transformación urbana Poble nou.
+  encuadernación manual. Fotolibro / libro de artista. Transformación urbana Poblenou.
 author:
   '@type': Person
   name: Fran Simó
@@ -46,7 +46,7 @@ Disponible como ebook en [English](http://www.lulu.com/shop/fran-sim%C3%B3/22/eb
 
 Las fotografías de 22 son fragmentos del remanso entre dos épocas, entre dos modelos de desarrollo, el primero industrial y el segundo del conocimiento.
 
-Poble nou sufrió la crisis de la industria y quedó en un letargo. En ese tentempié fue conquistado por otros habitantes: inmigrantes sin hogar, okupas, ruinas, demoledores, gitanos, juguetes abandonados, libros de contabilidad dejados atrás… …y la resistencia, los que siempre habían vivido ahí y que no han querido irse.
+Poblenou sufrió la crisis de la industria y quedó en un letargo. En ese tentempié fue conquistado por otros habitantes: inmigrantes sin hogar, okupas, ruinas, demoledores, gitanos, juguetes abandonados, libros de contabilidad dejados atrás… …y la resistencia, los que siempre habían vivido ahí y que no han querido irse.
 
 Esta selección de 22 fotos parte de un archivo de unas 2000 imágenes tomadas desde el año 2000 hasta el día de hoy. Es más emocional que estrictamente documental.
 

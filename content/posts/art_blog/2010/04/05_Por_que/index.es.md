@@ -43,7 +43,7 @@ Es el ritmo de la vida, pero hay escenas que se nos aparecen y modifican ese rit
 Aún no son imágenes, a veces, no llegan a serlo. Son vivencias visuales. Algunas codifican todas nuestras influencias,
 otras explican cómo nos sentíamos, otras son intentos de atrapar el espíritu de la luz.</td>
 <--->
-![Poble nou misterioso](tmp_0064__ISC9652.jpg "Poble nou misterioso")
+![Poblenou misterioso](tmp_0064__ISC9652.jpg "Poblenou misterioso")
 {{% /columns %}}
 
 {{% columns %}}

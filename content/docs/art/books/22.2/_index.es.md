@@ -16,7 +16,7 @@ tags:
 - Barcelona
 description: >
     2000-2014 Fanzine, 24 páginas, 19 × 13,4 cm, impreso en papel estucado mate de 170 g.
-    Álbum fotográfico/libro de artista. Transformación urbana Poble Nou. 
+    Álbum fotográfico/libro de artista. Transformación urbana Poblenou. 
 ---
 
 ![0013_018_GSC_2765_cover.jpg](0013_018_GSC_2765_cover.jpg)
