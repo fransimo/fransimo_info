@@ -62,7 +62,7 @@ To conclude this stage of the residency, an Open Studio was organized where I sh
 
 ### The Whisper of the Nymphs - Photography
 
-![The Whisper of the Nymphs](/images/X1V45282-Enhanced-SR.jpg)
+![The Whisper of the Nymphs](/webp/The_Whisper_of_the_Nymphs.webp)
 
 ````
 Digital print. 1.60m x 90 cm

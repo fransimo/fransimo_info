@@ -23,7 +23,7 @@ The journey aims to enter the darkness: the place where the sun is born and wher
 
 ## Photography
 
-![The Whisper of the Nymphs](/images/X1V45282-Enhanced-SR.jpg)
+![The Whisper of the Nymphs](/webp/The_Whisper_of_the_Nymphs.webp)
 
 ## Video
 

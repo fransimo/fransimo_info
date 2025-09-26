@@ -41,7 +41,7 @@ encuentran tiene el poder de sanar.
 
 ## Fotografía
 
-![El susurro de las ninfas](/images/X1V45282-Enhanced-SR.jpg)
+![El susurro de las ninfas](/webp/The_Whisper_of_the_Nymphs.webp)
 
 ## Video
 

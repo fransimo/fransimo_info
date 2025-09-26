@@ -4,7 +4,7 @@ type: docs
 bookToc: false
 ---
 
-![Il sussurro delle ninfe](/images/X1V45282-Enhanced-SR.jpg)
+![Il sussurro delle ninfe](/webp/The_Whisper_of_the_Nymphs.webp)
 
 "Tutti abbiamo motivi diversi per viaggiare: alcuni sono costretti, altri credono di scegliere."
 — *Nei luoghi oscuri della conoscenza*, Peter Kingsley [p.23]

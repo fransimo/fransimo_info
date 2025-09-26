@@ -69,7 +69,7 @@ All [books here](books).
 {{% columns %}}
 
 {{< figure
-  src="/docs/art/photography/The_Whisper_of_the_Nymphs/X1V45282-Enhanced-SR.jpg"
+  src="/webp/The_Whisper_of_the_Nymphs.webp"
   alt="The Whisper of the Nymphs"
   link="/docs/art/photography/The_Whisper_of_the_Nymphs/"
   caption="The Whisper of the Nymphs"

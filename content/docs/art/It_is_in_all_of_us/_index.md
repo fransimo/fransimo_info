@@ -6,7 +6,7 @@ bookToc: false
 bookCollapseSection: true
 ---
 
-![The Whisper of the Nymphs](/images/X1V45282-Enhanced-SR.jpg)
+![The Whisper of the Nymphs](/webp/The_Whisper_of_the_Nymphs.webp)
 
 “DIFFERENT PEOPLE make journeys for different reasons. Sometimes they’re forced; sometimes they think they choose.”
 — In the Dark Places of Wisdom, Peter Kingsley [p.15]

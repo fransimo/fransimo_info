@@ -77,7 +77,7 @@ Il testo descritto _Il sussurro delle ninfe_ si può [leggere qui](/docs/art/It_
 
 #### Fotografia
 
-![Il sussurro delle ninfe](/images/X1V45282-Enhanced-SR.jpg)
+![Il sussurro delle ninfe](/webp/The_Whisper_of_the_Nymphs.webp)
 
 
 > Stampa digitale. 1,60m x 90 cm

@@ -4,7 +4,7 @@ type: docs
 bookToc: false
 ---
 
-![El susurro de las ninfas](/images/X1V45282-Enhanced-SR.jpg)
+![El susurro de las ninfas](/webp/The_Whisper_of_the_Nymphs.webp)
 
 “Todos tenemos motivos distintos para viajar: unos se ven obligados, otros creen que eligen.”
 — En los oscuros lugares del saber, Peter Kingsley [p.23]

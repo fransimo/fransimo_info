@@ -66,7 +66,7 @@ El texto que describe _El susurro de las ninfas_ se puede [leer aquí](/docs/art
 
 #### Fotografía
 
-![El susurro de las ninfas](/images/X1V45282-Enhanced-SR.jpg)
+![El susurro de las ninfas](/webp/The_Whisper_of_the_Nymphs.webp)
 
 
 > Digital print. 1,60 m x 90 cm

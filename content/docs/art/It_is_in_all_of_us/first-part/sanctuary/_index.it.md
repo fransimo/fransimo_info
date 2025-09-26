@@ -40,7 +40,7 @@ trovano ha il potere di guarire.
 
 ## Fotografia
 
-![Il Sussurro delle Ninfe](/images/X1V45282-Enhanced-SR.jpg)
+![Il Sussurro delle Ninfe](/webp/The_Whisper_of_the_Nymphs.webp)
 
 ## Video
 
