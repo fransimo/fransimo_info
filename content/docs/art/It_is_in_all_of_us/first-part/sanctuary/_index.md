@@ -54,4 +54,3 @@ The journey aims to enter the darkness: the place where the sun is born and wher
 
 ![](20241112_1038_X1V45328-Enhanced-NR_fransimo.jpeg)
 
-> Translated into English by chatGPT

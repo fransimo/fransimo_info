@@ -42,4 +42,3 @@ My search is the search for God. Not the God of the church. For me, God is withi
 
 It’s a search that always comes back home. Because in the end, the longest journey is always in front of the mirror.
 
-> Translated into English by chatGPT

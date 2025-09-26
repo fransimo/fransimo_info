@@ -114,4 +114,3 @@ On the [web](https://www.google.com/maps/d/edit?mid=1N9lbW-JlA8tJtXUqbPD6LnPmdEM
 - Violet points: Places mentioned in _In the Dark Places of Wisdom_.
 - Gray points: Locations related to Dionysian worship or intuitively marked as destinations.
 
-> Translated into English by chatGPT

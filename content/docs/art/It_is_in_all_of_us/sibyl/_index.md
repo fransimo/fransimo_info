@@ -19,4 +19,3 @@ My research stems from the need to connect deeply and symbolically with the wisd
 
 The Sibyl and the forest whisper a path to me—a path that traverses the natural and the ancestral, through water and trees. This path sketches itself on maps: from Mallorca, where her song still echoes, it has led me near Tivoli and its forest. It seems to point towards Crete and Turkey. Crete, as a potential origin of Dionysian worship, and Turkey, Anatolia, for its connection to the Erythraean Sibyl.
 
-> Translated into English by chatGPT

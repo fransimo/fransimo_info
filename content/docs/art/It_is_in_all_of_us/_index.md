@@ -34,4 +34,4 @@ Some works have emerged from the first part and can be seen in the [*artworks* s
 
 The process of both parts can be followed on the [blog](/posts).
 
-> Translated into English by chatGPT
+
