@@ -36,8 +36,7 @@ La segunda es una referencia a otro autor. Tengo que admitirlo, soy un desastre 
 
 ![City snow 3](0005__JSC5774.jpg)
 
-Es curioso que esta foto haya sido la sexta que he recordado. Para mi esta imagen es la clave de lo que quiero conseguir cuando fotografió una ciudad. Para no extenderme [la explicación está en mi blog](/es/blog/2011/03/31/my-very-special-photo-new-york-essence/).  
-
+Es curioso que esta foto haya sido la sexta que he recordado. Para mi esta imagen es la clave de lo que quiero conseguir cuando fotografió una ciudad. Para no extenderme [la explicación está en mi blog](../../../2011/03/31_My_Very_Special_Photo_New_York_Essence)
 ![New York Essence](0006__KSC6440.jpg)
 
 En séptimo lugar apareció una de mis fotos favoritas de todos los tiempos. Tiene un guiño informático, detrás de la chica que usa un Mac hay un chico con una camiseta de Microsoft.  

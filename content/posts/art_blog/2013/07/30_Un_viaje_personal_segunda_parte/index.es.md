@@ -45,8 +45,8 @@ photography. Es en la experiencia donde encuentro más seguridades, sobre todo e
 de [Nick Turpin](http://www.in-public.com/information/what_is) “It is a simple ‘Zen’-like experience…” Es justamente
 aquí donde veo claramente dónde empieza y termina la street. Un “streeter” tiene que sentir la calle, respirarla,
 vivirla, ha de ser una apasionado del entorno urbano y de las “casualidades” con las que se “encuentra”. Hace un tiempo
-mezclé en [“Fotografía intuitiva”](/posts/2009/01/01_fotografia_intuitiva) a
-Cartier-Bresson, el Zen y el tiro al arco para hablar de la experiencia fotográfica y cómo aprendemos a “fluir”
+mezclé en [“Fotografía intuitiva”](../../../2009/01/01_fotografia_intuitiva)
+a Cartier-Bresson, el Zen y el tiro al arco para hablar de la experiencia fotográfica y cómo aprendemos a “fluir”
 disparando. Independientemente del estilo, o la posible intención documental, creo que todos los que hacemos street
 compartimos esto:
 
