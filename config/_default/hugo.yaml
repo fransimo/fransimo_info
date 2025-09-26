@@ -67,6 +67,7 @@ outputs:
   home:
     - HTML
     - PublishDataJSON
+    - rss
 
 # Images
 imaging:
