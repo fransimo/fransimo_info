@@ -65,7 +65,7 @@ proceso para entrar en meditación y comunicación con la red de vida del bosque
 
 ## El Susurro de las Ninfas (lo pequeño contiene un universo)
 
-El Susurro de las Ninfas tiene [su propia sección aquí](/docs/art/It_is_in_all_of_us/first-part/sanctuary).
+El Susurro de las Ninfas tiene [su propia sección aquí](/docs/art/photography/The_Whisper_of_the_Nymphs/).
 
 
 ## Saltos binarios

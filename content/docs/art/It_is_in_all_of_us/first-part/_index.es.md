@@ -62,7 +62,7 @@ Como cierre de etapa en la residencia se decidió hacer un _Open Studio_ para el
 
 ### El susurro de las ninfas
 
-El texto que describe _El susurro de las ninfas_ se puede [leer aquí](/docs/art/It_is_in_all_of_us/first-part/sanctuary).
+El texto que describe _El susurro de las ninfas_ se puede [leer aquí](/docs/art/photography/The_Whisper_of_the_Nymphs/).
 
 #### Fotografía
 

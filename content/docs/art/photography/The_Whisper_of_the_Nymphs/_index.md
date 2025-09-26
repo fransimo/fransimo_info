@@ -19,31 +19,60 @@ categories:
 - research
 ---
 
-![The Whisper of the Nymphs](X1V45282-Enhanced-SR.jpg)
+# The Whisper of the Nymphs (the small contains a universe)
 
-# The Whisper of the Nymphs
+During my walks through the forest, I found a [place](https://www.google.com/maps/place/42%C2%B005'29.8%22N+12%C2%B053'04.6%22E/@42.091604,12.8820251,17z/data=!3m1!4b1!4m4!3m3!8m2!3d42.0916!4d12.8846?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoJLDEwMjExMjM0SAFQAw%3D%3D): [42°5'29.76" N 12°53'4.56" E](https://www.google.com/maps/d/edit?mid=1RBN4q5D502HuN8aI8RgC7KfpprJPbM0&usp=sharing), [a tiny spot measuring less than 50 m²](https://www.google.com/maps/d/edit?mid=1RBN4q5D502HuN8aI8RgC7KfpprJPbM0&usp=sharing). Here, sunlight timidly filters through the trees for just a few hours each day. The Fosso Maricella stream is barely a trickle of water, whose hypnotic sound accompanies the stillness of the place. In this small corner, scale takes on a new meaning: the small contains a universe, and time seems to follow a different rhythm.
 
-“DIFFERENT PEOPLE make journeys for different reasons. Sometimes they’re forced; sometimes they think they choose.”
-— In the Dark Places of Wisdom, Peter Kingsley [p.15]
+The Fosso Maricella is a tributary of the Aniene, which flows through Tivoli, where a temple dedicated to the Tiburtine Sibyl stands. According to mythology, this Sibyl was a naiad, a freshwater nymph embodying the divinity of the stream she inhabited.
 
-*"It Is in All of Us"* is an ongoing research project that explores the connection between art and magic, tracing a path
-through the Sibyls, the Maenads, the ancient feminine cults, and the healing practices of the Iatromantis to help us
-remember our magical origins. It takes the form of both an inner and outer journey.
+The photographs search for these aquatic nymphs, their prophecies, and their surroundings. In them, the reflections of sunlight on moving water, captured through long exposures, reveal traces and drawings I imagine as manifestations of the nymphs or their messages. This pursuit becomes an attempt to make the invisible visible, to discover in the ephemeral the imprints of the eternal.
 
-Since the beginning of my journey into spirituality and magic, I have always heard a whisper:
-“It doesn’t come from India… it doesn’t come from Japan… it’s not Celtic… nor Tibetan… nor from an American tribe… it is
-within all of us.”
+The use of long exposures dissolves time, renders motion tangible, and blurs the boundaries between present and past, between energy in transit and energy suspended. These images do more than record a moment; they allow time to flow differently, unveiling a deeper dimension.
 
-Magical tradition has always existed within us. And it will always resurface. No matter how many times they hunt us as
-witches, it will resurface because it is inherent to being human.
+This link between water and sky was harnessed by the Romans in the construction of temples, villas, and cities. Through ponds and streams, they symbolized the idea of bringing "heaven to earth."
 
-It comes from our hearts, from the stars, from the original sound that resonates in everything: “It is in all of us”.
+This journey between heaven and earth mirrors the Sibyls’ journey between Apollo and the underworld serpent Python. It is also the journey of the iatromantes, European and American shamans, and tantric priestesses. It is the journey of death before death. All of them embark on this journey, recount it, and help others traverse it.
 
-You can explore the project [here](../../It_is_in_all_of_us).
+The journey aims to enter the darkness: the place where the sun is born and where it goes to rest. It is where all knowledge resides, waiting to be illuminated. Shamans venture there to learn, and the wisdom they find has the power to heal.
 
-## Video 
+## Photography
+
+![The Whisper of the Nymphs](/webp/The_Whisper_of_the_Nymphs.webp)
+
+````
+Digital print. 1.60m x 90 cm
+````
+
+
+## Video
 
 {{< youtube VyhtDy2UCUk >}}
+
+
+````
+4K Video. 5' 31"
+````
+
+## Site specific QR
+
+![20250111_1132_XT256181_fransimo.jpg](/images/20250111_1132_XT256181_fransimo.jpg)
+
+On January 11th, I placed a QR code where I was going to meditate, declaring the site as: _Sanctuary, a meeting place with nymphs and the spirits of calm waters.  
+Those who visit will find: "Clarity, strength, courage, love, and equanimity to see our path and fulfill our mission with wisdom."_
+
+
+## It Is in All of Us 10.09.24 / 17.01.25
+
+![20250114_1634_XT500158_fransimo.jpg](/images/20250114_1634_XT500158_fransimo.jpg)
+
+````
+Zine. A5. 32 pages.
+````
+
+
+The zine combines photography, drawings, maps, and important phrases from Kingsley's book.
+
+You can download the [PDF version](/fanzine/Esta_en_todos_nosotros_en.pdf) or the [EPUB version](/fanzine/It_is_within_all_of_us.epub).
 
 ## Gallery
 

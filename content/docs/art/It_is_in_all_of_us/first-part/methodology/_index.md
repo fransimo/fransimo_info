@@ -61,7 +61,7 @@ The process for entering meditation and communication with the forest’s life n
 
 ## The Whisper of the Nymphs (The Small Contains a Universe)
 
-The Whisper of the Nymphs has [its dedicated section here](/docs/art/It_is_in_all_of_us/first-part/sanctuary).
+The Whisper of the Nymphs has [its dedicated section here](/docs/art/photography/The_Whisper_of_the_Nymphs/).
 
 ## Binary Jumps
 

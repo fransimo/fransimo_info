@@ -73,7 +73,7 @@ alcune opere.
 
 ### Il sussurro delle ninfe 
 
-Il testo descritto _Il sussurro delle ninfe_ si può [leggere qui](/docs/art/It_is_in_all_of_us/first-part/sanctuary). 
+Il testo descritto _Il sussurro delle ninfe_ si può [leggere qui](/docs/art/photography/The_Whisper_of_the_Nymphs/). 
 
 #### Fotografia
 
