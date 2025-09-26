@@ -69,10 +69,10 @@ All [books here](books).
 {{% columns %}}
 
 {{< figure
-  src="/docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg"
-  alt="It is in all of us"
-  link="/docs/art/photography/It_is_in_all_of_us/"
-  caption="It is in all of us"
+  src="/webp/The_Whisper_of_the_Nymphs.webp"
+  alt="The Whisper of the Nymphs"
+  link="/docs/art/photography/The_Whisper_of_the_Nymphs/"
+  caption="The Whisper of the Nymphs"
   class="image-portfolio"
 >}}
 

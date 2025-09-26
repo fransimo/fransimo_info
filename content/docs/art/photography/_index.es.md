@@ -15,10 +15,10 @@ description: Proyectos fotográficos de Fran Simó
 {{% columns %}}
 
 {{< figure
-  src="/docs/art/photography/It_is_in_all_of_us/X1V45282-Enhanced-SR.jpg"
+  src="/webp/The_Whisper_of_the_Nymphs.webp"
   alt="It is in all of us"
-  link="/docs/art/photography/It_is_in_all_of_us/"
-  caption="Está en todos nosotros"
+  link="/docs/art/photography/The_Whisper_of_the_Nymphs/"
+  caption="El susurro de las ninfas"
   class="image-portfolio"
 >}}
 

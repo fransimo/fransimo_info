@@ -133,6 +133,7 @@ Some of my works have been included in the following books:
 
 | Year | Project and medium                                                                                                                                                           |
 |------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 2021 | [Interview on BARCELONAUTES](https://www.youtube.com/watch?list=TLGGke2PZBxwlHkyNjA5MjAyNQ&t=357&v=PYuS09_oijI&embeds_referring_euri=https%3A%2F%2Ffransimo.info%2F&source_ve_path=OTY3MTQ) about #[Selfie_v2](../../art/new_media_art/Selfie_v2) at the Exhibition: The Massacre of the Body. |
 | 2013 | fotometro.org: [El Periódico, La Vanguardia and El País](/es/var/log/2013/06/13/fotometro.org-en-los-medios/)                                                                |
 | 2012 | Ubiquography: [Noticias Cuatro TV](http://bit.ly/J73rtC), [La Vanguardia](http://bit.ly/J73u8W),[RNE (26’) Radio](http://bit.ly/J73wxG), [BVisio TV](http://bit.ly/J73AgH)() |
 | 2012 | **Interview _Fotografies: Street Photography_ [TV3](http://www.ccma.cat/tv3/alacarta/fotografies/street-photography/video/3966610/)**                                        |
