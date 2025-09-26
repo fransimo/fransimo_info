@@ -21,8 +21,8 @@ tags:
     {{< figure
       src="/webp/X1V45282-Enhanced-SR_hu_f87e8f9bdf00f663.webp"
       alt="It is in all of us"
-      link="/docs/art/photography/It_is_in_all_of_us/"
-      caption="It is in all of us"
+      link="/docs/art/It_is_in_all_of_us/"
+      caption="Research: It is in all of us"
       class="image-portfolio"
     >}}
 </div>
@@ -32,7 +32,7 @@ tags:
       src="/webp/XT238820_hu_8b7261a517e39dbb.webp"
       alt="#Selfie_v2"
       link="/docs/art/new_media_art/Selfie_v2/"
-      caption="#Selfie_v2"
+      caption="New media: #Selfie_v2"
       class="image-portfolio"
     >}}
 </div>
@@ -42,7 +42,7 @@ tags:
       src="/docs/art/new_media_art/Shared_folder_v21/IMG_5027-Editar-2.jpg"
       alt="Shared Folder"
       link="/docs/art/new_media_art/Shared_folder_v21/"
-      caption="Shared Folder"
+      caption="New media: Shared Folder"
       class="image-portfolio"
     >}}
 </div>
@@ -62,7 +62,7 @@ tags:
       src="/webp/SArenal-Summertime-COVER_hu_982ee11cedd4966d.webp"
       alt="S’Arenal Summertime 2016"
       link="/docs/art/books/SArenal_summertime_2016/"
-      caption="S’Arenal Summertime 2016"
+      caption="Fanzine: S’Arenal Summertime 2016"
       class="image-portfolio"
     >}}
 </div>
@@ -72,7 +72,7 @@ tags:
       src="/webp/fran_simo_traces_1_02__A009704_DxO_hu_8abe68828b3d0786.webp"
       alt="Traces (personal drifts)"
       link="/docs/art/photography/Traces_personal_drifts/"
-      caption="Traces (personal drifts)"
+      caption="Photography: Traces (personal drifts)"
       class="image-portfolio"
     >}}
 </div>
@@ -82,7 +82,7 @@ tags:
       src="/webp/es_lloga_fran_simo_01__ISC1838_DxO_hu_411dcb55cdf8d3f0.webp"
       alt="Es lloga (For Rent) "
       link="/docs/art/photography/Es_Lloga/"
-      caption="Es lloga (For Rent)"
+      caption="Photography: Es lloga (For Rent)"
       class="image-portfolio"
     >}}
 </div>
