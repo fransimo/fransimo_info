@@ -5,7 +5,7 @@ images:
 dateCreated: 2025
 artForm: Photograph
 schemaOrgType: VisualArtwork
-title: Está en todos nosotros
+title: El susurro de las ninfas
 description: >
     Explora la antigua conexión entre el arte y la magia a través de la investigación sobre las sibilas, las ninfas, 
     las ménades y las prácticas intuitivas, reflexionando sobre cómo el arte evoca el misterio y los estados alterados.
@@ -19,7 +19,7 @@ categories:
 
 ![El susurro de las ninfas](X1V45282-Enhanced-SR.jpg)
 
-# Está en todos nosotros
+# El susurro de las ninfas
 
 “Todos tenemos motivos distintos para viajar: unos se ven obligados, otros creen que eligen.”
 — En los oscuros lugares del saber, Peter Kingsley [p.23]

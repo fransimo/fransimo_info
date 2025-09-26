@@ -5,7 +5,7 @@ images:
 dateCreated: 2025
 artForm: Photograph
 schemaOrgType: VisualArtwork
-title: The Whisper of the Nymphs (the small contains a universe)
+title: The Whisper of the Nymphs
 description: >
   Explores the ancient connection between art and magic through research on Sibyls, Nymphs, 
   Maenads and intuitive practices, reflecting on how art evokes mystery and altered states.
@@ -19,7 +19,7 @@ categories:
 
 ![The Whisper of the Nymphs](X1V45282-Enhanced-SR.jpg)
 
-# The Whisper of the Nymphs (the small contains a universe)
+# The Whisper of the Nymphs
 
 “DIFFERENT PEOPLE make journeys for different reasons. Sometimes they’re forced; sometimes they think they choose.”
 — In the Dark Places of Wisdom, Peter Kingsley [p.15]
@@ -37,13 +37,14 @@ witches, it will resurface because it is inherent to being human.
 
 It comes from our hearts, from the stars, from the original sound that resonates in everything: “It is in all of us”.
 
-You can explore the project’s website here: [https://esta-en-todos-nosotros.fransimo.info/](https://esta-en-todos-nosotros.fransimo.info/)
+You can explore the project [here](../../It_is_in_all_of_us).
+
+## Video 
+
+{{< youtube VyhtDy2UCUk >}}
 
 ## Gallery
 
 {{< load-photoswipe >}}
 {{< gallery match="20*" />}}
 
-## Video 
-
-{{< youtube VyhtDy2UCUk >}}
