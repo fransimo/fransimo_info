@@ -50,7 +50,7 @@ con ulteriori ricerche normali sul web e indirizzarle verso fonti di fiducia.
 Una delle prove è stata chiedere a chatGPT di interpretare alcuni disegni. Il risultato è stato sorprendente."
 Riusciva a fare domande che mi erano difficili da rispondere.
 
-La conversazione [può essere letta qui](/posts/chatGPT/2024-10-21/).
+La conversazione [può essere letta qui](/posts/EETN/chatGPT/2024-10-21/).
 
 > Tradotto in italiano da chatGPT
 

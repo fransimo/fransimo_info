@@ -27,11 +27,11 @@ La metodología de investigación combina lectura, caminatas, dibujo automático
 binarios_. 
 
 Las meditaciones se hacen _abriendo el campo_ a los árboles y el bosque, lo que llamo [_hablar con
-los árboles_](/docs/first-part/talking_with_the_trees). Estas guían el viaje interno.
+los árboles_](/docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees). Estas guían el viaje interno.
 
-El viaje externo me ha llevado a Italia, la ["primera parte"](/docs/first-part/), de septiembre del 2024 a enero del 2025. La "segunda parte"
+El viaje externo me ha llevado a Italia, la ["primera parte"](/docs/art/It_is_in_all_of_us/first-part/), de septiembre del 2024 a enero del 2025. La "segunda parte"
 me trae a Grecia, Turquía y Egipto entre febrero y marzo del 2025.
 
-De la primera parte ha resultado algunas obras que se pueden ver en la [sección Obras](/docs/first-part/#obras).
+De la primera parte ha resultado algunas obras que se pueden ver en la [sección Obras](/docs/art/It_is_in_all_of_us/first-part/#obras).
 
 El proceso de ambas partes se puede seguir en el [blog](/posts).

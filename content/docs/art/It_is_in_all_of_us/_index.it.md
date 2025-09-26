@@ -19,10 +19,10 @@ Sorge dai nostri cuori, dalle stelle, dal suono originario che risuona in tutto:
 
 La metodologia di ricerca combina lettura, camminate, disegno automatico, meditazione, fotografia e _salti binari_.
 
-Le meditazioni si svolgono _aprendo il campo_ agli alberi e alla foresta, ciò che chiamo [_parlare con gli alberi_](/docs/first-part/talking_with_the_trees). Queste guidano il viaggio interiore.
+Le meditazioni si svolgono _aprendo il campo_ agli alberi e alla foresta, ciò che chiamo [_parlare con gli alberi_](/docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees). Queste guidano il viaggio interiore.
 
-Il viaggio esteriore mi ha portato in Italia, la ["prima parte"](/docs/first-part/), da settembre 2024 a gennaio 2025. La "seconda parte" mi porterà in Grecia, Turchia ed Egitto tra febbraio e marzo 2025.
+Il viaggio esteriore mi ha portato in Italia, la ["prima parte"](/docs/art/It_is_in_all_of_us/first-part/), da settembre 2024 a gennaio 2025. La "seconda parte" mi porterà in Grecia, Turchia ed Egitto tra febbraio e marzo 2025.
 
-Dalla prima parte sono nate alcune opere che si possono vedere nella [sezione Opere](/docs/first-part/#opere).
+Dalla prima parte sono nate alcune opere che si possono vedere nella [sezione Opere](/docs/art/It_is_in_all_of_us/first-part/#opere).
 
 Il processo di entrambe le parti può essere seguito nel [blog](/posts).

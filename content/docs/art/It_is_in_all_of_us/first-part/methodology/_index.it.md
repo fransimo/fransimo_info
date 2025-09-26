@@ -53,7 +53,7 @@ imparare di più. Imparare di più attraverso il corpo, la mente, l’intuizione
 - Lettura.
 - Salti "binari"
     - Discussioni con ChatGPT
-    - Interpretazioni dei miei disegni [(es. 2024-10-21: Disegni e ChatGPT)](/posts/chatGPT/2024-10-21/).
+    - Interpretazioni dei miei disegni [(es. 2024-10-21: Disegni e ChatGPT)](/posts/EETN/chatGPT/2024-10-21/).
     - Codice per tracciare sui mappe i percorsi e le direzioni.
     - Analisi statistica. Trattamento delle immagini delle ninfe.
 - Integrazione e sistematizzazione
@@ -66,26 +66,26 @@ imparare di più. Imparare di più attraverso il corpo, la mente, l’intuizione
 
 ## Sibilla
 
-La Sibilla ha la sua sezione dedicata [qui](/docs/sibyl).
+La Sibilla ha la sua sezione dedicata [qui](/docs/art/It_is_in_all_of_us/sibyl/).
 
 ## Conversazioni con gli alberi
 
-Nella [Piccola guida per parlare con gli alberi](/docs/first-part/talking_with_the_trees) e altri esseri si spiega il processo per
+Nella [Piccola guida per parlare con gli alberi](/docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees) e altri esseri si spiega il processo per
 entrare in meditazione e comunicazione con la rete di vita del bosco.
 
 [Qui vengono dettagliate le sessioni](/it/tags/Conversazioni-con-gli-alberi/).
 
 ## Il Sussurro delle Ninfe (il piccolo contiene un universo)
 
-Il Sussurro delle Ninfe ha [la sua sezione dedicata qui](/docs/first-part/sanctuary).
+Il Sussurro delle Ninfe ha [la sua sezione dedicata qui](/docs/art/It_is_in_all_of_us/first-part/sanctuary).
 
 ## Salti binari
 
-I salti binari hanno [la loro sezione qui](/docs/first-part/binary_links).
+I salti binari hanno [la loro sezione qui](/docs/art/It_is_in_all_of_us/first-part/binary_links).
 
 ## Disegni automatici
 
-I disegni automatici hanno [la loro sezione dedicata qui](/docs/first-part/drawing).
+I disegni automatici hanno [la loro sezione dedicata qui](/docs/art/It_is_in_all_of_us/first-part/drawing).
 
 # Libros
 

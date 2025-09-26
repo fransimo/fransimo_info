@@ -42,4 +42,4 @@ con más búsquedas normales en la web y dirigirlas a fuentes de confianza.
 Una de las pruebas fue pedirle a chatGPT que interpretara algunos dibujos. El resultado fue sorprendente. 
 Conseguía hacer preguntas que me costaba responder.
 
-La conversación [se puede leer aquí](/posts/chatGPT/2024-10-21/).
+La conversación [se puede leer aquí](/posts/EETN/chatGPT/2024-10-21/).

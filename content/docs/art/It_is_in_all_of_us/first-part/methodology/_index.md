@@ -38,7 +38,7 @@ On my path, there is one constant: every day, I know less and experiment more. S
 - Reading.
 - Binary Jumps:
     - Discussions with chatGPT.
-    - Interpreting my drawings [2024-10-21 Drawings chatGPT](/posts/chatGPT/2024-10-21/).
+    - Interpreting my drawings [2024-10-21 Drawings chatGPT](/posts/EETN/chatGPT/2024-10-21/).
     - Code for mapping directions.
     - Statistical analysis of nymph images.
 - Integration and Systematization:
@@ -51,25 +51,25 @@ On my path, there is one constant: every day, I know less and experiment more. S
 
 ## The Sibyl
 
-The Sibyl has its dedicated section [here](/docs/sibyl).
+The Sibyl has its dedicated section [here](/docs/art/It_is_in_all_of_us/sibyl/).
 
 ## Conversations with Trees
 
-The process for entering meditation and communication with the forest’s life network is explained in [A Small Guide to Talking with Trees](/docs/first-part/talking_with_the_trees) and other beings.
+The process for entering meditation and communication with the forest’s life network is explained in [A Small Guide to Talking with Trees](/docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees) and other beings.
 
 [Session details are here](/en/tags/talking-with-trees/).
 
 ## The Whisper of the Nymphs (The Small Contains a Universe)
 
-The Whisper of the Nymphs has [its dedicated section here](/docs/first-part/sanctuary).
+The Whisper of the Nymphs has [its dedicated section here](/docs/art/It_is_in_all_of_us/first-part/sanctuary).
 
 ## Binary Jumps
 
-Binary jumps have [their section here](/docs/first-part/binary_links).
+Binary jumps have [their section here](/docs/art/It_is_in_all_of_us/first-part/binary_links).
 
 ## Automatic Drawings
 
-Automatic drawings have [their dedicated section here](/docs/first-part/drawing).
+Automatic drawings have [their dedicated section here](/docs/art/It_is_in_all_of_us/first-part/drawing).
 
 # Books
 

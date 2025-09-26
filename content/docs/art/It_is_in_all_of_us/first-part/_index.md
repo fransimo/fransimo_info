@@ -11,7 +11,7 @@ weight: 100
 
 On April 29, 2024, I received an invitation to join the [Residency action of Culture Moves Europe](https://culture.ec.europa.eu/creative-europe/creative-europe-culture-strand/culture-moves-europe) program.
 
-A [journey](/docs/journey) that had started many years ago during my spiritual search began to take physical shape in its artistic aspect.
+A [journey](/docs/art/It_is_in_all_of_us/journey/) that had started many years ago during my spiritual search began to take physical shape in its artistic aspect.
 
 In 2012, I had combined photography and technology in my artistic expression. Now, I would try to integrate magic as well.
 
@@ -25,7 +25,7 @@ I felt fascinated, especially by the tradition of the chant in Mallorca, the lan
 
 On the second day of the residency, I visited Tivoli and discovered that there was a temple dedicated to the Tiburtine Sibyl.
 
-I interpreted this as a sign: the [Sibyl](/docs/sibyl) would guide me on the path. She connected the two territories and 
+I interpreted this as a sign: the [Sibyl](/docs/art/It_is_in_all_of_us/sibyl/) would guide me on the path. She connected the two territories and 
 my search.
 
 {{% /columns %}}
@@ -54,8 +54,8 @@ It comes from our hearts, from the stars, from the original sound that resonates
 
 On this website, I gather notes from the journey. The first part covers the phase from September 2024 to January 2025 in Italy.
 
-As a [research methodology](/docs/first-part/methodology), I used meditation, readings, "binary jumps," and integration into mind maps. 
-Meditation took shape in [conversations with the trees](/docs/first-part/talking_with_the_trees), [automatic drawing](/docs/first-part/drawing), and [photography](/docs/photography).
+As a [research methodology](/docs/art/It_is_in_all_of_us/first-part/methodology), I used meditation, readings, "binary jumps," and integration into mind maps. 
+Meditation took shape in [conversations with the trees](/docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees), [automatic drawing](/docs/art/It_is_in_all_of_us/first-part/drawing), and [photography](/docs/photography).
 
 ## Artworks 
 To conclude this stage of the residency, an Open Studio was organized where I showcased several works.
@@ -108,7 +108,7 @@ Zine. A5. 12 pages
 ````
 
 When I mentioned that part of the research methodology was "talking to trees," some people showed 
-interest. [You can read a short meditation guide at this link](/docs/first-part/talking_with_the_trees).
+interest. [You can read a short meditation guide at this link](/docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees).
 
 # Conclusions and Questions
 

@@ -41,7 +41,7 @@ En mi camino hay una constante, cada día sé menos y experimento más. Hasta ah
 - Lectura.
 - Saltos "binarios"
 	- Discusiones con chatGPT
-	- Sobre las interpretaciones que hace de lo que dibujo [2024-10-21 Dibujos chatGPT](/posts/chatGPT/2024-10-21/)
+	- Sobre las interpretaciones que hace de lo que dibujo [2024-10-21 Dibujos chatGPT](/posts/EETN/chatGPT/2024-10-21/)
 	- Código para dibujar en los mapas los rumbos. 
 	- Tratamiento estadísticos de las imágenes de las ninfas.
 - Integración y sistematización Organización de notas
@@ -53,11 +53,11 @@ En mi camino hay una constante, cada día sé menos y experimento más. Hasta ah
 
 ## Sibila
 
-La Sibila tiene su sección propia [aquí](/docs/sibyl).
+La Sibila tiene su sección propia [aquí](/docs/art/It_is_in_all_of_us/sibyl/).
 
 ## Conversaciones con los árboles
 
-En [Pequeña guía para hablar con los árboles](/docs/first-part/talking_with_the_trees) y otros seres se explica el 
+En [Pequeña guía para hablar con los árboles](/docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees) y otros seres se explica el 
 proceso para entrar en meditación y comunicación con la red de vida del bosque.
 
 [Aquí se detallan las sesiones](/es/tags/hablando-con-los-árboles/).
@@ -65,17 +65,17 @@ proceso para entrar en meditación y comunicación con la red de vida del bosque
 
 ## El Susurro de las Ninfas (lo pequeño contiene un universo)
 
-El Susurro de las Ninfas tiene [su propia sección aquí](/docs/first-part/sanctuary).
+El Susurro de las Ninfas tiene [su propia sección aquí](/docs/art/It_is_in_all_of_us/first-part/sanctuary).
 
 
 ## Saltos binarios
 
-los saltos binarios tienen [su sección aquí](/docs/first-part/binary_links).
+los saltos binarios tienen [su sección aquí](/docs/art/It_is_in_all_of_us/first-part/binary_links).
 
 
 ## Dibujos automáticos
 
-Los dibujos automáticos tienen [su propia sección aquí](/docs/first-part/drawing).
+Los dibujos automáticos tienen [su propia sección aquí](/docs/art/It_is_in_all_of_us/first-part/drawing).
 
 
 # Libros

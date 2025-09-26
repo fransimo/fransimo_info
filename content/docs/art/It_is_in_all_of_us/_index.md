@@ -26,11 +26,11 @@ It comes from our hearts, from the stars, from the original sound that resonates
 
 The research methodology combines reading, walking, automatic drawing, meditation, photography, and *binary jumps*.  
 
-Meditations are carried out by *opening the field* to the trees and the forest—what I call [_talking with the trees_](/docs/first-part/talking_with_the_trees). These meditations guide the inner journey.  
+Meditations are carried out by *opening the field* to the trees and the forest—what I call [_talking with the trees_](/docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees). These meditations guide the inner journey.  
 
-The outer journey has taken me to Italy, the ["first part"](/docs/first-part/), from September 2024 to January 2025. The "second part" brings me to Greece, Turkey, and Egypt between February and March 2025.  
+The outer journey has taken me to Italy, the ["first part"](/docs/art/It_is_in_all_of_us/first-part/), from September 2024 to January 2025. The "second part" brings me to Greece, Turkey, and Egypt between February and March 2025.  
 
-Some works have emerged from the first part and can be seen in the [*artworks* section](/docs/first-part/#artworks).  
+Some works have emerged from the first part and can be seen in the [*artworks* section](/docs/art/It_is_in_all_of_us/first-part/#artworks).  
 
 The process of both parts can be followed on the [blog](/posts).
 

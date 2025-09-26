@@ -13,7 +13,7 @@ type: docs
 Il 29 aprile 2024 ho ricevuto un invito a far parte del
 programma [Residency action di Culture Moves Europe](https://culture.ec.europa.eu/creative-europe/creative-europe-culture-strand/culture-moves-europe).
 
-Un [viaggio](/docs/journey) iniziato molti anni fa nella mia ricerca spirituale ha iniziato a prendere forma fisica nel
+Un [viaggio](/docs/art/It_is_in_all_of_us/journey/) iniziato molti anni fa nella mia ricerca spirituale ha iniziato a prendere forma fisica nel
 suo aspetto artistico.
 
 Nel 2012 avevo unito la fotografia e la tecnologia nella mia espressione artistica. Ora avrei tentato di unire anche la
@@ -31,7 +31,7 @@ sarei andato a vivere 4 anni dopo.
 Il secondo giorno della residenza ho visitato Tivoli e ho scoperto che lì c'era un tempio dedicato alla Sibilla
 Tiburtina.
 
-Ho interpretato questo come un segno: la [Sibilla](/docs/sibyl) mi avrebbe guidato nel cammino. Univa i due territori e
+Ho interpretato questo come un segno: la [Sibilla](/docs/art/It_is_in_all_of_us/sibyl/) mi avrebbe guidato nel cammino. Univa i due territori e
 la mia ricerca.
 
 {{% /columns %}}
@@ -60,10 +60,10 @@ Proviene dal nostro cuore, dalle stelle, dal suono originale che risuona in tutt
 In questo sito web raccolgo le note del viaggio. La prima parte copre la fase da settembre 2024 a gennaio 2025 in
 Italia.
 
-Come [metodologia di ricerca](/docs/first-part/methodology) ho utilizzato meditazione, letture, "salti binari" e integrazione in
+Come [metodologia di ricerca](/docs/art/It_is_in_all_of_us/first-part/methodology) ho utilizzato meditazione, letture, "salti binari" e integrazione in
 mappe mentali.
 La meditazione ha preso forma
-in [conversazioni con gli alberi](/docs/first-part/talking_with_the_trees), [disegno automatico](/docs/first-part/drawing)
+in [conversazioni con gli alberi](/docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees), [disegno automatico](/docs/art/It_is_in_all_of_us/first-part/drawing)
 e [fotografia](/docs/photography).
 
 ## Opere
@@ -73,7 +73,7 @@ alcune opere.
 
 ### Il sussurro delle ninfe 
 
-Il testo descritto _Il sussurro delle ninfe_ si può [leggere qui](/docs/first-part/sanctuary). 
+Il testo descritto _Il sussurro delle ninfe_ si può [leggere qui](/docs/art/It_is_in_all_of_us/first-part/sanctuary). 
 
 #### Fotografia
 
@@ -113,7 +113,7 @@ Puoi scaricare la versione [PDF](/fanzine/Esta_en_todos_nosotros_it.pdf) o [EPUB
 > Fanzine, A5, 12 pagine.
 
 Parlando del fatto che parte della metodologia di ricerca prevedeva "parlare con gli alberi", alcune persone hanno
-mostrato interesse. [Puoi leggere una piccola guida alla meditazione a questo link](/docs/first-part/talking_with_the_trees).
+mostrato interesse. [Puoi leggere una piccola guida alla meditazione a questo link](/docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees).
 
 # Conclusioni e domande
 
