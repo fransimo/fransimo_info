@@ -11,7 +11,9 @@ description: >
   Maenads and intuitive practices, reflecting on how art evokes mystery and altered states.
 date: 2025-02-06
 bookToc: false
-aliases: /blog/2025/02/06/it-is-in-all-of-us/
+aliases: 
+  - /blog/2025/02/06/it-is-in-all-of-us/
+  - /docs/art/photography/It_is_in_all_of_us/
 categories:
 - photography
 - research

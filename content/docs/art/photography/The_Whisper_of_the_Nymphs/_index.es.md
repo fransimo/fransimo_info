@@ -11,7 +11,9 @@ description: >
     las ménades y las prácticas intuitivas, reflexionando sobre cómo el arte evoca el misterio y los estados alterados.
 date: 2025-02-06
 bookToc: false
-aliases: /es/blog/2025/02/06/esta-en-todos-nosotros/
+aliases: 
+  - /es/blog/2025/02/06/esta-en-todos-nosotros/
+  - /es/docs/art/photography/It_is_in_all_of_us/
 categories:
 - photography
 - research
