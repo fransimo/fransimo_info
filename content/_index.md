@@ -19,7 +19,7 @@ tags:
 
 <div class="scroll-item">
     {{< figure
-      src="/webp/X1V45282-Enhanced-SR_hu_f87e8f9bdf00f663.webp"
+      src="/webp/The_Whisper_of_the_Nymphs.webp"
       alt="It is in all of us"
       link="/docs/art/It_is_in_all_of_us/"
       caption="Research: It is in all of us"
