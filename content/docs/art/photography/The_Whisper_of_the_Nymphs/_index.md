@@ -48,5 +48,24 @@ You can explore the project [here](../../It_is_in_all_of_us).
 ## Gallery
 
 {{< load-photoswipe >}}
-{{< gallery match="20*" />}}
+
+{{< gallery >}}
+ {{< picture src="20241104_1240_X1V44658_fransimo.jpg" >}}
+  {{< picture src="20241105_1047_X1V44833_fransimo.jpg" >}}
+  {{< picture src="20241105_1055_XT252796_fransimo.jpg" >}}
+  {{< picture src="20241105_1056_XT252803_fransimo.jpg" >}}
+  {{< picture src="20241105_1057_XT252812_fransimo.jpg" >}}
+  {{< picture src="20241105_1215_XT252842_fransimo.jpg" >}}
+  {{< picture src="20241111_1017_X1V45240_fransimo.jpg" >}}
+  {{< picture src="20241111_1035_X1V45244_fransimo.jpg" >}}
+  {{< picture src="20241111_1050_X1V45250-Pano_fransimo.jpg" >}}
+  {{< picture src="20241111_1055_X1V45257_fransimo.jpg" >}}
+  {{< picture src="20241111_1230_X1V45282-Enhanced-SR_fransimo.jpg" >}}
+  {{< picture src="20241112_1017_X1V45305_fransimo.jpg" >}}
+  {{< picture src="20241112_1038_X1V45328_fransimo.jpg" >}}
+  {{< picture src="20241117_1020_X1V45507-Enhanced-NR_fransimo.jpg" >}}
+  {{< picture src="20241128_1207_XT254129_fransimo.jpg" >}}
+  {{< picture src="20250104_1037_XT506210_fransimo.jpg" >}}
+{{< /gallery >}}
+
 
