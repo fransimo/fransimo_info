@@ -5,7 +5,7 @@ images:
 dateCreated: 2025
 artForm: Photograph
 schemaOrgType: VisualArtwork
-title: It is in all of us
+title: The Whisper of the Nymphs (the small contains a universe)
 description: >
   Explores the ancient connection between art and magic through research on Sibyls, Nymphs, 
   Maenads and intuitive practices, reflecting on how art evokes mystery and altered states.
@@ -19,7 +19,7 @@ categories:
 
 ![The Whisper of the Nymphs](X1V45282-Enhanced-SR.jpg)
 
-# It is in all of us
+# The Whisper of the Nymphs (the small contains a universe)
 
 “DIFFERENT PEOPLE make journeys for different reasons. Sometimes they’re forced; sometimes they think they choose.”
 — In the Dark Places of Wisdom, Peter Kingsley [p.15]
