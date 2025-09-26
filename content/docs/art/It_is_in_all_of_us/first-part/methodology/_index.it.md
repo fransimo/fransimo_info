@@ -77,7 +77,7 @@ entrare in meditazione e comunicazione con la rete di vita del bosco.
 
 ## Il Sussurro delle Ninfe (il piccolo contiene un universo)
 
-Il Sussurro delle Ninfe ha [la sua sezione dedicata qui](/docs/art/photography/The_Whisper_of_the_Nymphs/).
+Il Sussurro delle Ninfe ha [la sua sezione dedicata qui](/docs/art/It_is_in_all_of_us/first-part/sanctuary/).
 
 ## Salti binari
 
