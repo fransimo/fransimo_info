@@ -88,4 +88,18 @@ _[God Is in the Bugs](https://fransimo.info/blog/2021/07/31/god-is-in-the-bugs/)
 ## Gallery
 
 {{< load-photoswipe >}}
-{{< gallery caption-position="none" />}}
+{{< gallery >}}
+ {{< picture src="XT238744.jpg" >}}
+  {{< picture src="XT238761.jpg" >}}
+  {{< picture src="XT238764.jpg" >}}
+  {{< picture src="XT238773.jpg" >}}
+  {{< picture src="XT238777.jpg" >}}
+  {{< picture src="XT238787.jpg" >}}
+  {{< picture src="XT238794.jpg" >}}
+  {{< picture src="XT238818.jpg" >}}
+  {{< picture src="XT238820.jpg" >}}
+{{< /gallery >}}
+## Video
+
+{{< youtube id=L5AM6gjE7S8 autoplay=true loop=false mute=false allowFullScreen=true >}}
+
