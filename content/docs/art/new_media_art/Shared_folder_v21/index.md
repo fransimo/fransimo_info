@@ -106,4 +106,14 @@ I hope all this material makes you think. That’s my goal.
 
 ## Gallery
 {{< load-photoswipe >}}
-{{< gallery caption-position="none" />}}
+{{< gallery >}}
+  {{< picture src="DSC01593-Editar.jpg" >}}
+  {{< picture src="DSC02884-Editar.jpg" >}}
+  {{< picture src="DSC2674-Editar.jpg" >}}
+  {{< picture src="DSC_0157-Editar.jpg" >}}
+  {{< picture src="IMG_0026-Editar.jpg" >}}
+  {{< picture src="IMG_0060-Editar.jpg" >}}
+  {{< picture src="IMG_0668-Editar.jpg" >}}
+  {{< picture src="IMG_4934-Editar-2.jpg" >}}
+  {{< picture src="IMG_5027-Editar-2.jpg" >}}
+{{< /gallery >}}
