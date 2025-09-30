@@ -33,7 +33,23 @@ The mechanisms of the system’s self-control didn’t work. Nobody listened to 
 Every time I though about the crisis and its responsible I remember that Bruce Springsteen’s words in Youngstown “Once I made you rich enough, rich enough to forget my name” 
 
 {{< load-photoswipe >}}
-{{< gallery />}}
-
+{{< gallery >}}
+  {{< picture src="es_lloga_fran_simo_01__ISC1838_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_02__ISC2266_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_03__ISC1805_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_04__ISC1899_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_05__ISC1823_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_06_ISC_6942_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_07__ISC2294_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_08__ISC2357_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_09__ISC2394_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_10_ISC_6761_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_11__ISC9272_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_12__ISC9364_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_13__ISC9425_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_14__JSC7309_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_15__JSC9893_DxO.jpg" >}}
+  {{< picture src="es_lloga_fran_simo_16__JSC7797_DxO.jpg" >}}
+{{< /gallery >}}
 
 {{< embedpdf url="/EsLloga/PicturingAnEthicalEconomy_PressRelease.pdf" >}}
