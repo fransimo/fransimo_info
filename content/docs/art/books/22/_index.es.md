@@ -69,4 +69,27 @@ Quise reproducir lo que podrían haber sido fotografías hechas con una cámara 
 # Fotografías
 
 {{< load-photoswipe >}}
-{{< gallery match="22_f*" caption-position="none" />}}
+{{< gallery >}}
+  {{< picture src="22_fran_simo_01.jpg" >}}
+  {{< picture src="22_fran_simo_02.jpg" >}}
+  {{< picture src="22_fran_simo_03.jpg" >}}
+  {{< picture src="22_fran_simo_04.jpg" >}}
+  {{< picture src="22_fran_simo_05.jpg" >}}
+  {{< picture src="22_fran_simo_06.jpg" >}}
+  {{< picture src="22_fran_simo_07.jpg" >}}
+  {{< picture src="22_fran_simo_08.jpg" >}}
+  {{< picture src="22_fran_simo_09.jpg" >}}
+  {{< picture src="22_fran_simo_10.jpg" >}}
+  {{< picture src="22_fran_simo_11.jpg" >}}
+  {{< picture src="22_fran_simo_12.jpg" >}}
+  {{< picture src="22_fran_simo_13.jpg" >}}
+  {{< picture src="22_fran_simo_14.jpg" >}}
+  {{< picture src="22_fran_simo_15.jpg" >}}
+  {{< picture src="22_fran_simo_16.jpg" >}}
+  {{< picture src="22_fran_simo_17.jpg" >}}
+  {{< picture src="22_fran_simo_18.jpg" >}}
+  {{< picture src="22_fran_simo_19.jpg" >}}
+  {{< picture src="22_fran_simo_20.jpg" >}}
+  {{< picture src="22_fran_simo_21.jpg" >}}
+  {{< picture src="22_fran_simo_22.jpg" >}}
+{{< /gallery >}}
