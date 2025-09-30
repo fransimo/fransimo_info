@@ -44,4 +44,38 @@ Comencé *Traces* como un proyecto personal, pero pronto decidí experimentarlo 
 
 ## Galería  
 {{< load-photoswipe >}}  
-{{< gallery />}}  
+{{< gallery >}}
+  {{< picture src="fran_simo_traces_1_02__A009704_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_1_04__A009716_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_1_06__A009733_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_1_08__A009741_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_1_09__A009744_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_1_11__A009754_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_1_13__A009763_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_3_01__A010336_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_3_02__A010340_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_3_06__A010395_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_3_11__A010473_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_3_12__A010476_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_3_17__A010506_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_3_19__A010531_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_4_06__A011208_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_4_15__A011350_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_4_17__A011366_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_4_18__A011370_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_4_19__A011468_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_4_20__A011478_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_5_06__A015778_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_5_08__A015790_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_5_14__A015886_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_6_01__A020912_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_6_10__A020991_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_6_13__A021016_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_6_15__A021033_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_6_17__A021041_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_7_02__A021263_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_7_03__A021387_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_7_06__A021527_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_7_07__A021625_DxO.jpg" >}}
+  {{< picture src="fran_simo_traces_7_14__A021858_DxO.jpg" >}}
+{{< /gallery >}}
