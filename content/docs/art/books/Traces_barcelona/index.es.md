@@ -148,4 +148,11 @@ evolucionado para convertirse en lo que ahora podéis disfrutar.
 Traces es un proyecto de Fran Simó para [Barcelona Photobloggers](http://barcelonaphotobloggers.org/).
 
 {{< load-photoswipe >}}
-{{< gallery match="*.JPG" caption-position="none" />}}
+{{< gallery >}}
+  {{< picture src="DSCF1435.jpg" >}}
+  {{< picture src="DSCF1438-2.jpg" >}}
+  {{< picture src="_A029760_DxO.jpg" >}}
+  {{< picture src="_A029838_DxO.jpg" >}}
+  {{< picture src="IMG_6744.JPG" >}}
+  {{< picture src="IMG_6770.JPG" >}}
+{{< /gallery >}}

@@ -107,4 +107,11 @@ It wasn’t hard to find good partners for getting lost in Barcelona and getting
 Traces is a Fran Simó's project for [Barcelona Photobloggers](http://barcelonaphotobloggers.org/).
 
 {{< load-photoswipe >}}
-{{< gallery match="*.JPG" caption-position="none" />}}
+{{< gallery >}}
+  {{< picture src="DSCF1435.jpg" >}}
+  {{< picture src="DSCF1438-2.jpg" >}}
+  {{< picture src="_A029760_DxO.jpg" >}}
+  {{< picture src="_A029838_DxO.jpg" >}}
+  {{< picture src="IMG_6744.JPG" >}}
+  {{< picture src="IMG_6770.JPG" >}}
+{{< /gallery >}}
