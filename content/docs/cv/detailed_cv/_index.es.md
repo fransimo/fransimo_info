@@ -13,7 +13,7 @@ Nació en 1973 en Villa Carlos Paz, Córdoba, Argentina.
 
 Residencia: entre Estambul, Palma y Barcelona.
 
-[Página web](https://fransimo.info) |  [Correo electrónico](mailto:contact@fransimo.info) | [PDF Download](detailed_cv.es.pdf)
+[Página web](https://fransimo.info) |  [Correo electrónico](mailto:contact@fransimo.info) | [PDF Download](fransimo_detailed_cv.es.pdf)
 
 
 # Educación
@@ -26,7 +26,7 @@ Residencia: entre Estambul, Palma y Barcelona.
 | 1992-1998 | Ingeniero en Sistemas de Información \- Universidad Tecnológica Nacional, Córdoba, Argentina. |
 | 1986-1991 | Técnico informático \- Colegio Nacional Villa Carlos Paz, Villa Carlos Paz, Argentina. |
 
-## Masaje y Arte
+## Terapias y Arte
 
 | Años | Asunto |
 | :---- | :---- |

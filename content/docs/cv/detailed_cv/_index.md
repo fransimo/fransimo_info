@@ -16,7 +16,7 @@ Born in 1973 in Villa Carlos Paz, Córdoba, Argentina.
 
 Residence: drifting between Istanbul, Palma and Barcelona.
 
-[Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info) | [PDF Download](detailed_cv.pdf)
+[Website](https://fransimo.info) | [Email](mailto:contact@fransimo.info) | [PDF Download](fransimo_detailed_cv.pdf)
 
 # Education
 
