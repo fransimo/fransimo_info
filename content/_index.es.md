@@ -128,7 +128,6 @@ participativas en las que la interacción y los datos se complementan en una exp
 
 ## [Código](docs/code)
 
-_Hacer real en la red la energía creativa en todas sus expresiones._
 
 {{% /columns %}}
 
