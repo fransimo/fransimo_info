@@ -95,15 +95,14 @@ tags:
 # Arte, presencia y código para recorrer juntos el camino.
 
 Combino el arte, la magia y la tecnología para crear un espacio de reflexión sobre la vida, la identidad, la memoria y
-la privacidad mediante proyectos de new media art, fotografía, dibujo, vídeo, instalaciones, libros y fanzines.
+la privacidad, mediante proyectos de new media art, fotografía, dibujo, vídeo, instalaciones, libros y fanzines.
 
 La investigación sobre arte y magia requiere una práctica mágica real que, en mi caso, se manifiesta a través de la
-meditación, el estudio de la biodinámica craneosacral y la sanación vibracional con Tameana. A su vez, el proceso 
-creativo del arte retroalimenta los procesos mágicos.
+meditación, el estudio de la biodinámica craneosacral y la sanación vibracional con Tameana. A su vez, el proceso
+creativo retroalimenta esa práctica.
 
-El código es un puente para explorar la relación entre el arte, la vida y la tecnología que permite
-crear obras interactivas y participativas donde la interacción y los datos forman parte del sentido; cada gesto
-del público transforma la pieza y la comunidad que la rodea.
+El código es un puente para explorar la relación entre arte, vida y tecnología; permite crear obras interactivas y
+participativas en las que la interacción y los datos se complementan en una experiencia para ayudar a la reflexión.
 
 {{% columns %}}
 

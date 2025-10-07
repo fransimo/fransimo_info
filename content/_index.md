@@ -96,10 +96,14 @@ tags:
 # Art, presence and code to walk the path together.
 
 I combine art, magic and technology to create a space for reflection on life, identity, memory and
-privacy through new media art projects, photography, drawing, video, installations, books and fanzines.
+privacy, through projects involving new media art, photography, drawing, video, installations, books and fanzines.
 
 Research into art and magic requires real magical practice, which, in my case, manifests itself through
-meditation, the study of craniosacral biodynamics and vibrational healing with Tameana.
+meditation, the study of craniosacral biodynamics and vibrational healing with Tameana. In turn, the creative process
+feeds back into that practice.
+
+Code is a bridge for exploring the relationship between art, life and technology; it allows for the creation of interactive and
+participatory works in which interaction and data complement each other in an experience that aids reflection.
 
 {{% columns %}}
 
