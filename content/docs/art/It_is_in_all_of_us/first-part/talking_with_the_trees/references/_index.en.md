@@ -37,6 +37,8 @@ fundamental answers. They only create more problems. (DPW, p. 6)
 
 We can and must draw inspiration from India and America, but without losing sight of the fact that magic “is in all of us”. Knowing that they speak to us in another language that resonates within us because it is a fundamental truth, but one that we must translate.
 
+As an example of these translations, we can read Dhyani Ywahoo (Tsalagi / Cherokee) in [Voices of Our Ancestors: Teachings from the Wisdom Fire](https://amzn.to/4pZTg5w):
+
 > Practice of sacred relationship is practice of good relations with all in the family of life. Thus the Pale One gave seven reminders to the people, that all might recall and honor the unity of the hoop:
 > 
 > 1. What walks, swims, flies, or creeps is in relationship; the mountains, streams, and valleys and all things are related to your thought and action.
@@ -61,6 +63,7 @@ We can and must draw inspiration from India and America, but without losing sigh
 > 
 > The Pale One is a cyclically incarnating being. He comes when the people have forgotten their sacred ways, bringing reminders of the Law, recalling all to right relationship. He is expected soon again, and he may be alive even now. It is good.
 > 
+> (Page 19-21)
 
 Hindu sages from many traditions could be cited as Dhyani Ywahoo.
 

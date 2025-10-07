@@ -15,7 +15,7 @@ aliases: /docs/bibliography/
   Peter Kingsley
 - [Psychomagic: The Transformative Power of Shamanic Psychotherapy](https://a.co/d/2fq4I9S) 
   Alejandro Jodorowsky 
-- [Voices of Our Ancestors: Cherokee Teachings from the Wisdom Fire](https://a.co/d/gGsvm2P)
+- [Voices of Our Ancestors: Teachings from the Wisdom Fire](https://amzn.to/4pZTg5w)
   Dhyani Ywahoo
 - [Psychedelic Mysteries of the Feminine: Creativity, Ecstasy, and Healing](https://a.co/d/8nU73ru) 
   Maria Papaspyrou, Chiara Baldini, David Luke...
