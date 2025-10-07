@@ -37,29 +37,30 @@ fundamental answers. They only create more problems. (DPW, p. 6)
 
 We can and must draw inspiration from India and America, but without losing sight of the fact that magic “is in all of us”. Knowing that they speak to us in another language that resonates within us because it is a fundamental truth, but one that we must translate.
 
-> Practice of sacred relationship is the practice of good relations with all in the family of life. Thus the Pale One gave seven reminders to the people, that all might recall and honor the unity of the hoop:
->
-> 1. What walks, swims, flies, or crawls is in relationship; the mountains, streams, and valleys and all things are related to your thought and action.  
-> 2. What occurs around you and within you reflects your own mind and shows you the dream you are weaving.  
-> 3. Three principles of awakened mind guide enlightened action: will to see the Mystery as it is; intention to manifest one’s purpose for the benefit of all; courage to do what must be done.  
-> 4. Generosity of heart and action brings peace and abundance for all in the circle.  
-> 5. Respect for elders, clan, land, and nation inspires acts in harmony with the sacred law, good caretaking of the gifts received.  
-> 6. Action to benefit the land and the people unto seven generations shapes the consciousness of the Planetary Caretaker, dreaming those yet unborn, ever mindful of life’s unfolding.  
-> 7. To be in good relation, transforming patterns of separation, pacifying conflicting emotions, is to experience the wisdom within, still lake of Mystery.  
->
-> From these teachings arise the Nine Precepts in the Code of Right Relationship:  
->
-> 1. Speak only words of truth.  
-> 2. Speak only of the good qualities of others.  
-> 3. Be a confidant and carry no tales.  
-> 4. Turn aside the veil of anger to release the beauty inherent in all.  
-> 5. Waste not the bounty, and want not.  
-> 6. Honor the light in all. Compare nothing; see all for its suchness.  
-> 7. Respect all life; cut away the ignorance from one’s own heart.  
-> 8. Neither kill nor harbor thoughts of an angry nature, which destroy peace like an arrow.  
-> 9. Do it now; if you see what needs doing, do it.  
->
-> *(translated paraphrase from the Spanish source)* The Pale One is a being who incarnates cyclically. He comes… It is expected that he will return soon, and he may already be alive. That is good.
+> Practice of sacred relationship is practice of good relations with all in the family of life. Thus the Pale One gave seven reminders to the people, that all might recall and honor the unity of the hoop:
+> 
+> 1. What walks, swims, flies, or creeps is in relationship; the mountains, streams, and valleys and all things are related to your thought and action.
+> 2. What occurs around you and within you reflects your own mind and shows you the dream you are weaving.
+> 3. Three principles of awakened mind guide enlightened action: will to see the Mystery as it is; intention to manifest one's purpose for the benefit of all; courage to do what must be done.
+> 4. Generosity of heart and action brings peace and abundnce for all in the circle.
+> 5. Respect for elders, clan, land, and nation inspires acts in harmony with the sacred law, good caretaking of the gifts received.
+> 6. Action to benefit the land and the people unto seven generations shapes the consciousness of the Planetary Caretaker, dreaming those yet unborn, ever mindful of life's unfolding.
+> 7. To be in good relation, transforming patterns of separation, pacifying conflicting emotions, is to experience the wisdom within, still lake of Mystery.
+> 
+> Arising from these teachings are the nine precepts in the Code of Right Relationship:
+> 
+> 1. Speak only words of truth.
+> 2. Speak only of the good qualities of others.
+> 3. Be a confidant and carry no tales.
+> 4. Turn aside the veil of anger to release the beauty inherent in all.
+> 5. Waste not the bounty, and want not.
+> 6. Honor the light in all. Compare nothing; see all for its suchness.
+> 7. Respect all life; cut away ignorance from one's own hart.
+> 8. Neither kill nor harbor thoughts of angry nature, which destroy peace like an arrow.
+> 9. Do it now; if you see what needs doing, do it.
+> 
+> The Pale One is a cyclically incarnating being. He comes when the people have forgotten their sacred ways, bringing reminders of the Law, recalling all to right relationship. He is expected soon again, and he may be alive even now. It is good.
+> 
 
 Hindu sages from many traditions could be cited as Dhyani Ywahoo.
 
