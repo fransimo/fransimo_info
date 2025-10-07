@@ -105,6 +105,11 @@ feeds back into that practice.
 Code is a bridge for exploring the relationship between art, life and technology; it allows for the creation of interactive and
 participatory works in which interaction and data complement each other in an experience that aids reflection.
 
+My work is centered on the connection of three disciplines that are often perceived as distinct: Art, Healing
+(which I call Magic), and Technology. This is not a conceptual exercise but the core of a personal and professional
+journey. By integrating these practices, I am forging a unique language aimed at evoking healing and expanding
+consciousness. [The manifesto articulates the philosophy that unifies these streams into a single, cohesive current.](posts/art_blog/2025/10/07_Statement)
+
 {{% columns %}}
 
 ## [Art](docs/art)

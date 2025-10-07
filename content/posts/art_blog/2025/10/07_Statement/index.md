@@ -11,9 +11,6 @@ draft: false
 bookToc: true
 ---
 
-
-Reference: https://notebooklm.google.com/notebook/5e637fb1-d0cd-4277-baa7-cb6ae95149e9
-
 > "If love is the only path, art is the best way to walk it."
 
 > "Art is plastic thought. A swing between ideas and aesthetics. The beauty of a piece is a crack in the walls of the cavern. If while creating it vibrates, the wave would find its chords and it will shake the world."
