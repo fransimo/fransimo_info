@@ -19,7 +19,7 @@ aliases: /docs/bibliography/
   Dhyani Ywahoo
 - [Psychedelic Mysteries of the Feminine: Creativity, Ecstasy, and Healing](https://a.co/d/8nU73ru) 
   Maria Papaspyrou, Chiara Baldini, David Luke...
-- [The Tree](https://a.co/d/63z1ozD) 
+- [The Tree](https://amzn.to/4gYjhOt) 
   John Fowles
 - [Staying with the Trouble: Making Kin in the Chthulucene](https://a.co/d/iKeDvkM) Donna J. Haraway
 

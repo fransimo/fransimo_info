@@ -33,7 +33,7 @@ Hoy tenemos muchas tradiciones que nos pueden ayudar pero siempre deberíamos te
 
 Podemos y necesitamos alimentarnos de la India y América, pero sin perder de vista que la magia “está en todos nosotros”. Sabiendo que nos hablan en otro idioma que resuena en nuestro interior por ser verdad fundamental pero que debemos traducir. 
 
-Como ejemplo de esas traducciónes podemos leer a Dhyani Ywahoo (Tsalagi / Cheroquí) en [Voices of Our Ancestors: Cherokee Teachings from the Wisdom Fire](https://amzn.to/4hJgdoo):
+Como ejemplo de esas traducciónes podemos leer a Dhyani Ywahoo (Tsalagi / Cheroquí) en [Las voces de nuestros antepasados](https://amzn.to/3KBx1CJ):
 
 > La práctica de la relación sagrada es la práctica de buenas relaciones con todo en la familia de la vida. Así, el Pálido dio siete recordatorios a la gente, para que todos recordarán y honraran la unidad del círculo:
 > 

@@ -162,6 +162,11 @@ Imagine entering that connection. Perceive its shapes, its colors. Breathe deepl
 
 Open your heart with each breath and allow the life from outside to meet the life within. **You are the forest, you are life. Everything is within you; you just need to remember it. It has never been anywhere else.**
 
+# References
+
+This text brings together many years of work, retreats, and experiences in meditation, walking the landscape, and various somatic techniques, especially massage. You can read more details [here](references/).
+
+
 [^1]:
     Developing individuality in some spiritual currents is considered the duty of our incarnation, to provide a light that complements the spectrum in unity. For the soul to find a way to shine in resonance and harmony with others, fulfilling its path is possible with a certain degree of individuality.
 

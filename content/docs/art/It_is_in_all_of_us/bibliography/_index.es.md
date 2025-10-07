@@ -14,7 +14,7 @@ aliases: /es/docs/bibliography/
 - [En los oscuros lugares del saber.](https://amzn.to/3WREkcI)
   Peter Kingsley
 - [Psicomagia](https://amzn.to/4jSsCIS) Alejandro Jodorowsky 
-- [Voices of Our Ancestors: Cherokee Teachings from the Wisdom Fire](https://amzn.to/4hJgdoo) Dhyani Ywahoo
+- [Las voces de nuestros antepasados](https://amzn.to/4mPV6TC) Dhyani Ywahoo
 - [Misterios psicodélicos de lo femenino. Creatividad. Éxtasis. Sanación](https://amzn.to/4aToS5t) 
   Maria Papaspyrou, Chiara Baldini, David Luke...
 - [El árbol](https://amzn.to/4eOay0p) 
