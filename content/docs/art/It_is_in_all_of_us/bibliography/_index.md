@@ -4,6 +4,7 @@ bookFlatSection: false
 title: "Bibliography"
 bookHidden: false
 bookToc: false
+aliases: /docs/bibliography/
 ---
 
 # Bibliography and references
