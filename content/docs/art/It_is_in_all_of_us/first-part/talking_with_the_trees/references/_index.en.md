@@ -23,17 +23,17 @@ And here I quote Peter Kingsley, in [*In the Dark Places of Wisdom*](https://amz
 
 Kingsley also says:
 
-> This life of the senses can never fulfil us, even though the whole world will tel1 us the oρρosite. It never was meant to fulfil us. The truth is so simρle, so lovingly simple: if we want to grow up, become true men and women, we have to face death before we die. We have to discover what it is to be able to slide behind the scenes and disappear. (DPW, p. 6)
+> This life of the senses can never fulfil us, even though the whole world will tel1 us the opposite. It never was meant to fulfil us. The truth is so simple, so lovingly simple: if we want to grow up, become true men and women, we have to face death before we die. We have to discover what it is to be able to slide behind the scenes and disappear. (DPW, p. 6)
 
 This clear reference to the initiatory path may be very extreme, although it is nonetheless true. I prefer to believe that there is a middle ground in the dialogue with life. A gentler path that allows us to access what we have forgotten with smaller steps that we can incorporate into our daily lives, which can seep in like water from a stream that gradually clears our blindness. A simple practice that helps us open the door to the wisdom of life so that it can seep into our art, from where it can help others.
 
 Today we have many traditions that can help us, but we should always keep in mind these words from PK:
 
 > But we belong to the West. The more we find in the
-East οι- anywhere else the more it makes us inwardly
+East οr anywhere else the more it makes us inwardly
 divided, homeless in our own land. We become cultural
 tramps and vagabonds. The solutions we find are never
-fundamental answers. They only aeate more ρroblems. (DPW, p. 6)
+fundamental answers. They only create more problems. (DPW, p. 6)
 
 We can and must draw inspiration from India and America, but without losing sight of the fact that magic “is in all of us”. Knowing that they speak to us in another language that resonates within us because it is a fundamental truth, but one that we must translate.
 
