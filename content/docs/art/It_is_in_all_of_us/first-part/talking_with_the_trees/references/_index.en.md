@@ -11,7 +11,7 @@ tags:
 
 # References
 
-This text brings together many years of work, retreats, and experiences in meditation, walking the landscape, and various somatic techniques, especially massage.
+This text _"A Little Guide to Talking with Trees"_ brings together many years of work, retreats, and experiences in meditation, walking the landscape, and various somatic techniques, especially massage.
 
 These words are not new; to cite some bibliographic sources, for example Max Dashu in [Mysteries of the Feminine](https://amzn.to/3KFKXLS), *Woman Shaman*, wrote:
 

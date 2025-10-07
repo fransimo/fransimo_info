@@ -11,7 +11,7 @@ tags:
 
 # Referencias
 
-Este texto combina muchos años de trabajo, retiros y experiencias en meditación, caminatas conscientes por el paisaje y varias técnicas corporales, especialmente de masaje.
+Este texto _"Pequeña guía para hablar con los árboles"_ combina muchos años de trabajo, retiros y experiencias en meditación, caminatas conscientes por el paisaje y varias técnicas corporales, especialmente de masaje.
 
 Estas palabras no son nuevas, por citar algunas fuentes bibliográficas tenemos, por ejemplo, Max Dashsu en [Misterios psicodélicos de lo femenino](https://amzn.to/4aToS5t), Mujer Chamana, decía:
 
