@@ -100,6 +100,7 @@ la privacidad mediante proyectos de new media art, fotografía, dibujo, vídeo, 
 La investigación sobre arte y magia requiere una práctica mágica real que, en mi caso, se manifiesta a través de la
 meditación, el estudio de la biodinámica craneosacral y la sanación vibracional con Tameana.
 
+
 {{% columns %}}
 
 ## [Arte](docs/art)

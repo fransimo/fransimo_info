@@ -95,6 +95,12 @@ tags:
 
 # Art, presence and code to walk the path together.
 
+I combine art, magic and technology to create a space for reflection on life, identity, memory and
+privacy through new media art projects, photography, drawing, video, installations, books and fanzines.
+
+Research into art and magic requires real magical practice, which, in my case, manifests itself through
+meditation, the study of craniosacral biodynamics and vibrational healing with Tameana.
+
 {{% columns %}}
 
 ## [Art](docs/art)
@@ -136,5 +142,4 @@ tags:
 
 
 {{% /columns %}}
-
 
