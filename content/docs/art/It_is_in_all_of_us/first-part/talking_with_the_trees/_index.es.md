@@ -214,6 +214,12 @@ ti: los olores, los sonidos, una gota, una hoja que cae cerca o sobre ti. El tie
 Abre tu corazón con cada inspiración y permite que la vida de afuera se encuentre con la vida de adentro. **Tú eres el
 bosque, tú eres la vida. Todo está en ti, solo necesitas recordarlo. Nunca ha estado en otra parte.**
 
+# Referencias
+
+Este texto combina muchos años de trabajo, retiros y experiencias en meditación, caminatas conscientes por el paisaje 
+y varias técnicas corporales, especialmente de masaje. Puedes leer más detallés [aquí](references/).
+
+
 [^1]: Desarrollar la individualidad en algunas corrientes espirituales es considerado el deber de nuestra encarnación,
 para aportar una luz que complemente el espectro en la unidad. Que el alma encuentre una forma de brillar en resonancia
 y armonía con los otros cumpliendo su camino es posible con cierto grado de individualidad.
