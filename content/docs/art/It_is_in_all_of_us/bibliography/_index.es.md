@@ -20,6 +20,7 @@ aliases: /es/docs/bibliography/
 - [El árbol](https://amzn.to/4eOay0p) 
   John Fowles
 - [Seguir con el problema: Generar parentesco en el Chthuluceno](https://amzn.to/4gzPLN0) Donna J. Haraway
+- [El Arte Mágico](https://amzn.to/48QLd4I) André Breton
 
 ### En la estantería
 

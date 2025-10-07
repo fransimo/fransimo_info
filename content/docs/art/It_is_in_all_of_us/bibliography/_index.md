@@ -22,6 +22,7 @@ aliases: /docs/bibliography/
 - [The Tree](https://amzn.to/4gYjhOt) 
   John Fowles
 - [Staying with the Trouble: Making Kin in the Chthulucene](https://a.co/d/iKeDvkM) Donna J. Haraway
+- [Magic Art](https://amzn.to/4o30nrT) André Breton
 
 ### On the bookshelf
 
