@@ -90,6 +90,9 @@ tags:
 </div>
 
 # Arte, presencia y código para recorrer juntos el camino.
+
+«Arte, presencia y código para recorrer juntos el camino» describe mi presente: enlazo arte, sanación (magia) y tecnología para forjar un lenguaje propio orientado a la belleza, la sanación y la expansión de la conciencia. Concibo el arte como pensamiento plástico que explora vida, identidad, memoria y privacidad mediante fotografía, vídeo y transmedia. La presencia sostiene la sanación: investigar el Arte y la Magia requiere una práctica mágica real. Con 26 años en ingeniería de software integro código y experiencias interactivas. Este camino es compartido: procesos participativos y comunidad.
+
 {{% columns %}}
 
 ## [Arte](docs/art)
@@ -99,18 +102,25 @@ tags:
 > - [Fotografía](docs/art/photography)
 > - [Statement](docs/art/statement)
 
+_Si el amor es el único camino, el arte es la mejor manera de andarlo._
+
 <--->
 
 ## [Presencia](docs/presence)
+
 
 > - [Tameana](docs/presence/tameana)
 > - [Biodinámica craneosacral](docs/presence/biodinamica_craneosacral)
 > - [Masaje holistico](docs/presence/holistic_session)
 > - [Precios](docs/presence/drafts/prices)
 
+_Observar sin juzgar. Entregarse a la vida en movimiento._
+
 <--->
 
 ## [Código](docs/code)
+
+Hacer real en la red la energía creativa en todas sus expresiones.
 
 {{% /columns %}}
 
@@ -127,3 +137,26 @@ tags:
 
 ## [Blog](posts)
 {{% /columns %}}
+
+
+
+La frase **"Arte, presencia y código para recorrer juntos el camino"** define la etapa actual del viaje de Fran Simó, la cual se centra en **conectar el arte, la sanación (la magia) y la tecnología**. El eje principal de este camino es profundizar y entrelazar estas tres disciplinas para formar un lenguaje único que aspire a evocar **la sanación y la expansión de la conciencia** a través de la creación artística.
+
+**Arte y el Camino:**
+El arte es concebido como **pensamiento plástico**, un vaivén entre la estética y las ideas. Se busca que la belleza de la obra sea un "orificio en las paredes de la caverna" y que, si esta "vibra" al crearse, su onda encuentre sus acordes y sacuda el mundo. Las expresiones artísticas exploran temas de vida, identidad, memoria y privacidad, utilizando fotografía, video y transmedia. En un sentido más amplio, si el amor se considera el único camino, el arte es la mejor forma de andarlo. Este recorrido personal es también un encuentro, pues "al final del viaje siempre hay un espejo".
+
+**Presencia y Sanación:**
+La *presencia* está intrínsecamente ligada a la sanación. Desde 2019, esta dimensión se ha explorado a través de prácticas como el **Tantra, la canalización, la biodinámica craneosacral, el Reiki y la Tameana**. El trabajo con el masaje ha sido fundamental para profundizar la comprensión de la energía corporal y los procesos de sanación. Estas prácticas han ayudado a eliminar gradualmente las capas del miedo que por muchos años cegó la mente, permitiendo un acercamiento al verdadero ser.
+
+**Código y Tecnología:**
+El *código* se integra desde la base de 26 años de experiencia como **ingeniero de software** en multinacionales. Esta experiencia tecnológica se aplica al arte mediante la creación de **plataformas digitales y exposiciones interactivas** que buscan fomentar las conexiones entre el ámbito humano y el virtual. Como artista new media, se explora la relación entre el hombre y la tecnología, prestando especial atención a la inteligencia artificial y las posibilidades del código y hardware abierto.
+
+**Recorrer Juntos:**
+La intención de esta fase del viaje es sumergirse por completo en la realidad y transformarla. Esto se logra con la ayuda de "compañeros de viaje". En el ámbito artístico, la trayectoria ha incluido la exploración de **procesos participativos y colaborativos**, los cuales funcionan como una forma de encuentro para la creación de comunidades.
+
+
+
+
+
+Arte, presencia y código para recorrer juntos el camino.
+Vengo de la ingeniería y los algoritmos, y los convierto en rito: dispositivos sensibles que escuchan al cuerpo y al dato, y obras que abren espacio al misterio. Creo que no se puede investigar el Arte y la Magia sin practicar la magia: una disciplina viva de atención, silencio y entrega que atraviesa mi proceso creativo y terapéutico. Mi trabajo busca lo sagrado en lo cotidiano y lo traduce en experiencias: instalaciones, imágenes y herramientas que cuidan, convocan sentido y nos invitan a caminar —contemplativos, lúcidos, acompañados.
