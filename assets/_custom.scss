@@ -63,22 +63,70 @@ a:active {
 
 /* horizontal-scroll-container for home  */
 
+/* Optional: set your page bg so the fade matches your theme */
+:root { --hs-gutter: clamp(40px, 6vw, 72px); }
+
+/* wrapper to anchor the overlay */
+.hs-wrap {
+  position: relative;
+}
+
+/* keep your existing styles, plus a bit of right padding so the arrow doesn't cover content */
 .horizontal-scroll-container {
   display: flex;
   overflow-x: auto;
   scroll-snap-type: x mandatory;
   gap: 1rem;
   padding-bottom: 1rem;
+  padding-right: clamp(40px, 6vw, 72px); /* NEW */
+  scroll-behavior: smooth; /* nice to have */
 }
 
-.horizontal-scroll-container::-webkit-scrollbar {
-  height: 8px;
+.horizontal-scroll-container { padding-right: var(--hs-gutter); }
+
+.hs-arrow {
+  position: absolute;
+  top: 0; right: 0;
+  height: 100%;
+  width: var(--hs-gutter);
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  z-index: 5;
+  background: transparent;        /* no gradient */
+  pointer-events: auto;
+  /* subtle separation line on the left edge */
+  box-shadow: inset 10px 0 10px -10px rgba(0,0,0,0.20);
 }
 
-.horizontal-scroll-container::-webkit-scrollbar-thumb {
-  background-color: rgba(0, 0, 0, 0.3);
-  border-radius: 4px;
+/* chevron icon (SVG) with a gentle nudge animation */
+.hs-arrow::before {
+  content: "";
+  width: 30px; height: 30px;      /* slightly larger for visibility */
+  background: no-repeat center / contain
+    url('data:image/svg+xml;utf8,\
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">\
+<path d="M8 4l8 8-8 8" fill="none" stroke="%23000" stroke-width="3" \
+stroke-linecap="round" stroke-linejoin="round"/></svg>');
+  opacity: 1;
 }
+
+@keyframes hs-nudge {
+  0%, 60%, 100% { transform: translateX(0); }
+  30% { transform: translateX(6px); }
+}
+
+/* Hide when not needed */
+.hs-arrow.is-hidden { display: none; }
+
+/* Dark scheme tweak */
+@media (prefers-color-scheme: dark) {
+  .hs-arrow { box-shadow: inset 10px 0 10px -10px rgba(255,255,255,0.25); }
+  .hs-arrow::before { filter: invert(1); } /* white chevron in dark mode */
+}
+
 
 .scroll-item {
   scroll-snap-align: start;

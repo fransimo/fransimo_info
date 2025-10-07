@@ -1,2 +1,28 @@
 {{ partial "hreflang.html" . }}
 {{ partial "ldjson.html" . }}
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // Prefer the ID; fall back to the class inside the wrapper
+  const scroller =
+    document.getElementById('home-scroll') ||
+    document.querySelector('.hs-wrap .horizontal-scroll-container');
+  const arrow = document.querySelector('.hs-arrow');
+  if (!scroller || !arrow) return;
+
+  function updateArrow() {
+    // guard against rounding quirks across browsers
+    const atEnd = scroller.scrollLeft + scroller.clientWidth >= scroller.scrollWidth - 1;
+    arrow.classList.toggle('is-hidden', atEnd);
+  }
+
+  updateArrow();
+  scroller.addEventListener('scroll', updateArrow, { passive: true });
+  window.addEventListener('resize', updateArrow);
+
+  arrow.addEventListener('click', function () {
+    const step = Math.max(160, Math.floor(scroller.clientWidth * 0.8));
+    scroller.scrollBy({ left: step, behavior: 'smooth' });
+  });
+});
+</script>

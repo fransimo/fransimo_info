@@ -15,7 +15,9 @@ tags:
   - spirituality
   - tantra
 ---
-<div class="horizontal-scroll-container">
+
+<div class="hs-wrap">
+<div class="horizontal-scroll-container" id="home-scroll">
 
 <div class="scroll-item">
     {{< figure
@@ -87,6 +89,8 @@ tags:
     >}}
 </div>
 
+<button class="hs-arrow" type="button" aria-label="Scroll right" title="Scroll →"></button>
+</div>
 </div>
 
 # Art, presence and code to walk the path together.
@@ -107,7 +111,7 @@ tags:
 > - [Tameana](docs/presence/tameana)
 > - [Craniosacral Biodynamics](docs/presence/biodinamica_craneosacral)
 > - [Holistic Massage](docs/presence/holistic_session)
-> - [Prices](docs/presence/drafts/prices)
+> - [Book a session](docs/presence/book)
 
 <--->
 
@@ -120,14 +124,16 @@ tags:
 ## [About](docs/cv)
 
 > - [Detailed CV](docs/cv/detailed_cv.md)
-
-<--->
-
-## [Contact](docs/contact)
+> - [Contact](docs/contact)
 
 <--->
 
 ## [Blog](posts)
+> - [Press](/categories/press/)
+
+<--->
+
+
 
 {{% /columns %}}
 

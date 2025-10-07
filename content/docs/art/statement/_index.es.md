@@ -19,7 +19,7 @@ A su vez trabajo la [fotografía intuitiva](http://fransimo.info/blog/2009/01/01
 
 Presento mis trabajos organizados en series de imágenes, como instalaciones, fotolibros… o creando environments en los que las fotografías aparecen acompañadas de vídeo y/o música. Durante el desarrollo de mi trayectoria he explorado los procesos participativos y colaborativos convertidos en una forma de encuentro para la creación de comunidades y para la divulgación de la fotografía como expresión artística individual y en equipo. Paralelamente he organizado exposiciones, debates, publicaciones, campañas de marketing, etc.
 
-### motivación
+## Motivación
 
 Ser artista es una adicción y una obligación moral. Una vez que descubres que con una pincelada puedes iluminar una emoción, una idea, una sonrisa, una lágrima o sacudir el cuerpo es imposible dejarlo. Puedes cambiar el pincel, el lienzo y el instrumento, pero una vez que empiezas el camino es imposible entender la vida sin andarlo.
 
