@@ -11,11 +11,11 @@ tags:
 
 # References
 
-This text _"A Little Guide to Talking with Trees"_ brings together many years of work, retreats, and experiences in meditation, walking the landscape, and various somatic techniques, especially massage.
+The text, ‘A Short Guide to Talking to Trees,’ combines many years of work, retreats, and experiences in meditation, mindful walks through the countryside, and various body techniques, especially massage.
 
 These words are not new; to cite some bibliographic sources, for example Max Dashu in [Mysteries of the Feminine](https://amzn.to/3KFKXLS), *Woman Shaman*, wrote:
 
-> *(translated paraphrase from the Spanish source)* As exiles, cut off from initiatory transmission, dealing with isolation, hunted as witches… of enchantment and movement, of drums and dreams.
+> *(translated paraphrase from the Spanish source)* As exiles, isolated from the transmission of initiation, dealing with stress, trauma or illness, our best remedy is to return to our roots: to seek inspiration directly from nature, from the earth and the sea, from enchantment and movement, from drums and dreams.
 
 And here I quote Peter Kingsley, in [*In the Dark Places of Wisdom*](https://amzn.to/4obtbig) (DPW):
 
@@ -23,13 +23,19 @@ And here I quote Peter Kingsley, in [*In the Dark Places of Wisdom*](https://amz
 
 Kingsley also says:
 
-> *(translated paraphrase from the Spanish source)* This life of the senses cannot satisfy us, although the world may seem to tell us otherwise with a kindly, sympathetic smile… that all we have to do is try a little harder to get back to our work, to keep ourselves entertained, with all the fairground noise around us, as we wait for the decisive moment; the moment of having had enough; the moment of being finished; the moment of having done our best so that it all may end, so we can slip backstage and disappear.
+> This life of the senses can never fulfil us, even though the whole world will tel1 us the oρρosite. It never was meant to fulfil us. The truth is so simρle, so lovingly simple: if we want to grow up, become true men and women, we have to face death before we die. We have to discover what it is to be able to slide behind the scenes and disappear. (DPW, p. 6)
 
-And also:
+This clear reference to the initiatory path may be very extreme, although it is nonetheless true. I prefer to believe that there is a middle ground in the dialogue with life. A gentler path that allows us to access what we have forgotten with smaller steps that we can incorporate into our daily lives, which can seep in like water from a stream that gradually clears our blindness. A simple practice that helps us open the door to the wisdom of life so that it can seep into our art, from where it can help others.
 
-> *(translated paraphrase from the Spanish source)* But we belong to the West. The more things we find there—brilliant, moving, fascinating—the more we miss what matters. All the ingenuity, creativity, and originality: these are not fundamental answers and only create more problems.
+Today we have many traditions that can help us, but we should always keep in mind these words from PK:
 
-We can and need to nourish ourselves from India and from the Americas, but always bringing their message closer—translating it to our situation, to our own territory. Not to borrow what “does not belong to us,” but to listen to what is already inside, to make it explicit. As an example of such translations we can read Dhyani Ywahoo in [*Voices of Our Ancestors: Cherokee Teachings from the Wisdom Fire*](https://amzn.to/4hJgdoo):
+> But we belong to the West. The more we find in the
+East οι- anywhere else the more it makes us inwardly
+divided, homeless in our own land. We become cultural
+tramps and vagabonds. The solutions we find are never
+fundamental answers. They only aeate more ρroblems. (DPW, p. 6)
+
+We can and must draw inspiration from India and America, but without losing sight of the fact that magic “is in all of us”. Knowing that they speak to us in another language that resonates within us because it is a fundamental truth, but one that we must translate.
 
 > Practice of sacred relationship is the practice of good relations with all in the family of life. Thus the Pale One gave seven reminders to the people, that all might recall and honor the unity of the hoop:
 >
@@ -55,11 +61,11 @@ We can and need to nourish ourselves from India and from the Americas, but alway
 >
 > *(translated paraphrase from the Spanish source)* The Pale One is a being who incarnates cyclically. He comes… It is expected that he will return soon, and he may already be alive. That is good.
 
-Like Dhyani Ywahoo, one could cite Hindu sages of many traditions.
+Hindu sages from many traditions could be cited as Dhyani Ywahoo.
 
-We do not travel to India or to the Americas; we travel inward, we travel here. Max Dashu reminds us that many women at the beginning of humanity became persecuted witches…
+We do not travel to India or America, we travel inward, into the past. A magical, feminine European past connected to nature. A past that we lost forever in Constantinople with the conversion of the empire to Christianity, when the Sibyls of Delphi ceased to be the oracle of the ancient world. When the priestesses who had guided the world since the beginning of humanity became persecuted witches.
 
-Some more quotations:
+A few more quotes:
 
 > But trees warp time, or rather create a variety of times: here dense and abrupt, there calm and sinuous—never plodding, mechanical, inescapably monotonous. … it is almost like leaving land to go into water, another medium, another dimension.
 
