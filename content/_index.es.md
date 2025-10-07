@@ -94,11 +94,11 @@ tags:
 
 # Arte, presencia y código para recorrer juntos el camino.
 
-Combino el arte, la magia y la tecnología para crear un espacio de reflexión sobre la vida, identidad, memoria y 
-privacidad mediante proyectos new media art, fotografía, dibujo, vídeo, instalaciones, libros y fanzines.
+Combino el arte, la magia y la tecnología para crear un espacio de reflexión sobre la vida, la identidad, la memoria y
+la privacidad mediante proyectos de new media art, fotografía, dibujo, vídeo, instalaciones, libros y fanzines.
 
-Investigar sobre arte y magia requiere una práctica mágica real, que en mi camino, se convierte en presencia a través de
-la práctica de la meditación, el estudio de la biodinámica craneosacral y la sanación vibracional con Tameana.
+La investigación sobre arte y magia requiere una práctica mágica real que, en mi caso, se manifiesta a través de la
+meditación, el estudio de la biodinámica craneosacral y la sanación vibracional con Tameana.
 
 {{% columns %}}
 
