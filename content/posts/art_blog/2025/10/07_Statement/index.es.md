@@ -11,6 +11,12 @@ draft: false
 bookToc: true
 ---
 
+> "Si el amor es el único camino, el arte es la mejor forma de andarlo."
+> 
+
+> "El arte es pensamiento plástico. Un vaivén entre ideas y estética. La belleza de una obra es un orificio en las paredes de la caverna. Si al crear vibras, la onda de ese movimiento encontrará sus armónicos y moverá el mundo."
+> 
+
 # El triple camino: una práctica unificada
 
 Mi trabajo se centra en la conexión entre tres disciplinas que a menudo se perciben como distintas: el arte, la sanación (que yo denomino «magia») y la tecnología. No se trata de un ejercicio conceptual, sino del núcleo de un viaje personal y profesional. Al integrar estas prácticas, estoy forjando un lenguaje único destinado a evocar la sanación y expandir la conciencia. Este manifiesto articula la filosofía que unifica estas corrientes en una sola y cohesionada.
