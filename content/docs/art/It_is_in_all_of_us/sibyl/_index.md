@@ -65,3 +65,5 @@ and ecstasy to contact Apollo and the underworld, which connects them to Dionysi
 
 My research arises from the need to connect deeply and symbolically with the wisdom that traverses
 territories, time, and cultures.
+
+> Translated with DeepL.com (free version)
