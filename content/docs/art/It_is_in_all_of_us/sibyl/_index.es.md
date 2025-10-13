@@ -13,14 +13,14 @@ bookHidden: false
 En la Grecia antigua, las sibilas eran profetisas. Hablaban en nombre de Dios, Apolo, entraban en trance y tenían la
 capacidad de predecir el futuro. Sus mensajes se escribían en hexámetros. La primera sibila conocida cantaba desde una 
 roca en Delfos once siglos antes de cristo. Existen varias sibilas identificadas: Cumas, Eritrea, Délfica, Tiburtina, 
-etc. Predicaban en los templos de Apolo. Mitológicamente eran hijas de Zeus, otra veces, náyades, ninfas de los cuerpos
+etc. Predicaban en los templos de Apolo. Mitológicamente eran hijas de Zeus, otra veces, náyades: ninfas de los cuerpos
 de agua  dulce. La sibilas vivían en grutas cerca de rios.
 
 Cuando Constantino convirtió el Imperio al cristianismo, utilizó la figura de las sibilas como puente, argumentando que
 habían anunciado la venida de Jesús, el día del juicio final y el fin del mundo. Esto fue una estrategia política para
 facilitar la conversión de los paganos.
 
-Durante los siguientes siglos, los textos de las sibilas (hexámetros griegos) fueron traducidos al latín e interpretados
+Durante los siguientes siglos, los textos de las sibilas fueron traducidos al latín e interpretados
 por varios santos, y se crearon varias versiones musicales. Las primeras evidencias de la interpretación del Canto de la
 Sibila en Mallorca datan de 1363.
 
