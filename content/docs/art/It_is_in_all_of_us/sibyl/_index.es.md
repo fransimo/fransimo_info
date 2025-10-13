@@ -10,23 +10,23 @@ bookHidden: false
 
 ## Contexto histórico conocido
 
-En la Grecia antigua, las sibilas eran profetisas. Hablaban en nombre de Dios, Apolo, entraban en trance y tenían la
-capacidad de predecir el futuro. Sus mensajes se escribían en hexámetros. La primera sibila conocida cantaba desde una 
-roca en Delfos once siglos antes de cristo. Existen varias sibilas identificadas: Cumas, Eritrea, Délfica, Tiburtina, 
-etc. Predicaban en los templos de Apolo. Mitológicamente eran hijas de Zeus, otra veces, náyades: ninfas de los cuerpos
-de agua  dulce. La sibilas vivían en grutas cerca de rios.
+En la Grecia antigua, las sibilas eran profetisas. Hablaban en nombre de Dios, Apolo, entraban en trance y podían 
+predecir el futuro. Sus mensajes se escribían en hexámetros. La primera sibila conocida cantaba desde una roca en Delfos 
+once siglos antes de Cristo. Se han identificado varias sibilas: la de Cumas, la de Eritrea, la de Delfos, la de Tibur, 
+etc. Predicaban en los templos de Apolo. Mitológicamente, eran hijas de Zeus y, en ocasiones, náyades, es decir, 
+ninfas de los cuerpos de agua dulce. Las sibilas vivían en grutas cerca de ríos.
 
 Cuando Constantino convirtió el Imperio al cristianismo, utilizó la figura de las sibilas como puente, argumentando que
-habían anunciado la venida de Jesús, el día del juicio final y el fin del mundo. Esto fue una estrategia política para
+habían anunciado la venida de Jesús, el día del juicio final y el fin del mundo. Esta fue una estrategia política para
 facilitar la conversión de los paganos.
 
-Durante los siguientes siglos, los textos de las sibilas fueron traducidos al latín e interpretados
-por varios santos, y se crearon varias versiones musicales. Las primeras evidencias de la interpretación del Canto de la
-Sibila en Mallorca datan de 1363.
+Durante los siguientes siglos, los textos de las sibilas fueron traducidos al latín e interpretados por varios santos y
+se crearon varias versiones musicales. Las primeras evidencias de la interpretación del Canto de la Sibila en Mallorca
+datan de 1363.
 
 La figura de la sibila es tan importante que Miguel Ángel la pintó en la Capilla Sixtina (1508-1512).
 
-Algunas década después (1563), el Concilio de Trento prohibió el Canto de la Sibila como parte de la liturgia. En
+Algunas décadas después (1563), el Concilio de Trento prohibió el Canto de la Sibila como parte de la liturgia. En
 Mallorca, la resolución solo se acató durante dos años.
 
 ## Interpretación
