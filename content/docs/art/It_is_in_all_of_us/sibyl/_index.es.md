@@ -61,8 +61,8 @@ ella y en nuestro corazón para transformar la realidad.
 
 Sus técnicas y su lenguaje resuenan con el culto a Dionisio, el tantra y las tradiciones cherokee.
 
-Las sibilas, como mujeres profetisas herederas de un linaje, trabajaban en templos y entraban en trance y éxtasis para
-contactar con Apolo y el inframundo, lo que las conecta con las sacerdotisas dionisiacas y tántricas.
+Las sibilas, como mujeres profetisas posiblemente herederas de un linaje, trabajaban en templos y entraban en trance 
+y éxtasis para contactar con Apolo y el inframundo, lo que las conecta con las sacerdotisas dionisiacas y tántricas.
 
 Mi investigación surge de la necesidad de conectar de manera profunda y simbólica con la sabiduría que atraviesa
-territorios, tiempos y culturas.
+territorios, el tiempo y culturas.
