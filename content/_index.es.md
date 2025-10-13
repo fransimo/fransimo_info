@@ -101,14 +101,12 @@ La investigación sobre arte y magia requiere una práctica mágica real que, en
 meditación, el estudio de la biodinámica craneosacral y la sanación vibracional con Tameana. A su vez, el proceso
 creativo retroalimenta esa práctica.
 
-El código es un puente para explorar la relación entre arte, vida y tecnología; permite crear obras interactivas y
-participativas en las que la interacción y los datos se complementan en una experiencia para ayudar a la reflexión.
+El código es un puente para explorar la relación entre arte, vida y tecnología; permite crear obras en las que la 
+interacción y los datos se complementan en una experiencia para ayudar a la reflexión individual o participativa.
 
 Mi trabajo se centra en la conexión entre tres disciplinas que a menudo se perciben como distintas: el arte, la
 sanación (que yo denomino «magia») y la tecnología. No se trata de un ejercicio conceptual, sino del núcleo de un viaje
-personal y profesional. Al integrar estas prácticas, estoy forjando un lenguaje único destinado a evocar la sanación y
-expandir la conciencia. [El manifiesto articula la filosofía que unifica estas corrientes en una sola y 
-cohesionada.](posts/art_blog/2025/10/07_Manifesto)
+personal y profesional. 
 
 {{% columns %}}
 
