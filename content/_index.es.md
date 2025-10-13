@@ -108,7 +108,7 @@ Mi trabajo se centra en la conexión entre tres disciplinas que a menudo se perc
 sanación (que yo denomino «magia») y la tecnología. No se trata de un ejercicio conceptual, sino del núcleo de un viaje
 personal y profesional. Al integrar estas prácticas, estoy forjando un lenguaje único destinado a evocar la sanación y
 expandir la conciencia. [El manifiesto articula la filosofía que unifica estas corrientes en una sola y 
-cohesionada.](posts/art_blog/2025/10/07_Statement)
+cohesionada.](posts/art_blog/2025/10/07_Manifesto)
 
 {{% columns %}}
 

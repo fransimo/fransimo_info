@@ -7,7 +7,7 @@ categories:
 - Text
 tags:
 - Manifesto
-draft: false
+draft: true
 bookToc: true
 ---
 
