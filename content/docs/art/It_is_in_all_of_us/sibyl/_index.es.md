@@ -31,7 +31,22 @@ Mallorca, la resolución solo se acató durante dos años.
 
 ## Interpretación
 
-Una etimologia apunta a que sibila significa "consejo divino", aunque no está completamente aceptada.
+¿Cómo se podía rendir culto a mujeres que hablaban en nombre de Dios, sabían leer y escribir, eran consultadas para 
+resolver temas de Estado y sus profecías eran tan importantes que se conservaban por escrito?
+
+No se trata del culto a la diosa, sino de mujeres de carne y hueso que eran reconocidas por su poderes de canalización.
+Con una gran influencia política. Una etimologia apunta a que sibila significa "consejo divino", aunque no está 
+completamente aceptada.
+
+Estas mujeres no aparecieron en Grecia 11 siglos antes de Cristo, ni desaparecieron cuando Constantino le quitó todo el 
+poder a Delfos llevando "el centro del mundo" a Constantinopla. Estas mujeres siempre han existido y siguen 
+aquí. A veces llamadas brujas, otras veces profetas, otras artistas. 
+
+En mi investigación sobre arte y magia las sibilas me ha susurrado un rumbo que transita entre lo natural y lo 
+ancestral, a través del agua y  de los árboles. Un camino que se dibuja en los mapas: desde Mallorca, donde aún resuena 
+su canto, me ha llevado cerca de Tívoli y su bosque. Parece que apunta hacia Creta y Turquía. Creta como posible origen 
+del culto a Dionisio y Turquía, Anatolia, por su relación con la Sibila de Eritrea, cuyas profecías son la fuente del 
+Canto de la Sibila.
 
 **La Sibila**, como figura mítica, es un punto de convergencia entre diversos elementos simbólicos y espirituales,
 entrelazando aspectos de la sabiduría ancestral y la conexión con los flujos energéticos universales.
@@ -39,7 +54,7 @@ entrelazando aspectos de la sabiduría ancestral y la conexión con los flujos e
 En mi interpretación, la Sibila actúa como un catalizador similar al chakra del corazón, reflejando el lugar donde
 convergen las energías para transformar, sanar y unificar. No es solo un símbolo estático, sino una figura viva de
 transformación: la intuición, el conocimiento ancestral y la conexión con la energía cósmica y terrenal se integran en
-ella y en nuestro corazón.
+ella y en nuestro corazón para transformar la realidad.
 
 Es una figura que resuena, tanto en sus técnicas como en su lenguaje, con el culto a Dionisio, el Tantra y las
 tradiciones cheroqui.
@@ -48,9 +63,4 @@ Las sibilas, como mujeres profetisas, herederas de un linaje, que trabajaban en 
 para contactar con Apolo y el inframundo también conectan con las sacerdotisas dionisiacas y tántricas.
 
 Mi investigación surge de la necesidad de conectar de manera profunda y simbólica con la sabiduría que atraviesa los
-territorios y las culturas.
-
-La Sibila y el bosque me susurran un rumbo, un rumbo que transita entre lo natural y lo ancestral, a través del agua y
-de los árboles. Un camino que se dibuja en los mapas: desde Mallorca, donde aún resuena su canto, me ha llevado cerca de
-Tívoli y su bosque. Parece que apunta hacia Creta y Turquía. Creta como posible origen del culto a Dionisio y Turquía,
-Anatolia, por su relación con la Sibila de Eritrea.
+territorios, el tiempo y las culturas.
