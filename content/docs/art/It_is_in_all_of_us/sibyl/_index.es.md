@@ -32,16 +32,18 @@ Mallorca, la resolución solo se acató durante dos años.
 ## Interpretación
 
 ¿Cómo se podía rendir culto a mujeres que hablaban en nombre de Dios, sabían leer y escribir, eran consultadas para
-resolver temas de Estado y sus profecías eran tan importantes que se conservaban por escrito?
+resolver temas de Estado y sus profecías eran tan importantes que se conservaban por escrito durante siglos?
 
 No se trata del culto a la diosa, sino de mujeres de carne y hueso que eran reconocidas por su capacidad de
-canalización.
-Con una gran influencia política. Una etimología sugiere que sibila significa «consejo divino», aunque no está
-completamente aceptada.
+canalización.  Con una gran influencia política. Una etimología sugiere que sibila significa «consejo divino», 
+aunque no está completamente aceptada.
 
 Estas mujeres no aparecieron en Grecia 11 siglos antes de Cristo ni desaparecieron cuando Constantino le quitó todo el
 poder a Delfos y trasladó «el centro del mundo» a Constantinopla. Estas mujeres siempre han existido y siguen aquí. A
 veces se les llama brujas, otras profetas y otras artistas.
+
+¿Qué pasaba en Mallorca antes del genocidio de la conquista para que una figura femenina tuviera tanto poder 
+que ni el Concilio de Trento pudo detener su culto o veneración?
 
 En mi investigación sobre arte y magia, las sibilas me han susurrado un rumbo que transita entre lo natural y lo
 ancestral, a través del agua y de los árboles. Un camino que se dibuja en los mapas y que, partiendo de Mallorca, donde
