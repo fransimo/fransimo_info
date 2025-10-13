@@ -10,19 +10,20 @@ bookHidden: false
 
 ## Introducción
 
-Las sibilas, en tiempos de la Grecia antigua, eran profetizas. Hablaban en nombre de Dios, Apolo, entrando en trance y 
-tenían la capacidad de predecir el futuro. 
+En la Grecia antigua, las sibilas eran profetisas. Hablaban en nombre de Apolo, entraban en trance y tenían la capacidad
+de predecir el futuro.
 
-Cuando Constantino convirtió al imperio al cristianismo utilizó la figura de 
-las sibilas como puente, argumentando que habían anunciado la venida de Jesús. Esto fue una necesidad política para 
-facilitar la conversión de los paganos. 
+Cuando Constantino convirtió el Imperio al cristianismo, utilizó la figura de las sibilas como puente, argumentando que
+habían anunciado la venida de Jesús. Esto fue una estrategia política para facilitar la conversión de los paganos.
 
-Durante los siguientes siglos los textos de las sibilas (hexámetros griegos) son traducidos al latin e interpretados por varios santos y se crean 
-varias versiones musicales. Las primeras evidencias de la interpretación del Canto de la Sibila en Mallorca son de 1363.
+Durante los siguientes siglos, los textos de las sibilas (hexámetros griegos) fueron traducidos al latín e interpretados
+por varios santos, y se crearon varias versiones musicales. Las primeras evidencias de la interpretación del Canto de la
+Sibila en Mallorca datan de 1363.
 
-La figura de la sibila es tan importante que fueron pintadas por Miguel Angel en la Capilla Sixtina (1508-1512). 
-Una décadas después (1563) el Concilio de Trento prohíbe el Canto de la Sibila como parte de la liturgia.  En Mallorca 
-solo se acata la resolución por un dos años. 
+La figura de la sibila es tan importante que Miguel Ángel la pintó en la Capilla Sixtina (1508-1512).
+
+Algunas década después (1563), el Concilio de Trento prohibió el Canto de la Sibila como parte de la liturgia. En
+Mallorca, la resolución solo se acató durante dos años.
 
 ## Interpretación
 
