@@ -2,6 +2,7 @@
 weight: 2
 bookFlatSection: false
 title: "Sibyl"
+description: "Sibila, historical context and artistic interpretation in the research project 'It's in all of us'"
 bookHidden: false
 ---
 
@@ -63,7 +64,7 @@ Her techniques and language resonate with the cult of Dionysus, tantra and Chero
 The sibyls, as female prophets possibly heirs to a lineage, worked in temples and entered into trance 
 and ecstasy to contact Apollo and the underworld, which connects them to Dionysian and tantric priestesses.
 
-My research arises from the need to connect deeply and symbolically with the wisdom that traverses
+My [research](..) arises from the need to connect deeply and symbolically with the wisdom that traverses
 territories, time, and cultures.
 
 > Translated with DeepL.com (free version)

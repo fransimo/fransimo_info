@@ -2,7 +2,7 @@
 weight: 2
 bookFlatSection: false
 title: "Sibila"
-description: ""
+description: "Sibila, contexto histórico e interpretación artistica en la investigación 'Está en todos nosotros'"
 bookHidden: false
 ---
 
@@ -64,5 +64,5 @@ Sus técnicas y su lenguaje resuenan con el culto a Dionisio, el tantra y las tr
 Las sibilas, como mujeres profetisas posiblemente herederas de un linaje, trabajaban en templos y entraban en trance 
 y éxtasis para contactar con Apolo y el inframundo, lo que las conecta con las sacerdotisas dionisiacas y tántricas.
 
-Mi investigación surge de la necesidad de conectar de manera profunda y simbólica con la sabiduría que atraviesa
+Mi [investigación](..) surge de la necesidad de conectar de manera profunda y simbólica con la sabiduría que atraviesa
 territorios, el tiempo y culturas.

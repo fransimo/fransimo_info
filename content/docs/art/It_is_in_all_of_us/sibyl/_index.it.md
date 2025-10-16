@@ -2,6 +2,7 @@
 weight: 2
 bookFlatSection: false
 title: "Sibilla"
+description: "Sibila, contesto storico e interpretazione artistica nella ricerca “È in tutti noi”"
 bookHidden: false
 ---
 
@@ -63,7 +64,7 @@ Le sue tecniche e il suo linguaggio risuonano con il culto di Dioniso, il tantra
 Le sibille, come donne profetesse forse eredi di un lignaggio, lavoravano nei templi ed entravano in trance 
 ed estasi per contattare Apollo e gli inferi, il che le collega alle sacerdotesse dionisiache e tantriche.
 
-La mia ricerca nasce dall'esigenza di collegarmi in modo profondo e simbolico con la saggezza che attraversa
+La mia [ricerca](..) nasce dall'esigenza di collegarmi in modo profondo e simbolico con la saggezza che attraversa
 territori, tempo e culture.
 
 > Tradotto con DeepL.com (versione gratuita)
