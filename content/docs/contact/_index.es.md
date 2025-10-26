@@ -23,7 +23,6 @@ bookToc: false
 - Móvil (Turquía):
   - [+90 (545) 556 43 93](tel:+905455564393)
   - [WhatsApp](https://wa.me/+905455564393)
-
-# Newsletter
-
-Coming soon.
+- Newsletter 
+  - [Subscríbete](https://newsletter.fransimo.info/lists/?p=subscribe&id=1)
+  - _Microcopy_: Frecuencia baja (2–12 al año). Sin cesión de datos a terceros.
