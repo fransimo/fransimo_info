@@ -24,5 +24,5 @@ bookToc: false
   - [+90 (545) 556 43 93](tel:+905455564393)
   - [WhatsApp](https://wa.me/+905455564393)
 - Newsletter 
-  - [Subscríbete](https://newsletter.fransimo.info/lists/?p=subscribe&id=1)
+  - [Subscríbete](https://newsletter.fransimo.info/lists/?p=subscribe&id=2)
   - _Microcopy_: Frecuencia baja (2–12 al año). Sin cesión de datos a terceros.
