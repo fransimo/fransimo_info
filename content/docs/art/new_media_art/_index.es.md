@@ -15,6 +15,16 @@ weight: 10
 {{% columns %}}
 
 {{< figure
+  src="/docs/art/new_media_art/Rivers_of_souls/Rivers_of_souls.jpg"
+  alt="Rivers of Souls"
+  link="/docs/art/new_media_art/Rivers_of_souls/"
+  caption="New media: Rivers of souls"
+  class="image-portfolio"
+>}}
+
+<--->
+
+{{< figure
   src="/docs/art/new_media_art/Selfie_v2/XT238744.jpg"
   alt="#Selfie_v2"
   link="/docs/art/new_media_art/Selfie_v2/"
@@ -22,7 +32,10 @@ weight: 10
   class="image-portfolio"
 >}}
 
-<--->
+{{% /columns %}}
+
+{{% columns %}}
+
 {{< figure
   src="/docs/art/new_media_art/God_is_in_the_bugs/20210617_r049_3_700px.png"
   alt="God is in the bugs"
@@ -32,9 +45,7 @@ weight: 10
 >}}
 
 
-{{% /columns %}}
-
-{{% columns %}}
+<--->
 
 
 {{< figure
@@ -46,7 +57,9 @@ weight: 10
 >}}
 
 
-<--->
+{{% /columns %}}
+
+{{% columns %}}
 
 {{< figure
   src="/docs/art/new_media_art/Buy_me_a_life/buy_me_a_life_medium.gif"
@@ -56,9 +69,8 @@ weight: 10
   class="image-portfolio"
 >}}
 
-{{% /columns %}}
+<--->
 
-{{% columns %}}
 {{< figure
   src="/docs/art/new_media_art/Shared_folder_red_box/DSCF3138.jpg"
   alt="Shared Folder (Red box)"
@@ -67,7 +79,9 @@ weight: 10
   class="image-portfolio"
 >}}
 
-<--->
+{{% /columns %}}
+
+{{% columns %}}
 
 {{< figure
   src="/docs/art/new_media_art/I_dreamed_about_a_human_being/fran_simo_0002_Untitled1_mean_.jpg"

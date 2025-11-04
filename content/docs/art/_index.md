@@ -14,23 +14,22 @@ description: "Overview of Fran Simó’s new media art, books and photography po
 {{% columns %}}
 
 {{< figure
-  src="/docs/art/new_media_art/Selfie_v2/XT238744.jpg"
-  alt="#Selfie_v2"
-  link="/docs/art/new_media_art/Selfie_v2/"
-  caption="#Selfie_v2"
+  src="/docs/art/new_media_art/Rivers_of_souls/Rivers_of_souls.jpg"
+  alt="Rivers of Souls"
+  link="/docs/art/new_media_art/Rivers_of_souls/"
+  caption="New media: Rivers of souls"
   class="image-portfolio"
 >}}
 
 <--->
 
 {{< figure
-  src="/docs/art/new_media_art/Shared_folder_v21/IMG_5027-Editar-2.jpg"
-  alt="Shared Folder"
-  link="/docs/art/new_media_art/Shared_folder_v21/"
-  caption="Shared Folder"
+  src="/docs/art/new_media_art/Selfie_v2/XT238744.jpg"
+  alt="#Selfie_v2"
+  link="/docs/art/new_media_art/Selfie_v2/"
+  caption="#Selfie_v2"
   class="image-portfolio"
 >}}
-
 
 {{% /columns %}}
 
