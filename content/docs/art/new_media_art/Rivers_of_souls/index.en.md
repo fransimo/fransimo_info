@@ -22,7 +22,9 @@ description: ""
 
 
 {{% details title="Technical details" open=true %}}
-
+- 2013-2014. Produced: 2025.
+- Single-channel glitch 4k video with stereo score, 2′09″, seamless loop.
+- Built from a time-lapse of 6,341 long-exposure photographs shot in the Barcelona Metro.
 
 {{% /details %}}
 
