@@ -1,84 +1,74 @@
 ---
 author: "Fran Simó"
-date: "2021-10-26T22:03:36Z"
+date: "2025-11-01"
 images:
-  - XT238794.jpg
-dateCreated: 2021
-artForm: Sculpture
+  - Rivers_of_souls.jpg
+dateCreated: 2025
+artForm: Video
 schemaOrgType: VisualArtwork
 categories:
-- new media art
-- NFT
+  - new media art
 tags:
-- Nondualism
-- oneness
-- opensea
-- post photography
-- selfie
-- spirituality
-- video sculpture
-title: '#Selfie_v2'
-description: 'Presenta #Selfie_v2, una instalación interactiva que fusiona los rostros de los participantes con escáneres óseos para criticar la identidad en las redes sociales y explorar la unidad y la mercantilización del yo.'
-aliases: /es/blog/2021/10/26/selfie_v2/
+  - post photography
+  - spirituality
+  - video
+title: 'Rivers of Souls'
+description: ""
+
 ---
-![](XT238820.jpg)
 
-{{% details title="Datos técnicos" open=true %}}
-- Video escultura interactiva. 1,1m x 1,1m x 60cm.  
-- Resonancias magnéticas de pies y rodillas. Ecografías de riñón. Radiografías de tórax, mandíbula y dientes.  
-- Videos en formato GIF animado. Imágenes en JPG.
 
-La obra está formada por 6 RasperriPis. 5 de ellas son del modelo 3 con una pantalla de 3.5” y una carcasa transparente. Estas pantallas se ubican alrededor del tórax, saliendo desde una “columna vertebral”. La carcasa transparente permite ver el interior de los mini ordenadores. El tórax está formado por una Pi modelo 4 con un monitor de 24” y una webcam.
+{{< youtube id=aiSQLV2lwQI autoplay=false loop=false mute=false allowFullScreen=true >}}
 
-Código fuente en [github](https://github.com/fransimo/selfie_v2).
+{{% details title="Technical details" open=true %}}
 
 {{% /details %}}
 
-# #Selfie_v2
+# Rivers of Souls
+
+Fluimos en nuestra tecnología como agua que construye sus propias cuevas. Ausentes e inconscientes. Asustados, abultados
+y olvidados por nosotros mismos.
+
+Olvidando que:
+
+- Nuestro cuerpo es la suma de infinitos errores en el proceso de la evolución.
+- La vida es una y que todos fluimos por el espacio y el tiempo.
+- La más certera creencia de hoy mañana será un error, y, que aún así, creó algo.
+- La vida es una acumulación de errores en el proceso de copia del ADN.
+- No venimos de las estrellas, somos estrellas.
+
+Sordos al susurro del error entre el ruido de la corriente.
+Ignoramos las visiones: belleza, locura, compasión.
+El susurro insiste: belleza, locura, compasión.
+El miedo evolutivo nos arrastra, nos ensordece y ciega.
+Y caemos de nuevo en la transformación por la transformación.
+
+Flujo de información sobre flujo de información.
+
+En el caos sinsentido de nuestra evolución parece que lo único que podrá salvarnos es lo mismo que nos creó, un error o
+una combinación fortuita de errores.
+Porque tal vez Dios esté en los bugs.
 
 
-En los últimos años nos hemos aficionado a publicar nuestra imagen. Una imagen construida de lo que queremos mostrar de nosotros, de nuestra vida. Así creamos un personaje que publicamos, exhibimos, vendemos, a veces, incluso en busca de amor. Algunos caen en la trampa de creer que ese personaje es real, que son ellos.
 
-En esa distopía psicológica y espiritual ver es más difícil. Proyectamos un personaje que ha nacido de convenciones propias de las redes sociales. Convenciones que se generan y evolucionan globalmente. Encarriladas por una idea de “felicidad” estandarizada y, muchas veces, dirigida por publicistas e “influencers”. ¿Hasta qué punto lo hemos elegido?
+> Rivers of Souls trata el movimiento en hora punta como un organismo que recorre las infraestructuras que hemos creado.
+> Al colapsar el tiempo con largas exposiciones, las imágenes difuminan a los individuos en una sola corriente,
+> desvelando
+> cómo la tecnología y la arquitectura moldean el movimiento colectivo.
+>
+> El uso de glitchs en el vídeo y de loops musicales con algún error persigue la sensación de aleatoriedad a través de
+> variaciones controladas que nunca se repiten del todo. En este contexto, el error no es un fallo, sino la fuente de la
+> evolución a través de la cual los sistemas vivos se adaptan y las culturas cambian.
+> 
+> La obra propone escuchar ese susurro —belleza, locura, compasión— y confrontar el miedo evolutivo que nos arrastra a
+transformar por transformar. No importa el soporte, sino el flujo que lo atraviesa: la vida entendida como proceso
+informacional que se autoproduce y deriva. “Ríos de almas” se plantea así como un dispositivo para observar esa deriva y
+asumir el error como motor y método.
 
-Los huesos en las imágenes, sin dejar de ser míos, son, al mismo tiempo, “iguales” o difícilmente reconocibles entre los de otros humanos. Atravieso la piel para hacerme indistinguible, hacerme uno con los demás. Por dentro me parezco más a ti.
+## Gallery
 
-Las imágenes provienen de estudios médicos reales solicitados por profesionales de la salud durante alguna dolencia o seguimiento. Con esto he querido usar el dolor físico como reflejo del dolor espiritual que impulsa a la sociedad a lanzarse a una construcción de un imaginario de felicidad casi obligatoria que utiliza hasta el último recurso para construir y dirigir una conducta tipificada y domesticada. Una tipificación tan salvaje como las de alguna religión que no permite votar a las mujeres pero mucho más sutil. No prohíbe, pero encamina comportamientos. Así, ni siquiera sueñas con hacer algo diferente, porque lo has “elegido” tú.
-
-Toda esta locura nos ciega. Nos aleja de nosotros mismos. Una sociedad que consigue obligar a sus miembros a sentir la necesidad de crear, publicar y compartir una imagen de sí mismos adhiriéndose a un algún estándar es una sociedad más polarizada y estereotipada. No es libertad.
-
-Si aún quisiéramos saber quiénes somos sólo tenemos que mirarnos a los ojos en un espejo y entrar en nuestra alma. Desde allí podríamos sentir ese “por dentro me parezco más a ti”.
-
-Para seguir esta idea la obra refleja a los espectadores que se acercan a ella simulando un espejo que mezcla al visitante con mis huesos, adhiriendo la naturaleza dual de los espejos. Refleja la verdad y resalta la mentira dependiendo de la intención de la mirada. Puede ser usada como alegorías a: que tú y yo somos uno, que tus ojos pueden estar en mi corazón, puedes verte a los ojos y reconocerte o simplemente puede entenderse como un artilugio informático. Todo es verdad a la vez. Así recordamos que ni la imagen, ni el espejo (ni la cámara) ayudan en el camino, solo la intención puede despejar el ruido.
-
-La obra permite al espectador llevarse un recuerdo #selfie\_v2. El stream de video puede ser capturado por la obra y descargado por el visitante.
-
-La escultura y todas la piezas están disponibles como NFTs en [OpenSea](https://opensea.io/collection/selfie-v2-fransimo).
-
-
-    
+![](Rivers_of_souls.jpg)
 
 
-## Curiosidades
-
-El observador cuidadoso notará que los videos de las resonancias dan “saltos”. Las secuencias de las imágenes parecen estar “mal hechas”. El software de visualización de los estudios médicos al exportar el formato vídeo ordenó los fotogramas como 0,1,10,11,2,3. Un error informático bastante común. Al verlo me pareció muy interesante relacionar #Selfie\_v2 con [“God is in the bugs”.](https://fransimo.info/es/blog/2021/07/31/god-is-in-the-bugs/)
 
 
-## Galería
-
-{{< load-photoswipe >}}
-{{< gallery >}}
- {{< picture src="XT238744.jpg" >}}
-  {{< picture src="XT238761.jpg" >}}
-  {{< picture src="XT238764.jpg" >}}
-  {{< picture src="XT238773.jpg" >}}
-  {{< picture src="XT238777.jpg" >}}
-  {{< picture src="XT238787.jpg" >}}
-  {{< picture src="XT238794.jpg" >}}
-  {{< picture src="XT238818.jpg" >}}
-  {{< picture src="XT238820.jpg" >}}
-{{< /gallery >}}
-
-## Vídeo
-
-{{< youtube id=L5AM6gjE7S8 autoplay=true loop=false mute=false allowFullScreen=true >}}

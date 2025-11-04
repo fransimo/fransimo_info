@@ -21,6 +21,16 @@ tags:
 
 <div class="scroll-item">
     {{< figure
+      src="/docs/art/new_media_art/Rivers_of_souls/Rivers_of_souls.jpg"
+      alt="Rivers of Souls"
+      link="/docs/art/new_media_art/Rivers_of_souls/"
+      caption="New media: Rivers of souls"
+      class="image-portfolio"
+    >}}
+</div>
+
+<div class="scroll-item">
+    {{< figure
       src="/webp/The_Whisper_of_the_Nymphs.webp"
       alt="It is in all of us"
       link="/docs/art/It_is_in_all_of_us/"

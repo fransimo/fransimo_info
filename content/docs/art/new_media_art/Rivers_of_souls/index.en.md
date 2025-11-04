@@ -8,7 +8,6 @@ artForm: Video
 schemaOrgType: VisualArtwork
 categories:
 - new media art
-- NFT
 tags:
 - post photography
 - spirituality
@@ -17,40 +16,30 @@ title: 'Rivers of Souls'
 description: ""
 
 ---
-![](Rivers_of_souls.jpg)
+
+
+{{< youtube id=aiSQLV2lwQI autoplay=true loop=false mute=false allowFullScreen=true >}}
+
 
 {{% details title="Technical details" open=true %}}
-- Interactive video sculpture. 1.1 m x 1.1 m x 60 cm.
-- MRIs of feet and knees. Kidney ultrasounds. X-rays of the chest, jaw and teeth. From 2012 up to 2021.
-- Videos in animated GIF format. JPG images.
 
-The piece consists of 6 RasperriPis. Five of them are model 3 with a 3.5″ screen and a transparent housing. These
-screens are located around the chest, coming out of a “spine”. The transparent case allows you to see the inside of the
-mini computers. The chest consists of a model 4 Pi with a 24″ monitor and a webcam.
-
-Source code @ [github](https://github.com/fransimo/selfie_v2).
 
 {{% /details %}}
 
 # Rivers of Souls
 
+Rivers of Souls treats rush hour traffic as an organism that travels through the infrastructure we have created. By
+collapsing time with long exposures, the images blur individuals into a single stream, revealing how technology and
+architecture shape collective movement.
 
+The use of glitches in the video and musical loops with errors pursues a sense of randomness through controlled
+variations that never quite repeat themselves. In this context, error is not a failure, but the source of evolution
+through which living systems adapt and cultures change.
 
 ## Gallery
 
-{{< load-photoswipe >}}
-{{< gallery >}}
- {{< picture src="XT238744.jpg" >}}
-  {{< picture src="XT238761.jpg" >}}
-  {{< picture src="XT238764.jpg" >}}
-  {{< picture src="XT238773.jpg" >}}
-  {{< picture src="XT238777.jpg" >}}
-  {{< picture src="XT238787.jpg" >}}
-  {{< picture src="XT238794.jpg" >}}
-  {{< picture src="XT238818.jpg" >}}
-  {{< picture src="XT238820.jpg" >}}
-{{< /gallery >}}
-## Video
+![](Rivers_of_souls.jpg)
 
-{{< youtube id=L5AM6gjE7S8 autoplay=true loop=false mute=false allowFullScreen=true >}}
+
+
 
