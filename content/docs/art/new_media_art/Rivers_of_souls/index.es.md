@@ -17,11 +17,12 @@ description: ""
 
 ---
 
+{{< youtube id=aiSQLV2lwQI autoplay=true loop=false mute=false allowFullScreen=true >}}
 
-{{< youtube id=aiSQLV2lwQI autoplay=false loop=false mute=false allowFullScreen=true >}}
-
-{{% details title="Technical details" open=true %}}
-
+{{% details title="Detalles técnicos" open=true %}}
+- 2013-2014. Producido: 2025.
+- Vídeo 4K monocanal con glitches y banda sonora estéreo original del artista basada en bucles; 2 min 9 s.
+- Creado a partir de un time-lapse de 6341 fotografías de larga exposición tomadas en el metro de Barcelona.
 {{% /details %}}
 
 # Rivers of Souls
