@@ -32,7 +32,7 @@ description: ""
 >
 > Deaf to the whisper of error amid the noise of the current. We ignore the visions: beauty, madness, compassion. The whisper insists: beauty, madness, compassion. Evolutionary fear drags us down, deafens us and blinds us. We fall back into transformation for transformation's sake.
 > 
-> In the senseless chaos of our evolution, it seems that the only thing that can save us is the same thing that created us, an error or a fortuitous combination of errors. Perhaps God is in the bugs.
+> In the senseless chaos of our evolution, it seems that the only thing that can save us is the same thing that created us, an error or a fortuitous combination of errors. Perhaps [God is in the bugs](../God_is_in_the_bugs).
 
 
 Rivers of Souls treats rush hour traffic as an organism that travels through the infrastructure we have created. By

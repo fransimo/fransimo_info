@@ -37,8 +37,7 @@ en el proceso de la evolución.
 >
 > En el caos sinsentido de nuestra evolución parece que lo único que podrá salvarnos es lo mismo que nos creó, un error o
 > una combinación fortuita de errores.
-> Quizás Dios esté en los bugs.
-
+> Quizás [Dios esté en los bugs](../God_is_in_the_bugs).
 
 Rivers of Souls trata el movimiento en hora punta como un organismo que recorre las infraestructuras que hemos creado.
 Al colapsar el tiempo con largas exposiciones, las imágenes difuminan a los individuos en una sola corriente,
