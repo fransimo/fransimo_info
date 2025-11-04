@@ -13,7 +13,7 @@ tags:
 - spirituality
 - video 
 title: 'Rivers of Souls'
-description: ""
+description: "Glitch video by Fran Simó built from 6,341 long-exposure photos in the Barcelona Metro, with a loop-based score exploring error, flow and collective movement."
 
 ---
 

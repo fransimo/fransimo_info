@@ -13,7 +13,7 @@ tags:
   - spirituality
   - video
 title: 'Rivers of Souls'
-description: ""
+description: "Vídeo glitch de Fran Simó creado a partir de 6341 fotografías de larga exposición tomadas en el metro de Barcelona, con una banda sonora basada en bucles que explora el error, el flujo y el movimiento colectivo."
 
 ---
 
