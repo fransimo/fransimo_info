@@ -27,19 +27,13 @@ description: ""
 # Rivers of Souls
 
 Fluimos en nuestra tecnología como agua que construye sus propias cuevas. Ausentes e inconscientes. Asustados, abultados
-y olvidados por nosotros mismos.
-
-Olvidando que la vida, como la percibimos físicamente, es la suma de infinitos errores en el proceso de la evolución.
-
-
+y olvidados por nosotros mismos. Olvidando que la vida, como la percibimos físicamente, es la suma de infinitos errores 
+en el proceso de la evolución.
 
 Sordos al susurro del error entre el ruido de la corriente.
 Ignoramos las visiones: belleza, locura, compasión.
 El susurro insiste: belleza, locura, compasión.
-El miedo evolutivo nos arrastra, nos ensordece y ciega.
-Y caemos de nuevo en la transformación por la transformación.
-
-Flujo de información sobre flujo de información.
+El miedo evolutivo nos arrastra, nos ensordece y ciega. Caemos de nuevo en la transformación por la transformación.
 
 En el caos sinsentido de nuestra evolución parece que lo único que podrá salvarnos es lo mismo que nos creó, un error o
 una combinación fortuita de errores.
