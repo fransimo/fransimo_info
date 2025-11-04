@@ -29,13 +29,9 @@ description: ""
 Fluimos en nuestra tecnología como agua que construye sus propias cuevas. Ausentes e inconscientes. Asustados, abultados
 y olvidados por nosotros mismos.
 
-Olvidando que:
+Olvidando que la vida, como la percibimos físicamente, es la suma de infinitos errores en el proceso de la evolución.
 
-- Nuestro cuerpo es la suma de infinitos errores en el proceso de la evolución.
-- La vida es una y que todos fluimos por el espacio y el tiempo.
-- La más certera creencia de hoy mañana será un error, y, que aún así, creó algo.
-- La vida es una acumulación de errores en el proceso de copia del ADN.
-- No venimos de las estrellas, somos estrellas.
+
 
 Sordos al susurro del error entre el ruido de la corriente.
 Ignoramos las visiones: belleza, locura, compasión.
