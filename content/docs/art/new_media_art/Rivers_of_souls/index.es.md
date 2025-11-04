@@ -53,10 +53,40 @@ transformar por transformar. No importa el soporte, sino el flujo que lo atravie
 informacional que se autoproduce y deriva. “Ríos de almas” se plantea así como un dispositivo para observar esa deriva y
 asumir el error como motor y método.
 
-## Gallery
+## Fotogramas del vídeo
 
 ![](Rivers_of_souls.jpg)
 
-
-
+{{< load-photoswipe >}}
+{{< gallery >}}
+  {{< picture src="Rivers_of_Souls_0001__0028_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0002__0228_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0003__0300_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0004__0481_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0005__0504_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0006__0610_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0007__0725_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0008__0751_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0009__0844_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0010__0983_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0011__1185_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0012__1215_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0013__1262_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0014__1331_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0015__1517_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0016__1759_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0017__1760_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0018__1838_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0019__1976_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0020__2150_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0021__2204_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0022__2237_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0023__2430_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0024__2453_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0025__2531_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0026__2543_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0027__2561_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0028__2568_.jpg" >}}
+  {{< picture src="Rivers_of_Souls_0029__2575_.jpg" >}}
+{{< /gallery >}}
 
