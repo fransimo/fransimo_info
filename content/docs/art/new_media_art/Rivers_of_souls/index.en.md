@@ -28,11 +28,11 @@ description: ""
 
 # Rivers of Souls
 
-> We flow in our technology like water that builds its own caves. Absent and unconscious. Frightened, bulging and forgotten by ourselves. Forgetting that life, as we perceive it physically, is the sum of infinite errors in the process of evolution.
+> We flow in our technology like water building its own caves. Absent and unconscious. Frightened, bulging and forgotten by ourselves. We forget that life, as we perceive it physically, is the sum of infinite errors in the process of evolution.
 >
 > Deaf to the whisper of error amid the noise of the current. We ignore the visions: beauty, madness, compassion. The whisper insists: beauty, madness, compassion. Evolutionary fear drags us down, deafens us and blinds us. We fall back into transformation for transformation's sake.
->
-> In the senseless chaos of our evolution, it seems that the only thing that can save us is the same thing that created us, an error or a fortuitous combination of errors. Because perhaps God is in the bugs.
+> 
+> In the senseless chaos of our evolution, it seems that the only thing that can save us is the same thing that created us, an error or a fortuitous combination of errors. Perhaps God is in the bugs.
 
 
 Rivers of Souls treats rush hour traffic as an organism that travels through the infrastructure we have created. By
