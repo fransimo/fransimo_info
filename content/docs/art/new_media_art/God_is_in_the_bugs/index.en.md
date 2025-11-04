@@ -28,7 +28,7 @@ aliases: /blog/2021/07/31/god-is-in-the-bugs/
 bookToc: false
 description: >
     God is in the _bugs_: any real biological evolution is the consequence of an error in a DNA copy. 
-    New media art project working with data, code and.
+    New media art project working with data and code.
 ---
 
 # God is in the bugs
