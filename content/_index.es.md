@@ -104,19 +104,22 @@ tags:
 
 # Arte, presencia y código para recorrer juntos el camino.
 
-Combino el arte, la magia y la tecnología para crear un espacio de reflexión sobre la vida, la identidad, la memoria y
-la privacidad, mediante proyectos de new media art, fotografía, dibujo, vídeo, instalaciones, libros y fanzines.
+A través de proyectos que involucran new media art, fotografía, dibujo, video, instalaciones, libros y fanzines,
+combino arte, magia y tecnología para crear un espacio de reflexión sobre la vida, la identidad, la memoria y la
+privacidad.
 
-La investigación sobre arte y magia requiere una práctica mágica real que, en mi caso, se manifiesta a través de la
-meditación, el estudio de la biodinámica craneosacral y la sanación vibracional con Tameana. A su vez, el proceso
-creativo retroalimenta esa práctica.
+Guiado por la figura de la Sibila, exploro la relación entre el arte y la magia en un viaje a través del tiempo y el
+Mediterráneo, desde la antigüedad hasta la actualidad.
 
-El código es un puente para explorar la relación entre arte, vida y tecnología; permite crear obras en las que la 
-interacción y los datos se complementan en una experiencia para ayudar a la reflexión individual o participativa.
+Creo que investigar el arte y la magia requiere una práctica mágica real. En mi caso, esto se manifiesta a través de la
+meditación, el estudio de la biodinámica craneosacral y la práctica de la sanación vibracional con Tameana.
+
+El código permite la creación de obras en las que la interacción y los datos se complementan, fomentando la reflexión
+individual o colaborativa. Proporciona un medio para explorar la relación entre el arte, la vida y la tecnología.
 
 Mi trabajo se centra en la conexión entre tres disciplinas que a menudo se perciben como distintas: el arte, la
-sanación (que yo denomino «magia») y la tecnología. No se trata de un ejercicio conceptual, sino del núcleo de un viaje
-personal y profesional. 
+sanación (que yo llamo magia) y la tecnología. No se trata solo de un ejercicio conceptual, sino del núcleo de mi
+trayectoria personal y profesional.
 
 {{% columns %}}
 

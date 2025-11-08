@@ -105,19 +105,21 @@ tags:
 
 # Art, presence and code to walk the path together.
 
-I combine art, magic and technology to create a space for reflection on life, identity, memory and
-privacy, through projects involving new media art, photography, drawing, video, installations, books and fanzines.
+Through projects involving new media art, photography, drawing, video, installations, books and fanzines, I combine art,
+magic and technology to create a space for reflection on life, identity, memory and privacy.
 
-Research into art and magic requires real magical practice, which, in my case, manifests itself through
-meditation, the study of craniosacral biodynamics and vibrational healing with Tameana. In turn, the creative process
-feeds back into that practice.
+Guided by the figure of the Sibyl, I explore the relationship between art and magic on a journey through time and the
+Mediterranean, from ancient times to the present day.
 
-Code is a bridge for exploring the relationship between art, life and technology; it allows for the creation of works in which 
-interaction and data complement each other in an experience that encourages individual or participatory reflection.
+I believe that researching art and magic requires real magical practice. In my case, this manifests itself through
+meditation, studying craniosacral biodynamics, and practising vibrational healing with Tameana.
 
-My work is centered on the connection of three disciplines that are often perceived as distinct: Art, Healing
-(which I call Magic), and Technology. This is not a conceptual exercise but the core of a personal and professional
-journey. 
+Code enables the creation of works in which interaction and data complement each other, encouraging individual or
+collaborative reflection. It provides a means of exploring the relationship between art, life and technology.
+
+My work centres on the connection between three disciplines that are often perceived as distinct: art, healing (which I
+call magic) and technology. This is not just a conceptual exercise, but the core of my personal and professional
+journey.
 
 {{% columns %}}
 
