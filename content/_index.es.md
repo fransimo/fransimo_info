@@ -104,17 +104,22 @@ tags:
 
 # Arte, presencia y código para recorrer juntos el camino.
 
-A través de proyectos que involucran new media art, fotografía, dibujo, video, instalaciones, libros y fanzines,
+A través de proyectos que involucran [new media art](docs/art/new_media_art), [fotografía](docs/art/photography), dibujo, 
+video, instalaciones, [libros y fanzines](docs/art/books),
 combino arte, magia y tecnología para crear un espacio de reflexión sobre la vida, la identidad, la memoria y la
 privacidad.
 
-Guiado por la figura de la Sibila, exploro la relación entre el arte y la magia en un viaje a través del tiempo y el
+Guiado por la figura de la [Sibila](docs/art/It_is_in_all_of_us/sibyl), exploro la relación entre el arte y la 
+magia en un [viaje](docs/art/It_is_in_all_of_us/journey) a través del tiempo y el
 Mediterráneo, desde la antigüedad hasta la actualidad.
 
-Creo que investigar el arte y la magia requiere una práctica mágica real. En mi caso, esto se manifiesta a través de la
-meditación, el estudio de la biodinámica craneosacral y la práctica de la sanación vibracional con Tameana.
+Creo que [investigar el arte y la magia](docs/art/It_is_in_all_of_us) requiere una práctica mágica real. 
+En mi caso, esto se manifiesta a través de la 
+[meditación](docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees), 
+el estudio de la [biodinámica craneosacral](docs/presence/biodinamica_craneosacral) 
+y la práctica de la sanación vibracional con [Tameana](docs/presence/tameana).
 
-El código permite la creación de obras en las que la interacción y los datos se complementan, fomentando la reflexión
+El [código](docs/code) permite la creación de obras en las que la interacción y los datos se complementan, fomentando la reflexión
 individual o colaborativa. Proporciona un medio para explorar la relación entre el arte, la vida y la tecnología.
 
 Mi trabajo se centra en la conexión entre tres disciplinas que a menudo se perciben como distintas: el arte, la
