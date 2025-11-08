@@ -105,16 +105,21 @@ tags:
 
 # Art, presence and code to walk the path together.
 
-Through projects involving new media art, photography, drawing, video, installations, books and fanzines, I combine art,
+Through projects involving [new media art](docs/art/new_media_art), [photography](docs/art/photography), drawing, video, 
+installations, [books and fanzines](docs/art/books), I combine art,
 magic and technology to create a space for reflection on life, identity, memory and privacy.
 
-Guided by the figure of the Sibyl, I explore the relationship between art and magic on a journey through time and the
+Guided by the figure of the [Sibyl](docs/art/It_is_in_all_of_us/sibyl), I explore the relationship between art and magic 
+as I [travel](docs/art/It_is_in_all_of_us/journey) through time and the
 Mediterranean, from ancient times to the present day.
 
-I believe that researching art and magic requires real magical practice. In my case, this manifests itself through
-meditation, studying craniosacral biodynamics, and practising vibrational healing with Tameana.
+I believe that [researching art and magic](docs/art/It_is_in_all_of_us) requires real magical practice. In my case, 
+this manifests itself through
+[meditation](docs/art/It_is_in_all_of_us/first-part/talking_with_the_trees),
+studying [craniosacral biodynamics](docs/presence/biodinamica_craneosacral), 
+and practising vibrational healing with [Tameana](docs/presence/tameana).
 
-Code enables the creation of works in which interaction and data complement each other, encouraging individual or
+[Code](docs/code) enables the creation of works in which interaction and data complement each other, encouraging individual or
 collaborative reflection. It provides a means of exploring the relationship between art, life and technology.
 
 My work centres on the connection between three disciplines that are often perceived as distinct: art, healing (which I
