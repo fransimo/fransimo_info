@@ -43,7 +43,7 @@ This artwork can be considered a digital asset and a performance. If this artwor
 
 Is this a joke? No. My intention is not to be disrespectful to collectors or the NFT world. It’s a social experiment where I’m the lab rat. You can always think/dream about what you would do with an enormous amount of money coming from nothing but until it happens to you, it’s impossible to know. What will be the personal cost of this, even if it’s not sold? **…that’s the point of my digital art: it makes you think!**
 
-[@opensea](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/11780915356901891937150191052604117223978980698243640119023280871775425003521)
+[@opensea](https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/11780915356901891937150191052604117223978980698243640119023280871775425003521)
 
 (\*) The voice was a male one.
 
