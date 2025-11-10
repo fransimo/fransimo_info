@@ -45,7 +45,7 @@ Back in 2015 I asked myself: what could found photography be like in the digital
 
 Since the motivation was a purely theoretical one, what I found was very concerning.
 
-This [collection](https://bit.ly/3eVNPlm) consists of a series of aesthetically eye-catching images that may help direct our mind towards questioning privacy in today’s network life.
+This [collection](https://opensea.io/collection/shared-folder-red-box) consists of a series of aesthetically eye-catching images that may help direct our mind towards questioning privacy in today’s network life.
 
 _Red Box_ was part of the Function Festival where I did a performance. I was there in a dark room with a box showing it to groups of people. I was telling the story of Celine: a girl from Paris, daughter of Vietnamese immigrants. I knew where she lived, her school, her friends’ faces, I even showed a picture of her grandma’s ID (all faces and personal details were hidden).
 

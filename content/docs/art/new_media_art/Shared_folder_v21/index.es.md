@@ -45,7 +45,7 @@ En 2015 me pregunté: ¿cómo sería la fotografía encontrada en la era digital
 
 Dado que la motivación era puramente teórica, lo que encontré fue muy preocupante.
 
-Esta [colección](https://bit.ly/3eVNPlm) consiste en una serie de imágenes estéticamente atractivas que pueden ayudarnos a cuestionar la privacidad en la vida en red actual.
+Esta [colección](https://opensea.io/collection/shared-folder-red-box) consiste en una serie de imágenes estéticamente atractivas que pueden ayudarnos a cuestionar la privacidad en la vida en red actual.
 
 _Red Box_ formó parte del Function Festival, donde realicé una performance. Estaba en una habitación oscura con una caja, mostrándola a grupos de personas. Contaba la historia de Celine: una chica de París, hija de inmigrantes vietnamitas. Sabía dónde vivía, su escuela, los rostros de sus amigos, incluso mostré una foto del carnet de identidad de su abuela (todos los rostros y detalles personales estaban ocultos).
 
