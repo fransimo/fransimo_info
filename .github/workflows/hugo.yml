@@ -56,15 +56,15 @@ jobs:
             ./public/ "${{secrets.DEST}}"
           rm deploy_key
 
-      - name: Build Hugo site for IPFS
-        env:
-          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
-          HUGO_ENVIRONMENT: ipfs
-          TZ: Europe/Madrid
-        run: |
-          hugo \
-            --gc \
-            --minify 
+      # - name: Build Hugo site for IPFS
+      #  env:
+      #    HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+      #    HUGO_ENVIRONMENT: ipfs
+      #    TZ: Europe/Madrid
+      #  run: |
+      #    hugo \
+      #      --gc \
+      #      --minify
 
       # - name: Deploy to IPFS
       #  uses: ipfs/ipfs-deploy-action@v1
