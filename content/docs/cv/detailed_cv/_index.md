@@ -155,6 +155,7 @@ Some of my works have been included in the following books:
 
 # Workshops, lectures, debates
 
+- Guided meditation "Talking with Trees", Fundación Juan Miró Mallorca, as part of: I Congress of the Touristic Culture Observatory COSTA, 2025.
 - [TECNOLOGIA I SUPORTS](https://jornadesfotografiadocumental.wordpress.com/) at Jornadas de Fotografía Documental 2013
 - [Online marketing for photographers](http://fransimo.info/blog/2009/12/22/charla-marketing-on-line-para-fotografos/)
   for Barcelona Photobloggers, Barcelona, 2009.

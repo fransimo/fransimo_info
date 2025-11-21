@@ -154,6 +154,7 @@ Algunas de mis obras se han incluido en los siguientes libros:
 
 # Talleres, conferencias, debates
 
+- Meditación guiada "Hablando con los árboles", Fundación Juan Miró Mallorca, como parte del I Congreso del Observatorio de Cultura Turística COSTA, 2025.
 - [TECNOLOGIA I SUPORTS](https://jornadesfotografiadocumental.wordpress.com/) en las Jornadas de Fotografía Documental 2013  
 - [Marketing online para fotógrafos](http://fransimo.info/blog/2009/12/22/charla-marketing-on-line-para-fotografos/) para Barcelona Photobloggers, Barcelona, 2009\.  
 - Laboratorio: Introducción a las técnicas de laboratorio en blanco y negro para Barcelona Photobloggers, Barcelona, 2009\.  
