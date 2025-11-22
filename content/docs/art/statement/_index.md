@@ -65,22 +65,21 @@ expression, ultimately aiming for self-discovery and transformation in the viewe
 
 ---
 
-My practice operates at the intersection of art, presence, and code, exploring the 
-relationship between man, technology and spirituality. I define art as "plastic thought": a swing between ideas and aesthetics that 
-does not merely represent reality but vibrates to expand consciousness. My current research seeks to recover the 
-"magical" currents inherent in being human. Guided by the archetype of the Sibyl—a figure bridging the invisible and 
-visible worlds—I integrate three decades of experience in software engineering with a deep inquiry into ancestral wisdom. 
+My practice operates at the intersection of art, presence, and code, exploring the relationship between the human,
+technology, and spirituality. I define art as "plastic thought": a swing between ideas and aesthetics that does not
+merely represent reality but vibrates to expand consciousness. My current research seeks to recover the "magical"
+currents inherent in being human. Guided by the archetype of the Sibyl—a figure bridging the invisible and visible
+worlds—I integrate three decades of experience in software engineering with a deep inquiry into ancestral wisdom.
 
-My creative process is dialectical, moving between the algorithmic and the intuitive. On one
-hand, I use "Binary Jumps" (interactions with AI and code) to interrogate the digital landscape. Art works like God
-is in the bugs and #Selfie_v2 embrace glitch aesthetics and medical data to critique performative online identity,
-revealing that error is often the spark of evolution. Conversely, my lens-based work relies on "drifting" and deep
-listening strategies I call "talking with trees." In series like The Whisper of the Nymphs, I treat the camera as a tool
-to capture the energetic essence of a space, creating "time capsules" that lock a specific state of presence into the
-image.
+My creative process is dialectical, moving between the algorithmic and the intuitive. On one hand, I use "Binary
+Jumps" (interactions with AI and code) to interrogate the digital landscape. Artworks like God is in the bugs and
+#Selfie_v2 embrace glitch aesthetics and medical data to critique performative online identity, revealing that error is
+often the spark of evolution. Conversely, my lens-based work relies on "drifting" and meditative listening techniques I
+call "talking with trees." In series like The Whisper of the Nymphs, I treat the camera as a tool to capture the
+energetic essence of a space, creating "time capsules" that lock a specific state of presence into the image.
 
-Ultimately, my work aims to unify these seemingly distinct worlds—the analytical precision of the
-machine and the healing potential of the spirit. I create transmedia environments, books, and interactive platforms that
-function as "cracks in the walls of the cavern," inviting the viewer to look beyond the surface. Whether through the
-logic of a script or the silence of a photograph, my goal is to create a vibration that resonates with the viewer’s own
+Ultimately, my work aims to unify these seemingly distinct worlds—the analytical precision of the machine and the
+healing potential of the spirit. I create transmedia environments, books, and interactive platforms that function as "
+cracks in the walls of the cavern," inviting the viewer to look beyond the surface. Whether through the logic of a
+script or the silence of a photograph, my goal is to create a vibration that resonates with the viewer’s own
 interiority, helping us walk the path back to ourselves.
