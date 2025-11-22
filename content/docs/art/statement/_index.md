@@ -1,6 +1,6 @@
 ---
 weight: 1
-date: "2017-04-02"
+date: "2025-11-22"
 author: "Fran Simó"
 bookFlatSection: false
 bookCollapseSection: false
@@ -14,35 +14,38 @@ aliases:
 
 # Artist's statement
 
-My practice operates at the critical juncture where code, spiritual presence, and healing converge. After three decades
-as a software engineer, I now define art as **"plastic thought"**—a vibration capable of reshaping reality and expanding
-consciousness. My work bridges the perceived divide between the algorithmic and the ancestral, guided by the archetype
-of the **Sibyl**: the ancient prophetess who stands between the visible and invisible worlds. Through this lens, I
-explore how technology, when stripped of its utilitarian function, can reveal the same "magical" currents that flow
-through nature and the human psyche.
+My practice investigates the critical relationship between technology and consciousness, defining art as 'plastic
+thought' that evokes spiritual expansion. I explore how artificial intelligence, open-source architectures, and user
+data errors can reveal a shared, underlying truth about human life.
 
-I employ a dual methodology that integrates my technical expertise with intuitive somatic practices. On one side, I
-utilize **"Binary Jumps"**—a process of engaging with Artificial Intelligence and open-source code not as tools for
-efficiency, but as oracles to provoke non-linear creative leaps. On the other, I practice **"Talking with Trees,"** a
-meditative method of deep listening and "drifting" (psychogeography) through urban and natural landscapes. This
-dialectic allows me to critique the rigidity of digital systems while simultaneously embracing the chaotic, organic
-errors that drive evolution.
+My methodology alternates between code-based art and intuitive photography, using the city as an enormous plateau. My
+new media works, such as interactive installations and video, foreground the architecture of systems and digital error.
+In contrast, my intuitive photography operates as a meditative form of drifting, capturing anonymous moments and urban
+details to create time capsules that articulate the subconscious.
 
-In my new media installations, I interrogate the fragility of identity in the digital age. Works like
-***God is in the bugs*** posit that error—the glitch—is the fundamental spark of life and evolution, potentially
-heralding self-aware silicon forms. Similarly, ***#Selfie_v2*** utilizes my own medical scans (MRIs, X-rays) to
-deconstruct the performative nature of the selfie, asserting a shared biological interiority that transcends the curated
-avatar. These projects are digital mirrors, reflecting the "ghost in the machine" and questioning the boundaries of
-authorship, privacy, and memory in works like ***Shared Folder*** and the readymade ***CODE by R. Mutt***.
+My work’s dual approach seeks to shake the world by finding the elemental chords of human experience within the digital
+age. I explore collaborative and participative processes to promote art as a means of collective and individual
+expression, ultimately aiming for self-discovery and transformation in the viewer.
 
-My photographic practice acts as a "time capsule," capturing the energetic essence of spaces before they vanish. Whether
-documenting the anonymous flow of commuters in ***Passengers*** or the silent vibrations of a forest in
-***The Whisper of the Nymphs***, I treat the camera as an extension of the subconscious. These images are not mere
-documentation but "frozen time"—attempts to lock the vibration of a specific moment into a visual artifact that allows
-the viewer to access that state of presence.
+---
 
-Currently, my research creates a dialogue between these digital histories and the ancient feminine wisdom of the
-Mediterranean. By tracing the path of the Sibyls and the Iatromantis (healer-seers), I aim to recover the "magical
-origins" inherent in us all. My goal is to create environments—whether virtual, physical, or energetic—where the viewer
-can experience a shift in perception, recognizing that the technology we build is ultimately a reflection of the magic
-we have forgotten we possess.
+My practice operates at the intersection of art, presence, and code, exploring the critical
+relationship between technology and spiritual healing. Guided by the archetype of the Sibyl—a figure bridging the
+invisible and visible worlds—I integrate three decades of experience in software engineering with a deep inquiry into
+ancestral wisdom. I define art as "plastic thought": a swing between ideas and aesthetics that does not merely represent
+reality but vibrates to expand consciousness. My current research seeks to recover the "magical" currents inherent in
+being human, suggesting that the technology we build is a reflection of the inner powers we have forgotten.
+
+My creative process is dialectical, moving between the algorithmic and the intuitive. On one
+hand, I use "Binary Jumps" (interactions with AI and code) to interrogate the digital landscape. Installations like God
+is in the bugs and #Selfie_v2 embrace glitch aesthetics and medical data to critique performative online identity,
+revealing that error is often the spark of evolution. Conversely, my lens-based work relies on "drifting" and deep
+listening strategies I call "talking with trees." In series like The Whisper of the Nymphs, I treat the camera as a tool
+to capture the energetic essence of a space, creating "time capsules" that lock a specific state of presence into the
+image.
+
+Ultimately, my work aims to unify these seemingly distinct worlds—the analytical precision of the
+machine and the healing potential of the spirit. I create transmedia environments, books, and interactive platforms that
+function as "cracks in the walls of the cavern," inviting the viewer to look beyond the surface. Whether through the
+logic of a script or the silence of a photograph, my goal is to create a vibration that resonates with the viewer’s own
+interiority, helping us walk the path back to ourselves.
