@@ -11,20 +11,38 @@ aliases:
   - /statement/
   - /en/statement/
 ---
+
 # Artist's statement
 
-As an artist in the [new media art](https://en.wikipedia.org/wiki/New_media_art) environment I explore the relationship between man and technology. I’m interested in artificial intelligence (especially in relationship with our sense of consciousness and life), the possibilities of open-source/open-hardware, open data banks and the information that users shares by mistake.
+My practice operates at the critical juncture where code, spiritual presence, and healing converge. After three decades
+as a software engineer, I now define art as **"plastic thought"**—a vibration capable of reshaping reality and expanding
+consciousness. My work bridges the perceived divide between the algorithmic and the ancestral, guided by the archetype
+of the **Sibyl**: the ancient prophetess who stands between the visible and invisible worlds. Through this lens, I
+explore how technology, when stripped of its utilitarian function, can reveal the same "magical" currents that flow
+through nature and the human psyche.
 
-In turn, I work with [intuitive photography](http://fransimo.info/en/blog/2009/01/01/fotografia-intuitiva/). This [drifting](http://fransimo.info/en/blog/2015/03/15/traces-personal-drifts/) helps me capture the essence of spaces, places or situations using the city as an enormous plateau. I photograph anonymous people, urban details or insignificant spaces in order to transport them into a different space/time with the intention to create new stories. This way, (frozen) time and (georeferenced) space turn into key aspects of my photographs that I continually save to create a time capsule. My images occupy ludic terrain, often captured in a meditative state that is articulated as a game of exploring the subconscious.
+I employ a dual methodology that integrates my technical expertise with intuitive somatic practices. On one side, I
+utilize **"Binary Jumps"**—a process of engaging with Artificial Intelligence and open-source code not as tools for
+efficiency, but as oracles to provoke non-linear creative leaps. On the other, I practice **"Talking with Trees,"** a
+meditative method of deep listening and "drifting" (psychogeography) through urban and natural landscapes. This
+dialectic allows me to critique the rigidity of digital systems while simultaneously embracing the chaotic, organic
+errors that drive evolution.
 
-I present my work organized in series of images as installations, photobooks… or by creating environments where photographs are shown accompanied by video and/or music. During the development of my trajectory, I’ve explored participative and collaborative processes that turn into a way of getting together in order to create communities and to promote photography as a means of individual and group artistic expression. At the same time, I have organized exhibitions, debates, publications, marketing campaigns, etc.
+In my new media installations, I interrogate the fragility of identity in the digital age. Works like
+***God is in the bugs*** posit that error—the glitch—is the fundamental spark of life and evolution, potentially
+heralding self-aware silicon forms. Similarly, ***#Selfie_v2*** utilizes my own medical scans (MRIs, X-rays) to
+deconstruct the performative nature of the selfie, asserting a shared biological interiority that transcends the curated
+avatar. These projects are digital mirrors, reflecting the "ghost in the machine" and questioning the boundaries of
+authorship, privacy, and memory in works like ***Shared Folder*** and the readymade ***CODE by R. Mutt***.
 
-## Motivation
+My photographic practice acts as a "time capsule," capturing the energetic essence of spaces before they vanish. Whether
+documenting the anonymous flow of commuters in ***Passengers*** or the silent vibrations of a forest in
+***The Whisper of the Nymphs***, I treat the camera as an extension of the subconscious. These images are not mere
+documentation but "frozen time"—attempts to lock the vibration of a specific moment into a visual artifact that allows
+the viewer to access that state of presence.
 
-Being an artist is an addiction even a moral obligation. Once you discover you can lighten up an emotion with the stroke of a brush, an idea, a smile, a teardrop or shake someone up. You can change the brush, the canvas and the instrument, but once you start this course, it is impossible to understand life without walking it down.
-
-Art is plastic thought. A swing between ideas and aesthetics. The beauty of a piece is a crack in the walls of the cavern. If while creating it vibrates, the wave would find its chords and it will shake the world.
-
-The signature and date are an accident that might only help us understand how that people were able to be in tune, vibrate and sing in their tongues, ages and places. If they did, their waves would not have date.
-
-Even thought the journey is not the destination, we know ‘at the end of the course there is always a mirror’. Once we start walking we need to keep on because in the end we will only find ourselves.
+Currently, my research creates a dialogue between these digital histories and the ancient feminine wisdom of the
+Mediterranean. By tracing the path of the Sibyls and the Iatromantis (healer-seers), I aim to recover the "magical
+origins" inherent in us all. My goal is to create environments—whether virtual, physical, or energetic—where the viewer
+can experience a shift in perception, recognizing that the technology we build is ultimately a reflection of the magic
+we have forgotten we possess.
