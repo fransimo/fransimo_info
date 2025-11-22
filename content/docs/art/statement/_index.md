@@ -65,15 +65,14 @@ expression, ultimately aiming for self-discovery and transformation in the viewe
 
 ---
 
-My practice operates at the intersection of art, presence, and code, exploring the critical
-relationship between technology and spiritual healing. Guided by the archetype of the Sibyl—a figure bridging the
-invisible and visible worlds—I integrate three decades of experience in software engineering with a deep inquiry into
-ancestral wisdom. I define art as "plastic thought": a swing between ideas and aesthetics that does not merely represent
-reality but vibrates to expand consciousness. My current research seeks to recover the "magical" currents inherent in
-being human, suggesting that the technology we build is a reflection of the inner powers we have forgotten.
+My practice operates at the intersection of art, presence, and code, exploring the 
+relationship between man, technology and spirituality. I define art as "plastic thought": a swing between ideas and aesthetics that 
+does not merely represent reality but vibrates to expand consciousness. My current research seeks to recover the 
+"magical" currents inherent in being human. Guided by the archetype of the Sibyl—a figure bridging the invisible and 
+visible worlds—I integrate three decades of experience in software engineering with a deep inquiry into ancestral wisdom. 
 
 My creative process is dialectical, moving between the algorithmic and the intuitive. On one
-hand, I use "Binary Jumps" (interactions with AI and code) to interrogate the digital landscape. Installations like God
+hand, I use "Binary Jumps" (interactions with AI and code) to interrogate the digital landscape. Art works like God
 is in the bugs and #Selfie_v2 embrace glitch aesthetics and medical data to critique performative online identity,
 revealing that error is often the spark of evolution. Conversely, my lens-based work relies on "drifting" and deep
 listening strategies I call "talking with trees." In series like The Whisper of the Nymphs, I treat the camera as a tool
