@@ -2,6 +2,7 @@
 title: Está en todos nosotros
 type: docs
 bookToc: false
+bookCollapseSection: true
 ---
 
 ![El susurro de las ninfas](/webp/The_Whisper_of_the_Nymphs.webp)
