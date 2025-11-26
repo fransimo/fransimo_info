@@ -6,7 +6,7 @@ bookFlatSection: false
 bookCollapseSection: false
 bookToc: false
 title: Statement
-description: "Statement artístico de Fran Simó"
+description: "Declaración del artista Fran Simó: arte, presencia y código combinados para expandir la conciencia humana mediante glitch art, fotografía meditativa."
 aliases:
 - /es/statement/
 ---

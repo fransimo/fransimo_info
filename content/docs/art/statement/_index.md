@@ -6,7 +6,7 @@ bookFlatSection: false
 bookCollapseSection: false
 bookToc: false
 title: "Statement"
-description: "Fran Simo's Artist Statement"
+description: "Artist statement of Fran Simó: art, presence and code intersect to expand human consciousness through glitch aesthetics, photography, and transmedia."
 aliases: 
   - /statement/
   - /en/statement/
