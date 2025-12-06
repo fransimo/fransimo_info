@@ -41,7 +41,9 @@ si el cliente no recuerda conscientemente el evento que la causó.
 con una frecuencia de tres semanas.
 
 Las sesiones las realizo en:
-- Estambul: Beşiktaş, cerca de la estación de metro Gayrettepe. 
+- Estambul: 
+  - Beşiktaş, cerca de la estación de metro Gayrettepe. 
+  - Kuzguncuk, cerca del Kuzguncuk Bostanı
 - Barcelona: a pocos minutos de la estación Plaça de Sants M1 y M5.
 
 Si tienes una camilla de masaje en casa, puedo desplazarme a tu domicilio.
