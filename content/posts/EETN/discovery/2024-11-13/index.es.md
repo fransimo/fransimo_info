@@ -4,6 +4,7 @@ date: 2024-11-13
 title: Firma, círculo, identidad
 tags: 
 - descubrimientos
+- iiiaou
 ---
 
 La visión en la primera conversación con el árbol fue una mujer en la cama en intimidad, sin rostro. 

@@ -4,6 +4,7 @@ date: 2024-11-13
 title: Signature, Circle, Identity
 tags: 
 - discoveries
+- iiiaou
 ---
 
 The vision during the first conversation with the tree was of a woman lying in bed in intimacy, without a face.  

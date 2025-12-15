@@ -4,6 +4,7 @@ date: 2024-11-13
 title: Firma, cerchio, identità
 tags:
   - Scoperte
+  - iiiaou
 ---
 
 La visione nella prima conversazione con l'albero fu di una donna a letto in intimità, senza volto. Lo sguardo si
