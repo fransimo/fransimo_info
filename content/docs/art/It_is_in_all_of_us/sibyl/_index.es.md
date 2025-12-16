@@ -59,10 +59,22 @@ convergen las energías para transformar, sanar y unificar. No es solo un símbo
 transformación: la intuición, el conocimiento ancestral y la conexión con la energía cósmica y terrenal se integran en
 ella y en nuestro corazón para transformar la realidad.
 
-Sus técnicas y su lenguaje resuenan con el culto a Dionisio, el tantra y las tradiciones cherokee.
+Sus técnicas y su lenguaje resuenan con el culto a Dionisio, el Tantra y las tradiciones cherokee.
 
 Las sibilas, como mujeres profetisas posiblemente herederas de un linaje, trabajaban en templos y entraban en trance 
 y éxtasis para contactar con Apolo y el inframundo, lo que las conecta con las sacerdotisas dionisiacas y tántricas.
 
 Mi [investigación](..) surge de la necesidad de conectar de manera profunda y simbólica con la sabiduría que atraviesa
 territorios, el tiempo y culturas.
+
+## Sibilas y Oráculos en el arte
+
+Delfos es un epicentro oracular. La historia nos dice que las Pitias eran las sacerdotisas apolíneas que dirigían el templo. Entraban en trance con ayuda de vapores y rituales para hacer sus predicciones. Sus canalizaciones eran escritas e interpretadas por sacerdotes en un ritual claramente definido. Eran elegidas entre las mujeres de Delfos y debían cumplir una serie de requisitos morales.
+
+Las sibilas eran mujeres del pueblo que canalizaban mensajes divinos en estado de trance. A menudo se las considera vagabundas. Sus profecías solían anunciar desastres. Su rastro se remonta a un tiempo anterior a Delfos y podrían proceder de Persia o el Lejano Oriente.
+
+Algunas fuentes dicen que es un error histórico confundirlas. Error o no, tanto la Pitia como las sibilas eran mujeres profetas que entraban en trance para hablar en nombre de Dios. Las pitias tenían un rango social alto y una directa participación en la vida política pero incluso las Sibilas eran respetadas. En el marco de mi investigación sibilas y pitias son lo mismo: mujeres canalizadoras que vinculan el mundo  visible e invisible, el día y la noche o el sol y la luna. La conexión entre el cielo y la tierra.
+
+Ampliando aún más la idea las sacerdotisas dionisíacas, las minoicas y las sacerdotisas de Hathor son las mismas mujeres. Una voz que nos acompañaba desde el principio de la humanidad y que han querido ser silenciadas vía persecución, asesinatos y desacreditaciones. 
+
+Sin embargo, su poder siempre se cuela entre las rendijas y el arte las ha retratado durante siglos. De hecho, en el caso de algunas médiums, el arte ha sido su forma de expresión.
