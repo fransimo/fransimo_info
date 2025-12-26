@@ -3,6 +3,8 @@ title: Intuitive Photography
 date: '2009-01-01'
 author: Fran Simó
 aliases: /blog/2009/01/01/fotografia-intuitiva/
+categories:
+  - Texts
 images:
 - fotografia_intuitiva_dsc_2104.jpg
 description: _“The simply curious doesn’t have the right… Zen, like all mysticism, will only be understood by a mystic who… won’t give into the temptation to obtain by a.
