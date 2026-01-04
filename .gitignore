@@ -146,3 +146,6 @@ output/*
 .DS_Store
 
 /public/
+/build.car
+/new_cid.txt
+/old_cid.txt
