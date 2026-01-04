@@ -149,3 +149,4 @@ output/*
 /build.car
 /new_cid.txt
 /old_cid.txt
+/old_delete_cid.txt
