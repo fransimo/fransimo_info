@@ -27,7 +27,11 @@ if [[ $rc != 0 ]]; then
   exit $rc
 fi
 
-npx ipfs-car roots build.car > new_cid.txt
+# npx ipfs-car roots build.car > new_cid.txt
+
+source copy_build.sh
+
+exit 0
 
 ## ipfs publish
 

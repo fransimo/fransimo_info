@@ -150,3 +150,4 @@ output/*
 /new_cid.txt
 /old_cid.txt
 /old_delete_cid.txt
+/copy_build.sh
