@@ -10,6 +10,7 @@ tags:
   - Biodynamics
 aliases:
   - /masaje/biodinamica_craneosacral
+  - /es/docs/presence/biodinamica_craneosacral/
 draft: false
 images:
   - biodinamica.png
