@@ -1,0 +1,14 @@
+---
+author: 'Fran Simó'
+title: "Cineto Romano -> Vallinfreda - Camí de l'Aniene"
+date: 2024-10-06
+tags:
+  - instagram
+  - Aniene
+  - Vallinfreda
+  - Cineto Romano
+  - iiiaou
+---
+
+{{< instagram DAyIdQXNW0F >}}
+
