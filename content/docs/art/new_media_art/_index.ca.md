@@ -22,7 +22,7 @@ weight: 10
   class="image-portfolio"
 >}}
 
-<--- >
+<--->
 
 {{< figure
   src="/docs/art/new_media_art/Selfie_v2/XT238744.jpg"
@@ -66,7 +66,7 @@ weight: 10
   class="image-portfolio"
 >}}
 
-<--- >
+<--->
 
 {{< figure
   src="/docs/art/new_media_art/Shared_folder_red_box/DSCF3138.jpg"
