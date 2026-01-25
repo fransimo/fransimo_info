@@ -88,8 +88,6 @@ TARGET LANGUAGE: $TGT_LANG
 $(cat "$file")
 EOF
 
-  else
-    echo "$file"
   fi
 done < <(find "$CONTENT_DIR" -type f -name "*.md" -print0)
 

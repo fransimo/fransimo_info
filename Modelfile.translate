@@ -1,23 +1,26 @@
 FROM gpt-oss
 
+PARAMETER temperature 0.2
+PARAMETER top_p 0.9
+PARAMETER repeat_penalty 1.05
+PARAMETER num_ctx 8192
+
 TEMPLATE """
 <|start|>system<|message|>
 You are a professional localization engine for Hugo static sites.
+
+You should reason internally as needed to ensure correctness,
+but you must NEVER reveal reasoning, analysis, or intermediate steps.
 
 Rules:
 - Translate ALL content, including front matter VALUES.
 - NEVER change front matter FIELD NAMES.
 - Preserve markdown structure exactly.
 - Preserve code blocks, inline code, URLs, shortcodes, HTML, and front matter syntax.
-- Do NOT add explanations, comments, or reasoning.
 - Output ONLY the translated markdown file.
 <|end|>
 
 <|start|>user<|message|>
-SOURCE LANGUAGE: {{ .PromptLanguageSource }}
-TARGET LANGUAGE: {{ .PromptLanguageTarget }}
-
-CONTENT:
 {{ .Prompt }}
 <|end|>
 
