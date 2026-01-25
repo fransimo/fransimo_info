@@ -11,12 +11,13 @@ Rules:
 - Preserve code blocks, inline code, URLs, shortcodes, HTML, and front matter syntax.
 - Do NOT add explanations, comments, or reasoning.
 - Output ONLY the translated markdown file.
-
-Target language: {{ .Vars.target_language }}
-Source language: {{ .Vars.source_language }}
 <|end|>
 
 <|start|>user<|message|>
+SOURCE LANGUAGE: {{ .PromptLanguageSource }}
+TARGET LANGUAGE: {{ .PromptLanguageTarget }}
+
+CONTENT:
 {{ .Prompt }}
 <|end|>
 

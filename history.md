@@ -69,3 +69,4 @@ docker exec ipfs_host ipfs name publish --key=k51qzi5uqu5dhiu7v9v01yb6i69yu4luny
 ## auto-translate
 
 ollama create gpt-oss-hugo-translate -f Modelfile.translate
+[chat](https://chatgpt.com/c/69760182-0b54-8330-9b44-cae9018bfde7)
