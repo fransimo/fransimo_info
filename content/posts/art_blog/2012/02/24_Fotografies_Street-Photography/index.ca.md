@@ -3,7 +3,6 @@ title: 'Fotografies: Street Photography'
 description: El 24 de febrer a les 21:45 el programa Fotografies del canal 33 va emetre un especial de street photography per al que vaig tenir la sort de ser entrevistat.
 date: '2012-02-24'
 author: Fran Simó
-aliases: /es/blog/2012/02/24/fotografies-street-photography/
 images:
 - 03_fotografies_fran_simo.png
 categories:

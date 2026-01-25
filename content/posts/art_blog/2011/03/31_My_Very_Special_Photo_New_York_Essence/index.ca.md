@@ -2,7 +2,6 @@
 title: La meva foto molt especial, Essència de New York
 date: '2011-03-31'
 author: Fran Simó
-aliases: /es/blog/2011/03/31/my-very-special-photo-new-york-essence/
 images:
 - fran_simo_0122_New-York-Essence_KSC6440_New-York-Street-photography-street-portraits-Umbrella-Wall-Street.jpg
 categories:

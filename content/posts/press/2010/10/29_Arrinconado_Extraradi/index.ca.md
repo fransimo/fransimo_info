@@ -2,7 +2,6 @@
 title: '"Arrinconat" a l’Extraradi de COMRàdio'
 date: '2010-10-29T23:00:23+02:00'
 author: Fran Simó
-aliases: /es/blog/2010/10/29/arrinconado-en-extraradi-de-comradio/
 categories:
 - Barcelona Photobloggers
 - press

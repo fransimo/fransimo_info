@@ -12,7 +12,6 @@ tags:
 - mallorca
 title: function("innocence", 2019)
 description: En gener de 2019, un grup d'artistes digitals es va reunir al Centre Cultural Casa Planes. Com a resultat, vam crear el primer Festival d'Art Digital i Electrònic de Mallorca [function("innocence", 2019)](http://2019.functionfest.com/en/function_home_eng/), que es va fer realitat durant dos dies, entre el 24 i el 25 de maig.
-aliases: /es/blog/2019/05/26/functioninocencia-2019/
 ---
 
 ![function_2019_innocence.png](function_2019_innocence.png)

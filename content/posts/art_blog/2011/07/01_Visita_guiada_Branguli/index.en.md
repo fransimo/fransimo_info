@@ -6,7 +6,7 @@ aliases: /es/blog/2011/07/01/visita-guiada-a-branguli-barcelona-1909-1945-con-su
 slug: Visita-guiada-a-Branguli-Barcelona-1909-1945-con-Susana-Garcia
 categories:
 - Barcelona Photobloggers
-description: "Barcelona 1909-1945" by Susana García, exhibition coordinator at CCCB. The tour is an activity of the participatory project Brangulí va ser aquí, i."
+description: '"Barcelona 1909-1945" by Susana García, exhibition coordinator at CCCB. The tour is an activity of the participatory project Brangulí va ser aquí, i."'
 ---
 
 ![CCCB Barcelona Photobloggers Guided tour for Brangulí. Barcelona 1909-1945 for Brangulí va ser aquí, i tu? / Marcelo Aurelio](0001_IMG_5297-marcelo-aurelio.jpg "CCCB Barcelona Photobloggers Guided tour for Brangulí. Barcelona 1909-1945 for Brangulí va ser aquí, i tu? / Marcelo Aurelio")

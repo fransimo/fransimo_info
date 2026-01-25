@@ -3,7 +3,6 @@ title: 'Convocatòries a projectes participatius en xarxa per a institucions cul
 description: La setmana passada un centre cultural de Barcelona em va contactar per contrastar idees sobre un projecte. Tinguérem una conversa d’un parell d’hores en la qual vaig explicar la.
 date: '2011-05-12'
 author: Fran Simó
-aliases: /es/blog/2011/05/12/convocatorias-a-proyectos-participativos-en-red-para-instituciones-culturales-establecidas-ideas-basicas/
 ---
 
 La setmana passada un centre cultural de Barcelona em va contactar per contrastar idees sobre un projecte. Tinguérem una conversa d’un parell d’hores en la qual vaig explicar l’experiència de <a href="http://barcelonaphotobloggers.org/">Barcelona Photobloggers</a> en l’organització de projectes participatius de fotografia. Al final, em va quedar la sensació que aquesta conversa podria ajudar més centres i he decidit publicar-la esperant que el nivell de les crides “participatives” augmenti, sobretot, que augmenti el respecte als participants.

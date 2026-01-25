@@ -3,8 +3,6 @@ title: Fulles de contacte
 description: Com a part de la meva investigació en Intel·ligència Artificial, vaig crear aquestes fulles de contacte amb els rostrets que detecta l'algoritme.
 date: '2013-06-25'
 author: Fran Simó
-guid: https://fransimo.info/blog/2013/06/25/contact-sheets/
-aliases: /es/blog/2013/06/25/contact-sheets/
 images:
 - i_dreamed_contacts_fran_simo_02_8e9b80952408ba7c47a32dcce7c04c0e.jpg
 categories:

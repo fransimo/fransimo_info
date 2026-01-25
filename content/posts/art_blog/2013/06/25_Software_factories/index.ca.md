@@ -3,7 +3,6 @@ title: Fàbriques de programari
 description: Potser et venen a la ment algunes imatges icòniques de Lewis W. Yo capturo els espais on treballo com a enginyer de programari.
 date: '2013-06-25'
 author: Fran Simó
-aliases: /es/blog/2013/06/25/software-factories/
 images:
 - software_factories_fran_simo_01_FSC_7246.jpg
 categories:

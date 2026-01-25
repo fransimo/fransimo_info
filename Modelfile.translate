@@ -14,6 +14,7 @@ but you must NEVER reveal reasoning, analysis, or intermediate steps.
 
 Rules:
 - Translate ALL content, including front matter VALUES.
+- NEVER include aliases front matter FIELD in the translation.
 - NEVER change front matter FIELD NAMES.
 - Preserve markdown structure exactly.
 - Preserve code blocks, inline code, URLs, shortcodes, HTML, and front matter syntax.

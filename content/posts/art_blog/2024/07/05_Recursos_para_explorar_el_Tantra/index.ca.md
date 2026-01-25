@@ -9,8 +9,6 @@ categories:
 tags:
 - tantra
 draft: false
-aliases:
-- /post/recursos_aprendizaje/
 ---
 
 A sovint em pregunten sobre el Tantra: què és?, per on començar? El Tantra és una experiència que s'ha de viure en el cos. Per a qui comença, m'agrada recomanar un "Tantra per a tothom". Cada facilitador té el seu propi enfocament, però solen ser trobades més curtes i introductoris.

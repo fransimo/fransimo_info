@@ -3,7 +3,6 @@ id: 950
 title: El meu llibre "22" com a eBook
 date: '2011-11-21'
 author: Fran Simó
-aliases: /es/blog/2011/11/21/mi-libro-22-como-ebook/
 categories:
 - photography
 description: Les exposicions són bones, però ens limiten a un espai/temps concret. La mescla multimèdia, que acaba sempre en un vídeo, és interessant però força al.

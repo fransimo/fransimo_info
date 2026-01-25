@@ -2,7 +2,6 @@
 title: New York, New York... l'edició “de memòria”
 date: '2014-10-27T09:01:44+01:00'
 author: Fran Simó
-aliases: /es/blog/2014/10/27/new-york-new-york-la-edicion-de-memoria/
 images:
 - 0001__KSC6878.jpg
 categories:

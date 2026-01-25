@@ -2,7 +2,6 @@
 title: Postals oblidables, records en clau
 date: '2010-04-07'
 author: Fran Simó
-aliases: /es/blog/2010/04/07/postales-olvidables-recuerdos-en-clave/
 categories:
 - photography
 tags:

@@ -2,7 +2,6 @@
 title: Un viatge personal
 date: '2013-03-25'
 author: Fran Simó
-aliases: /es/blog/2013/03/25/un-viaje-personal/
 images:
 - fransimo_calle35_que_es_street_640px.jpg
 categories:

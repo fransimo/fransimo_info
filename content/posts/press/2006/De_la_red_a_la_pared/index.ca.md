@@ -2,7 +2,6 @@
 title: '"De la xarxa a la paret" a l’El País'
 date: '2006-10-19T19:00:17+02:00'
 author: Barcelona Photobloggers
-aliases: /es/blog/2006/10/19/de-la-red-a-la-pared-en-el-pais/
 categories:
 - press
 description: El diari El País ha escrit un article sobre l’exposició "De la xarxa a la paret" organitzada per Barcelona Photobloggers i la galeria Fotonauta.

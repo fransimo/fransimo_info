@@ -2,9 +2,6 @@
 title: Un més a "Carrer 35"
 date: '2011-03-07T10:23:57+01:00'
 author: Fran Simó
-aliases:
-- /es/blog/2011/03/07/calle-35/
-- /blog/2011/03/07/calle-35/the-end-2/
 images:
 - 13_fran_simo_0039_HSC_4074_dxo_New-York.jpg
 categories:

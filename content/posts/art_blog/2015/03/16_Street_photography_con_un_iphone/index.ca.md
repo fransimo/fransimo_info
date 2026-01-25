@@ -2,7 +2,6 @@
 title: Fotografia de carrer amb un iPhone
 date: '2015-03-16'
 author: Fran Simó
-aliases: /es/blog/2015/03/16/street-photography-con-un-iphone/
 images:
 - IMG_2581_DxO-2.jpg
 categories:

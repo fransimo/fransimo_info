@@ -2,7 +2,6 @@
 title: Ubiquografia a La Vanguardia
 date: '2012-02-02T13:00:54+01:00'
 author: Barcelona Photobloggers
-aliases: /es/blog/2012/02/02/ubiquography-en-la-vanguardia/
 categories:
 - Barcelona Photobloggers
 - press

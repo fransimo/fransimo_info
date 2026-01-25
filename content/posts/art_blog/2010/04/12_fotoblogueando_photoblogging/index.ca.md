@@ -2,7 +2,6 @@
 title: Fotobloguejant (Photoblogging)
 date: '2010-04-12'
 author: Fran Simó
-aliases: /es/blog/2010/04/12/fotoblogueando-photoblogging/
 description: Durant el 2002 el laboratori on acostumava a revelar baixà els preus del “revelat a CD” i vaig començar a demanar sempre el suport digital.
 ---
 
