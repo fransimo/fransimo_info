@@ -2,7 +2,6 @@
 title: '"Brangulí was here. And you?" in El Periódico'
 date: '2011-06-30T14:00:26+02:00'
 author: Barcelona Photobloggers
-aliases: /es/blog/2011/06/30/branguli-estuvo-aqui-y-tu-en-el-periodico/
 categories:
 - Barcelona Photobloggers
 - press

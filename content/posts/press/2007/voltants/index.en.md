@@ -2,7 +2,6 @@
 title: Barcelona Photobloggers and Voltants in the Diari de Terrassa
 date: '2007-10-18T15:00:37+02:00'
 author: Fran Simó
-aliases: /es/blog/2007/10/18/barcelona-photobloggers-y-voltants-en-el-diari-de-terrassa/
 categories:
 - Barcelona Photobloggers
 - press

@@ -3,8 +3,6 @@ id: 745
 title: Henri Cartier-Bresson Trademark
 date: '2009-01-01T10:00:20+01:00'
 author: Fran Simó
-guid: http://fransimo.info/?p=745
-aliases: /es/blog/2009/01/01/henri-cartier-bresson-marca-registrada/
 images:
 - pepe_baeza.jpg
 categories:

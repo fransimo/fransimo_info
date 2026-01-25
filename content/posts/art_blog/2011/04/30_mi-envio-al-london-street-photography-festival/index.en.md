@@ -2,7 +2,6 @@
 title: '"Somewhere else", my submission to the "London Street Photography Festival"'
 date: '2011-04-30'
 author: Fran Simó
-aliases: /es/blog/2011/04/30/mi-envio-al-london-street-photography-festival/
 images:
 - 0001_fran_simo__JSC6879.jpg
 categories:

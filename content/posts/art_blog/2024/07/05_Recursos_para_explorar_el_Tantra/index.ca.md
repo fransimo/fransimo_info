@@ -11,9 +11,9 @@ tags:
 draft: false
 ---
 
-A sovint em pregunten sobre el Tantra: què és?, per on començar? El Tantra és una experiència que s'ha de viure en el cos. Per a qui comença, m'agrada recomanar un "Tantra per a tothom". Cada facilitador té el seu propi enfocament, però solen ser trobades més curtes i introductoris.
+A vegades em pregunten sobre el Tantra: què és? per on començar? El Tantra és una experiència que s'ha de viure en el cos. Per a qui comença, m'agrada recomanar un "Tantra per a tothom". Cada facilitador té el seu propi enfocament, però solen ser trobades més curtes i introductoris.
 
-Aquí tens una llista de facilitadors perquè puguis explorar el que és el Tantra per a ells:
+Aquí tens una llista de facilitadors perquè puguis explorar què és el Tantra per a ells:
 
 ### Facilitadors
 
@@ -42,7 +42,7 @@ Molts companys de la formació de Verma ofereixen un "camí tàntric" més perso
 
 ### Meditacions
 
-La meditació és central al Tantra. Osho popularitzà les meditacions actives, que tot i no ser les úniques al Tantra, estan molt relacionades i es poden practicar en solitari:
+La meditació és central en el Tantra. Osho popularitzà les meditacions actives, que tot i no ser les úniques al Tantra, estan molt relacionades i es poden practicar en solitari:
 
 - [Osho.com - Meditacions actives](https://www.osho.com/es/meditation/osho-active-meditations/introduction)
 - [YouTube - Meditacions actives](https://youtube.com/playlist?list=PLDtuqx9znDF_fcYu5xUuNktymiIaC7THF)

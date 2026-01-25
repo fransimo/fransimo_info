@@ -2,7 +2,6 @@
 title: Barcelona Photobloggers on COM Radio's Extraradi
 date: '2009-09-04T09:36:38+02:00'
 author: Fran Simó
-aliases: /ca/blog/2009/09/04/barcelona-photobloggers-a-lextraradi-de-com-radio/
 categories:
 - press
 description: '") Yesterday we were invited to Extraradi, the afternoon program of COM Radio.'

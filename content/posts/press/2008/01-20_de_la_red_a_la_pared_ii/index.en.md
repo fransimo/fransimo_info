@@ -2,7 +2,6 @@
 title: '"From the Network to the Wall II" in ADN'
 date: '2008-01-20T09:00:01+01:00'
 author: Barcelona Photobloggers
-aliases: /es/blog/2008/01/20/de-la-red-a-la-pared-ii-en-adn/
 categories:
 - Barcelona Photobloggers
 - press

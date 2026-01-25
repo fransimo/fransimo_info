@@ -2,7 +2,6 @@
 title: Why?
 date: '2010-04-05'
 author: Fran Simó
-aliases: /es/blog/2010/04/05/por-que/
 bookTOC: false
 categories:
 - photography

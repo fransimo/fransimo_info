@@ -9,8 +9,6 @@ categories:
 tags:
 - tantra
 draft: false
-aliases:
-- /post/recursos_aprendizaje/
 ---
 
 People often ask me about Tantra: what is it, where to start? Tantra is an experience that must be lived in the body. For those just starting, I like to recommend a "Tantra for Everyone". Each facilitator has their own approach, but they are usually shorter, introductory meetings.

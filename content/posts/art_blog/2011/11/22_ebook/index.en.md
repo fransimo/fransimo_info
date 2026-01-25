@@ -3,7 +3,6 @@ id: 950
 title: My book "22" as an eBook
 date: '2011-11-21'
 author: Fran Simó
-aliases: /es/blog/2011/11/21/mi-libro-22-como-ebook/
 categories:
 - photography
 description: Exhibitions are fine, but they confine us to a specific space/time. The multimedia mix, which always ends up as a video, is interesting but forces the viewer into a rhythm, and although I find it very appealing, it hasn't fully convinced me. That's why, since we started the [Arrinconado](http://arrinconado.barcelonaphotobloggers.org/) project in [Barcelona Photobloggers](http://barcelonaphotobloggers.org/ "Barcelona Photobloggers"), I've been researching and testing print-on-demand systems and now eBooks.

@@ -3,8 +3,6 @@ id: 7658
 title: A Personal Journey, Part Two
 date: '2013-07-30T09:03:09+02:00'
 author: Fran Simó
-guid: http://fransimo.info/?p=7658
-aliases: /es/blog/2013/07/30/un-viaje-personal-segunda-parte/
 images:
 - Untitled_Crowd_1_1992.jpg
 categories:

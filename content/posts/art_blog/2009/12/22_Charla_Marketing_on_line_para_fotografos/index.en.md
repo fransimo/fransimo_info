@@ -2,7 +2,6 @@
 title: 'Talk: Online Marketing for Photographers'
 date: '2009-12-22'
 author: Fran Simó
-aliases: /es/blog/2009/12/22/charla-marketing-on-line-para-fotografos/
 images:
 - mkt_on_line_oscar_ciutat.jpg
 categories:
