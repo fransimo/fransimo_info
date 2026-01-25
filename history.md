@@ -66,3 +66,6 @@ $ docker exec ipfs_host ipfs key import fransimo_info /export/fransimo_info.ipfs
 
 docker exec ipfs_host ipfs name publish --key=k51qzi5uqu5dhiu7v9v01yb6i69yu4luny793hwl19knqbqdgv97x7s949h0h1 --lifetime 48h --ttl 48h /ipfs/bafybeihqhzaiuxsgqtinuueuiqdhnvfixsfqiv3s72eecvb5zmcjxdkksq
 
+## auto-translate
+
+ollama create gpt-oss-hugo-translate -f Modelfile.translate
