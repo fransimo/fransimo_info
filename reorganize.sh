@@ -1,40 +1,49 @@
 #!/bin/bash
 
-echo "--- Iniciando reorganización recursiva ---"
+echo "--- Iniciando reorganización (Método Directo) ---"
 
-# 1. CASO 1: Ficheros simples (index.md / _index.md)
-# Buscamos archivos que se llamen exactamente index.md o _index.md
-find . -type f \( -name "index.md" -o -name "_index.md" \) | while read -r f; do
-    # Evitamos procesar archivos que ya están dentro de carpetas de fecha (evita bucles)
-    if [[ ! "$f" =~ [0-9]{4}-[0-9]{2}-[0-9]{2} ]]; then
-        dir=$(dirname "$f")
-        base=$(basename "$f" .md)
-        echo "Procesando simple: $f"
-        git mv "$f" "$dir/${base}.en.md"
+# 1. SOLUCIÓN CASO 1: index.md -> index.en.md
+# Usamos tu comando que sí funciona para obtener la lista
+find . -type f \( -name "index.md" -o -name "_index.md" \) | grep -v "\.en\.md" | while read -r f; do
+    # Filtro extra: No tocar si ya está en una carpeta con fecha (YYYY-MM-DD)
+    if echo "$f" | grep -Eq "/[0-9]{4}-[0-9]{2}-[0-9]{2}/"; then
+        continue
     fi
-done
 
-# 2. CASO 2: Ficheros por fecha (Page Bundles)
-# Buscamos archivos que empiecen por fecha YYYY-MM-DD
-find . -type f -name "[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]*.md" | while read -r f; do
     dir=$(dirname "$f")
-    filename=$(basename "$f")
+    base=$(basename "$f" .md)
+    target="$dir/${base}.en.md"
 
-    # Caso A: Con idioma (ej: 2024-03-10.es.md)
-    if [[ "$filename" =~ ^([0-9-]{10})\.([a-z]{2})\.md$ ]]; then
-        date_folder="${BASH_REMATCH[1]}"
-        lang="${BASH_REMATCH[2]}"
-
-        mkdir -p "$dir/$date_folder"
-        git mv "$f" "$dir/$date_folder/index.$lang.md"
-
-    # Caso B: Sin idioma (ej: 2024-03-10.md)
-    elif [[ "$filename" =~ ^([0-9-]{10})\.md$ ]]; then
-        date_folder="${BASH_REMATCH[1]}"
-
-        mkdir -p "$dir/$date_folder"
-        git mv "$f" "$dir/$date_folder/index.md"
-    fi
+    echo "Renombrando: $f -> $target"
+    git mv "$f" "$target"
 done
 
-echo "--- Reorganización completada ---"
+# 2. SOLUCIÓN CASO 2: Fecha.md -> Carpeta/index.md
+# Buscamos archivos que tengan el patrón de fecha
+find . -maxdepth 2 -type f -name "[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]*" | while read -r f; do
+    dir=$(dirname "$f")
+    file=$(basename "$f")
+
+    # Extraer fecha: los primeros 10 caracteres (YYYY-MM-DD)
+    date_folder=$(echo "$file" | cut -c 1-10)
+
+    # Extraer el resto: lo que hay después de la fecha
+    # Ejemplo: .es.md o .md
+    rest=$(echo "$file" | cut -c 11-)
+
+    new_dir="$dir/$date_folder"
+    mkdir -p "$new_dir"
+
+    if [ "$rest" = ".md" ]; then
+        dest="$new_dir/index.md"
+    else
+        # Si es .es.md, quitamos el punto inicial para que quede index.es.md
+        lang_part=$(echo "$rest" | sed 's/^\.//')
+        dest="$new_dir/index.$lang_part"
+    fi
+
+    echo "Moviendo: $f -> $dest"
+    git mv "$f" "$dest"
+done
+
+echo "--- Proceso completado ---"
