@@ -1,12 +1,12 @@
 ---
 weight: 2
 bookFlatSection: false
-title: "Sibila"
-description: "Sibila, context històric i interpretació artística en la investigació 'Està en tots nosaltres'"
+title: "Sibil·la"
+description: "Sibil·la, context històric i interpretació artística en la investigació 'Està en tots nosaltres'"
 bookHidden: false
 ---
 
-# Sibila
+# Sibil·la
 
 ## Context històric conegut
 
@@ -32,7 +32,7 @@ Què passava a Mallorca abans del genocidi de la conquista perquè una figura fe
 
 En la meva investigació sobre art i màgia, les sibiles m'han susurrat un camí que transita entre el natural i l'ancestral, a través de l'aigua i dels arbres. Un camí que es dibuixa als mapes i que, partint de Mallorca, on encara ressona el seu cant, m'ha portat a prop de Tivoli i el seu bosc. Sembla apuntar cap a Creta i Turquia. Creta, possible origen del culte a Dionís, i Turquia, Anatòlia, per la seva relació amb la Sibila d'Eritrea, cuyas profecies són la font del Cant de la Sibila.
 
-La Sibila, com a figura mítica, és un punt de convergència entre diversos elements simbòlics i espirituals que entrellaçen la saviesa ancestral i la connexió amb els fluxos energètics universals.
+La Sibil·la, com a figura mítica, és un punt de convergència entre diversos elements simbòlics i espirituals que entrellaçen la saviesa ancestral i la connexió amb els fluxos energètics universals.
 
 En la meva interpretació, la Sibila actua com un catalitzador similar al chakra del cor, que reflecteix el lloc on convergen les energies per transformar, sanar i unificar. No és només un símbol estàtic, sinó una figura viva de transformació: la intuïció, el coneixement ancestral i la connexió amb l'energia còsmica i terrenal s'integren en ella i en el nostre cor per transformar la realitat.
 
