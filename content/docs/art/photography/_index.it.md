@@ -17,7 +17,7 @@ weight: 30
 {{< figure
   src="/webp/The_Whisper_of_the_Nymphs.webp"
   alt="È in tutti noi"
-  link="/docs/art/photography/The_Whisper_of_the_Nymphs/"
+  link="/it/docs/art/photography/The_Whisper_of_the_Nymphs/"
   caption="Il sussurro delle ninfe"
   class="image-portfolio"
 >}}
@@ -27,7 +27,7 @@ weight: 30
 {{< figure
   src="/docs/art/photography/Traces_personal_drifts/fran_simo_traces_1_02__A009704_DxO.jpg"
   alt="Tracce (oscillazioni personali)"
-  link="/docs/art/photography/Traces_personal_drifts/"
+  link="/it/docs/art/photography/Traces_personal_drifts/"
   caption="Tracce (oscillazioni personali)"
   class="image-portfolio"
 >}}
@@ -38,7 +38,7 @@ weight: 30
 {{< figure
   src="/docs/art/photography/Es_Lloga/es_lloga_fran_simo_01__ISC1838_DxO.jpg"
   alt="Es lloga (In affitto)"
-  link="/docs/art/photography/Es_Lloga/"
+  link="/it/docs/art/photography/Es_Lloga/"
   caption="Es lloga (In affitto)"
   class="image-portfolio"
 >}}

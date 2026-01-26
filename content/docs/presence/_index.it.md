@@ -12,7 +12,7 @@ description: "Introdurre la pratica terapeutica di Fran Simó, offrendo sessioni
 
 ![fransimo_therapies.png](fransimo_therapies.png)
 
-<--- >
+<--->
 
 Dalla più sottile, come [Tameana](tameana/) o [Terapia Craniosacrale Biodinamica](biodinamica_craneosacral/), a 
 [bodywork olistico & sessione energetica](holistic_session/), possiamo esplorare percorsi per ricordare al tuo corpo 
