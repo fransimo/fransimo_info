@@ -4,16 +4,17 @@ set -euo pipefail
 # -----------------------------
 # Usage
 # -----------------------------
-if [[ $# -ne 4 ]]; then
-  echo "Usage: $0 <content_dir> <source_lang> <target_lang> <target_suffix>"
-  echo "Example: $0 content en ca ca"
+if [[ $# -ne 5 ]]; then
+  echo "Usage: $0 <content_dir> <source_lang> <target_lang> <source_suffix> <target_suffix>"
+  echo "Example: $0 content English Catalan en ca"
   exit 1
 fi
 
 CONTENT_DIR="$1"
 SRC_LANG="$2"
 TGT_LANG="$3"
-TGT_SUFFIX="$4"
+SRC_SUFFIX="$4"
+TGT_SUFFIX="$5"
 
 MODEL="gpt-oss-hugo-translate"
 
@@ -28,7 +29,7 @@ is_source_file() {
   local file
   file="$(basename "$1")"
 
-  case "$SRC_LANG" in
+  case "$SRC_SUFFIX" in
     en)
       [[ "$file" == "index.md" ]] ||
       [[ "$file" == "_index.md" ]] ||
@@ -40,8 +41,8 @@ is_source_file() {
       [[ "$file" == "_index.es.md" ]]
       ;;
     *)
-      [[ "$file" == "index.${SRC_LANG}.md" ]] ||
-      [[ "$file" == "_index.${SRC_LANG}.md" ]]
+      [[ "$file" == "index.${SRC_SUFFIX}.md" ]] ||
+      [[ "$file" == "_index.${SRC_SUFFIX}.md" ]]
       ;;
   esac
 }
@@ -78,8 +79,6 @@ while IFS= read -r -d '' file; do
     fi
 
     echo "Translating: $file → $out"
-
-    # ollama run "$MODEL" --vars "source_language=$SRC_LANG,target_language=$TGT_LANG" < $file > "$out"
 
     ollama run "$MODEL" <<EOF > "$out"
 SOURCE LANGUAGE: $SRC_LANG
