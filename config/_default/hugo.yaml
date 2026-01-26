@@ -47,6 +47,14 @@ languages:
         weight: 2
         contentDir: content
         languageCode: es-ES
+    ca:
+      languageName: Català
+      title: Fran Simó
+      params:
+        subtitle: Art, presència i codi per caminar junts pel camí.
+      weight: 2
+      contentDir: content
+      languageCode: ca-ES
     it:
       languageName: Italiano
       title: È dentro di tutti noi

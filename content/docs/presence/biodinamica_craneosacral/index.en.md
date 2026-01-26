@@ -2,7 +2,8 @@
 author: "Fran Simó"
 title: "Biodynamic Craniosacral"
 slug: biodynamic_craniosacral
-alias: /docs/presence/biodinamica_craneosacral/
+aliases: 
+  - /docs/presence/biodinamica_craneosacral/
 date: 2024-04-13
 weight: 20
 categories:

@@ -34,4 +34,6 @@ function convert_2_pdf() {
 
 convert_2_pdf "_index.es.md" "fransimo_detailed_cv.es"
 
-convert_2_pdf "_index.md" "fransimo_detailed_cv"
+convert_2_pdf "_index.en.md" "fransimo_detailed_cv"
+
+convert_2_pdf "_index.ca.md" "fransimo_detailed_cv.ca"
