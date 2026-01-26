@@ -2,71 +2,71 @@
 title: Intuitive Photography
 date: '2009-01-01'
 author: Fran Simó
-aliases: /blog/2009/01/01/fotografia-intuitiva/
 categories:
   - Texts
 images:
 - fotografia_intuitiva_dsc_2104.jpg
-description: _“The simply curious doesn’t have the right… Zen, like all mysticism, will only be understood by a mystic who… won’t give into the temptation to obtain by a.
+description: _"The merely curious has no right… Zen, like all mysticism, will be understood only by a mystic who… will not succumb to the temptation of obtaining in a covert manner what mystical experience denies them"_ 
 ---
 
 ![fotografia_intuitiva_dsc_2104.jpg](fotografia_intuitiva_dsc_2104.jpg)
 
-> _“The simply curious doesn’t have the right… Zen, like all mysticism, will only be understood by a mystic who… won’t give into the temptation to obtain by a surreptitious way that which the mystical experience denies”_ (Translator’s note from ‘Zen in the Art of Archery’)
+> _"The merely curious has no right… Zen, like all mysticism, will be understood only by a mystic who… will not succumb to the temptation of obtaining in a covert manner what mystical experience denies them"_ (Translator's note in: _Zen in the Art of Archery_)
 
-From Pepe Baeza’s talk I found out that Braque had recommended Henri Cartier-Bresson to read the book ‘Zen in the Art of Archery’ by Eugen Herrigel.
+In the [talk by Pepe Baeza](https://fransimo.info/es/blog/2009/01/01/?p=745) I learned that [Braque](http://es.wikipedia.org/wiki/Braque) had recommended to Henri Cartier-Bresson the reading of the book _Zen in the Art of Archery_ by [Eugen Herrigel](http://en.wikipedia.org/wiki/Eugen_Herrigel).
 
-With this article I aim to explain what I call intuitive photography. It’s the style of photography that I’ve practiced most, and ever since I found out that HCB based his photography on Herrigel’s book, I’ve discovered that my attitude behind the camera is based on the same principles as HCB’s but with some differences.
+With this article I intend to explain what I call Intuitive Photography. It is the style of photography that I have practiced the most, and since I know that HCB based his photography on Herrigel's book I discovered that my attitude behind the camera is based on the same principles that HCB used, but with some differences.
 
-Here are some phrases that could sum up HCB’s ideas about what he called l’imaginaire d’après nature (the imaginary nature), something closely related to Buddhist thought and to Herrigel’s book:
+Some phrases that could summarize HCB's ideas about what he called Photography of the Natural, which are closely related to Buddhist thought and Herrigel's book:
 
--   “Photographing… is to putting one’s head, one’s eye and one’s heart on the same axis.”
--   “Above all, I craved to size, in the confines of one single photograph, the whole essence of some situation that was in the process of unrolling itself before my eyes.”
--   “… we must be lucid about what is going on in the world and honest about what we feel.”
+- “To photograph is to put the head, the eye and the heart at the same point of aim”
+- “I was inspired, above all by the desire to capture in a single image the essence that emerged from the scene”
+- “…it is enough to be lucid about what happens and honest about what is felt.”
 
-Those who are interested in reading HCB’s full articles can read ‘The Imaginary Nature’ and ‘The Decisive Moment’ in the blog, but I recommend you buy the book.
+For those interested in reading HCB’s full articles you can read [Photographing the Natural](http://fransimo.info/blog/2008/12/31/fotografiar-del-natural-por-henri-cartier-bresson/) and [The Decisive Moment](http://fransimo.info/blog/2008/12/31/el-instante-decisivo-por-henri-cartier-bresson/) on the blog, but I recommend buying the [book](http://www.amazon.es/gp/product/8425215145/ref=as_li_ss_tl?ie=UTF8&camp=3626&creative=24822&creativeASIN=8425215145&linkCode=as2&tag=justpictures-21).
 
-In Zen, a consequence does not require a cause. Contrary to our illustrated rationalism and our Judeo-Christian roots, Zen is simpler: only ‘now’, only the moment matters.
+In Zen the consequence does not require a cause. Unlike Enlightenment rationalism and our Judeo-Christian roots it is simpler: only the now, the moment matters.
 
-Although I think I could explain it and you could understand it, none of it will make sense; you have to experience it. And the truth is that you don’t have to lock yourself away in a monastery to live it, just the opposite… neither do you have to be a mystic! The moment transcends Zen.
+Although I think I can explain it and you can understand it, neither of those things makes sense; it must be experienced. And the truth is that you do not need to retreat to a monastery to live it, on the contrary… and you do not need to be a mystic! The moment transcends Zen.
 
-Through I don’t have a ‘black belt’ in any martial art, I think I have enough experience to know a little about martial arts. The practitioners of a martial art exercise daily to make their movements automatic and synchronized with their breath and a certain attitude. Easy to say, but these three stages (movement, breath, attitude-feeling) can take a student a whole lifetime… a lifetime or an instant. An instant? Yes, but I will leave that for face-to-face debates.
+Although I am not a black belt in anything I believe my experience is enough to know a bit about martial arts. Practitioners of a martial art train daily by mechanizing movements that synchronize with breathing and an attitude. Easy to say, these three stages (movement, breathing, attitude‑feeling) can give a student a life… a life or a moment. A moment? Yes, but I leave that for face‑to‑face debates.
 
-The final goal of the exercises of any martial art is that the warrior, when attacked, doesn’t think and just acts. This act of defense is considered art because the combination of techniques studied for years are chosen automatically by the warrior-artist and are executed without thinking, effortlessly and without any intention; they simply happen. The chosen combination is unique and unrepeatable.
+The ultimate goal of martial‑art exercises is that the warrior, when attacked, does not think, only act. That act of defense is considered art because it is the combination of techniques learned over years that are chosen automatically by the warrior‑artist and executed without thinking, without effort and without any intention, simply occurring. The chosen combination is unique and irreproducible.
 
-Does anybody think that a dancer calculates every move he makes in a performance? Martial arts, to put it simply, are like a dance or music, a set of abilities so interiorized that they ‘simply happen’… like a guitar solo or like dodging an obstacle while riding a bike.
+Does anyone think a dancer calculates every movement they make in a performance? Martial arts, simplified, are like dance or music: a set of skills so internalized that “simply occur” … like a guitar solo or dodging an obstacle while riding a bicycle.
 
-What do the art of archery, photography (according to HCB), Aikido and hip-hop have in common? It’s using the brain in a non-linguistic manner. Since I’m not an expert in intelligence, maybe these three characteristics will help me explain what I mean:
+What do the art of archery, photography (according to HCB), Aikido and Hip‑hop have in common?  
+Using the brain in a non‑linguistic way, as I am not an expert in intelligences, perhaps these three characteristics help explain:
 
--   Cancelling rationalism or conscious control at the moment of action
--   Using the subconscious
--   Using spatial intelligence
+- the cancellation of rationalism, or conscious control, at the moment of action
+- the exploitation of the subconscious
+- spatial intelligence
 
-There’s nothing magical about this matter and the East doesn’t own it; it’s just that we, the Westerners, have swallowed (willingly or not) Descartes with his famous “I think, therefore I exist.” Eastern people know that they also exist while sleeping… luckily some humans haven’t forgotten it.
+There is nothing magical about it and it is not owned by the Orient; it is that the West has swallowed, whether we like it or not, Descartes and his famous “I think, therefore I am.” The Orient knows that they also exist while sleeping… lucky that some humans did not forget them.
 
-To make it even more pagan, another example: when we are in a space full of people, sometimes, we especially distinguish one out of all the others, for example, somebody especially attractive; but it’s not that we were looking for him/her. It’s thought that this person does something to be more visible, but it’s not really so. In the majority of cases, our subconscious recognizes this person and he/she draws our attention. The subconscious recognizes a pattern and ‘rings a bell’ although we might’ve been talking about football, politics or photography. Martial arts work this way. Training turns technique into an instinct.
+To make it even more pagan, another example: when we are in a space full of people, sometimes we recognize one of them above all, for example someone especially attractive, but we were not looking for them. We get used to thinking that that person does something to be more visible, but it is not really so. Most of the time our subconscious recognizes them and catches our attention. The subconscious recognizes a pattern and “rings the bell,” but we were talking about football, politics or photography. Thus martial arts work. Training turns technique into instinct.
 
-At the time of capture, there are two big problems to be solved: the machine and the art. The machine and all of its technical details require a certain level of learning depending on its complexity. Shooting with a D300 is very different from using a film rangefinder or a Lomo. Any machine, more or less costly, can be mastered with practice. Practice and a certain degree of knowledge in this respect is necessary but only up to the point of not taking up our time when we are shooting, when we are in front of our subject.
+At the moment of taking a shot there are two major _problems_ to solve: the machine and the art. The machine and all its technical details require learning that depends on the complexity of the device; it is not the same to shoot a D300, a film rangefinder or a Lomo.  
+More or less expensive, with practice, any machine is masterable. Practice and a certain degree of knowledge in this aspect are necessary, but only to the point that it does not take our time when we are shooting, when we are in front of the subject.  
+It is infinitely easier to shoot a camera than to reverse the force of an attacker to make them fly three meters using only hands as in Aikido.  
+Many times people have asked me how I set up the camera and the technocrats of photography do not usually believe me when I say: in auto. When I am on the street, most of the time my camera is in P, ISO‑auto and autofocus. My D300 knows more technique than I do. If I leave the white balance fixed it is because of an analog habit “day‑light,” romanticism, more than anything else.
 
-It’s infinitely easier to shoot with a camera than to invert the power of an attacker in order to make him fly three meters using just your hands, like in Aikido.
+The important thing is to breathe, see, smell, listen, open the subconscious letting it guide me and not think about the camera.
 
-I’ve been asked many times about how I set up my camera and technology fans usually don’t believe me when I say: “In auto mode.” When I’m in the street, my camera is usually in P-mode, ISO-auto and auto focus. My D300 knows more about technique than me. If I leave white balance fixed on “day light”, it’s because of my analogic habit and romanticism more than anything else.
+Compose? No, breathe. All composition rules come from studying how we look. They study how our subconscious analyzes an image. Let the subconscious see and we will not need to know how to put reality into the frame. Because that is the first mistake, believing that something must be done. The first thing they teach us when they talk about composition is that we are cropping reality and putting it into a frame… a sad pictorial reminiscence. Our eyes do not see the whole universe; cropping is in our nature, we cannot avoid it. We are always choosing what we see, which part of our visual field, already limited, we give more attention to. Our eyes do not have zoom, but our brain does.
 
-The important thing is to breathe, see, smell, listen, open the subconscious, allowing it to guide me and not to think about the camera.
+Returning to the pagan example before, when a very attractive person enters a room and our sight is drawn to them our angle is the same, we do not change eyes, but our attention focuses, and for an instant, there is nothing else in the room. Maybe their red shirt, the color of their eyes, their curves or any detail caught us, but at that instant our “eyes” see nothing else.
 
-To compose? No, to breathe. All the rules of composition come from studying how we look at things. Study how your subconscious analyzes an image. Let the subconscious see and you won’t need to know how to get reality into a frame. The first error is thinking that we need to do something. The first thing they teach us about composition is that we cut reality out and stuff it into a frame… a sad relic of pictorialism. Our eyes do not see the universe in its entirety: cutting out is in our nature; we can’t help it. We always choose what we see, to which part of our already limited visual field we pay more attention. Our eyes don’t have zoom but our brain does.
+Getting that with a camera is the first part of intuitive photography and up to here I agree with HCB. But for me the thing goes further. I use the same intuition in editing.  
+How to choose between three almost identical shots? Without thinking, the first thought is correct. Again I base my decision on the subconscious ability to see more than I can understand.
 
-Returning to the pagan example, when a very attractive person comes into the room and our eyesight goes towards him/her, our angle of vision is still the same, we don’t switch eyes, but our attention gets centered and, for an instant, there’s nothing else in the room. Maybe we are captivated by his/her red shirt, the color of his/her eyes, his/her curves or any other detail, but, for an instant, our ‘eyes’ see nothing else.
+This does not mean that you should not think; you can reflect as much as you want, just until you have to shoot, at the decisive moment the mind must be disconnected.
 
-To achieve this with a camera is the first task of intuitive photography; until this point I coincide with HCB. But then I take things further. I use the same intuition in editing.
+[Jodi Cobb](http://photography.nationalgeographic.com/photography/photographers/photographer-jodi-cobb.html), [recognizes](http://www.amazon.com/National-Geographics-Photographers-Keith-David/dp/0792299957) that one of [her National Geographic cover photos](http://travel.nationalgeographic.com/places/enlarge/saudiarabia_jiddah-beach-swings.html) was a reflection, she did not see what she was photographing, it was just shadows in an instant. Shadows in an instant cover photo of National Geographic is intuitive photography, or photographing the natural.
 
-How do I choose one out of three almost identical shots? Without thinking, the first thought is the correct one. Once again, I base my decision on the capacity of the subconscious to see more than I can understand.  
-I’m not trying to say that there’s no need to think; you can think all you want but up to the point of shooting. The mind has to be disconnected during the decisive moment.
+The [photo](http://justpictures.es/photo/1394/) that headlines the article is one of my intuitive photos. I have a particular affection for it because I really had no idea what I was doing, when I shot it, or when I selected it. It was the first time I attended Campus Mac to give a photography class. After finishing I wanted to walk a bit and take some memory shots. I was very interested in the cables and connections. Campus Mac is a gathering of Apple fans who want to learn, meet other fans and have fun, connect, in short.
 
-[Jodi Cobb](http://photography.nationalgeographic.com/photography/photographers/photographer-jodi-cobb.html) [acknowledges](http://www.amazon.com/National-Geographics-Photographers-Keith-David/dp/0792299957) that [one of her cover photos for ‘National Geographic’](http://travel.nationalgeographic.com/travel/countries/women-saudi-arabia-photos/#/saudiarabia-veiled-woman_3140_600x450.jpg) was a reflex: she didn’t see what he was photographing; he just saw some shadows at a certain moment. Some shadows at a certain moment made the cover of ‘National Geographic’ ̶ that is intuitive photography or imaginary nature.
+When I got home I wanted to hang the PDF of the presentation and needed a photo. I was tired and did not want to eat the coconut and selected this photo without paying much attention, in which _casually_, everything connects. I am sure that if I had wanted to do it I would not have succeeded. Have you seen the speed at which those screen protectors move? What was the probability that [almost all the lines of the protector connect with a cable](http://www.flickr.com/photos/fransimo/1058729667/)? Is that photo a coincidence? For me it is not. There is no coincidence, it is intuition, letting the subconscious take control and find the decisive moment because it is infinitely faster and capable of seeing what our reason… and you do not need to be a Zen monk to experience it, just let yourself go.
 
-The [photo](http://justpictures.es/photo/1394/) that’s in the header of this article is one of my intuitive photos. I’m particularly fond of it because I really had no idea what I was doing when I took or selected it. It was my first time at Mac Campus; I was there to give a photography class. After, I wanted to walk around a bit and take some shots as a souvenir. The cables and the connections really drew my attention. Campus Mac is a place where Apple fans can meet other fans, learn, have fun and, ultimately, connect with each other.
+Originally published in [Barcelona Photobloggers](http://barcelonaphotobloggers.org/2009/01/01/fotografia-intuitiva/)
 
-Once I got home, I wanted to upload the PDF of the presentation and needed a photo. I was tired and didn’t feel like wrecking my brain, so, without paying much attention, I selected the photo where, by coincidence, everything connects. I’m sure that if I had wanted to choose a photo deliberately, I couldn’t have done it. Have you seen how fast those lines in the screen saver move? What are the chances of almost all of them connecting with a cable? Is this photo a coincidence? To me it isn’t. It’s no coincidence, it’s intuition to let the subconscious take over and find the decisive moment because it’s infinitely faster and capable to see than our reason… and you don’t have to be a Zen monk to experience it. Just let yourself go with the flow.
-
-From [Barcelona Photobloggers](http://barcelonaphotobloggers.org/2009/01/01/fotografia-intuitiva/)
