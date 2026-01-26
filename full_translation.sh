@@ -71,4 +71,4 @@ invalidate_translations_since_tag $OLD_TAG en ca it
 ./translate-hugo.sh content/ English Italian en it
 
 git commit -am "Update translations"
-git tag $NEW_TAG
+# git tag $NEW_TAG
