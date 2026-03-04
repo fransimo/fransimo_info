@@ -34,7 +34,7 @@ Les sessions les realzo a:
 - Estambul:
   - Beşiktaş, a prop de l'estació de metro Gayrettepe.
   - Kuzguncuk, a prop del Kuzguncuk Bostanı
-- Barcelona: a pocs minuts de l'estació Plaça de Sants M1 i M5.
+- Barcelona: <M> Diagonal / FGC Provença.
 
 Si tens una camilla de massatge a casa, puc desplaçar-me al teu domicili.
 

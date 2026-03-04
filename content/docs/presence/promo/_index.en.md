@@ -44,7 +44,7 @@ I'm doing the sessions in:
 - Istanbul at 
   - Beşiktaş, near the Gayrettepe metro station. 
   - Kuzguncuk, near Kuzguncuk Bostanı.
-- Barcelona, near Plaça de Sants metro station (M1 and M5)
+- Barcelona: <M> Diagonal / FGC Provença.
 
 If you have a massage table at home, I can come to your place.
 
