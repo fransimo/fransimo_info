@@ -33,7 +33,7 @@ Le sessioni si svolgono in:
 - Istanbul in:
   - Beşiktaş, vicino alla stazione della metropolitana Gayrettepe.
   - Kuzguncuk, vicino a Kuzguncuk Bostanı.
-- Barcellona, vicino alla stazione della metropolitana Plaça de Sants (M1 e M5)
+- Barcellona: <M> Diagonal / FGC Provença.
 
 Se hai un tavolo da massaggio a casa, posso venire da te.
 
