@@ -20,24 +20,24 @@ creo que es una técnica muy interesante y poco conocida. La promoció es para B
 pasar largas temporadas.
 
 Abajo tienes más detalles de cada técnica y una comparativa. Si estás interesad@, puedes hacer tu reserva [aquí](../book/) o escribirme
-aquí:
+via:
 
 - Instagram: [@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)
 - WhatsApp (España): [+34 655 384 230](https://wa.me/+34655384230)
 - WhatsApp (Turquía): [+90 545 556 4393](https://wa.me/+905455564393)
 
-Puedes saber más [sobre mí](/docs/cv) en este link y ver [mi CV aquí](/docs/cv/detailed_cv/).
+En estos links puedes saber más [sobre mí](/docs/cv) o leer [mi CV](/docs/cv/detailed_cv/).
 
 # Biodinámica Craneosacral
 
-Estoy estudiando Biodinámica Craneosacral y ofrezco sesiones gratuitas como parte de mi formación.
+Estoy estudiando el tercer año de la formación de [Biodinámica Craneosacral](../biodinamica_craneosacral)  y ofrezco sesiones gratuitas como 
+parte de mi formación.
 
-Las [sesiones de Biodinámica Craneosacral](../biodinamica_craneosacral) se realizan con ropa, sobre una camilla. El
-contacto es muy suave, no invasivo y con mínimo movimiento. El propósito es **ayudar al cuerpo a reconectar con su
-capacidad natural de sanación**.
+Las sesiones se realizan con ropa, sobre una camilla. El contacto es muy suave, no invasivo y con mínimo movimiento. El 
+propósito es **ayudar al cuerpo a conectar con su capacidad natural de autocuración**.
 
 Las sesiones duran aproximadamente una hora y constan de cuatro partes: una pequeña conversación inicial y tres fases de
-contacto inmóvil donde las manos del practicante permanecen en una posición fija.
+contacto donde las manos del practicante permanecen en una posición fija. 
 
 El practicante no manipula ni canaliza energía al cliente. El objetivo es mantener un espacio seguro y sin juicios,
 donde las fuerzas que organizan el sistema del cliente puedan expresarse y, a través de esa expresión, encontrar una
@@ -51,10 +51,10 @@ con una frecuencia de dos o tres semanas.
 
 Las sesiones las realizo en:
 
+- Barcelona: < M > Diagonal / FGC Provença.
 - Estambul:
     - Beşiktaş, cerca de la estación de metro Gayrettepe.
     - Kuzguncuk, cerca del Kuzguncuk Bostanı
-- Barcelona: < M > Diagonal / FGC Provença.
 
 Si tienes una camilla de masaje en casa, puedo ir a tu domicilio.
 
