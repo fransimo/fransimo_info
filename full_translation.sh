@@ -3,7 +3,7 @@
 SRC_LANG="Spanish"
 SRC_SUFFIX="es"
 CONTENT_DIR="content/"
-OLD_TAG="2026.1.3"
+OLD_TAG="2026.1.4"
 NEW_TAG="2026.1.3"
 
 invalidate_translations_since_tag() {
@@ -70,5 +70,5 @@ invalidate_translations_since_tag $OLD_TAG en ca it
 ./translate-hugo.sh content/ Spanish Catalan es ca
 ./translate-hugo.sh content/ English Italian en it
 
-git commit -am "Update translations"
-git tag $NEW_TAG
+#git commit -am "Update translations"
+#git tag $NEW_TAG
