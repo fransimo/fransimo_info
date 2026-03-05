@@ -1,8 +1,8 @@
 ---
 weight: 2
 bookFlatSection: false
-title: "Sibila"
-description: "Sibila, historical context and artistic interpretation in the research 'It Is Within All of Us'"
+title: "Sibyl"
+description: "Sibila, historical context and artistic interpretation in the research project 'It's in all of us'"
 bookHidden: false
 ---
 

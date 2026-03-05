@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# rm -fR public/
+rm -fR public/
 
 docker run --rm -it \
   -v $(pwd):/src \

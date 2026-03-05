@@ -1,12 +1,12 @@
 ---
 weight: 2
 bookFlatSection: false
-title: "Sibila"
-description: "Sibila, context històric i interpretació artística en la investigació 'Està en tots nosaltres'"
+title: "Sibil·la"
+description: "Sibil·la, context històric i interpretació artística en la investigació 'Està en tots nosaltres'"
 bookHidden: false
 ---
 
-# Sibila
+# Sibil·la
 
 ## Context històric conegut
 
