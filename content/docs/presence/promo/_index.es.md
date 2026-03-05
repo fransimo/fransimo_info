@@ -15,12 +15,22 @@ aliases:
   - /terapias/
 ---
 
-Hola, soy Fran. Nací en Argentina y he vivido en España los últimos 26 años. En septiembre del 2024 decidí dejar 
-atrás mi vida corporativa para enfocarme en el arte y la sanación. Desde entonces he viajado mucho pero paso períodos largos en Estambul y Barcelona.
+¡Hola! Soy Fran, ofrezco sesiones gratuitas de Biodinámica Craneosacral para completar mis prácticas y de Tameana porque
+creo que es una técnica muy interesante y poco conocida. La promoció es para Barcelona y Estambul, ciudades donde suelo 
+pasar largas temporadas.
+
+Más abajo tienes más detalles y una comparativa. Si lo sientes, puedes hacer tu reserva [aquí](../book/) o escribirme
+aquí:
+
+- Instagram: [@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)
+- WhatsApp (España): [+34 655 384 230](https://wa.me/+34655384230)
+- WhatsApp (Turquía): [+90 545 556 4393](https://wa.me/+905455564393)
+
+Puedes saber más [sobre mí](/docs/cv) en este link y ver [mi CV aquí](/docs/cv/detailed_cv/).
 
 # Biodinámica Craneosacral
 
-Actualmente estoy estudiando Biodinámica Craneosacral y estoy ofreciendo sesiones gratuitas como parte de mi formación.
+Estoy estudiando Biodinámica Craneosacral y ofresco sesiones gratuitas como parte de mi formación.
 ¿Te gustaría probarlo?
 
 Las [sesiones de Biodinámica Craneosacral](../biodinamica_craneosacral) se realizan con ropa, sobre una camilla. El
@@ -41,9 +51,10 @@ si el cliente no recuerda conscientemente el evento que la causó.
 con una frecuencia de tres semanas.
 
 Las sesiones las realizo en:
-- Estambul: 
-  - Beşiktaş, cerca de la estación de metro Gayrettepe. 
-  - Kuzguncuk, cerca del Kuzguncuk Bostanı
+
+- Estambul:
+    - Beşiktaş, cerca de la estación de metro Gayrettepe.
+    - Kuzguncuk, cerca del Kuzguncuk Bostanı
 - Barcelona: < M > Diagonal / FGC Provença.
 
 Si tienes una camilla de masaje en casa, puedo desplazarme a tu domicilio.
@@ -96,10 +107,4 @@ un espacio, no dirige el proceso, no juzga, ni recomienda comportamientos.
 Como guía podríamos decir que si tu interés está en el cuerpo y podemos vernos en persona la mejor opción es
 biodinamica. Si tu motivación está en el plano más espiritual o no podemos vernos entonces recomendaría Tameana.
 
-# ¡Contáctame!
 
-Si lo sientes, puedes hacer tu reserva [aquí](../book/) o escribirme aquí:
-
-- Instagram: [@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)
-- WhatsApp (España): [+34 655 384 230](https://wa.me/+34655384230)
-- WhatsApp (Turquía): [+90 545 556 4393](https://wa.me/+905455564393)
