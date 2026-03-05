@@ -146,3 +146,5 @@ output/*
 .DS_Store
 
 /public/
+/copy_build.sh
+/new_cid.txt
