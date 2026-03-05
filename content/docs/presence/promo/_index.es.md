@@ -44,11 +44,11 @@ Las sesiones las realizo en:
 - Estambul: 
   - Beşiktaş, cerca de la estación de metro Gayrettepe. 
   - Kuzguncuk, cerca del Kuzguncuk Bostanı
-- Barcelona: <M> Diagonal / FGC Provença.
+- Barcelona: < M > Diagonal / FGC Provença.
 
 Si tienes una camilla de masaje en casa, puedo desplazarme a tu domicilio.
 
-**¡Haz tu reserva [aquí](../book/)!**
+**¡Haz tu reserva [aquí](../book/#craniosacral)!**
 
 # Tameana
 
@@ -69,7 +69,7 @@ Los trabajos H’ama (para espacios o situaciones) no están incluidos en la pro
 La sesión puede hacerse de forma presencial o a distancia. Si es presencial, estarás tumbado/a en el suelo rodeado/a de
 cristales de cuarzo.
 
-**¡Haz tu reserva [aquí](../book/)!**
+**¡Haz tu reserva [aquí](../book/#tameana)!**
 
 # ¿Qué me conviene Biodinámica o Tameana?
 

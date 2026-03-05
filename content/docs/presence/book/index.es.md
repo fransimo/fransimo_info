@@ -20,6 +20,37 @@ Bienvenido/a. Elige un servicio, selecciona hora y reserva con pago seguro. Pres
 
 ---
 
+## Biodinámica Craneosacral {#craniosacral}
+
+Trabajo manual suave para apoyar los ritmos autorreguladores del cuerpo.
+
+- **Dónde:** Barcelona • Estambul (presencial)
+- **Precio:** Prácticas de estudiante — **primeras 3 sesiones gratuitas**
+
+**Reservar ahora**
+
+<!-- Cal inline embed code begins -->
+
+<div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-biodynamic-craniosacral-therapy"></div>
+
+<script type="text/javascript">
+  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
+Cal("init", "biodynamic-craniosacral-therapy", {origin:"https://app.cal.com"});
+
+Cal.ns["biodynamic-craniosacral-therapy"]("inline", {
+elementOrSelector:"#my-cal-inline-biodynamic-craniosacral-therapy",
+config: {"layout":"month_view","theme":"light"},
+calLink: "fransimo/biodynamic-craniosacral-therapy",
+});
+
+Cal.ns["biodynamic-craniosacral-therapy"]("ui", {"theme":"light","hideEventTypeDetails":false,"layout":"month_view"});
+</script><!-- Cal inline embed code ends -->
+
+> *Alternativa:* [Abrir reserva de Biodinámica Craneosacral](https://cal.com/fransimo/biodynamic-craniosacral-therapy)
+
+---
+
+
 ## Tameana (Sanación energética) {#tameana}
 
 Práctica vibracional con cuarzos y símbolos canalizados para elevar la frecuencia, liberar bloqueos y apoyar la transformación interna.
@@ -86,35 +117,6 @@ Cal("init", "tameana-hama", {origin:"https://app.cal.com"});
 
 ---
 
-## Biodinámica Craneosacral {#craniosacral}
-
-Trabajo manual suave para apoyar los ritmos autorreguladores del cuerpo.
-
-- **Dónde:** Barcelona • Estambul (presencial)
-- **Precio:** Prácticas de estudiante — **primeras 3 sesiones gratuitas**
-
-**Reservar ahora**
-
-<!-- Cal inline embed code begins -->
-
-<div style="width:100%;height:100%;overflow:scroll" id="my-cal-inline-biodynamic-craniosacral-therapy"></div>
-
-<script type="text/javascript">
-  (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement("script")).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === "string"){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, ["initNamespace", namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, "https://app.cal.com/embed/embed.js", "init");
-Cal("init", "biodynamic-craniosacral-therapy", {origin:"https://app.cal.com"});
-
-Cal.ns["biodynamic-craniosacral-therapy"]("inline", {
-elementOrSelector:"#my-cal-inline-biodynamic-craniosacral-therapy",
-config: {"layout":"month_view","theme":"light"},
-calLink: "fransimo/biodynamic-craniosacral-therapy",
-});
-
-Cal.ns["biodynamic-craniosacral-therapy"]("ui", {"theme":"light","hideEventTypeDetails":false,"layout":"month_view"});
-</script><!-- Cal inline embed code ends -->
-
-> *Alternativa:* [Abrir reserva de Biodinámica Craneosacral](https://cal.com/fransimo/biodynamic-craniosacral-therapy)
-
----
 
 ## Sesión holística (Trabajo corporal y energía) {#holistic}
 

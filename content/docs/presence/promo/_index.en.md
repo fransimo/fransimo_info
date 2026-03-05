@@ -44,11 +44,11 @@ I'm doing the sessions in:
 - Istanbul at 
   - Beşiktaş, near the Gayrettepe metro station. 
   - Kuzguncuk, near Kuzguncuk Bostanı.
-- Barcelona: <M> Diagonal / FGC Provença.
+- Barcelona: < M > Diagonal / FGC Provença.
 
 If you have a massage table at home, I can come to your place.
 
-**You can book a session [here](../book/)!**
+**You can book a session [here](../book/#craniosacral)!**
 
 # Tameana
 
@@ -67,7 +67,7 @@ H’ama sessions for spaces or situations are not included in the free offer.
 
 The session can be done in person or remotely. In person, you’ll lie on the floor surrounded by quartz crystals.
 
-**You can book a session [here](../book/)!**
+**You can book a session [here](../book/#tameana)!**
 
 # Which is better for me Biodynamic or Tameana?
 

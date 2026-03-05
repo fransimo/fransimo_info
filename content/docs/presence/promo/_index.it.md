@@ -33,11 +33,11 @@ Le sessioni si svolgono in:
 - Istanbul in:
   - Beşiktaş, vicino alla stazione della metropolitana Gayrettepe.
   - Kuzguncuk, vicino a Kuzguncuk Bostanı.
-- Barcellona: <M> Diagonal / FGC Provença.
+- Barcellona: < M > Diagonal / FGC Provença.
 
 Se hai un tavolo da massaggio a casa, posso venire da te.
 
-**Puoi prenotare una sessione [qui](../book/)!**
+**Puoi prenotare una sessione [qui](../book/#craniosacral)!**
 
 # Tameana
 
@@ -54,7 +54,7 @@ Le sessioni H’ama per spazi o situazioni non sono incluse nell'offerta gratuit
 
 La sessione può essere svolta di persona o a distanza. Di persona, ti sdrai sul pavimento circondato da cristalli di quarzo.
 
-**Puoi prenotare una sessione [qui](../book/)!**
+**Puoi prenotare una sessione [qui](../book/#tameana)!**
 
 # Quale è meglio per me: Biodinamica o Tameana?
 
