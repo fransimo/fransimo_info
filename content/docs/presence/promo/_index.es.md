@@ -19,7 +19,7 @@ aliases:
 creo que es una técnica muy interesante y poco conocida. La promoció es para Barcelona y Estambul, ciudades donde suelo 
 pasar largas temporadas.
 
-Más abajo tienes más detalles y una comparativa. Si lo sientes, puedes hacer tu reserva [aquí](../book/) o escribirme
+Abajo tienes más detalles de cada técnica y una comparativa. Si estás interesad@, puedes hacer tu reserva [aquí](../book/) o escribirme
 aquí:
 
 - Instagram: [@fransimo_therapies](https://www.instagram.com/fransimo_therapies/)
@@ -30,8 +30,7 @@ Puedes saber más [sobre mí](/docs/cv) en este link y ver [mi CV aquí](/docs/c
 
 # Biodinámica Craneosacral
 
-Estoy estudiando Biodinámica Craneosacral y ofresco sesiones gratuitas como parte de mi formación.
-¿Te gustaría probarlo?
+Estoy estudiando Biodinámica Craneosacral y ofrezco sesiones gratuitas como parte de mi formación.
 
 Las [sesiones de Biodinámica Craneosacral](../biodinamica_craneosacral) se realizan con ropa, sobre una camilla. El
 contacto es muy suave, no invasivo y con mínimo movimiento. El propósito es **ayudar al cuerpo a reconectar con su
@@ -48,7 +47,7 @@ El dolor y el trauma suelen dejar una huella en los flujos energéticos del cuer
 si el cliente no recuerda conscientemente el evento que la causó.
 
 **Esta promoción incluye tres sesiones gratuitas**, que es el tratamiento más habitual. Las sesiones suelen programarse
-con una frecuencia de tres semanas.
+con una frecuencia de dos o tres semanas.
 
 Las sesiones las realizo en:
 
@@ -57,16 +56,16 @@ Las sesiones las realizo en:
     - Kuzguncuk, cerca del Kuzguncuk Bostanı
 - Barcelona: < M > Diagonal / FGC Provença.
 
-Si tienes una camilla de masaje en casa, puedo desplazarme a tu domicilio.
+Si tienes una camilla de masaje en casa, puedo ir a tu domicilio.
 
 **¡Haz tu reserva [aquí](../book/#craniosacral)!**
 
 # Tameana
 
-También ofrezco una técnica llamada [Tameana](../tameana). Utiliza cristales de cuarzo para elevar la frecuencia
+[Tameana](../tameana) utiliza cristales de cuarzo para elevar la frecuencia
 vibratoria del cuerpo físico y energético, lo que puede ayudar al alma a habitar el mundo material con mayor fluidez.
 
-Tameana se puede utilizar para:
+Las técnicas que más practico son:
 
 - _Salush Nahí_: elevar la vibración de las personas (alinearte con tu propósito superior)
 - _H’ama_: armonizar situaciones (como ganar claridad sobre un tema) o espacios (como limpiar la energía de una casa)
