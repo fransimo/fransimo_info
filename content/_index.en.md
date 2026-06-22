@@ -14,7 +14,6 @@ tags:
   - artificial intelligence
   - spirituality
   - tantra
-layout: landing
 ---
 
 <div class="hs-wrap">
