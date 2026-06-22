@@ -70,12 +70,15 @@ outputFormats:
     baseName: publish_data
     isPlainText: true
     notAlternative: true
+  txt:
+    mediaType: "text/plain"
+    baseName: "source"
+    isPlainText: true
 
 outputs:
-  home:
-    - HTML
-    - PublishDataJSON
-    - rss
+  home: ["html", "txt", "rss", "PublishDataJSON"]
+  page: ["html", "txt"]
+  section: ["html", "txt"]
 
 # Images
 imaging:
@@ -95,6 +98,9 @@ markup:
 
   tableOfContents:
     startLevel: 1
+
+  highlight:
+    style: base16-snazzy
 
 
 # Multi-lingual mode config
