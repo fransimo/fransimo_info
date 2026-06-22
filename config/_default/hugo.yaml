@@ -30,32 +30,32 @@ defaultContentLanguageInSubdir: false
 
 languages:
     en:
-        languageName: English
+        label: English
         title: Fran Simó
         params:
           subtitle: Art, presence and code to walk the path together.
         weight: 1
         contentDir: content
-        languageCode: en-US
+        locale: en-US
 
     es:
-        languageName: Español
+        label: Español
         title: Fran Simó
         params:
           subtitle: Arte, presencia y código para recorrer juntos el camino.
         weight: 2
         contentDir: content
-        languageCode: es-ES
+        locale: es-ES
     ca:
-      languageName: Català
+      label: Català
       title: Fran Simó
       params:
         subtitle: Art, presència i codi per caminar junts pel camí.
       weight: 2
       contentDir: content
-      languageCode: ca-ES
+      locale: ca-ES
     it:
-      languageName: Italiano
+      label: Italiano
       title: È dentro di tutti noi
       weight: 3
 
@@ -230,6 +230,5 @@ params:
     # Path used by WebSite.SearchAction (joined to baseURL).
     # Keep it RELATIVE (no leading slash) to avoid double slashes.
     searchPath: "search/?q={search_term_string}"
-
 
 

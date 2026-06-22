@@ -6,5 +6,5 @@ docker run --rm -it \
   -v $(pwd):/src \
   -p 1313:1313 \
   -e HUGO_ENVIRONMENT=production \
-  hugomods/hugo:0.163.3 \
+  hugomods/hugo:0.158.0 \
   server # --gc --minify # --ignoreCache
