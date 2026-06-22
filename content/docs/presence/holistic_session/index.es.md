@@ -27,7 +27,9 @@ alternateName:
 areaServed: ["Palma", "Barcelona", "Estambul","Remote"]
 ---
 {{% columns %}}
+
 ![holistic.png](holistic.png "Trabajo Corporal Holístico y Energía")
+
 <--->
 # Trabajo Corporal Holístico y Energía (Presencial o a Distancia)
 

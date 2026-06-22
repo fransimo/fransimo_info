@@ -34,7 +34,9 @@ buyURL: https://www.lulu.com/es/shop/fran-sim%C3%B3-and-benjam%C3%ADn-julve-and-
 ---
 
 {{% columns %}}
+
 ![Passengers_Vol_III.jpg](Passengers_Vol_III.jpg)
+
 <--->
 # Passengers Vol. III
 

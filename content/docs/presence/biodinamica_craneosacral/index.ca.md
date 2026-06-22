@@ -25,7 +25,9 @@ hoursAvailable:
 sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 {{% columns %}}
+
 ![biodinamica.png](biodinamica.png "Biodinàmica Craneosacral")
+
 <--->
 # Biodinàmica Craneosacral
 

@@ -28,7 +28,9 @@ sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 
 {{% columns %}}
+
 ![biodinamica.png](biodinamica.png "Terapia Craniosacrale Biodinamica")
+
 <--->
 # Terapia Craniosacrale Biodinamica
 

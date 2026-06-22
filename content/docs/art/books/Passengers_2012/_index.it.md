@@ -20,7 +20,9 @@ bookCollapseSection: true
 ---
 
 {{% columns %}}
+
 ![Passeggeri 2012](passengers_2012_cover_en.jpg)
+
 <--->
 # Passeggeri 2012
 

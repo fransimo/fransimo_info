@@ -18,8 +18,11 @@ title: S'Arenal Summertime 2016
 description: 'Presenta S’Arenal Summertime 2016, una revista de edició limitada que documenta el resort de S’Arenal a Mallorca mitjançant fotografia i escriptura, contrastant el seu mite amb la vida quotidiana.'
 ---
 {{% columns %}}
+
 ![](SArenal-Summertime-COVER.jpg)
+
 <--->
+
 ````
 2016-2017  
 Revista, 36 pàgines, 22×28 cm (Letter)

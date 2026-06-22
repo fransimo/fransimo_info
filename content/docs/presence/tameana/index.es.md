@@ -23,7 +23,9 @@ hoursAvailable:
 sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 {{% columns %}}
+
 ![tameana.png](tameana.png "Tameana")
+
 <--->
 # Tameana
 
