@@ -7,14 +7,6 @@ timeout: 120
 
 theme: ["hugo-book", "hugo-photoswipe5-gallery"]
 
-
-module:
-  # uncomment line below for temporary local development of module
-  # replacements: "github.com/CaiJimmy/hugo-theme-stack/v3 -> ../../hugo-theme-stack"
-  # imports:
-  #  - path: github.com/alex-shpak/hugo-book
-  #    disable: false
-
 relativeURLs: false
 removePathAccents: true
 # https://gohugo.io/content-management/urls/#permalinks
