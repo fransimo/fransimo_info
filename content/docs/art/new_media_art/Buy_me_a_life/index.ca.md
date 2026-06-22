@@ -23,7 +23,7 @@ description: >
   Explica Buy me a life!, un vídeo NFT glitch en què l'artista posa la seva vida a la venda (irònicament), utilitzant referències cyberpunk, per comprometre's amb el seu camí espiritual.
 ---
 
-![buy_me_a_life_medium.gif](buy_me_a_life_medium.gif)
+{{< video src="buy_me_a_life_medium.mp4" autoplay="true" loop="true" >}}
 {{% details title="Technical details" open=true %}}
 ```
 2021
