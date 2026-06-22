@@ -26,6 +26,7 @@ aliases: /blog/2021/04/17/buy-me-a-life/
 ---
 
 {{< video src="/docs/art/new_media_art/Buy_me_a_life/buy_me_a_life_medium.mp4" autoplay="true" loop="true" >}}
+
 {{% details title="Technical details" open=true %}}
 ````
 2021
@@ -43,10 +44,6 @@ Esta obra puede considerarse tanto un activo digital como una performance. Si se
 
 ¿Es una broma? No. Mi intención no es faltar al respeto a los coleccionistas ni al mundo de los NFT. Es un experimento social en el que yo soy el conejillo de indias. Siempre se puede pensar o soñar con lo que harías si obtuvieras una cantidad enorme de dinero de la nada, pero hasta que no te ocurre, es imposible saberlo. ¿Cuál será el costo personal de esto, incluso si no se vende? **…ese es el propósito de mi arte digital: ¡hacerte pensar!**  
 
-[@opensea](https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/11780915356901891937150191052604117223978980698243640119023280871775425003521)  
+[@opensea](https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/11780915356901891937150191052604117223978980698243640119023280871775425003521)
 
-(\*) La voz era masculina.  
-
-
-
-
+(\*) La voz era masculina.
