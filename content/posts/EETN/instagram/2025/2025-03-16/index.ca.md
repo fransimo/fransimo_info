@@ -8,12 +8,11 @@ tags:
   - Egipte
   - iiiaou
 ---
+![](484839896_18491993857040053_5450701970027669732_n.jpg)
 
 “El seu costat benefactor representava la música, la dansa, l’alegria, l’amor, la sexualitat i el cuidament materni, i actuava com a consort de diverses divinitats masculines i mare dels seus fills. Aquests dos aspectes de la deessa exemplifiquen la concepció egípcia de la feminitat. Va travessar la frontera entre els mons, ajudant les ànimes falecides en la seva transició a la vida després de la mort.” wikipedia
 
 Molt similar a Persèfone.
-
-![](484839896_18491993857040053_5450701970027669732_n.jpg)
 
 ![](484807489_18491993911040053_9048072702275419843_n.jpg)
 

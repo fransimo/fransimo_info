@@ -9,11 +9,12 @@ tags:
   - iiiaou
 ---
 
+![](484839896_18491993857040053_5450701970027669732_n.jpg)
+
+
 “Su lado benefactor representaba la música, la danza, la alegría, el amor, la sexualidad y el cuidado materno, y actuaba como consorte de varias deidades masculinas y madre de sus hijos. Estos dos aspectos de la diosa ejemplificaban la concepción egipcia de la feminidad. Cruzó la frontera entre los mundos, ayudando a las almas fallecidas en su transición a la vida después de la muerte.” wikipedia
 
 Muy similar a Perséfone.
-
-![](484839896_18491993857040053_5450701970027669732_n.jpg)
 
 ![](484807489_18491993911040053_9048072702275419843_n.jpg)
 

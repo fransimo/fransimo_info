@@ -9,11 +9,12 @@ tags:
   - iiiaou
 ---
 
+![](484839896_18491993857040053_5450701970027669732_n.jpg)
+
 “Il suo lato benevolente rappresentava musica, danza, gioia, amore, sessualità e cura materna, e agiva come consorte di diversi dèi maschi e madre dei loro figli. Questi due aspetti della dea esemplificavano la concezione egiziana della femminilità. Attraversò il confine tra i mondi, aiutando le anime dei defunti nella loro transizione all'aldilà.” Wikipedia
 
 Molto simile a Persefone.
 
-![](484839896_18491993857040053_5450701970027669732_n.jpg)
 
 ![](484807489_18491993911040053_9048072702275419843_n.jpg)
 

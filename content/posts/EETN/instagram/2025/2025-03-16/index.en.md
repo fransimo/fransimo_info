@@ -8,11 +8,11 @@ tags:
   - egypt
   - iiiaou
 ---
+![](484839896_18491993857040053_5450701970027669732_n.jpg)
+
 “Her benevolent side represented music, dance, joy, love, sexuality, and maternal care, and she acted as the consort of several male deities and mother of their children. These two aspects of the goddess exemplified the Egyptian conception of femininity. She crossed the border between worlds, helping deceased souls in their transition to the afterlife.” Wikipedia
 
 Very similar to Persephone.
-
-![](484839896_18491993857040053_5450701970027669732_n.jpg)
 
 ![](484807489_18491993911040053_9048072702275419843_n.jpg)
 
