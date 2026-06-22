@@ -5,7 +5,7 @@ pagination:
 enableRobotsTXT: true
 timeout: 120
 
-theme: ["hugo-book-render-images", "hugo-photoswipe5-gallery"]
+theme: ["hugo-book", "hugo-photoswipe5-gallery"]
 
 module:
   # uncomment line below for temporary local development of module
@@ -206,6 +206,9 @@ params:
   - https://fransimo.info/docs/presence/fransimo_therapies.png
 
   # Organization info used for publisher/provider + logo
+  author:
+    name: "Fran Simó"
+
   organization:
     name: "Fran Simó"
     type: "Organization"
@@ -214,7 +217,6 @@ params:
 
   # Default service area (used when a Service page has no areaServed)
   defaultArea:
-    - "Palma"
     - "Barcelona"
     - "Istanbul"
 
