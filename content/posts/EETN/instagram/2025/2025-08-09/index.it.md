@@ -11,9 +11,8 @@ tags:
 
 ![](569364056_18535493755040053_2573494843189934206_n.jpg)
 
-La cabeza de una de las serpientes de Delfos que Constantino “movió” a Estambul.  En mi interpretación un acto para declarar la muerte del mundo antiguo, el culto a las diosas y el poder de las sibilas y pitonisas (sacerdotisas).
+La testa di uno dei serpenti di Delfi che Costantino “trasferì” a Istanbul.  A mio avviso, un gesto volto a proclamare la fine del mondo antico, del culto delle dee e del potere delle sibille e delle pitonesse (sacerdotesse).
 
-#ıstanbul #sibila #sibilla #constantin #romanempire
 ![](569569055_18535493773040053_7527313190766451594_n.jpg)
 
 ![](569744242_18535493764040053_8324098363864546061_n.jpg)
