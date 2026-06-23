@@ -27,6 +27,7 @@ sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ![tameana.png](tameana.png "Tameana")
 
 <--->
+
 # Tameana
 
 Tameana es una práctica de sanación vibracional que **utiliza cristales de cuarzo y símbolos canalizados para trabajar

@@ -31,6 +31,7 @@ areaServed: ["Palma", "Barcelona", "Estambul","Remote"]
 ![holistic.png](holistic.png "Trabajo Corporal Holístico y Energía")
 
 <--->
+
 # Trabajo Corporal Holístico y Energía (Presencial o a Distancia)
 
 Son sesiones donde mezclo todas las técnicas que he ido aprendiendo para adaptarlas a situaciones muy variadas.  

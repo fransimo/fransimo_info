@@ -7,6 +7,7 @@ weight: 100
 # First Part 10.09.24 / 17.01.25
 
 {{% columns %}}
+
 ## Journey
 
 On April 29, 2024, I received an invitation to join the [Residency action of Culture Moves Europe](https://culture.ec.europa.eu/creative-europe/creative-europe-culture-strand/culture-moves-europe) program.

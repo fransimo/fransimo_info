@@ -33,6 +33,7 @@ sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ![biodinamica.png](biodinamica.png "Biodinámica Craneosacral")
 
 <--->
+
 # Biodinámica Craneosacral
 
 Es un trabajo corporal extremadamente sutil, no intrusivo, suave y eficaz, que combina técnicas científicas con
