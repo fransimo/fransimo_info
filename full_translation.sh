@@ -3,8 +3,8 @@
 SRC_LANG="Spanish"
 SRC_SUFFIX="es"
 CONTENT_DIR="content/"
-OLD_TAG="2026.1.6"
-NEW_TAG="2026.1.6"
+OLD_TAG="2026.2.0"
+NEW_TAG="2026.2.0"
 
 invalidate_translations_since_tag() {
   local tag="$1"
