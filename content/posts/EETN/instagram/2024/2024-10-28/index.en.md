@@ -1,6 +1,7 @@
 ---
 author: 'Fran Simó'
-title: "El bosque está en ti… pero visitarlo nos ayuda a recordarlo."
+title: "The forest is within you… but visiting it helps us to remember that."
+slug: The_forest_is_within_you
 date: 2024-10-28
 tags:
   - instagram
@@ -9,5 +10,28 @@ tags:
   - iiiaou
 ---
 
-{{< instagram DBpP1BstMvf >}}
 
+
+![2024-10-27_22-33-16_UTC_1.jpg](2024-10-27_22-33-16_UTC_1.jpg)
+
+![2024-10-27_22-33-16_UTC_2.jpg](2024-10-27_22-33-16_UTC_2.jpg)
+
+![2024-10-27_22-33-16_UTC_3.jpg](2024-10-27_22-33-16_UTC_3.jpg)
+
+![2024-10-27_22-33-16_UTC_4.jpg](2024-10-27_22-33-16_UTC_4.jpg)
+
+{{< video src="/var/log/2024/10/28/The_forest_is_within_you/2024-10-27_22-33-16_UTC_5.mp4" poster="2024-10-27_22-33-16_UTC_5.jpg" >}}
+
+![2024-10-27_22-33-16_UTC_6.jpg](2024-10-27_22-33-16_UTC_6.jpg)
+
+![2024-10-27_22-33-16_UTC_7.jpg](2024-10-27_22-33-16_UTC_7.jpg)
+
+![2024-10-27_22-33-16_UTC_8.jpg](2024-10-27_22-33-16_UTC_8.jpg)
+
+{{< video src="/var/log/2024/10/28/The_forest_is_within_you/2024-10-27_22-33-16_UTC_9.mp4" poster="2024-10-27_22-33-16_UTC_9.jpg" >}}
+
+![2024-10-27_22-33-16_UTC_10.jpg](2024-10-27_22-33-16_UTC_10.jpg)
+
+![2024-10-27_22-33-16_UTC_11.jpg](2024-10-27_22-33-16_UTC_11.jpg)
+
+![2024-10-27_22-33-16_UTC_12.jpg](2024-10-27_22-33-16_UTC_12.jpg)
