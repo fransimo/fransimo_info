@@ -1,9 +1,14 @@
-<video
-  autoplay
-  loop
-  muted
-  playsinline
-  controls
-  width="100%">
-  <source src="{{ .Get "src" }}" type="video/mp4">
-</video>
+{{- $src := .Get "src" | default (.Get 0) -}}
+<div class="video-wrapper, component-content component">
+    <video
+    controls
+    src="{{- $src -}}"
+    {{ with .Get "poster" }}poster="{{- . -}}"{{ end }}
+    {{ with .Get "autoplay" }}autoplay{{ end }}
+    >
+        <p>
+            Your browser doesn't support HTML5 video. Here is a
+            <a href="{{- $src -}}">link to the video</a> instead.
+        </p>
+    </video>
+</div>
