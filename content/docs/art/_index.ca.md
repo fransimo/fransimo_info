@@ -5,7 +5,7 @@ author: Fran Simó
 bookFlatSection: false
 bookCollapseSection: false
 bookToc: false
-title: Arte
+title: Art
 description: Resum del portafoli d’art multimèdia, llibres i fotografia de Fran Simó.
 ---
 

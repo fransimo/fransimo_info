@@ -5,7 +5,7 @@ author: "Fran Simó"
 bookFlatSection: false
 bookCollapseSection: false
 bookToc: false
-title: "Arte"
+title: "Art"
 description: "Panoramica del nuovo media art, libri e portfolio fotografico di Fran Simó."
 ---
 
