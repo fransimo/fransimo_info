@@ -18,7 +18,7 @@ tags:
 
 ![2024-11-05_20-35-58_UTC_4.jpg](2024-11-05_20-35-58_UTC_4.jpg)
 
-{{< video src="/var/log/2024/11/05/Fosso_Maricella/2024-11-05_20-35-58_UTC_5.mp4" poster="2024-11-05_20-35-58_UTC_5.jpg" autoplay="true" loop="false" >}}
+{{< video src="/var/log/2024/11/05/Fosso_Maricella/2024-11-05_20-35-58_UTC_5.mp4" poster="2024-11-05_20-35-58_UTC_5.jpg" >}}
 
 ![2024-11-05_20-35-58_UTC_6.jpg](2024-11-05_20-35-58_UTC_6.jpg)
 
@@ -26,13 +26,13 @@ tags:
 
 ![2024-11-05_20-35-58_UTC_8.jpg](2024-11-05_20-35-58_UTC_8.jpg)
 
-{{< video src="/var/log/2024/11/05/Fosso_Maricella/2024-11-05_20-35-58_UTC_9.mp4" poster="2024-11-05_20-35-58_UTC_9.jpg" autoplay="true" loop="false" >}}
+{{< video src="/var/log/2024/11/05/Fosso_Maricella/2024-11-05_20-35-58_UTC_9.mp4" poster="2024-11-05_20-35-58_UTC_9.jpg" >}}
 
 ![2024-11-05_20-35-58_UTC_10.jpg](2024-11-05_20-35-58_UTC_10.jpg)
 
 ![2024-11-05_20-35-58_UTC_11.jpg](2024-11-05_20-35-58_UTC_11.jpg)
 
-{{< video src="/var/log/2024/11/05/Fosso_Maricella/2024-11-05_20-35-58_UTC_12.mp4" poster="2024-11-05_20-35-58_UTC_12.jpg" autoplay="true" loop="false" >}}
+{{< video src="/var/log/2024/11/05/Fosso_Maricella/2024-11-05_20-35-58_UTC_12.mp4" poster="2024-11-05_20-35-58_UTC_12.jpg" >}}
 
 ![2024-11-05_20-35-58_UTC_13.jpg](2024-11-05_20-35-58_UTC_13.jpg)
 
@@ -47,4 +47,3 @@ tags:
 ![2024-11-05_20-35-58_UTC_18.jpg](2024-11-05_20-35-58_UTC_18.jpg)
 
 ![2024-11-05_20-35-58_UTC_19.jpg](2024-11-05_20-35-58_UTC_19.jpg)
-
