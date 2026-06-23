@@ -17,6 +17,7 @@ Un [viatge](/docs/art/It_is_in_all_of_us/journey/) que havia començat molts any
 En 2012 havia unit la fotografia i la tecnologia en la meva expressió artística. Ara intentaria també unir la màgia.
 
 <--->
+
 ## Sibila
 
 En el 2010, en un taxi, vaig escoltar fragments del ["El Cant de la Sibil·La: Mallorca / València, 1400-1560"](https://open.spotify.com/album/225ndLEKqu767DbpRzKsia?si=2gp0nXf-SCKSPgQCK-rHNw).
