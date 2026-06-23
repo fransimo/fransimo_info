@@ -24,6 +24,7 @@ bookCollapseSection: true
 ![Passengers 2012](passengers_2012_cover_en.jpg)
 
 <--->
+
 # Passengers 2012
 
 Passengers es una web y una serie de libros de “street photography” sobre pasajeros del transporte público que se

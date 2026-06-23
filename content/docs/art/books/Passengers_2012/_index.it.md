@@ -24,6 +24,7 @@ bookCollapseSection: true
 ![Passeggeri 2012](passengers_2012_cover_en.jpg)
 
 <--->
+
 # Passeggeri 2012
 
 Passeggeri è un sito web così come una serie di libri di fotografia di strada sui passeggeri che utilizzano i trasporti pubblici.  
