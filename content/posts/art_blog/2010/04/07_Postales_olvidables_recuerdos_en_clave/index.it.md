@@ -20,41 +20,61 @@ La risposta non importa, si gioca.
 ## Berlino
 
 {{% columns %}}
+
 ![berlin_fransimo_0055__ISC4729_dxo.jpg](berlin_fransimo_0055__ISC4729_dxo.jpg)
+
 <--->
+
 ![berlin_fransimo_0060__ISC5425.jpg](berlin_fransimo_0060__ISC5425.jpg)
+
 {{% /columns %}}
 
 ## India
 
 {{% columns %}}
+
 ![india_dsc_9895.jpg](india_dsc_9895.jpg)
+
 <--->
+
 ![india_dsc_0913.jpg](india_dsc_0913.jpg)
+
 {{% /columns %}}
 
 ## Tokyo
 
 {{% columns %}}
+
 ![tokyo_gsc_5285_dxo.jpg](tokyo_gsc_5285_dxo.jpg)
+
 <--->
+
 ![tokyo_DSCN2030-Edit.jpg](tokyo_DSCN2030-Edit.jpg)
+
 {{% /columns %}}
 
 ## Lisbona
 
 {{% columns %}}
+
 ![lisboa_fransimo_0038__ISC3636.jpg](lisboa_fransimo_0038__ISC3636.jpg)
+
 <--->
+
 ![lisboa_fransimo_0033__ISC3375.jpg](lisboa_fransimo_0033__ISC3375.jpg)
+
 {{% /columns %}}
 
 ## New York
 
 {{% columns %}}
+
 ![new_york_0039_HSC_6653_dxo.jpg](new_york_0039_HSC_6653_dxo.jpg)
+
 <--->
+
 ![new_york_0040_HSC_6897_dxo.jpg](new_york_0040_HSC_6897_dxo.jpg)
+
 {{% /columns %}}
 
 Originariamente pubblicato sul [SanDisk Blog di PHEspaña](http://www.phedigital.com/portal/es/load.php?file=blogsandisk.php&post=10400)
