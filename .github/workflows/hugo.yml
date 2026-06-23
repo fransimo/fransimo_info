@@ -17,7 +17,7 @@ jobs:
     outputs: # This exposes the CID output of the action to the rest of the workflow
       cid: ${{ steps.deploy.outputs.cid }}
     env:
-      HUGO_VERSION: "0.152.2"
+      HUGO_VERSION: "0.163.3"
     steps:
       - name: Install Hugo and w3cli
         id: setup

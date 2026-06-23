@@ -20,7 +20,9 @@ bookToc: false
 bookCollapseSection: true
 ---
 {{% columns %}}
+
 ![Passengers 2012](passengers_2012_cover_en.jpg)
+
 <--->
 # Passengers 2012
 

@@ -9,7 +9,7 @@ tags:
   - iiiaou
 ---
 
-{{< instagram DG6d7AiIxyw >}}
+![](483027856_18490075246040053_4677928330705844705_n.jpg)
 
 The serpent column. Brought by Constantine to “Constantinople” (Istanbul) as a symbol to mark the shift of the center of
 the world from Delphi to Constantinople... and the end of the Oracle of Delphi and the power of its priestesses. As if

@@ -23,8 +23,11 @@ description: >
 areaServed: ["Palma", "Barcelona", "Istanbul", "Remote"]
 ---
 {{% columns %}}
+
 ![holistic.png](holistic.png "Lavoro Corporeo Olistico & Sessione Energetica")
+
 <--->
+
 # Lavoro Corporeo Olistico & Sessione Energetica (In-Persona o Remota)
 
 Queste sessioni combinano tutte le tecniche che ho imparato nel tempo, adattandole a una vasta gamma di situazioni.  

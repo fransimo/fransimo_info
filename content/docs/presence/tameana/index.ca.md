@@ -23,8 +23,11 @@ hoursAvailable:
 sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 {{% columns %}}
+
 ![tameana.png](tameana.png "Tameana")
+
 <--->
+
 # Tameana
 
 Tameana és una pràctica de sanació vibracional que **utilitza cristalls de quars i símbols canalitzats per treballar sobre els cossos energètics i el cos físic, facilitant la seva integració amb el Tot**. Es basa en la idea d’elevar la freqüència vibratòria de la persona per desbloquejar emocions, alliberar energies estancades i promoure processos de transformació interna.

@@ -9,7 +9,7 @@ tags:
   - iiiaou
 ---
 
-{{< instagram DG6d7AiIxyw >}}
+![](483027856_18490075246040053_4677928330705844705_n.jpg)
 
 La columna de serpents. Traïda per Constantí a “Constantinoble” (Estambul) com a símbol per marcar el canvi del centre del món de Delfos a Constantinoble… i el final de l’Oracle de Delfos i el poder de les seves sacerdotes. Per si no fos suficient “enterrada” perquè els altres obel·cis sobresgiren.🤦‍♂️😳🫣😢
 

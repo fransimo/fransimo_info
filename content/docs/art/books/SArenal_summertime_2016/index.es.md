@@ -19,8 +19,11 @@ description: 'Presenta S’Arenal Summertime 2016, una revista de edición limit
 aliases: /es/blog/2017/04/02/sarenal-summertime-2016/
 ---
 {{% columns %}}
+
 ![](SArenal-Summertime-COVER.jpg)
+
 <--->
+
 ````
 2016-2017  
 Revista, 36 páginas, 22×28 cm (Letter)

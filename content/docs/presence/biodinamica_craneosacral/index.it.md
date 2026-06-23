@@ -28,8 +28,11 @@ sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 
 {{% columns %}}
+
 ![biodinamica.png](biodinamica.png "Terapia Craniosacrale Biodinamica")
+
 <--->
+
 # Terapia Craniosacrale Biodinamica
 
 È un approccio estremamente sottile, non intrusivo, delicato ed efficace di lavoro corporeo che combina tecniche scientifiche con intuizione e sensibilità, all'interno di uno spazio di consapevolezza meditativa.

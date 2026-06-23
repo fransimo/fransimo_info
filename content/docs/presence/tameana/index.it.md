@@ -25,8 +25,11 @@ hoursAvailable:
 sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 {{% columns %}}
+
 ![tameana.png](tameana.png "Tameana")
+
 <--->
+
 # Tameana  
 
 Tameana è una pratica di guarigione vibratoria che **utilizza cristalli di quarzo e simboli canalizzati per lavorare sia sul corpo energetico che fisico, facilitando la loro integrazione con il Tutto**. Si basa sull'idea di aumentare la frequenza vibratoria di una persona per sbloccare emozioni, liberare energie stagnanti e promuovere processi di trasformazione interiore.  

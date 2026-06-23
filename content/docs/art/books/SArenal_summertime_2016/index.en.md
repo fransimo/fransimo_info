@@ -20,8 +20,11 @@ bookToc: false
 aliases: /blog/2017/04/02/sarenal-summertime-2016/
 ---
 {{% columns %}}
+
 ![](SArenal-Summertime-COVER.jpg)
+
 <--->
+
 ````
 2016-2017  
 Magazine, 36 pages, 22×28 cm (Letter format)

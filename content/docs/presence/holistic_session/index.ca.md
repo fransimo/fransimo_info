@@ -24,8 +24,11 @@ alternateName:
 areaServed: ["Palma", "Barcelona", "Estambul","Remote"]
 ---
 {{% columns %}}
+
 ![holistic.png](holistic.png "Treball Corporal Holístic i Energia")
+
 <--->
+
 # Treball Corporal Holístic i Energia (Presencial o a Distància)
 
 Són sessions on combino totes les tècniques que he anat aprenent per adaptar-les a situacions molt variades.  

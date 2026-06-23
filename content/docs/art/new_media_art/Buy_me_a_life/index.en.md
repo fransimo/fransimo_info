@@ -24,8 +24,8 @@ description: >
   his life for sale (ironically), using cyberpunk references, to commit to his the spiritual path.
 aliases: /blog/2021/04/17/buy-me-a-life/
 ---
+{{< video src="/docs/art/new_media_art/Buy_me_a_life/buy_me_a_life_medium.mp4" autoplay="true" loop="true" >}}
 
-![buy_me_a_life_medium.gif](buy_me_a_life_medium.gif)
 {{% details title="Technical details" open=true %}}
 ````
 2021

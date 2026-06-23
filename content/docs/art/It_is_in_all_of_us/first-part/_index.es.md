@@ -7,6 +7,7 @@ bookHidden: false
 # Primera parte 10.09.24 / 17.01.25
 
 {{% columns %}}
+
 ## Viaje
 
 El 29 de abril del 2024 recibí una invitación para formar parte del programa [Residency action de Culture Moves Europe](https://culture.ec.europa.eu/creative-europe/creative-europe-culture-strand/culture-moves-europe).

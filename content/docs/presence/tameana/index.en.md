@@ -25,8 +25,11 @@ hoursAvailable:
 sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 {{% columns %}}
+
 ![tameana.png](tameana.png "Tameana")
+
 <--->
+
 # Tameana  
 
 Tameana is a vibrational healing practice that **uses quartz crystals and channeled symbols to work on both the energetic and physical bodies, facilitating their integration with the Whole**. It is based on the idea of raising a person's vibrational frequency to unblock emotions, release stagnant energies, and promote inner transformation processes.  

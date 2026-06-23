@@ -25,8 +25,11 @@ hoursAvailable:
 sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 ---
 {{% columns %}}
+
 ![biodinamica.png](biodinamica.png "Biodinàmica Craneosacral")
+
 <--->
+
 # Biodinàmica Craneosacral
 
 És un treball corporal extremadament subtil, no intrusiu, suau i eficaç, que combina tècniques científiques amb intuïció i sensibilitat, dins d’un espai de consciència meditativa.

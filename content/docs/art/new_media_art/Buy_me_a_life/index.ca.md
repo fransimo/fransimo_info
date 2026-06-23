@@ -23,7 +23,8 @@ description: >
   Explica Buy me a life!, un vídeo NFT glitch en què l'artista posa la seva vida a la venda (irònicament), utilitzant referències cyberpunk, per comprometre's amb el seu camí espiritual.
 ---
 
-![buy_me_a_life_medium.gif](buy_me_a_life_medium.gif)
+{{< video src="/docs/art/new_media_art/Buy_me_a_life/buy_me_a_life_medium.mp4" autoplay="true" loop="true" >}}
+
 {{% details title="Technical details" open=true %}}
 ```
 2021
@@ -41,7 +42,7 @@ Aquesta obra es pot considerar tant un actiu digital com una performance. Si es 
 
 És una broma? No. La meva intenció no és faltar al respecte als col·leccionistes ni al món dels NFT. És un experiment social en què jo sóc el conejillo d'indi. Sempre es pot pensar o somiar amb el que faries si obtuessis una quantitat enorme de diners de la nada, però fins que no et passa, és impossible saber-ho. Quin serà el cost personal d'això, fins i tot si no es ven? **…això és el propòsit del meu art digital: fer-te pensar!**  
 
-[@opensea](https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/11780915356901891937150191052604117223978980698243640119023280871775425003521)  
+[@opensea](https://opensea.io/item/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/11780915356901891937150191052604117223978980698243640119023280871775425003521)
 
 (\*) La veu era masculina.
 
