@@ -38,6 +38,7 @@ buyURL: https://www.lulu.com/es/shop/fran-sim%C3%B3-and-benjam%C3%ADn-julve-and-
 ![Passengers_Vol_III.jpg](Passengers_Vol_III.jpg)
 
 <--->
+
 # Passengers Vol. III
 
 Passengers Vol. III termina la trilogia amb fotografies que van des del 2013 fins al 2015. En el llibre trobem 42 imatges de 12 autors. Són el resultat d'una edició de 7515 imatges de 71 fotògrafs. La selecció de la primera ronda va dur més d'un any. Els editors podien donar un vot per acceptar la imatge com a part del nou llibre. El procés va ser individual utilitzant eines en línia. Després de tot aquest treball de selecció no teníem clar que poguéssim fer un llibre més que tingués un fil comú… fins que vam veure les imatges elegides pels 4 editors en conjunt. Va ser una sorpresa veure que trobàvem una coherència dins d'aquestes set mil fotos i entre els quatre. La segona, tercera i quarta volta d'edició va ser presencial amb unes 300 fotografies impreses en paper.
