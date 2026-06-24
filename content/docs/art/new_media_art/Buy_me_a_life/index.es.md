@@ -25,7 +25,7 @@ description: >
 aliases: /blog/2021/04/17/buy-me-a-life/
 ---
 
-{{< video src="/docs/art/new_media_art/Buy_me_a_life/buy_me_a_life_medium.mp4" autoplay="true" loop="true" >}}
+{{< video src="buy_me_a_life_medium.mp4" autoplay="true" loop="true" >}}
 
 {{% details title="Technical details" open=true %}}
 ````

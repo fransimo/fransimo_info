@@ -5,7 +5,7 @@ pagination:
 enableRobotsTXT: true
 timeout: 120
 
-theme: ["hugo-book", "hugo-photoswipe5-gallery"]
+theme: ["hugo-book", "hugo-photoswipe5-gallery", "hugo-video"]
 
 relativeURLs: false
 removePathAccents: true

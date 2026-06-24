@@ -23,6 +23,6 @@ Este viaje, entre el cielo y la tierra, es el mismo viaje de las Sibilas entre A
 
 El QR invita a los caminantes a leer este texto y ver las obras de esta etapa del viaje.
 
-{{< video src="/var/log/2025/01/15/The-Whisper-of-the-Nymphs-On-site-QR/AQOK5HQu7_mVwqviOKaWcABN_FjAH-Gk728aEIkE20iDz2nWuOwrHgL0kU9Z2VI9DgTCtM8J6cPoo2vkZDLio6LquD1hESUkrVHKm9M.mp4" autoplay="true" loop="true" >}}
+{{< video src="AQOK5HQu7_mVwqviOKaWcABN_FjAH-Gk728aEIkE20iDz2nWuOwrHgL0kU9Z2VI9DgTCtM8J6cPoo2vkZDLio6LquD1hESUkrVHKm9M.mp4" autoplay="true" loop="true" >}}
 
 

@@ -7,3 +7,6 @@
 [submodule "themes/hugo-book-render-images"]
 	path = themes/hugo-book-render-images
 	url = git@github.com:fransimo/hugo-book-render-images.git
+[submodule "themes/hugo-video"]
+	path = themes/hugo-video
+	url = https://github.com/martignoni/hugo-video.git

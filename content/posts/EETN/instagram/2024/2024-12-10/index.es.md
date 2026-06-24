@@ -45,7 +45,7 @@ No viene de la India, ni del Tíbet, ni de los monjes Zen, ni de una tribu ameri
 
 ![](469731491_18473844841040053_6804128767753720076_n.jpg)
 
-{{< video src="/var/log/2024/12/10/Natal-City-of-Parmenides/AQOwxS1fLyUH7wbdUQV5hkjC2h55gY6rc_NW38Bj44J-P2uTMk2H2MJCwIz5sRpTt6myFb7hrbYbs4d9iaJSVg4k.mp4" autoplay="true" loop="true" >}}
+{{< video src="AQOwxS1fLyUH7wbdUQV5hkjC2h55gY6rc_NW38Bj44J-P2uTMk2H2MJCwIz5sRpTt6myFb7hrbYbs4d9iaJSVg4k.mp4" autoplay="true" loop="true" >}}
 
 ![](469712834_18473844850040053_5379317226697578250_n.jpg)
 
