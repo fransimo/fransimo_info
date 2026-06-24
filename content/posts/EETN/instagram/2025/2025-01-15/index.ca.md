@@ -23,7 +23,7 @@ Aquest viatge, entre el cel i la terra, és el mateix viatge que van emprendre l
 
 El codi QR convida els viatgers a llegir aquest text i a veure les obres d'aquesta etapa del viatge.
 
-{{< video src="/var/log/2025/01/15/The-Whisper-of-the-Nymphs-On-site-QR/AQOK5HQu7_mVwqviOKaWcABN_FjAH-Gk728aEIkE20iDz2nWuOwrHgL0kU9Z2VI9DgTCtM8J6cPoo2vkZDLio6LquD1hESUkrVHKm9M.mp4" autoplay="true" loop="true" >}}
+{{< video src="AQOK5HQu7_mVwqviOKaWcABN_FjAH-Gk728aEIkE20iDz2nWuOwrHgL0kU9Z2VI9DgTCtM8J6cPoo2vkZDLio6LquD1hESUkrVHKm9M.mp4" autoplay="true" loop="true" >}}
 
 
 

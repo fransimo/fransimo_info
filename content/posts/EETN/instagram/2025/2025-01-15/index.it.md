@@ -24,5 +24,5 @@ Questo viaggio, tra cielo e terra, è lo stesso viaggio delle Sibille tra Apollo
 Il QR invita i viandanti a leggere questo testo e a vedere le opere di questa tappa del viaggio.
 
 
-{{< video src="/var/log/2025/01/15/The-Whisper-of-the-Nymphs-On-site-QR/AQOK5HQu7_mVwqviOKaWcABN_FjAH-Gk728aEIkE20iDz2nWuOwrHgL0kU9Z2VI9DgTCtM8J6cPoo2vkZDLio6LquD1hESUkrVHKm9M.mp4" autoplay="true" loop="true" >}}
+{{< video src="AQOK5HQu7_mVwqviOKaWcABN_FjAH-Gk728aEIkE20iDz2nWuOwrHgL0kU9Z2VI9DgTCtM8J6cPoo2vkZDLio6LquD1hESUkrVHKm9M.mp4" autoplay="true" loop="true" >}}
 
