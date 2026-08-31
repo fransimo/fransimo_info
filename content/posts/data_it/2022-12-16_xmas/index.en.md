@@ -146,7 +146,7 @@ Hindu-Buddhist spiritual traditions and the importance of the goddesses Dewi Sri
 >
 >I hope these tips are helpful as you plan your trip. Safe travels!
 
-# How am I?
+# Who am I?
 
 Hi! Thanks for reading I hope you enjoyed. I'm Fran Simó, I work as Enterprise Architect at Hotelbeds.
 
