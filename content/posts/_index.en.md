@@ -5,4 +5,5 @@ menu:
     weight: 5
 title: Blog
 bookToc: true
+aliases: /blog/
 ---
