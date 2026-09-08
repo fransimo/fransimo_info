@@ -6,7 +6,6 @@ bookFlatSection: false
 bookCollapseSection: false
 title: "Presence"
 description: "Introduces Fran Simó’s therapeutic practice, offering Tameana, biodynamic craniosacral therapy and holistic bodywork sessions to support wellbeing and inner balance."
-aliases: /therapies
 ---
 
 {{% columns %}}

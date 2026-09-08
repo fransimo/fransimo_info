@@ -7,8 +7,7 @@ bookCollapseSection: false
 title: "Presencia"
 description: 'Presenta la práctica terapéutica de Fran Simó, ofreciendo Tameana, terapia biodinámica craneosacral y sesiones de trabajo corporal holístico para apoyar el bienestar y el equilibrio interior.'
 aliases:
-  - /post/el_masaje/
-  - /terapias/
+- /post/el_masaje/
 ---
 
 {{% columns %}}

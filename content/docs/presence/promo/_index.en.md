@@ -11,6 +11,7 @@ categories:
 tags:
   - promotion
 draft: false
+aliases: /therapies
 ---
 
 Hello! I'm Fran, offering free Craniosacral Biodynamics sessions to complete my training and Tameana because I believe it is a very interesting and little‑known technique. The promotion is for Barcelona and Istanbul, cities where I usually spend long periods.
