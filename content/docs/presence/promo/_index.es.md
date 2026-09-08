@@ -12,7 +12,8 @@ tags:
   - promoción
 draft: false
 aliases:
-  - /terapias/
+- /terapias/
+- ../../../../terapias  
 ---
 
 ¡Hola! Soy Fran, ofrezco sesiones gratuitas de Biodinámica Craneosacral para completar mis prácticas y de Tameana porque
