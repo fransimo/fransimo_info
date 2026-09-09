@@ -3,7 +3,7 @@ weight: 3
 bookFlatSection: false
 title: "Il Sussurro delle Ninfe"
 bookHidden: false
-aliases: /santuario/
+draft: true
 ---
 
 # Il Sussurro delle Ninfe (il piccolo contiene un universo)

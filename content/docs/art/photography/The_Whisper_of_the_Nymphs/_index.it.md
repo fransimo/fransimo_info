@@ -14,6 +14,9 @@ bookToc: false
 categories:
 - fotografia
 - ricerca
+aliases:
+ - /docs/art/It_is_in_all_of_us/first-part/sanctuary/
+ - ../../../../../santuario/
 ---
 
 # Il Sussurro delle Ninfe (il piccolo contiene un universo)
