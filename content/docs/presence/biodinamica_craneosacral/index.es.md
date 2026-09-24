@@ -79,7 +79,7 @@ y sigue los estándares de la Afiliación Internacional de Formaciones Biodinám
 
 - **Duración:** 1 hora.
 - **En:** camilla.
-- **Precio:** ~~60€~~ las primeras tres sesiones gratuitas como parte de mis prácticas de estudiante.
+- **Precio:** ~~60€~~ las primeras tres sesiones a 30€ como parte de mis prácticas de estudiante.
 - **Lugar:** desplazamiento a tu lugar o sala contratada.
 
 ¡Haz tu reserva [aquí](../book/)!

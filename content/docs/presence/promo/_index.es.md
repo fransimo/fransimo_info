@@ -16,7 +16,7 @@ aliases:
 - ../../../../terapias  
 ---
 
-¡Hola! Soy Fran, ofrezco sesiones gratuitas de Biodinámica Craneosacral para completar mis prácticas y de Tameana porque
+¡Hola! Soy Fran, ofrezco sesiones a costo reducido (30€) de Biodinámica Craneosacral para completar mis prácticas y de Tameana porque
 creo que es una técnica muy interesante y poco conocida. La promoció es para Barcelona y Estambul, ciudades donde suelo 
 pasar largas temporadas.
 
