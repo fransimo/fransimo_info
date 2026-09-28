@@ -80,7 +80,7 @@ while IFS= read -r -d '' file; do
 
     echo "Translating: $file → $out"
 
-    ollama run "$MODEL" <<EOF > "$out"
+    TERM=dumb ollama run --nowordwrap --hidethinking "$MODEL" <<EOF > "$out"
 SOURCE LANGUAGE: $SRC_LANG
 TARGET LANGUAGE: $TGT_LANG
 

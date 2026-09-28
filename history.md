@@ -72,4 +72,6 @@ ollama create gpt-oss-hugo-translate -f Modelfile.translate
 [chat](https://chatgpt.com/c/69760182-0b54-8330-9b44-cae9018bfde7)
 
 Usage:
-./translate-hugo.sh content/posts es ca ca 
+./translate-hugo.sh content/ Spanish English es en
+
+./full_translation.sh 
