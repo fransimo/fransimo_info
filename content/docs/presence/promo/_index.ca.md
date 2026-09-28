@@ -28,7 +28,7 @@ En aquests enllaços pots saber més [sobre mi](/docs/cv) o llegir [el meu CV](/
 
 # Biodinàmica Craneosacral
 
-Estic estudiant el tercer any de la formació de [Biodinàmica Craneosacral](../biodinamica_craneosacral) i ofereixo sessions gratuïtes com
+Estic estudiant el tercer any de la formació de [Biodinàmica Craneosacral](../biodinamica_craneosacral) i ofereixo les primeres 3 sessions a preu reduit (30€)
 part de la meva formació.
 
 Les sessions es realitzen amb roba, sobre una camilla. El contacte és molt suau, no invasiu i amb mínim moviment. El

@@ -31,8 +31,8 @@ En estos links puedes saber más [sobre mí](/docs/cv) o leer [mi CV](/docs/cv/d
 
 # Biodinámica Craneosacral
 
-Estoy estudiando el tercer año de la formación de [Biodinámica Craneosacral](../biodinamica_craneosacral)  y ofrezco sesiones gratuitas como 
-parte de mi formación.
+Estoy estudiando el tercer año de la formación de [Biodinámica Craneosacral](../biodinamica_craneosacral)  y ofrezco tres sesiones a precio 
+reducido (30€) como parte de mi formación.
 
 Las sesiones se realizan con ropa, sobre una camilla. El contacto es muy suave, no invasivo y con mínimo movimiento. El 
 propósito es **ayudar al cuerpo a conectar con su capacidad natural de autocuración**.

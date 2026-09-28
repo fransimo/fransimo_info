@@ -14,7 +14,7 @@ draft: false
 aliases: /therapies
 ---
 
-Hello! I’m Fran, offering reduced‑price (30€) sessions of Biodynamic Craniosacral to complete my training and Tameana because I believe it’s a very interesting and little‑known technique. The promotion is for Barcelona and Istanbul, cities where I usually spend long periods.
+Hello! I’m Fran, offering three reduced‑price (30€) sessions of Biodynamic Craniosacral to complete my training and Tameana because I believe it’s a very interesting and little‑known technique. The promotion is for Barcelona and Istanbul, cities where I usually spend long periods.
 
 Below you’ll find more details on each technique and a comparison. If you’re interested, you can book your session [here](../book/) or write to me via:
 
@@ -26,7 +26,7 @@ In these links you can learn more [about me](/docs/cv) or read my [CV](/docs/cv/
 
 # Biodynamic Craniosacral
 
-I’m in my third year of the [Biodynamic Craniosacral](../biodinamica_craneosacral) training and offer free sessions as part of my education.
+I’m in my third year of the [Biodynamic Craniosacral](../biodinamica_craneosacral) training and offer three reduced‑price (30€) sessions as part of my education.
 
 Sessions are conducted in clothing, on a massage table. The contact is very gentle, non‑invasive, and involves minimal movement. The purpose is **to help the body connect with its natural capacity for self‑healing**.
 

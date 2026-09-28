@@ -24,7 +24,7 @@ Prefer to talk first? [Contact me](../contact/).
 Gentle manual work to support the body’s self‑regulating rhythms.
 
 - **Where:** Barcelona • Istanbul (in‑person)
-- **Price:** Student practices — **first 3 sessions free**
+- **Price:** Student practices — **first 3 sessions reduced‑price (30€)**
 
 **Book now**
 

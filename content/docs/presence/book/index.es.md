@@ -25,7 +25,7 @@ Bienvenido/a. Elige un servicio, selecciona hora y reserva con pago seguro. Pres
 Trabajo manual suave para apoyar los ritmos autorreguladores del cuerpo.
 
 - **Dónde:** Barcelona • Estambul (presencial)
-- **Precio:** Prácticas de estudiante — **primeras 3 sesiones gratuitas**
+- **Precio:** Prácticas de estudiante — **primeras 3 sesiones a precio reducido de 30€**
 
 **Reservar ahora**
 

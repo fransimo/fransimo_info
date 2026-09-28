@@ -24,7 +24,7 @@ Prefereixes parlar abans? [Contacta'm](../contact/).
 Treball manual suau per a donar suport als ritmes autorreguladors del cos.
 
 - **On:** Barcelona • Estambul (presencial)
-- **Preu:** Pràctiques d’estudiant — **primeres 3 sessions gratuïtes**
+- **Preu:** Pràctiques d’estudiant — **primeres 3 sessions a preu reduit (30€)**
 
 **Reservar ara**
 
