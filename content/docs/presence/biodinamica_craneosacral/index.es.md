@@ -69,7 +69,7 @@ enfoque de mis profesores combina las visiones de [Andrew Taylor Still](https://
 [William G. Sutherland](https://en.wikipedia.org/wiki/William_Garner_Sutherland), 
 [Rollin Becker](https://rollinbeckerinstitute.co.uk/who-we-are/about-rollin-e-becker/), 
 James S. Jealous, 
-[John Upledger](https://www.upledger.com/about/john-upledger), **[Franklyn Sills](https://www.resourcingyourlife.org/about-us/)**, [Ray Castelino](https://castellinotraining.com/raymond-castellino/) y [Peter A. Levine](https://www.somaticbarcelona.com/peter-a-levine/).
+[John Upledger](https://www.upledger.com/about/john-upledger), **[Franklyn Sills](https://www.resourcingyourlife.org/about-us/)**, [Ray Castellino](https://castellinotraining.com/raymond-castellino/) y [Peter A. Levine](https://www.somaticbarcelona.com/peter-a-levine/).
 
 La formación, de 900 horas, está acreditada por la Asociación Española de Terapia Biodinámica Craneosacral ([AETBC](https://www.asociacioncraneosacral.com/)), reconocida por el Instituto Internacional Suizo ([ICSB](https://www.icsb.ch/en/))
 y sigue los estándares de la Afiliación Internacional de Formaciones Biodinámicas ([IABT](http://biodynamic-craniosacral.org/)) 
