@@ -1,65 +1,32 @@
 ---
 author: "Fran Simó"
-title: "Biodynamic Craniosacral"
+title: "Biodynamic Craniosacral Therapy"
 slug: biodynamic_craniosacral
 aliases: 
   - /docs/presence/biodinamica_craneosacral/
-date: 2024-04-13
 weight: 20
+date: 2024-04-13
 categories:
   - massage
   - presence
 tags:
   - Biodynamics
 draft: false
-images: 
+images:
   - biodinamica.png
 schemaType: Service
-serviceType: "Biodynamic Craniosacral therapy session"
-description: "Gentle hands-on therapy supporting the body's natural rhythms."
+serviceType: "Biodynamic Craniosacral Therapy Session"
+description: "Gentle manual therapy that supports the body's natural rhythms, regulates the nervous system, and strengthens the body's self-healing capacity."
 serviceAudience:
   "@type": Audience
   audienceType: "Adults seeking somatic therapy"
 hoursAvailable:
   "@type": OpeningHoursSpecification
-  dayOfWeek: ["Wednesday","Thursday"]
+  dayOfWeek: ["Thursday", "Friday"]
   opens: "10:00"
   closes: "18:00"
-# brand: "Fran Simo Studio"
 sameAs: ["https://www.instagram.com/fransimo_therapies/"]
-
-# Offers / convenience fields
-#price: "70"
-#priceCurrency: "EUR"
-#availability: "https://schema.org/InStock"
-#sku: "CRANIO-60"
-#bookingURL: "/book/craniosacral"
-#buyURL: "/shop/craniosacral-60"
-#actionPlatform: ["http://schema.org/DesktopWebPlatform","http://schema.org/MobileWebPlatform"]
-
-# Explicit actions (optional — overrides auto)
-#potentialAction:
-#  - "@type": ReserveAction
-#    target:
-#      "@type": EntryPoint
-#      urlTemplate: "/book/craniosacral"
-#      inLanguage: "en"
-#      actionPlatform: ["http://schema.org/DesktopWebPlatform","http://schema.org/MobileWebPlatform"]
-#  - "@type": BuyAction
-#    target:
-#      "@type": EntryPoint
-#      urlTemplate: "/shop/craniosacral-60"
-#      inLanguage: "en"
-#      actionPlatform: ["http://schema.org/DesktopWebPlatform","http://schema.org/MobileWebPlatform"]
-#    expectsAcceptanceOf:
-#      "@type": Offer
-#      price: "70"
-#      priceCurrency: "EUR"
-#      availability: "https://schema.org/InStock"
-#      url: "/services/craniosacral/"
-
 ---
-
 {{% columns %}}
 
 ![biodinamica.png](biodinamica.png "Biodynamic Craniosacral Therapy")
@@ -68,46 +35,43 @@ sameAs: ["https://www.instagram.com/fransimo_therapies/"]
 
 # Biodynamic Craniosacral Therapy
 
-It is an extremely subtle, non-intrusive, gentle, and effective bodywork approach that combines scientific techniques
-with intuition and sensitivity, within a space of meditative awareness.
+Biodynamic Craniosacral Therapy is an extremely subtle, non‑intrusive, gentle, and effective bodywork that blends scientific techniques with intuition and sensitivity, within a space of meditative awareness.
 
-Craniosacral biodynamics is based on the principle of the "Breath of Life": the vital force that connects us to our
-origin, to inherent health, to the source of being and wholeness, where there is no separation.
+Biodynamic Craniosacral Therapy facilitates the client’s system healing according to its own treatment plan using its own vital force. It is a listening‑based therapy that rests in silence until it hears the intelligence of life that inhabits all beings. This life always knows how to find health: a state of greater fluidity and harmony in the body.
 
-The Breath of Life is an ordering force expressed in a slow, constant, and cyclical movement called the "Tide" or "
-Primary Respiration," the manifestation of life itself from conception.
+The therapist creates a space where that force can find a new point of balance, a more favorable state for physical, mental, and spiritual health.
 
-Training in this discipline allows practitioners to perceive primary respiration, or the "Tides," and use them as a
-basis for evaluation and treatment.
+The therapist “does not do”, listens, and accompanies the wisdom already present in you now. In this process BCST increases your self‑healing capacity with your own energy.
 
 {{% /columns %}}
 
-Sessions usually last about 1 hour and consist of four parts: a short talk and three still contact phases where the
-practitioner's hands remain in fixed positions.
+In biodynamic language that vital force is called “Breath of Life”, it enters the body through cerebrospinal fluid, becoming a power that is distributed throughout the body. The _breath of life_ is the original force of life, an energy that connects us with our origin, with the source of being and the totality where there is no separation.
 
-The practitioner does not manipulate or channel energy to the client. The objective is to maintain a safe,
-non-judgmental space where the forces that organize the client’s system can express themselves and, through that
-expression, find a way to reorganize. It empowers self-healing.
+The Breath of Life is a force expressed in a slow, constant, and cyclical movement, which we call “Tide” or “Primary Breath”. Training in this discipline allows you to perceive the primary breath, or the “Tides”, and base evaluation and treatment on them.
 
-Pain and trauma often leave an imprint on the body’s energy flows. This imprint can be eased—even when the client
-doesn’t consciously remember the event that caused it.
+A biodynamic session is performed on a massage table, with clothing, with very gentle hand contact, almost no movement.
 
-I'm studying at [Spanish Institute of Craniosacral Biodynamics](https://biodinamicacraneosacral.org/es/que-es-2/). My
-teachers approach combines the views of Andrew Taylor Still, William G. Sutherland, Rollin Becker, James S. Jealous,
-John Upledger, Franklyn Sills and Ray Castelino.
+Sessions last about an hour and consist of four parts: a brief initial conversation and three phases of still contact where the practitioner’s hands remain in a fixed position.
 
+The practitioner does not manipulate or channel energy to the client. The goal is to maintain a safe, judgment‑free space where the forces that organize the client’s system can express themselves, and through that expression find a new way to reorganize. This enhances self‑healing.
 
+Pain and trauma often leave a mark on the body’s energetic flows. This mark can be alleviated, even if the client does not consciously remember the event that caused it.
+
+I am a student of the [Spanish Institute of Biodynamic Craniosacral](https://biodinamicacraneosacral.org/es/que-es-2/). The approach of my teachers combines the visions of [Andrew Taylor Still](https://es.wikipedia.org/wiki/Andrew_Taylor_Still), [William G. Sutherland](https://en.wikipedia.org/wiki/William_Garner_Sutherland), [Rollin Becker](https://rollinbeckerinstitute.co.uk/who-we-are/about-rollin-e-becker/), James S. Jealous, [John Upledger](https://www.upledger.com/about/john-upledger), **[Franklyn Sills](https://www.resourcingyourlife.org/about-us/)**, [Ray Castelino](https://castellinotraining.com/raymond-castellino/), and [Peter A. Levine](https://www.somaticbarcelona.com/peter-a-levine/).
+
+The training, 900 hours, is accredited by the Spanish Association of Biodynamic Craniosacral Therapy ([AETBC](https://www.asociacioncraneosacral.com/)), recognized by the Swiss International Institute ([ICSB](https://www.icsb.ch/en/)), and follows the standards of the International Association of Biodynamic Training ([IABT](http://biodynamic-craniosacral.org/)).
 
 More information at:
 - [International Institute for Craniosacral Balancing](https://www.icsb.ch/en/biodynamik/)
 - [Biodynamic Craniosacral Therapy Association of North America](https://www.craniosacraltherapy.org/what-is-bcst-)
 - [Selected YouTube videos](https://www.youtube.com/playlist?list=PLDtuqx9znDF8dJ0VCmarHeYGpuNALTYeP)
 
-## Price information
+## Prices
 
-- **Duration:** 1 hour.  
+- **Duration:** 1.5 hours.
 - **Setting:** massage table.  
-- **Price:** ~~€60~~  first 3 session free as student practices.
-- **Location:** at your place or a rented space.  
+- **Price:** ~~60€~~ the first three sessions at 30€ as part of my student practice.
+- **Place:** <M> Diagonal / <FGC> Provença, Barcelona.
 
-Book [here](../book/)! 
+Book your appointment [here](../book/)!
+
