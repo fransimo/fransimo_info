@@ -3,7 +3,7 @@ FROM gpt-oss
 PARAMETER temperature 0.2
 PARAMETER top_p 0.9
 PARAMETER repeat_penalty 1.05
-PARAMETER num_ctx 8192
+PARAMETER num_ctx 16384
 
 TEMPLATE """
 <|start|>system<|message|>

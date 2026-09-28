@@ -68,7 +68,7 @@ invalidate_translations_since_tag $OLD_TAG en ca it
 
 ./translate-hugo.sh content/ Spanish English es en
 ./translate-hugo.sh content/ Spanish Catalan es ca
-./translate-hugo.sh content/ English Italian en it
+./translate-hugo.sh content/ Spanish Italian es it
 
 #git commit -am "Update translations"
 #git tag $NEW_TAG
