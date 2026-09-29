@@ -46,7 +46,7 @@ El terapeuta “no-hace”, escucha y acompaña a la sabiduría que ya está en 
 
 {{% /columns %}}
 
-En el lenguaje biodinámico esa fuerza vital se llama “Aliento de Vida”, entra en el cuerpo a través del líquido cefalorraquídeo convirtiéndose en una potencia que se distribuye por el cuerpo. El _aliento de vida_ es la fuerza original de la vida, una energía que nos conecta con nuestro origen, con la fuente del ser y la totalidad donde no hay separación. 
+En el lenguaje biodinámico esa fuerza vital se llama “Aliento de Vida”, se transmuta en el cuerpo a través del líquido cefalorraquídeo convirtiéndose en una potencia que se distribuye por el cuerpo. El _aliento de vida_ es la fuerza original de la vida, una energía que nos conecta con nuestro origen, con la fuente del ser y la totalidad donde no hay separación. 
 
 El Aliento de Vida es una fuerza que se expresa en un movimiento lento, constante y cíclico, al que llamamos «Marea» o «Respiración Primaria». El entrenamiento en esta disciplina permite percibir la respiración primaria, o las «Mareas», y basarse en ellas para la evaluación y el tratamiento.
 
